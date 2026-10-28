@@ -1,0 +1,74 @@
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "JobPostingCollection",
+  "description": "Unified schema for collecting raw job posting information from JSearch and Headcount Labs before classification and technical skills extraction.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_job_id",
+    "job_title",
+    "company",
+    "location",
+    "country",
+    "description",
+    "source",
+    "publisher",
+    "url",
+    "posted_date"
+  ],
+  "properties": {
+    "source_job_id": {
+      "type": ["string", "null"],
+      "minLength": 1,
+      "description": "Original job identifier provided by the source API. null if unavailable."
+    },
+    "job_title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Job title exactly as written in the original posting."
+    },
+    "company": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Company name as provided by the source API."
+    },
+    "location": {
+      "type": ["string", "null"],
+      "description": "City where the job is located, e.g. Riyadh. null if unavailable."
+    },
+    "country": {
+      "type": ["string", "null"],
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2 country code, e.g. SA. null if unavailable."
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Full original job description. Preserved for technical skills extraction during the analysis phase."
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "jsearch",
+        "headcount_labs"
+      ],
+      "description": "API used to collect the job posting."
+    },
+    "publisher": {
+      "type": ["string", "null"],
+      "description": "Original publishing platform or applicant tracking system, e.g. LinkedIn, Workday, Greenhouse, or Lever. null if unknown."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "minLength": 1,
+      "description": "Original job posting URL."
+    },
+    "posted_date": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Original job publication date in YYYY-MM-DD format. null if unavailable. Used to filter postings published in 2026."
+    }
+  }
+}
