@@ -1,8 +1,7 @@
-
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "JobPosting",
-  "description": "Unified job posting record after merging JSearch and Headcount Labs data, cleaning, specialization classification, and technical skills extraction.",
+  "description": "Final unified Saudi job posting record after merging, cleaning, verifying the 2026 publication date, classifying specialization, and extracting normalized technical skills.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -21,7 +20,10 @@
   ],
   "properties": {
     "source_job_id": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "minLength": 1,
       "description": "Original job identifier provided by JSearch or Headcount Labs. null if unavailable. IDs may differ across APIs for the same job."
     },
@@ -36,11 +38,17 @@
       "description": "Company name as provided by the source API."
     },
     "location": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "City as given in the posting, e.g. Riyadh. null if missing."
     },
     "country": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "pattern": "^[A-Z]{2}$",
       "description": "ISO 3166-1 alpha-2 country code, e.g. SA. null if unavailable."
     },
@@ -62,10 +70,12 @@
     "technical_skills": {
       "type": "array",
       "uniqueItems": true,
-      "description": "Technical skills, tools, technologies, and frameworks explicitly mentioned in the job requirements or preferred qualifications. Extracted during the shared analysis phase. Excludes soft skills. Use an empty array if extraction finds no technical skills.",
+      "description": "Technical skills, tools, technologies, and frameworks explicitly stated in the posting's requirements or preferred qualifications. Extract after merging, using a shared canonical skill vocabulary. Normalize synonyms and spellings (e.g., PowerBI -> Power BI), preserve official casing/punctuation (e.g., C++, C#, .NET), and exclude soft skills. Use [] when extraction was completed but no technical skills were found. JSON Schema alone cannot validate equivalence of skill synonyms.",
       "items": {
         "type": "string",
-        "minLength": 1
+        "minLength": 1,
+        "pattern": "^\\S(?:.*\\S)?$",
+        "description": "Canonical technical skill/tool label, without leading or trailing whitespace."
       }
     },
     "description": {
@@ -82,7 +92,10 @@
       "description": "API used to collect the job posting."
     },
     "publisher": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Original publishing platform or applicant tracking system, e.g. LinkedIn, Workday, Greenhouse, or Lever. null if unknown."
     },
     "url": {
@@ -92,9 +105,10 @@
       "description": "Original job posting URL."
     },
     "posted_date": {
-      "type": ["string", "null"],
+      "type": "string",
       "format": "date",
-      "description": "Original publication date in YYYY-MM-DD format. null if unavailable. Only verified 2026 postings are included in the 2026 analysis."
+      "pattern": "^2026-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$",
+      "description": "Verified original publication date, YYYY-MM-DD, within calendar year 2026. Unknown or unverified dates must be excluded from this final dataset, but may be retained in raw/collection data. Validate date format with a JSON Schema FormatChecker."
     }
   }
 }
