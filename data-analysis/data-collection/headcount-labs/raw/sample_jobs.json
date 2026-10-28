@@ -1,0 +1,445 @@
+[
+  {
+    "job_id": "c5190fb5-6227-41c1-ac5c-24dbc573143f",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "Moontech"
+    },
+    "title": {
+      "state": "known",
+      "value": "Influencer Marketing Leap"
+    },
+    "description": {
+      "state": "known",
+      "value": "About MoonTech\nMoonTech is an agentic AI company for creator commerce built for guaranteed conversions, not promises Operating as an autonomous closed-loop system, MoonTech replaces legacy platform tools and superficial metrics (like reach and impressions) with a crew of 7 specialized AI agents (Moon AI) that manage the full campaign lifecycle from client brief and creator matching to live execution, real-time ad optimization, and verified sales attribution .\nRole Overview\nInterested in influencer marketing, curious about AI, and quick to notice when something doesn’t add up? As an Influencer Marketing Intern at MoonTech, you’ll get hands-on experience across campaign operations, performance reporting, influencer coordination, and AI-driven workflows, working closely with our Influencer, CSM, and Tech teams. This isn’t an observe-only internship: you’ll help run real campaigns, work with data, solve issues, and share ideas that improve how the team works.\nResponsibilities\nCampaign Management\n\n• Coordinate campaign deliverables: work with the CSM team to receive deliverables and communicate campaign updates.\n\n• Manage posting timelines: schedule influencer ads and monitor posting schedules.\n\n• Follow up with influencers: make sure content goes live on time.\n\n• Support onboarding: help onboard newly acquired influencers.\n\n• Resolve issues: help solve influencer-related issues that come up during campaigns.\n\nQuality & Data Assurance\n\n• Cross-check deliverables: review campaign data, influencer recordings, and assets to confirm agreed targets and deliverables are met.\n\n• Spot inconsistencies: identify errors or gaps in campaign data.\n\n• Escalate issues: report problems found in the data or the Influencer app to the right internal teams.\n\n• Keep data reliable: help maintain accurate campaign information across workflows.\n\nReporting\n\n• Track results: monitor campaign performance and share relevant updates with internal teams.\n\n• Ensure visibility: help teams stay clear on campaign progress and performance.\n\nAI & Innovation\n\n• Learn how AI is used: understand how AI works across MoonTech, especially within the Influencer team.\n\n• Explore AI tools: look into how AI-powered tools and agents can support campaign operations and team workflows.\n\n• Suggest improvements: bring ideas to make existing processes faster, smarter, and more scalable.\n\nCross-Team Collaboration\n\n• Join team meetings: take part in meetings with the CSM, Influencer, and Tech teams when needed.\n\n• Solve problems together: work across teams to identify and resolve campaign challenges.\n\n• Keep communication clear: keep updates organized as campaigns move through each stage.\n\nQualifications:\n\n• Recent graduate or final-year student in Marketing, Business, Mass Communication, or a related field.\n\n• Confident, hands-on use of AI tools such as Claude and ChatGPT, with curiosity about AI agents and automation in marketing workflows.\n\n• Strong communication skills in English and Arabic.\n\n• Excellent organizational skills and attention to detail.\n\n• Comfortable working with data, spreadsheets, and campaign trackers.\n\n• Familiarity with CRM platforms such as HubSpot.\n\n• Genuine interest in influencer marketing and social media; previous exposure is a plus.\n\n• Able to stay organized while supporting multiple campaigns and deadlines.\n\n• A proactive mindset: you notice problems, follow through, and suggest better ways of doing things.\n\n• Quick to learn and comfortable collaborating with different teams.\n\nDepartment\n\nInfluencer Marketing\n\nLocation\n\nDammam\n\nRemote status\n\nHybrid"
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "hybrid"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Dammam",
+          "region": "Saudi Arabia",
+          "country": "SA",
+          "county_fips": null,
+          "postal_code": "32257"
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-30T03:40:07.921Z",
+    "curated_at": "2026-10-03T10:23:04.577Z",
+    "job_updated_at": "2026-10-22T03:05:51.005Z",
+    "postings": [
+      {
+        "posting_id": "afe11c6a848bc3e5e0f0f9ecdf2b18d5403df737dbee82fa0594e6eb82a29f5d",
+        "source": "teamtailor",
+        "source_posting_id": "a9279cf1-fa51-4052-beea-564cee56a58b",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://fromitcanwith.teamtailor.com/jobs/8225471-influencer-marketing-leap"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://fromitcanwith.teamtailor.com/jobs/8225471-influencer-marketing-leap"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Dammam",
+            "state": "Saudi Arabia",
+            "remote": false,
+            "country": "SA",
+            "postalCode": "32257"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-16T10:55:10.000Z",
+        "first_seen_at": "2026-09-30T03:40:07.921Z",
+        "last_completed_fetch_at": "2026-10-22T03:05:02.948Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "476c4738-dfb4-48d8-bf22-2a8cee297394",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "Moontech"
+    },
+    "title": {
+      "state": "known",
+      "value": "Investor Relations Coordinator"
+    },
+    "description": {
+      "state": "known",
+      "value": "MoonTech is an AI-first, agentic workflow company transforming influencer performance marketing through autonomous AI agents. Our platform automates the entire campaign lifecycle, enabling brands to launch, manage, optimize, and scale creator campaigns with guaranteed conversions and measurable ROI. Powered by proprietary ground truth data, MoonTech is pioneering the category of conversion intelligence for the creator economy.\n\nInvestor Relations Coordinator\nLocation: Cairo (Hybrid) | Employment Type: Full-Time\nSeniority Level: Executive\n🧠 Do you:\n\n• Treat your CRM like your mission control dashboard?\n\n• Craft investor updates as if you were writing to your future board?\n\n• Thrive at the intersection of data, communication, and strategy?\n\nIf yes, MoonTech wants you at the center of our investor operations.\n💼 What You’ll Be Doing:\nAs Investor Relations Coordinator at MoonTech, you’ll be the architect of our investor experience—from first contact to funding milestones. You’ll bring structure to the investor pipeline, clarity to communications, and precision to every piece of fundraising material.\nYour mission:\n\n• Investor CRM Management : Own and optimize our HubSpot CRM—track interactions, follow-ups, and generate sharp reports.\n\n• Investor Engagement : Lead timely, professional outreach to current and potential investors. Schedule meetings, craft communication, and ensure alignment across touchpoints.\n\n• Data Room Excellence : Maintain a clean, intuitive, and always up-to-date investor data room.\n\n• Cross-Functional Collaboration : Work with legal, finance, leadership, and marketing teams to deliver polished pitch decks, financial reports, and metrics.\n\n• Handling Investor Requests : Respond to inquiries with clarity, accuracy, and speed.\n\n• Fundraising Support : Keep the fundraising engine running—providing structure and momentum through every phase of the investment lifecycle.\n\n🎯 What You Bring:\n\n• A Bachelor’s degree in Finance, Business, Economics, or a related field.\n\n• 2+ years of experience in investor relations, fundraising operations, or startup finance.\n\n• Proficiency with HubSpot (or equivalent CRM), Google Workspace, and virtual meeting tools.\n\n• Excellent written and verbal communication skills with meticulous attention to detail.\n\n• Ability to manage multiple stakeholders and timelines while handling sensitive information.\n\n• Bonus: Prior experience in tech, startups, or performance marketing is a plus.\n\n🚀 About MoonTech:\nMoonTech is an AI-powered performance influencer marketing platform built to eliminate guesswork and drive decisions with data. Our platform helps brands launch campaigns, scale creator partnerships, and track real-time performance — linking creator activity directly to business results. With smart creator matching and seamless campaign execution, we empower brands to move fast and optimize every dollar.\n🔔 If you're ready to own investor communications at a high-growth tech company — we’d love to hear from you.\n\nDepartment\n\nOperations\n\nLocations\n\nCairo, Dammam, Riyadh\n\nRemote status\n\nHybrid"
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "hybrid"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Cairo",
+          "region": "Egypt",
+          "country": "EG",
+          "county_fips": null,
+          "postal_code": "4272077"
+        }
+      },
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Dammam",
+          "region": "Saudi Arabia",
+          "country": "SA",
+          "county_fips": null,
+          "postal_code": "32257"
+        }
+      },
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Riyadh",
+          "region": "Saudi Arabia",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-30T03:40:07.921Z",
+    "curated_at": "2026-10-03T06:41:00.453Z",
+    "job_updated_at": "2026-10-22T03:05:50.840Z",
+    "postings": [
+      {
+        "posting_id": "06948c4312cf448f6693b211989df770af68bdd23335ce7ef6e8a22ac99cef6d",
+        "source": "teamtailor",
+        "source_posting_id": "5b2df832-b4ee-42a6-8a20-3a9f24902cc3",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://fromitcanwith.teamtailor.com/jobs/7078275-investor-relations-coordinator"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://fromitcanwith.teamtailor.com/jobs/7078275-investor-relations-coordinator"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Cairo",
+            "state": "Egypt",
+            "remote": false,
+            "country": "EG",
+            "postalCode": "4272077",
+            "alternatives": [
+              {
+                "city": "Dammam",
+                "state": "Saudi Arabia",
+                "remote": false,
+                "country": "SA",
+                "postalCode": "32257"
+              },
+              {
+                "city": "Riyadh",
+                "state": "Saudi Arabia",
+                "remote": false,
+                "country": "SA"
+              }
+            ]
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-01-20T05:42:25.000Z",
+        "first_seen_at": "2026-09-30T03:40:07.921Z",
+        "last_completed_fetch_at": "2026-10-22T03:05:02.948Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "17a1f94d-8a8d-4389-954c-4198d41d60a5",
+    "currentness": "current",
+    "stale": false,
+    "company_id": "41abc87b-827e-84bd-a91f-d8877798f905",
+    "employer_name": {
+      "state": "known",
+      "value": "Marriott International, Inc."
+    },
+    "title": {
+      "state": "known",
+      "value": "Pool Technician"
+    },
+    "description": {
+      "state": "extraction_failed"
+    },
+    "work_arrangement": {
+      "state": "extraction_failed"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-25T15:31:41.959Z",
+    "curated_at": "2026-09-27T02:05:54.384Z",
+    "job_updated_at": "2026-10-22T03:05:16.227Z",
+    "postings": [
+      {
+        "posting_id": "e7baefe6145c2cb992be59e1925383625fae198870d22e5983ae43246f57463f",
+        "source": "oracle_hcm",
+        "source_posting_id": "26121449",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26121449"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26121449"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "remote": false,
+            "country": "SA"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-09-20T00:00:00.000Z",
+        "first_seen_at": "2026-09-25T15:31:41.959Z",
+        "last_completed_fetch_at": null,
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      },
+      {
+        "posting_id": "e98984806fc9525d1b848bdc6e2c6d36976c792d8982ca87ca1e76d6e170f079",
+        "source": "oracle_hcm",
+        "source_posting_id": "26121449",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26121449"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26121449"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "remote": false,
+            "country": "SA"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-09-20T00:00:00.000Z",
+        "first_seen_at": "2026-10-10T14:57:17.915Z",
+        "last_completed_fetch_at": null,
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "4ecd2f5f-71b0-4c73-b178-9bca5e071a20",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "Ladwig Consulting"
+    },
+    "title": {
+      "state": "known",
+      "value": "SAP HCM Consultant"
+    },
+    "description": {
+      "state": "known",
+      "value": "Our client, a leading technology consulting firm delivering SAP and enterprise transformation services, is hiring an SAP HCM Consultant to join their Riyadh office. The ideal candidate will support full-cycle HR implementations, covering core HCM functionalities with integration to SuccessFactors and Payroll. Responsibilities include optimizing HR processes, enhancing employee lifecycle management, and ensuring effective data flow across modules. The role requires partnering with business stakeholders in industrial and manufacturing settings to streamline HR operations and ensure seamless integration with SAP FI/CO, PP, and SD. Key Responsibilities: • Participate in SAP implementation and support projects for HCM, including integration with FI/CO, PP, SD, and SF/Payroll. • Gather and analyze HR business requirements, translate them into functional specifications, and configure SAP HCM modules accordingly. • Collaborate with HR teams and project stakeholders to implement best-practice HR and talent management processes. • Support testing, user training, and documentation to ensure strong system adoption. • Provide ongoing HCM support, resolve HR system issues, and recommend process improvements. • Assist in integration efforts between HCM, Payroll, SuccessFactors, and other enterprise applications. • Stay updated on SAP HCM and SF developments and contribute to HR digital transformation initiatives. Requirements • Bachelor’s degree in IT, Computer Science, Engineering, HR Technology, or related field. • 1–5 years of experience as an SAP HCM Consultant, ideally with exposure to SF/Payroll integration. • Functional knowledge of HCM with familiarity in FI/CO, PP/QM, or SD considered an advantage. • Strong problem-solving capability, analytical mindset, and solid documentation skills. • Arabic-speaking candidates only. • Based in Riyadh, KSA, with full-time on-site availability. • Experience in industrial or manufacturing environments is a strong plus but not required. Benefits • Competitive Salary Package • Professional and Collaborative Work Environment • Career Growth Opportunities within a Leading SAP Consulting Partner • Medical Insurance"
+    },
+    "work_arrangement": {
+      "state": "extraction_failed"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Riyadh",
+          "region": "Riyadh",
+          "country": "SA",
+          "county_fips": null,
+          "postal_code": "11564"
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-30T04:41:54.405Z",
+    "curated_at": "2026-10-03T06:31:48.654Z",
+    "job_updated_at": "2026-10-22T03:04:44.870Z",
+    "postings": [
+      {
+        "posting_id": "ebb1fc973be7f6f6d4407e46c15bf49bddb88d5b094abc28f7b68be7e80f558f",
+        "source": "zoho_recruit",
+        "source_posting_id": "722574000003368039",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://ladwigconsulting.zohorecruit.com/jobs/Careers/722574000003368039"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://ladwigconsulting.zohorecruit.com/jobs/Careers/722574000003368039"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Riyadh",
+            "state": "Riyadh",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia",
+            "postalCode": "11564"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2025-11-11T00:00:00.000Z",
+        "first_seen_at": "2026-09-30T04:41:54.405Z",
+        "last_completed_fetch_at": "2026-10-22T03:04:43.797Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "efb99ed9-2d56-4345-9ccc-1acf1535d718",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "CCDS"
+    },
+    "title": {
+      "state": "known",
+      "value": "Security Operations & Monitoring Engineer"
+    },
+    "description": {
+      "state": "known",
+      "value": "**Location:** Dammam, Saudi Arabia  \n**Employment Type:** Full-Time | Onsite  \n**Project Duration:** Long-term project assignment  \n\n### About the Role\n\nWe are seeking a **Security Operations & Monitoring Engineer** to provide continuous monitoring and security-event analysis across encryption, KMS, HSM, database security, and related infrastructure.\n\nThe successful candidate will work closely with the SOC/SIEM and technical teams to identify suspicious activities, triage security events, support incident response, and ensure timely escalation and reporting.\n\n### Key Responsibilities\n\n* Perform continuous monitoring of cybersecurity systems and infrastructure.\n* Monitor encryption, KMS, HSM, database security, and other security-related events.\n* Review and analyze system, security, audit, and application logs.\n* Monitor security alerts through SIEM/SOC platforms.\n* Perform first-level investigation and triage of cybersecurity events.\n* Correlate alerts from multiple security technologies to identify potential incidents.\n* Escalate critical or suspicious activities according to established procedures.\n* Support incident-response investigations and evidence collection.\n* Coordinate with engineering teams during security incidents and service-impacting events.\n* Support the tuning of monitoring rules and alert thresholds.\n* Prepare operational, security, and incident reports.\n* Maintain incident records, monitoring procedures, and operational documentation.\n* Participate in shift, maintenance, and on-call activities when required.\n\n**Requirements**\n\n### Required Qualifications & Experience\n\n* Bachelor's degree in **Cybersecurity, Computer Science, Information Technology, Computer Engineering**, or related field.\n* **4+ years of experience** in SOC, SIEM, security monitoring, incident triage, or cybersecurity operations.\n* Hands-on experience with SIEM and security monitoring platforms.\n* Good understanding of security events, logs, alerts, incident handling, and escalation procedures.\n* Experience integrating security solutions with central SOC/SIEM platforms.\n* Strong analytical and troubleshooting skills.\n* Must be available **full-time onsite in Dammam**.\n\n### Required Certification\n\n* **CompTIA Security+**.\n\n### Preferred Certifications\n\n* CompTIA **CySA+**.\n* Splunk Core Certified Power User.\n* Splunk Certified Cybersecurity Defense Analyst.\n* Equivalent recognized SIEM/SOC certification.\n\n### Core Competencies\n\n**SOC | SIEM | Security Monitoring | Incident Triage | Log Analysis | Incident Response | Alert Management | Threat Detection | Reporting**\n\nCandidates should include the SIEM/SOC platforms they have used, the type of monitoring environments they supported, and their relevant certifications.",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "in_person"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Dammam",
+          "region": "Eastern Province",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-07T22:12:51.473Z",
+    "curated_at": "2026-10-16T15:44:44.627Z",
+    "job_updated_at": "2026-10-22T03:04:37.675Z",
+    "postings": [
+      {
+        "posting_id": "18bd2eade70aa49e4ad4bf3b14ecce6864dfb92643a2081b800b4e91455b0c62",
+        "source": "workable",
+        "source_posting_id": "942392FA37",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/942392FA37"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/942392FA37/apply"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Dammam",
+            "state": "Eastern Province",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-26T00:00:00.000Z",
+        "first_seen_at": "2026-09-07T22:12:51.473Z",
+        "last_completed_fetch_at": "2026-10-22T03:04:35.180Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  }
+]

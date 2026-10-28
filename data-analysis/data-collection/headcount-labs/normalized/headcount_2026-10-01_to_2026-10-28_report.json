@@ -1,0 +1,15 @@
+{
+  "label": "2026-10-01_to_2026-10-28",
+  "period": [
+    "2026-10-01",
+    "2026-10-28"
+  ],
+  "counts": {
+    "raw_jobs": 2915,
+    "normalized_jobs": 2608,
+    "missing_company": 307,
+    "export_record_count": 2915
+  },
+  "max_records": 5000,
+  "export_id": "312a5f83-a739-45d7-9bee-6337bfd87e6a"
+}

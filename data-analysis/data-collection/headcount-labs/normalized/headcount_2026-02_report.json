@@ -1,0 +1,15 @@
+{
+  "label": "2026-02",
+  "period": [
+    "2026-02-01",
+    "2026-02-28"
+  ],
+  "counts": {
+    "raw_jobs": 203,
+    "normalized_jobs": 201,
+    "missing_company": 2,
+    "export_record_count": 203
+  },
+  "max_records": 5000,
+  "export_id": "a27e5f8b-b289-4ae1-a909-c3f4e242866c"
+}

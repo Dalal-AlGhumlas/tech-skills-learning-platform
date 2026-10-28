@@ -1,0 +1,14 @@
+{
+  "label": "2026-03",
+  "period": [
+    "2026-03-01",
+    "2026-03-31"
+  ],
+  "counts": {
+    "raw_jobs": 214,
+    "normalized_jobs": 214,
+    "export_record_count": 214
+  },
+  "max_records": 5000,
+  "export_id": "af4ab6a1-93e8-44ad-a2f0-c8ccfd104a9b"
+}
