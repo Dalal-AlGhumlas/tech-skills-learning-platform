@@ -1,0 +1,44 @@
+{
+  "filters": {
+    "country": "SA",
+    "posted_since": "2026-04-01",
+    "posted_until": "2026-04-30",
+    "currentness": [
+      "current",
+      "uncertain",
+      "not_current"
+    ],
+    "has_description": true,
+    "max_records": 5000
+  },
+  "export_id": "9f09256e-cb7c-49d7-ad59-7415829e6ddb",
+  "export_info": {
+    "export_id": "9f09256e-cb7c-49d7-ad59-7415829e6ddb",
+    "status": "completed",
+    "created_at": "2026-10-28T19:15:42.858Z",
+    "completed_at": "2026-10-28T19:15:43.798Z",
+    "expires_at": "2026-10-29T19:15:43.798Z",
+    "record_count": 334,
+    "snapshot_watermark": "2026-10-21T22:10:37.414Z",
+    "request": {
+      "country": "SA",
+      "posted_since": "2026-04-01",
+      "posted_until": "2026-04-30",
+      "currentness": [
+        "current",
+        "uncertain",
+        "not_current"
+      ],
+      "has_description": true,
+      "max_records": 5000
+    },
+    "files": [
+      {
+        "n": 1,
+        "records": 334,
+        "bytes": 346122,
+        "url": "/v1/jobs/exports/9f09256e-cb7c-49d7-ad59-7415829e6ddb/files/1"
+      }
+    ]
+  }
+}

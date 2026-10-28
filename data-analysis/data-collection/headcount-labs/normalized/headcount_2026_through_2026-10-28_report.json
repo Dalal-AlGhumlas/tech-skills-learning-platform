@@ -1,0 +1,26 @@
+{
+  "period": [
+    "2026-01-01",
+    "2026-10-28"
+  ],
+  "source": "headcount_labs",
+  "segments_used": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08-01_to_2026-08-07",
+    "2026-08-08_to_2026-08-31",
+    "2026-09",
+    "2026-10-01_to_2026-10-28"
+  ],
+  "counts": {
+    "input_rows": 8933,
+    "unique_jobs": 8807,
+    "duplicates_removed": 126
+  },
+  "note": "August reused from two saved batches. No skill extraction or domain classification."
+}

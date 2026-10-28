@@ -1,8 +1,10 @@
 
+# Secrets
 .env
 .env.*
 !.env.example
-__pycache__/
-.venv/
 
-data-analysis/data-collection/headcount-labs/raw/
+# Python
+.venv/
+__pycache__/
+*.pyc

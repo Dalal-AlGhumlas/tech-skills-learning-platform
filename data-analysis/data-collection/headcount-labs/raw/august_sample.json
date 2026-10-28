@@ -1,0 +1,868 @@
+[
+  {
+    "job_id": "c5190fb5-6227-41c1-ac5c-24dbc573143f",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "Moontech"
+    },
+    "title": {
+      "state": "known",
+      "value": "Influencer Marketing Leap"
+    },
+    "description": {
+      "state": "known",
+      "value": "About MoonTech\nMoonTech is an agentic AI company for creator commerce built for guaranteed conversions, not promises Operating as an autonomous closed-loop system, MoonTech replaces legacy platform tools and superficial metrics (like reach and impressions) with a crew of 7 specialized AI agents (Moon AI) that manage the full campaign lifecycle from client brief and creator matching to live execution, real-time ad optimization, and verified sales attribution .\nRole Overview\nInterested in influencer marketing, curious about AI, and quick to notice when something doesn’t add up? As an Influencer Marketing Intern at MoonTech, you’ll get hands-on experience across campaign operations, performance reporting, influencer coordination, and AI-driven workflows, working closely with our Influencer, CSM, and Tech teams. This isn’t an observe-only internship: you’ll help run real campaigns, work with data, solve issues, and share ideas that improve how the team works.\nResponsibilities\nCampaign Management\n\n• Coordinate campaign deliverables: work with the CSM team to receive deliverables and communicate campaign updates.\n\n• Manage posting timelines: schedule influencer ads and monitor posting schedules.\n\n• Follow up with influencers: make sure content goes live on time.\n\n• Support onboarding: help onboard newly acquired influencers.\n\n• Resolve issues: help solve influencer-related issues that come up during campaigns.\n\nQuality & Data Assurance\n\n• Cross-check deliverables: review campaign data, influencer recordings, and assets to confirm agreed targets and deliverables are met.\n\n• Spot inconsistencies: identify errors or gaps in campaign data.\n\n• Escalate issues: report problems found in the data or the Influencer app to the right internal teams.\n\n• Keep data reliable: help maintain accurate campaign information across workflows.\n\nReporting\n\n• Track results: monitor campaign performance and share relevant updates with internal teams.\n\n• Ensure visibility: help teams stay clear on campaign progress and performance.\n\nAI & Innovation\n\n• Learn how AI is used: understand how AI works across MoonTech, especially within the Influencer team.\n\n• Explore AI tools: look into how AI-powered tools and agents can support campaign operations and team workflows.\n\n• Suggest improvements: bring ideas to make existing processes faster, smarter, and more scalable.\n\nCross-Team Collaboration\n\n• Join team meetings: take part in meetings with the CSM, Influencer, and Tech teams when needed.\n\n• Solve problems together: work across teams to identify and resolve campaign challenges.\n\n• Keep communication clear: keep updates organized as campaigns move through each stage.\n\nQualifications:\n\n• Recent graduate or final-year student in Marketing, Business, Mass Communication, or a related field.\n\n• Confident, hands-on use of AI tools such as Claude and ChatGPT, with curiosity about AI agents and automation in marketing workflows.\n\n• Strong communication skills in English and Arabic.\n\n• Excellent organizational skills and attention to detail.\n\n• Comfortable working with data, spreadsheets, and campaign trackers.\n\n• Familiarity with CRM platforms such as HubSpot.\n\n• Genuine interest in influencer marketing and social media; previous exposure is a plus.\n\n• Able to stay organized while supporting multiple campaigns and deadlines.\n\n• A proactive mindset: you notice problems, follow through, and suggest better ways of doing things.\n\n• Quick to learn and comfortable collaborating with different teams.\n\nDepartment\n\nInfluencer Marketing\n\nLocation\n\nDammam\n\nRemote status\n\nHybrid"
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "hybrid"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Dammam",
+          "region": "Saudi Arabia",
+          "country": "SA",
+          "county_fips": null,
+          "postal_code": "32257"
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-30T03:40:07.921Z",
+    "curated_at": "2026-10-03T10:23:04.577Z",
+    "job_updated_at": "2026-10-22T03:05:51.005Z",
+    "postings": [
+      {
+        "posting_id": "afe11c6a848bc3e5e0f0f9ecdf2b18d5403df737dbee82fa0594e6eb82a29f5d",
+        "source": "teamtailor",
+        "source_posting_id": "a9279cf1-fa51-4052-beea-564cee56a58b",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://fromitcanwith.teamtailor.com/jobs/8225471-influencer-marketing-leap"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://fromitcanwith.teamtailor.com/jobs/8225471-influencer-marketing-leap"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Dammam",
+            "state": "Saudi Arabia",
+            "remote": false,
+            "country": "SA",
+            "postalCode": "32257"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-16T10:55:10.000Z",
+        "first_seen_at": "2026-09-30T03:40:07.921Z",
+        "last_completed_fetch_at": "2026-10-22T03:05:02.948Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "efb99ed9-2d56-4345-9ccc-1acf1535d718",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "CCDS"
+    },
+    "title": {
+      "state": "known",
+      "value": "Security Operations & Monitoring Engineer"
+    },
+    "description": {
+      "state": "known",
+      "value": "**Location:** Dammam, Saudi Arabia  \n**Employment Type:** Full-Time | Onsite  \n**Project Duration:** Long-term project assignment  \n\n### About the Role\n\nWe are seeking a **Security Operations & Monitoring Engineer** to provide continuous monitoring and security-event analysis across encryption, KMS, HSM, database security, and related infrastructure.\n\nThe successful candidate will work closely with the SOC/SIEM and technical teams to identify suspicious activities, triage security events, support incident response, and ensure timely escalation and reporting.\n\n### Key Responsibilities\n\n* Perform continuous monitoring of cybersecurity systems and infrastructure.\n* Monitor encryption, KMS, HSM, database security, and other security-related events.\n* Review and analyze system, security, audit, and application logs.\n* Monitor security alerts through SIEM/SOC platforms.\n* Perform first-level investigation and triage of cybersecurity events.\n* Correlate alerts from multiple security technologies to identify potential incidents.\n* Escalate critical or suspicious activities according to established procedures.\n* Support incident-response investigations and evidence collection.\n* Coordinate with engineering teams during security incidents and service-impacting events.\n* Support the tuning of monitoring rules and alert thresholds.\n* Prepare operational, security, and incident reports.\n* Maintain incident records, monitoring procedures, and operational documentation.\n* Participate in shift, maintenance, and on-call activities when required.\n\n**Requirements**\n\n### Required Qualifications & Experience\n\n* Bachelor's degree in **Cybersecurity, Computer Science, Information Technology, Computer Engineering**, or related field.\n* **4+ years of experience** in SOC, SIEM, security monitoring, incident triage, or cybersecurity operations.\n* Hands-on experience with SIEM and security monitoring platforms.\n* Good understanding of security events, logs, alerts, incident handling, and escalation procedures.\n* Experience integrating security solutions with central SOC/SIEM platforms.\n* Strong analytical and troubleshooting skills.\n* Must be available **full-time onsite in Dammam**.\n\n### Required Certification\n\n* **CompTIA Security+**.\n\n### Preferred Certifications\n\n* CompTIA **CySA+**.\n* Splunk Core Certified Power User.\n* Splunk Certified Cybersecurity Defense Analyst.\n* Equivalent recognized SIEM/SOC certification.\n\n### Core Competencies\n\n**SOC | SIEM | Security Monitoring | Incident Triage | Log Analysis | Incident Response | Alert Management | Threat Detection | Reporting**\n\nCandidates should include the SIEM/SOC platforms they have used, the type of monitoring environments they supported, and their relevant certifications.",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "in_person"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Dammam",
+          "region": "Eastern Province",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-07T22:12:51.473Z",
+    "curated_at": "2026-10-16T15:44:44.627Z",
+    "job_updated_at": "2026-10-22T03:04:37.675Z",
+    "postings": [
+      {
+        "posting_id": "18bd2eade70aa49e4ad4bf3b14ecce6864dfb92643a2081b800b4e91455b0c62",
+        "source": "workable",
+        "source_posting_id": "942392FA37",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/942392FA37"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/942392FA37/apply"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Dammam",
+            "state": "Eastern Province",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-26T00:00:00.000Z",
+        "first_seen_at": "2026-09-07T22:12:51.473Z",
+        "last_completed_fetch_at": "2026-10-22T03:04:35.180Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "f14e75e5-4699-44e9-83d3-bf0a690981b5",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "JASARA PMC"
+    },
+    "title": {
+      "state": "known",
+      "value": "Senior BIM Specialist"
+    },
+    "description": {
+      "state": "known",
+      "value": "The Senior BIM Specialist is responsible for leading BIM and digital delivery activities across major\n\ninfrastructure and engineering projects. The role provides strategic oversight of BIM implementation, model\n\ncoordination, information management, and digital engineering processes to ensure efficient project delivery\n\nand compliance with client requirements and industry standards.\n\nKey Responsibilities\n\n• Lead BIM implementation and digital delivery across project lifecycle stages.\n\n• Establish and maintain BIM standards, procedures, and governance frameworks.\n\n• Oversee multidisciplinary model coordination and integration across engineering disciplines.\n\n• Manage BIM execution plans, information management processes, and Common Data Environment\n\n(CDE) requirements.\n\n• Review and approve BIM deliverables from consultants and contractors.\n\n• Support design reviews, constructability assessments, clash detection, and project coordination\n\nactivities.\n\n• Drive integration between BIM, GIS, Digital Twin, and asset information management systems.\n\n• Provide technical leadership and guidance on BIM best practices and digital engineering initiatives.\n\n• Coordinate with project teams, consultants, contractors, and stakeholders to ensure successful\n\ndigital project delivery.\n\n• Support innovation, value engineering, and continuous improvement initiatives through the effective\n\nuse of BIM technologies.\n\nnd other CDE platforms\n\n**Requirements**\n\nQualifications & Experience\n\n• Bachelor's Degree in Engineering, Architecture, Construction Management, or a related discipline.\n\n• Minimum 10 years of experience in BIM, Digital Engineering, or Information Management on major\n\ninfrastructure, transportation, utilities, or building projects.\n\n• Proven experience leading BIM implementation on multidisciplinary projects.\n\n• Strong understanding of BIM standards, information management, and digital delivery processes.\n\n• Experience managing consultant and contractor BIM deliverables and coordinating multiple\n\nstakeholders.\n\n• Familiarity with industry platforms such as Revit, Navisworks, Civil 3D, Autodesk Construction\n\nCloud, Bentley applications, and related BIM technologies.\n\nPreferred Qualifications\n\n• BIM Professional Certification.\n\n• Autodesk Certified Professional or equivalent certification.\n\n• Experience on giga-projects, or large-scale infrastructure programs.\n\n• Experience with BIM-GIS integration, Digital Twins, and asset management systems.\n\n• Knowledge of Aconex, ProjectWise, SharePoint.",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "in_person"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Tabuk",
+          "region": "Tabuk Province",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-07T23:01:14.160Z",
+    "curated_at": "2026-10-22T02:58:22.064Z",
+    "job_updated_at": "2026-10-22T02:58:22.064Z",
+    "postings": [
+      {
+        "posting_id": "e754da4c9bd3cf87fb95a82a85ef1fbb131d6c82f5fcdc0350257162752beb4b",
+        "source": "workable",
+        "source_posting_id": "753C2FC389",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/753C2FC389"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/753C2FC389/apply"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Tabuk",
+            "state": "Tabuk Province",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-12T00:00:00.000Z",
+        "first_seen_at": "2026-09-07T23:01:14.160Z",
+        "last_completed_fetch_at": "2026-10-21T19:49:44.372Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "cf06009f-82dd-4430-88fb-632139290a33",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "CR_54 CROWN Arabia Can Company Ltd"
+    },
+    "title": {
+      "state": "known",
+      "value": "Beck End Team Leader"
+    },
+    "description": {
+      "state": "known",
+      "value": "**Job Description:**\n\nSummary:  \nLead the back-end production team to ensure efficient operation, high-quality output, and adherence to safety standards within CROWN Arabia Can Company Ltd. Oversee daily activities, optimize processes, and manage team performance to meet production targets.  \n  \nResponsibilities:  \n\\* Supervise and coordinate the daily activities of the back-end production team, including scheduling, task assignment, and performance monitoring.  \n\\* Ensure all production processes meet established quality control standards and specifications for can manufacturing.  \n\\* Implement and enforce company safety policies and procedures, conducting regular safety audits and addressing any hazards promptly.  \n\\* Troubleshoot production issues and machine malfunctions, escalating complex problems to maintenance or engineering as needed.  \n\\* Train new team members on operational procedures, safety protocols, and quality standards.  \n\\* Monitor production metrics, analyze data, and report on team performance and output to management.  \n\\* Identify opportunities for process improvement and efficiency gains, and contribute to their implementation.  \n\\* Maintain accurate production records, including downtime, output, and quality checks.  \n\\* Collaborate with other departments, such as front-end production, maintenance, and quality assurance, to ensure smooth workflow.  \n\\* Foster a positive and productive work environment, promoting teamwork and open communication.  \n  \nQualifications:  \n\\* High school diploma or equivalent; associate's degree in a technical field or related discipline preferred.  \n\\* Minimum of 3-5 years of experience in manufacturing production, preferably in the can or packaging industry.  \n\\* At least 1-2 years of experience in a supervisory or team leader role.  \n\\* Strong mechanical aptitude and problem-solving skills, with the ability to troubleshoot production equipment.  \n\\* Excellent communication and interpersonal skills, with the ability to motivate and lead a team.  \n\\* Demonstrated understanding of quality control principles and safety regulations in a manufacturing environment.  \n\\* Ability to read and interpret technical documents, schematics, and production specifications.  \n\\* Proficiency in basic computer applications (e.g., Microsoft Office Suite).  \n\\* Ability to work rotating shifts, including nights, weekends, and holidays, as required.\n\n  \n\nCrown Holdings, Inc. through it's subsidiaries, is a world leader in the metal packaging production process. We design and manufacture a wide range of innovative and sustainable metal packaging solutions and products. Our clients are some of the largest and most respected companies in the world.  \n  \nCrown is dedicated to building a team of highly talented, dedicated, and driven individuals. It's an exciting time to join our business because Crown offers you the opportunity to grow and develop your skills in an expanding industry.  \n  \nCrown was founded with the goal of valuing and promoting sustainability and this vision continues to be essential to our long-term future.\n\n  \n\nReady to go behind the scenes? With hundreds of maufacturing plants and 20,000+ employees worldwide, there’s a lot that goes into the design and production of Crown packaging.  \n  \nWe serve a variety of markets including food, beverage, household, personal care, and more.  \n  \nSince we were founded in 1892, we’ve been on a mission to manufacture best-in-class  packaging while championing best-in-class teams.  \n  \nTogether, we’re building something that lasts thanks to great products, made by great people.\n\n  \n\nView and apply for openings or share your details and our recruiting team will contact you about suitable opportunities",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "source_omitted"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Jeddah",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-21T21:59:10.421Z",
+    "curated_at": "2026-09-24T12:32:44.432Z",
+    "job_updated_at": "2026-10-22T02:56:46.591Z",
+    "postings": [
+      {
+        "posting_id": "71a4cf2bec60f3685ea86a6968b8e8bdfc6e8815378ffddc7aed35019ed66f19",
+        "source": "workday",
+        "source_posting_id": "/job/Jeddah/Beck-End-Team-Leader_JR103621",
+        "posting_status": "no_longer_listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Jeddah/Beck-End-Team-Leader_JR103621"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Jeddah/Beck-End-Team-Leader_JR103621"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Jeddah",
+            "remote": false,
+            "country": "SA"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-06T00:00:00.000Z",
+        "first_seen_at": "2026-09-22T17:54:06.961Z",
+        "last_completed_fetch_at": "2026-09-23T18:45:29.409Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      },
+      {
+        "posting_id": "ef432ef3326330245adfddf1df0672636bbafcf3c5a8c202dec85ba30cdd5cc0",
+        "source": "workday",
+        "source_posting_id": "/job/Jeddah/Beck-End-Team-Leader_JR103621",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Jeddah/Beck-End-Team-Leader_JR103621"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Jeddah/Beck-End-Team-Leader_JR103621"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Jeddah",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-10-06T00:00:00.000Z",
+        "first_seen_at": "2026-09-21T21:59:10.421Z",
+        "last_completed_fetch_at": "2026-10-22T02:55:37.498Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "cee7c575-b1b0-4c0b-9a4b-fdd262d837a4",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "CR_54 CROWN Arabia Can Company Ltd"
+    },
+    "title": {
+      "state": "known",
+      "value": "Electrical Engineer"
+    },
+    "description": {
+      "state": "known",
+      "value": "**Job Description:**\n\nJob Summary\\*\\*  \n  \nCROWN Arabia Can Company Ltd is seeking a skilled Electrical Engineer to maintain and improve our electrical systems, ensuring operational efficiency and safety in our manufacturing facilities.  \n  \nJob Responsibilities\\*\\*  \n  \n\\* Design, develop, and maintain electrical control systems and components for manufacturing equipment.  \n\\* Troubleshoot and diagnose electrical malfunctions in machinery, production lines, and plant infrastructure.  \n\\* Implement preventative maintenance programs for electrical systems to minimize downtime.  \n\\* Prepare and interpret electrical schematics, blueprints, and technical drawings.  \n\\* Ensure compliance with all relevant electrical safety standards and regulations (e.g., NFPA, IEC).  \n\\* Collaborate with other engineering disciplines and production teams to optimize processes and equipment performance.  \n\\* Manage electrical projects from conception to completion, including budgeting and vendor coordination.  \n\\* Conduct regular inspections of electrical systems and equipment to identify potential issues and recommend solutions.  \n\\* Train and mentor junior electrical technicians as required.  \n\\* Develop and update electrical documentation and operating procedures.  \n  \nJob Qualifications\\*\\*  \n  \n\\* Bachelor's degree in Electrical Engineering or a related field.  \n\\* Minimum of 3-5 years of experience as an Electrical Engineer, preferably in a manufacturing or industrial environment.  \n\\* Strong knowledge of industrial control systems (PLCs, VFDs, HMI).  \n\\* Proficiency in reading and interpreting electrical schematics and technical drawings.  \n\\* Familiarity with relevant electrical codes and safety standards.  \n\\* Excellent troubleshooting and problem-solving skills.  \n\\* Ability to work independently and as part of a team.  \n\\* Strong communication and interpersonal skills.  \n\\* Experience with CAD software (e.g., AutoCAD Electrical) is a plus.\n\n  \n\nCrown Holdings, Inc. through it's subsidiaries, is a world leader in the metal packaging production process. We design and manufacture a wide range of innovative and sustainable metal packaging solutions and products. Our clients are some of the largest and most respected companies in the world.  \n  \nCrown is dedicated to building a team of highly talented, dedicated, and driven individuals. It's an exciting time to join our business because Crown offers you the opportunity to grow and develop your skills in an expanding industry.  \n  \nCrown was founded with the goal of valuing and promoting sustainability and this vision continues to be essential to our long-term future.\n\n  \n\nReady to go behind the scenes? With hundreds of maufacturing plants and 20,000+ employees worldwide, there’s a lot that goes into the design and production of Crown packaging.  \n  \nWe serve a variety of markets including food, beverage, household, personal care, and more.  \n  \nSince we were founded in 1892, we’ve been on a mission to manufacture best-in-class  packaging while championing best-in-class teams.  \n  \nTogether, we’re building something that lasts thanks to great products, made by great people.\n\n  \n\nView and apply for openings or share your details and our recruiting team will contact you about suitable opportunities",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "source_omitted"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Dammam",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-21T06:23:04.546Z",
+    "curated_at": "2026-09-24T12:32:43.779Z",
+    "job_updated_at": "2026-10-22T02:56:46.587Z",
+    "postings": [
+      {
+        "posting_id": "6914c9495028bbab8757e63cf971b191ef77bed75847c754be9a228eb9473bd3",
+        "source": "workday",
+        "source_posting_id": "/job/Dammam/Electrical-Engineer_JR101796",
+        "posting_status": "no_longer_listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Dammam/Electrical-Engineer_JR101796"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Dammam/Electrical-Engineer_JR101796"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Dammam",
+            "remote": false,
+            "country": "SA"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-31T00:00:00.000Z",
+        "first_seen_at": "2026-09-21T06:23:04.546Z",
+        "last_completed_fetch_at": "2026-09-23T18:45:29.409Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      },
+      {
+        "posting_id": "ebccf24cda62f5ef2663bf2f9c5d9c321129456b4d12d80b50a11fa024d91c99",
+        "source": "workday",
+        "source_posting_id": "/job/Dammam/Electrical-Engineer_JR101796",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Dammam/Electrical-Engineer_JR101796"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://crownholdings.wd501.myworkdayjobs.com/CrownHoldings/job/Dammam/Electrical-Engineer_JR101796"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Dammam",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-10-06T00:00:00.000Z",
+        "first_seen_at": "2026-09-21T21:59:10.421Z",
+        "last_completed_fetch_at": "2026-10-22T02:55:37.498Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "feff9028-afeb-4f61-a296-a0f5a1e9ae01",
+    "currentness": "current",
+    "stale": false,
+    "company_id": "fbe4fc53-65e2-472a-ac8e-f4a146c39389",
+    "employer_name": {
+      "state": "known",
+      "value": "Fortinet"
+    },
+    "title": {
+      "state": "known",
+      "value": "Systems Engineer - Channel"
+    },
+    "description": {
+      "state": "known",
+      "value": "Channel System Engineer Location: Riyadh, Saudi Arabia The Channel System Engineer plays a critical role in driving success with our channel partners, acting as a trusted technical advisor and solution architect. The role supports our channel sales efforts by engaging with partners and clients to demonstrate the technical value of our products, design custom security solutions, and provide technical enablement. You’ll work closely with both internal teams and external channel partners to ensure the successful integration, deployment, and ongoing support of our cybersecurity solutions."
+    },
+    "work_arrangement": {
+      "state": "source_omitted"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-20T16:51:06.323Z",
+    "curated_at": "2026-09-24T12:39:12.648Z",
+    "job_updated_at": "2026-10-22T02:56:43.165Z",
+    "postings": [
+      {
+        "posting_id": "1d32ffa6d448d87c1b3e2b75993a916dda16e998c42e5f1c553fc3ab42c0e5b0",
+        "source": "oracle_hcm",
+        "source_posting_id": "23733",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23733"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23733"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-06T00:00:00.000Z",
+        "first_seen_at": "2026-09-22T00:40:06.403Z",
+        "last_completed_fetch_at": null,
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      },
+      {
+        "posting_id": "98097bb8e521b2cf697ab99f86fa575c80c6403870ce8704e097724be2aec0ed",
+        "source": "oracle_hcm",
+        "source_posting_id": "23733",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23733"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23733"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-06T00:00:00.000Z",
+        "first_seen_at": "2026-09-20T16:51:06.323Z",
+        "last_completed_fetch_at": null,
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "ba316bb1-8408-4b5d-952d-e9c7aa24ba3f",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "Salla"
+    },
+    "title": {
+      "state": "known",
+      "value": "Senior Backend Engineer - Checkout"
+    },
+    "description": {
+      "state": "known",
+      "value": "We are looking for a Senior Backend Engineer - Checkout to join our engineering team focused on Fintech, Checkout, and Promotions. You will design, build, and scale highly available backend systems that power mission-critical payment experiences, checkout flows, promotions, loyalty, pricing, and financial services.\n\nThis role is ideal for engineers who enjoy solving complex distributed systems problems, building high-performance services, and designing software that operates reliably at scale. You'll work closely with Product, Design, Data, and Engineering teams to deliver resilient, observable, and maintainable systems that directly impact millions of transactions.\n\nWe value engineers with strong software engineering fundamentals who embrace modern development practices, including leveraging AI to improve engineering productivity, software quality, testing, debugging, and delivery speed.\n\n### Responsibilities\n\n* Design, build, and operate scalable backend services supporting Fintech, Checkout, Promotions, Loyalty, and Payment systems.\n* Develop clean, maintainable, and high-performance production code with readability and long-term ownership in mind.\n* Design and evolve RESTful APIs and integrations with internal platforms, payment gateways, and third-party services.\n* Build reliable distributed systems capable of handling high traffic, failures, and asynchronous workloads.\n* Drive architectural decisions with scalability, resilience, maintainability, and operational excellence in mind.\n* Optimize application performance across services, databases, caching layers, queues, and background workers.\n* Participate in architecture discussions, technical design reviews, RFCs, and engineering planning.\n* Ensure services are production-ready through monitoring, logging, alerting, testing, and observability best practices.\n* Write comprehensive unit and integration tests while maintaining high engineering standards through code reviews.\n* Leverage AI-assisted engineering tools responsibly to accelerate development, debugging, testing, documentation, and code quality.\n* Mentor junior and mid-level engineers through technical leadership, design discussions, and engineering best practices.\n* Contribute throughout the full software development lifecycle, from design through deployment and production support.\n* Continuously improve system reliability, developer experience, and engineering standards across the team.\n\n**Requirements**\n\n* 6+ years of professional software engineering experience building production backend systems.\n* Strong experience building scalable backend services in at least one modern language such as PHP, Go, Java, or C#.\n* Experience with PHP and Laravel is preferred but not required.\n* Strong understanding of distributed systems fundamentals, including consistency, availability, concurrency, fault tolerance, idempotency, asynchronous processing, messaging, and caching.\n* Experience designing and operating high-scale, highly available backend systems.\n* Proven ability to write clean, maintainable, efficient, and high-performance production code.\n* Strong understanding of software engineering principles, including SOLID, design patterns, clean architecture, and domain-driven design concepts.\n* Experience designing RESTful APIs and integrating with third-party platforms and payment providers.\n* Strong SQL knowledge with experience designing and optimizing MySQL or PostgreSQL databases.\n* Experience with caching technologies, queues, background workers, and performance optimization.\n* Experience writing automated tests, participating in code reviews, and working within modern CI/CD pipelines.\n* Comfortable using AI-assisted development tools to improve productivity, software design, implementation, testing, debugging, documentation, and code reviews.\n\n### Preferred Qualifications\n\n* Experience building Fintech, Payments, Checkout, Loyalty, Pricing, Promotions, or other high-volume transactional systems.\n* Experience with event-driven architectures and distributed messaging systems.\n* Experience with Docker, Kubernetes, cloud platforms (AWS, GCP, or Azure), and Infrastructure as Code.\n* Experience with observability platforms, distributed tracing, metrics, and production monitoring.\n* Experience working within microservices or service-oriented architectures.\n* Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field is a plus.",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "remote"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Jeddah",
+          "region": "Makkah Province",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-07T22:34:11.718Z",
+    "curated_at": "2026-10-22T02:36:27.155Z",
+    "job_updated_at": "2026-10-22T02:36:27.155Z",
+    "postings": [
+      {
+        "posting_id": "e4faa4bad5f77c004dd9d29e3eab270df8251a0ae43d847ea19e1de0949c967b",
+        "source": "workable",
+        "source_posting_id": "891691547B",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/891691547B"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/891691547B/apply"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Jeddah",
+            "state": "Makkah Province",
+            "remote": true,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-18T00:00:00.000Z",
+        "first_seen_at": "2026-09-07T22:34:11.718Z",
+        "last_completed_fetch_at": "2026-10-21T16:12:55.390Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "a27c75f5-98a6-407e-a56b-29449b0ab6b7",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "CLEAR"
+    },
+    "title": {
+      "state": "known",
+      "value": "General Accountant"
+    },
+    "description": {
+      "state": "known",
+      "value": "### **Accountant**\n\n1.  **Financial Record Keeping:**\n\n* Maintain accurate financial records and ledgers.\n* Record day-to-day financial transactions, including accounts payable and receivable.\n\n4.  **Preparation of Financial Statements:**\n\n* Assist in the preparation of monthly, quarterly, and annual financial statements.\n* Ensure compliance with accounting standards and policies.\n\n7.  **Reconciliations:**\n\n* Perform balance sheet and bank reconciliations.\n* Identify discrepancies and resolve issues promptly.\n\n10.  **Supporting Audits:**\n\n* Prepare financial documentation for audits.\n* Assist in the coordination of external audits.\n\n13.  **Budget Monitoring:**\n\n* Assist in budget preparation and monitoring expenditures.\n* Provide variance reports to management.\n\n16.  **Compliance:**\n\n* Ensure compliance with local regulations and company policies.\n* Stay updated on changes in financial legislation and best practices.\n\n19.  **Accounting Software:**\n\n* Utilize accounting software (e.g., SAP, QuickBooks) for transactions and reporting.\n* Assist in implementing new financial software solutions.\n\n22.  **Internal Controls:**\n\n* Assist in maintaining and enforcing internal controls.\n* Identify areas for improvement and provide recommendations.\n\n25.  **Team Collaboration:**\n\n* Collaborate with other departments to gather necessary financial information.\n* Support the finance team in various ad-hoc projects and tasks.\n\n**Requirements**\n\n### **Educational Background**\n\n* **Minimum**: Bachelor's degree in Accounting, Finance, or related field.\n\n**Professional Experience**\n\n* 1-3 years of accounting experience, preferably in a corporate environment.\n\n**Technical Skills**\n\n* Proficiency in accounting software (e.g., QuickBooks, SAP) and MS Office Suite.\n* Strong Excel skills, including formulas and data analysis functions.\n\n**Certifications**\n\n* ZAT or IFRS other relevant certification is a plus but not required.\n\n### **Core Competencies**\n\n* Strong attention to detail and accuracy.\n* Excellent analytical and problem-solving skills.\n* Effective communication skills, both verbal and written.\n* Ability to work in a team and independently.\n* Time management skills and the ability to meet deadlines.",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "known",
+      "value": "in_person"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-07T22:13:19.339Z",
+    "curated_at": "2026-10-22T02:32:40.108Z",
+    "job_updated_at": "2026-10-22T02:32:40.108Z",
+    "postings": [
+      {
+        "posting_id": "e3800089ce3beb7ea2e41bbbe94269bfc89fc09fef47ed2651ded768c8924e57",
+        "source": "workable",
+        "source_posting_id": "9C27573499",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/9C27573499"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://apply.workable.com/j/9C27573499/apply"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Riyadh",
+            "state": "Riyadh Province",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-04T00:00:00.000Z",
+        "first_seen_at": "2026-09-07T22:13:19.339Z",
+        "last_completed_fetch_at": "2026-10-22T00:31:34.805Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "1d39146d-d9c9-4ff9-976c-b04bb90ce2f4",
+    "currentness": "current",
+    "stale": false,
+    "company_id": "07d156a9-1c61-8b3d-bb99-484826415de7",
+    "employer_name": {
+      "state": "known",
+      "value": "AccorHotel"
+    },
+    "title": {
+      "state": "known",
+      "value": "Head Of Concierge (Saudi Only )"
+    },
+    "description": {
+      "state": "known",
+      "value": "Lead, manage, and develop the concierge team to deliver consistently exceptional service.\n\nEstablish and maintain high standards, policies, procedures, and service protocols.\n\nOversee daily concierge operations, ensuring efficient and professional service delivery.\n\nManage VIP, high-profile, and special-request clients with discretion and attention to detail.\n\nBuild strong relationships with guests, residents, clients, suppliers, hotels, restaurants, transportation providers, and other service partners.\n\nAnticipate guest needs and proactively create personalized experiences.\n\nHandle complex requests, complaints, and escalations professionally and efficiently.\n\nCoordinate reservations, transportation, entertainment, events, travel arrangements, and bespoke experiences.\n\nDevelop and maintain a reliable network of premium local and international suppliers.\n\nMonitor service quality, guest satisfaction, response times, and operational performance.\n\nImplement training and coaching programs to continuously improve team capabilities.\n\nPrepare and monitor departmental budgets, costs, and resources where applicable.\n\nEnsure compliance with company policies, confidentiality requirements, health and safety standards, and applicable regulations.\n\nCollaborate closely with Front Office, Guest Relations, Housekeeping, Security, Events, Sales, and other departments.\n\nIdentify opportunities to improve concierge services, introduce new experiences, and enhance customer loyalty.\n\nMaintain accurate records of guest preferences, requests, and service interactions while respecting privacy and confidentiality.\n\nBachelor's degree in Hospitality Management, Business Administration, Tourism, or a related field preferred.\n\n3–5+ years of experience in concierge, luxury hospitality, guest relations, lifestyle management, or a similar customer-experience leadership role.\n\nStrong knowledge of luxury hospitality, lifestyle services, local attractions, dining, travel, and entertainment.\n\nExcellent communication, interpersonal, and relationship-building skills.\n\nStrong leadership and team-management capabilities.\n\nExceptional organizational and multitasking skills.\n\nAbility to remain calm and solution-focused under pressure.\n\nHigh level of discretion, confidentiality, professionalism, and emotional intelligence.\n\nProficiency in Microsoft Office and relevant hospitality/CRM systems.\n\nFluency in English; additional languages are an advantage.\n\nFlexibility to work weekends, holidays, and outside standard hours when required.\n\nexperience is an asset\n\nFluency in English, additional languages are a plus\n\nWhy work for Accor?\n\nWe are far more than a worldwide leader. We welcome you as you are and you can find a job and brand that matches your personality. We support you to grow and learn every day, making sure that work brings purpose to your life, so that during your journey with us, you can continue to explore Accor’s limitless possibilities.\nBy joining Accor, every chapter of your story is yours to write and together we can imagine tomorrow's hospitality. Discover the life that awaits you at Accor, visit https://careers.accor.com/\n\nDo what you love, care for the world, dare to challenge the status quo! #BELIMITLESS\""
+    },
+    "work_arrangement": {
+      "state": "source_omitted"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Makkah",
+          "region": "Makkah Province",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-10-02T06:13:41.007Z",
+    "curated_at": "2026-10-22T02:27:02.541Z",
+    "job_updated_at": "2026-10-22T02:27:02.541Z",
+    "postings": [
+      {
+        "posting_id": "e4d922f37732dc72a46a7d0e5ae31341560acd04c551e165131a8c59ec81062e",
+        "source": "smartrecruiters",
+        "source_posting_id": "744000145199115",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://jobs.smartrecruiters.com/AccorHotel/744000145199115"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://jobs.smartrecruiters.com/AccorHotel/744000145199115-head-of-concierge-saudi-only-?oga=true"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Makkah",
+            "state": "Makkah Province",
+            "remote": false,
+            "country": "SA",
+            "latitude": 21.4240968,
+            "longitude": 39.81733639999999
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-24T07:11:03.325Z",
+        "first_seen_at": "2026-10-02T06:13:41.007Z",
+        "last_completed_fetch_at": "2026-10-15T05:50:38.453Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  },
+  {
+    "job_id": "97130417-62c7-480f-a723-4fa273767778",
+    "currentness": "current",
+    "stale": false,
+    "company_id": null,
+    "employer_name": {
+      "state": "known",
+      "value": "IBC"
+    },
+    "title": {
+      "state": "known",
+      "value": "Export Specialist"
+    },
+    "description": {
+      "state": "known",
+      "value": "Want to help us bring happiness to the world? Want to join an ambitious and fast growing global biscuits and confectionery business investing heavily in iconic global brands, infrastructure and people? Then this is the place for you.\n\nAs proud bakers and chocolatiers and custodians of iconic global brands, we don’t compromise on the quality of ingredients in our products or on the people we hire. We are looking for entrepreneurial spirits who share our passion for bringing happiness to our consumers and who embody our Winning Traits.\n\nTo succeed at pladis you need to be **purpose-led**, **resilient** and **positive** to succeed here because we expect pace and **agility**, we insist on **collaboration** and demand accountability. If that is your thing, then pladis offers global ambition, a clear Vision and roadmap for success, challenge, and unrivalled opportunities to learn and make an impact\n\n  \nClick “Apply” to get started.\n\n**Must‑Have Experience :**\n\n* **3–5 years** of experience in Export Operations, Logistics, or International Trade.\n* Strong knowledge of **Saudi export regulations**, SFDA processes, COO/HC legalization, and customs procedures.\n* Experience handling **land and sea exports**, including GCC cross‑border shipments.\n* Hands‑on experience with **export documentation**, insurance declarations, and government portals.\n* Familiarity with **Smartsheet**, ERP systems (SAP preferred), and export tracking tools.\n\n**Technical Skills**\n\n* Proficiency in:\n    * **Proforma Invoice preparation and Export Shipping documents**\n    * **Export Insurance Declaration**\n    * **Export trackers & Smartsheet**\n    * **Freight forwarder invoice verification**\n* Strong Excel skills (VLOOKUP, Pivot Tables, data accuracy).\n\n**Soft Skills**\n\n* High attention to detail and accuracy in documentation.\n* Strong communication with internal teams, freight forwarders, and government authorities.\n* Ability to work under pressure and manage multiple shipments simultaneously.\n* Problem‑solving mindset and ownership of end‑to‑end export processes.\n* Customer‑centric approach with proactive follow‑up.\n\n**Education**\n\n* Bachelor’s degree in **Logistics, Supply Chain, Business Administration, or International Trade**.\n\n**Job Description –  (KSA)**\n\n**Role Purpose**\n\nThe **Export Specialist** is responsible for managing end‑to‑end export operations, ensuring full compliance with Saudi and international regulations, accurate documentation, timely shipment execution, and smooth coordination with internal teams, freight forwarders, and government authorities. The role supports both **land and sea exports**, including re‑export activities, and ensures accurate reporting and insurance compliance.\n\n**🔹 Key Responsibilities**\n\n**1\\. Export Documentation & Compliance**\n\n* Prepare and issue **Proforma Invoices** for export orders.\n* Manage **Export Insurance Declarations** and ensure all shipments are covered as per company policy.\n* Handle **SFDA notifications**, **Health Certificates**, and all required regulatory documents.\n* Ensure full compliance with Saudi Customs, SFDA, Chamber of Commerce, and country‑specific export requirements.\n\n**2\\. Shipment Execution (Land & Sea)**\n\n* Prepare **loading plans** and coordinate with warehouse, transporters, and freight forwarders.\n* Arrange bookings for land and sea shipments and ensure timely dispatch.\n* Follow up on container movements, transit updates, and delivery confirmations.\n* Coordinate with transporters for cross‑border, and GCC re‑export shipments.\n\n**3\\. Export Legalization & Government Processing**\n\n* Manage **Export Invoice Legalization**, **Certificate of Origin (COO)**, and **Health Certificate (HC)** issuance.\n* Coordinate with Chamber of Commerce, Ministry of Commerce, and other authorities for document stamping and approvals.\n\n**4\\. Claims & Issue Resolution**\n\n* Handle **export claims**, including shortages, damages, insurance claims, and documentation discrepancies.\n* Coordinate with freight forwarders, insurance providers, and internal teams to close claims efficiently.\n\n**5\\. Reporting & Systems**\n\n* Update and maintain the **Export Tracker** with shipment status, documentation, and delivery timelines.\n* Process and verify **supplier/transporter invoices** (freight forwarders, express couriers, land transporters).\n* Maintain and update **Smartsheet** for export operations, ensuring accuracy and visibility.\n* Support monthly reporting for export KPIs, cost tracking, and performance dashboards.\n\n**6\\. Cross‑Functional Coordination**\n\n* Work closely with Sales Operations, Warehouse, Finance, and Supply Chain teams to ensure smooth export flow.\n* Support customers and distributors with shipment visibility, documentation, and regulatory requirements.\n\npladis is an Equal Opportunity Employer, committed to hiring a diverse workforce. All openings will be filled based on qualifications without regard to race, color, sex, sexual orientation, gender identity, national origin, marital status, veteran status, disability, age, religion or any other classification protected by law.\n\nWe operate a strict Preferred Supplier List. If you are a recruitment agency and wish to submit candidate to be considered for this vacancy, you must have agreed to, and signed, our terms of business.  \nWe will not accept CVs from any other sources other than those currently on our PSL. We will not pay a fee for any candidate that has not been represented by a provider on our PSL.\n\n  \n\npladis is an ambitious global snacking company and home to much loved brands including McVitie’s, GODIVA and Ülker. pladis also owns regional brands Jacob’s, Go Ahead, Flipz, Turtles, BN, Verkade and many more products across sweet and savoury biscuits, wafer, cake and chocolate.\n\nFormed in 2016, pladis is the proud steward of over 300 years of family baking and confectionery experience. The expertise of our 15,000+ global workforce spans 26 bakeries and factories and is united by our purpose: to ‘bring happiness with every bite’.\n\nAs a responsible business delivering the highest quality products and exceptional service, pladis’ products have the potential to reach more than four billion people across the world.\n\n  \n\nFor more information, please visit : [www.pladisglobal.com](https://pladisglobal.com/)\n\nFor our Privacy policy please click [here](http://yildizholding.sharepoint.com/:u:/r/sites/Onepladis/Global%20Documents/Privacy%20%26%20Data%20Protection/Privacy%20and%20Data%20Protection%20Policy.url?csf=1&web=1&e=1wfGej)",
+      "evidence": [
+        "display formatting derived from source description HTML as Markdown"
+      ]
+    },
+    "work_arrangement": {
+      "state": "source_omitted"
+    },
+    "locations": [
+      {
+        "state": "known",
+        "value": {
+          "msa": null,
+          "city": "Riyadh Factory",
+          "country": "SA",
+          "county_fips": null
+        }
+      }
+    ],
+    "job_first_seen_at": "2026-09-30T06:41:49.291Z",
+    "curated_at": "2026-10-03T09:03:10.268Z",
+    "job_updated_at": "2026-10-22T02:23:09.756Z",
+    "postings": [
+      {
+        "posting_id": "0a465f304736c8119d7c94c5c659bd664abd58c16dc80677d14cd38c2156a64c",
+        "source": "workday",
+        "source_posting_id": "/job/Riyadh-Factory/Export-Specialist_JR30682",
+        "posting_status": "listed",
+        "posting_url": {
+          "state": "known",
+          "value": "https://pladis.wd3.myworkdayjobs.com/pladis_Careers/job/Riyadh-Factory/Export-Specialist_JR30682"
+        },
+        "application_url": {
+          "state": "known",
+          "value": "https://pladis.wd3.myworkdayjobs.com/pladis_Careers/job/Riyadh-Factory/Export-Specialist_JR30682"
+        },
+        "location": {
+          "state": "known",
+          "value": {
+            "city": "Riyadh Factory",
+            "remote": false,
+            "country": "SA",
+            "countryRaw": "Saudi Arabia"
+          }
+        },
+        "pay": {
+          "state": "extraction_failed"
+        },
+        "source_posted_at": "2026-08-03T00:00:00.000Z",
+        "first_seen_at": "2026-09-30T06:41:49.291Z",
+        "last_completed_fetch_at": "2026-10-22T02:22:54.657Z",
+        "latest_application_check": null,
+        "attribution": {
+          "required": null,
+          "text": null,
+          "link": null
+        }
+      }
+    ]
+  }
+]
