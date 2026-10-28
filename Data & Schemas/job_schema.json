@@ -1,40 +1,52 @@
+
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "JobPosting",
-  "description": "One job posting record. Both team members (JSearch / Headcount Labs) must output exactly this shape.",
+  "description": "Unified job posting record after merging JSearch and Headcount Labs data, cleaning, specialization classification, and technical skills extraction.",
   "type": "object",
   "additionalProperties": false,
   "required": [
+    "source_job_id",
     "job_title",
     "company",
+    "location",
+    "country",
     "specialization",
-    "required_skills",
+    "technical_skills",
     "description",
     "source",
-    "url"
+    "publisher",
+    "url",
+    "posted_date"
   ],
   "properties": {
+    "source_job_id": {
+      "type": ["string", "null"],
+      "minLength": 1,
+      "description": "Original job identifier provided by JSearch or Headcount Labs. null if unavailable. IDs may differ across APIs for the same job."
+    },
     "job_title": {
       "type": "string",
       "minLength": 1,
-      "description": "Title exactly as written in the posting."
+      "description": "Title exactly as written in the original job posting."
     },
     "company": {
       "type": "string",
-      "minLength": 1
+      "minLength": 1,
+      "description": "Company name as provided by the source API."
     },
     "location": {
       "type": ["string", "null"],
-      "description": "City as given in the posting, e.g. 'Riyadh'. null if missing."
+      "description": "City as given in the posting, e.g. Riyadh. null if missing."
     },
     "country": {
       "type": ["string", "null"],
-      "description": "ISO 3166-1 alpha-2 code, e.g. 'SA'. Lets you filter Saudi postings.",
-      "pattern": "^[A-Z]{2}$"
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2 country code, e.g. SA. null if unavailable."
     },
     "specialization": {
       "type": "string",
-      "description": "Primary specialization, one of the 9 target areas. Postings that fit none of them are discarded before validation, not stored.",
+      "description": "Primary technical specialization assigned during the classification phase. Jobs outside the nine target domains are excluded from the final analyzed dataset.",
       "enum": [
         "ai",
         "data_analytics",
@@ -47,10 +59,10 @@
         "uiux_technical_products"
       ]
     },
-    "required_skills": {
+    "technical_skills": {
       "type": "array",
       "uniqueItems": true,
-      "description": "Skills extracted by the LLM. Title Case, one skill per item, e.g. ['Python', 'SQL', 'Docker'].",
+      "description": "Technical skills, tools, technologies, and frameworks explicitly mentioned in the job requirements or preferred qualifications. Extracted during the shared analysis phase. Excludes soft skills. Use an empty array if extraction finds no technical skills.",
       "items": {
         "type": "string",
         "minLength": 1
@@ -58,24 +70,31 @@
     },
     "description": {
       "type": "string",
-      "description": "Full original posting text. Keep it so skills can be re-extracted without calling the API again."
+      "minLength": 1,
+      "description": "Full original job posting text. Preserved for future skill re-extraction and validation."
     },
     "source": {
       "type": "string",
-      "enum": ["jsearch", "headcount_labs"]
+      "enum": [
+        "jsearch",
+        "headcount_labs"
+      ],
+      "description": "API used to collect the job posting."
     },
     "publisher": {
       "type": ["string", "null"],
-      "description": "Site the posting was originally published on (e.g. LinkedIn, Bayt), when the API provides it."
+      "description": "Original publishing platform or applicant tracking system, e.g. LinkedIn, Workday, Greenhouse, or Lever. null if unknown."
     },
     "url": {
       "type": "string",
-      "format": "uri"
+      "format": "uri",
+      "minLength": 1,
+      "description": "Original job posting URL."
     },
     "posted_date": {
       "type": ["string", "null"],
       "format": "date",
-      "description": "YYYY-MM-DD. null if missing."
+      "description": "Original publication date in YYYY-MM-DD format. null if unavailable. Only verified 2026 postings are included in the 2026 analysis."
     }
   }
 }
