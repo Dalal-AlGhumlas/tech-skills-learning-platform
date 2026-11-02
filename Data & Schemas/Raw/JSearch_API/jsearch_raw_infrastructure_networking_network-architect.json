@@ -1,0 +1,473 @@
+{
+  "_meta": {
+    "specialization": "infrastructure_networking",
+    "query": "network architect"
+  },
+  "status": "OK",
+  "request_id": "b5d93865-1875-47da-93cb-b710c0678543",
+  "parameters": {
+    "query": "network architect in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "TG5EdExEVWZndmpvU21yVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXR4U0VsVmJqRnpRV2d4Y1VoU1Vrb3dNbnBpUjNSbVV6VmhSVFpPT0VaclFuTXRRa3RhVWtrMlRIZFJWR1ZqYzAxYVYzWlFUM1ZMVm05ak9GOUtkRzFIVnpBMWRqWmZla294WVhsTVMwWnFkVGMwYjJsUmJtUkhaREUzVmxvemNsWndPWEYyZUdGUWRYVTFkVWR4U1ZFM1ZIZGhNRXR0Ym1oNWFsQnlNbDgzZG1GT1JtOFNGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkRlkzcFBZa3BYV0hsVVVpMWFibWh6VlZsUVRVaE9MVmhxVVc5Mw",
+        "job_title": "Network Engineer/Architect",
+        "employer_name": "Confidential client",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://freelanceradar.co&size=128",
+        "employer_website": null,
+        "job_publisher": "Freelance Radar",
+        "job_employment_type": "متعاقد",
+        "job_employment_types": [
+          "CONTRACTOR"
+        ],
+        "job_apply_link": "https://www.freelanceradar.co/ae/job/95b2d67b-bf54-4379-9170-c07910510213",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.freelanceradar.co/ae/job/95b2d67b-bf54-4379-9170-c07910510213",
+            "is_direct": false,
+            "publisher": "Freelance Radar"
+          }
+        ],
+        "job_description": "Saudi National required for a Network Engineer/Architect role in Riyadh with strong experience in firewalls such as Load Balancer, Palo Alto and Fortinet, plus solid hands-on F5 BIG-IP solutions including WAF and LTM.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٠ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Freelance Radar",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLnDtLDUfgvjoSmrUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LnDtLDUfgvjoSmrUAAAAAA=="
+      },
+      {
+        "job_id": "VnZ1cWZOTDAxLTN3QXRnTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2w2ZGtKbGFXdHFkbGt4ZEhjeGVqZDViMlZhZUdodVNGcEVXVkZRTVhnMVlsUm9NbVo0WlZCM1RWUTRNalUwUWkxRFUzWnNTa1JZWVZaVmFqVk5Semx5UzNSVlREQlNhelYyZEd0aVFWSnRiR0ZwZGxoMVNGUXhVMlV6TWxRNFdFdEJlVzltV25kak5FOUNTVlJJWm1GdFZETnFXWGhoUVVaSlN6aFJaVXRqVjJ4alprRVNGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkR09IbFZNVVpYVlRWS05IazFhVGg1UWtaMmJuVkNTbUUxY1Zobg",
+        "job_title": "Lead Enterprise Network Architect: Cisco, BGP/OSPF, SD-WAN",
+        "employer_name": "NOA Solutions",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/3116318591545245696",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/3116318591545245696",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "NOA Solutions is seeking an experienced Lead Network Engineer to drive enterprise ICT infrastructure projects in Saudi Arabia. You will own architecture design, implementation strategies, and mission-critical deployments, leading teams through BGP/OSPF/MPLS, VLANs, VRFs, and STP, while deploying Fortinet FortiGate firewalls and secure VPNs.\nYou will design Cisco ISE or Aruba ClearPass access control, manage SD-WAN, and bridge local data centers with Azure and AWS, authoring HLD/LLD and SOPs,\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVvuqfNL01-3wAtgNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VvuqfNL01-3wAtgNAAAAAA=="
+      },
+      {
+        "job_id": "czBzOTljUnVvOVpNdjlJVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVTlsV1ZBM2NFZDJXbFZKYkRSSFZuaGllR2R1VVdWR00yaFZhRXhpYjI5UlF6SnRUMk5rWkVGRlRrcHdZVTlYYURKdmFrWnRNblppWlRSTlJWVkRSemxvVW5KdVpETlJUMU55YUdkWWIwSk9NV3MwUVdsNWFGOVlabEp2WDFsYUxWUlRWV0ZTYmtKTFpUVkdPR2wzZDFNdFZVVktTSGsyTW1wU1RtRmhTelJ6UVRKblZWOFNGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkSVdEaG9VMjFtUTB0RGQyeHFNRUpwTFRGclQzWk5XVFJzU2tsUg",
+        "job_title": "Senior Network & Network Security Architect",
+        "employer_name": "SBM",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKe6MWcLnxY5yqGIClU345vpC1n3r3SgOY1zcA&s=0",
+        "employer_website": null,
+        "job_publisher": "Saudi Arabia Jobs Expertini",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.expertini.com/job/senior-network-network-security-architect-al-zahraa-sbm-612685647385134036/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.expertini.com/job/senior-network-network-security-architect-al-zahraa-sbm-612685647385134036/",
+            "is_direct": false,
+            "publisher": "Saudi Arabia Jobs Expertini"
+          }
+        ],
+        "job_description": "Position\n\nNetwork Architect (10+ Years of Experience)\n\nSalary\n\nSAR 27,100 per month\n\nLocation\n\nDhahran, Saudi Arabia\n\nWork Pattern\n\nFull-time, in-person\n\nInterview\n\nRemote\n\nJob Summary\n\nThe organization is seeking a highly experienced Senior Network & Network Security Architect with deep expertise in enterprise routing, switching, data center networking, load balancing, and network security controls.\n\nThis role focuses on designing, standardizing, and governing enterprise network architecture to ensure high availability, scalability, and security, particularly within healthcare and clinical environments.\n\nThe ideal candidate will bring strong hands-on and architectural experience in enterprise network infrastructure (routing/switching, VRFs, VLANs, Nexus, HA design, L4/L7 load balancing) along with solid expertise in network security technologies such as firewalls, WAF, NAC, and proxies. Knowledge of modern security frameworks like SASE, Zero Trust, and Cloud SWG is essential.\n\nCore Responsibilities\n• Design and oversee enterprise network infrastructures including LAN, WAN, SD-WAN, Wi-Fi, and data center connectivity\n• Develop high-availability and low-latency network architectures for critical environments\n• Define network zoning, IP schema, and segmentation strategies for complex systems\n• Implement and govern advanced network security controls: Firewalls, VPNs, WAF IDS/IPS DLP and secure web/email gateways\n• Integrate security practices into infrastructure design and risk mitigation strategies\n• Lead adoption of Zero Trust, SASE, IAM, and next-generation security models\n• Deliver Engineering Design Packages (EDPs), architecture diagrams, and traffic flow analysis\n• Establish and maintain network/security standards and communication protocols\n• Lead vendor evaluations, PoCs, and technical workshops\n• Ensure compliance with regulatory and healthcare security frameworks\n\nKey Requirements\n• Minimum 10+ years of experience in enterprise network architecture and design\n• Expert-level knowledge of routing, switching, LAN/WAN, and wireless networking\n• Strong experience with firewalls, VPNs, WAF, IDS/IPS, DLP, and segmentation\n• Advanced experience in IP schema design, zoning, and multi-domain segmentation\n• Familiarity with cloud connectivity, SASE, Zero Trust, IAM, and hybrid architectures\n• Experience in healthcare or regulated environments is highly preferred\n• Strong communication, documentation, and stakeholder engagement skills\n• Proven ability to lead workshops and align technical solutions with business needs\n• Bachelor’s degree in IT, Computer Science, or related field (Master’s preferred)\n\nPreferred Certifications\n• CCIE\n\nFramework Knowledge\n• NIST\n• ISO 27001 or similar",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "مكة المكرمة     •  عبر Saudi Arabia Jobs Expertini",
+        "job_city": "مكة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.424096799999997,
+        "job_longitude": 39.817336399999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Ds0s99cRuo9ZMv9IUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "s0s99cRuo9ZMv9IUAAAAAA=="
+      },
+      {
+        "job_id": "QUZwV2YxSVVOZ3lFUC1tREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbE40UVVkWmFsTXlTbWhMVjNOV1pVMDJTbTV6VDNkR2JFOUdOM0J2VkRVMlNEZHRlRkZMWHpWa1duUXdjRWMwYkVsblNVcEVjbTVFYnpWVVlYZzBhMW93UVhnNFZrOU9lSGhNYjBKemNEVlhjSFp3VmxoRFEyWkZVRzlFUlZaaFIwUlBTMGgxVERSVmFrWjNSemxZWkdSMlNGOHhNemxqWWxGa2FtaGFlRUZ5V1RKR1QyUVNGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkRk0wWlVXWGxUZEROa1FuQTNPVTgxZFZSSmVGbFpSakptTFd4Qg",
+        "job_title": "Enterprise Security Architect Zero Trust & Cloud",
+        "employer_name": "Jodayn",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjkd30lZhMBWUdW-KeogeUnZOGnxj6f1UOHaIs&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/enterprise-security-architect-zero-trust-cloud--riyadh--eab5f0d6c659a12947146d6f772d1238a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/enterprise-security-architect-zero-trust-cloud--riyadh--eab5f0d6c659a12947146d6f772d1238a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Jodayn is seeking a Cybersecurity / Security Architect to define and govern enterprise security architecture across business, applications, data, cloud, and technology domains. The role develops security principles, reference architectures, standards, controls, and target-state designs while providing architecture assurance for strategic initiatives and technology solutions.\n\nYou will collaborate with enterprise architects, solution teams, and cybersecurity functions to advance Zero Trust, IAM,",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAFpWf1IUNgyEP-mDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AFpWf1IUNgyEP-mDAAAAAA=="
+      },
+      {
+        "job_id": "V0hKX2luZGEtcTcxbkFYcEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3g2UTBkYU9EaFZkVkJ4VlVWTU5sazRWbXhYZFdSSFQxVjZhMFV4UW5GbWIweERiakpyVlVWS1VHNUZWWEJYYzBScFoyVkhkVlp4YmtwUWNFOTVkRmhoYUY5ZlNYTkVOV2hTUzNNek5qbFVhVzUxTUcxblRXcFljVGhJZUROMGVIWmxNRVpLZVZkMldqVXhabU5YTmtwcE9GbG9jVVppWHpWRlZGRjNaRGxWUjA1Q05pMFNGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkSU9VZDNSRk5qWlRWcFZVaDJia00xTW1KeVZVUlRVMHRJU0dsQg",
+        "job_title": "Network Security (L3) Architect",
+        "employer_name": "SAT Microsystems",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZzujsTc9DOUIDHof-EEB8KEaxQv02Iy6rpmo&s=0",
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/network-security-l3-architect-sat-microsystems--techmap_sa_4476094373",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/network-security-l3-architect-sat-microsystems--techmap_sa_4476094373",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "Company Description SAT Microsystems is an established IT service provider delivering innovative solutions that reduce business costs and complexity across Saudi Arabia, the UAE, and multiple other countries. Hundreds of organizations worldwide rely on SAT Microsystems to secure, manage, and support their IT operations, giving the company deep visibility into emerging technologies and industry trends. Its portfolio spans managed IT services, infrastructure support, database and application solutions, desktop support, cyber security services (SOC), and IT outsourcing.\n\nSAT Microsystems also offers advanced capabilities in cloud services, NOC operations, AI, automation, IoT, RPA, chatbots, and business process outsourcing (BPO). The company focuses on helping clients drive digitalization to new levels of efficiency, security, and innovation.\n\nRole Description This is a full-time remote role for a Network Security (L3) Architect. The architect will design and validate advanced network and security architectures, ensuring alignment with industry best practices and organizational security policies. Daily responsibilities include performing in-depth security assessments, defining secure network configurations, and developing high-level and low-level design documents for complex environments.\n\nThe role involves collaborating with cross-functional teams to implement security controls, troubleshoot L3 network and security issues, and optimize performance and resilience. The architect will also participate in security incident reviews, contribute to standards and guidelines, and provide technical leadership and mentoring to engineering and operations teams.\n\nQualifications\n\n• Strong expertise in Security Architecture Design and Cybersecurity, including the ability to create scalable, secure solutions for complex enterprise environments.\n• Hands-on experience with Network Security and Information Security, covering firewalls, VPNs, IDS/IPS, secure remote access, and security governance practices.\n• Advanced knowledge of Network Architecture, including routing, switching, L3 protocols, segmentation, and high-availability design.\n• Practical experience with security frameworks and standards (e.g., ISO 27001, NIST, CIS Controls) and familiarity with compliance requirements.\n• Proficiency with enterprise security and networking technologies (such as next-generation firewalls, SIEM/SOC tools, load balancers, and cloud networking/security services).\n• Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related field; relevant certifications (e.g., CCNP/CCIE, CISSP, CISM, CCSP) are highly beneficial.\n• Strong analytical and problem-solving skills, with the ability to handle complex incidents and provide clear technical guidance.\n• Effective written and verbal communication skills, and the ability to collaborate with distributed teams in a remote work environment.\n\nTechnical Skills:\n\nRouting & Switching: include BGP, OSPF and switching Protocols such as VTP, STP & RSTP\n\nFirewall (L3): Firewall Policies including Destination NAT, Source NAT, IPS, Application Control and Web Control (FortiGate & PaloAlto)\n\nEmail Security, Web Security & DLP (Forcepoint)\n\nEndpoint Security & Disk Encryption: Kaspersky or TrendMicro or Symantec\n\nEDR/XDR: TrendMicro or Kaspersky\n\nF5/WAF: LTM, ASM and GTM (DNS)\n\nZTNA & SASE (Fortinet or any OEM)\n\nSDWAN (Aruba, Fortinet or any OEM)\n\nCloud: OCI or Azure or AWS",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٠ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWHJ_inda-q71nAXpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WHJ_inda-q71nAXpAAAAAA=="
+      },
+      {
+        "job_id": "NS1NNVVveVo5QkN4Z3ZuQUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVVE1U0RkaVNFdFlORXRQZWxrNWNtNXRSMGsyYWxsQlJWVlljRUl3T1dGZmRIWkpTVGMwUmtjdGNHTTRTRXd0TFZweFZFWlJaSFIzZVdZdFJHWTJTVGx0VDNGaGIxQTFaR2gwUldJNExUUlBRVGxoYzJoWWQzQXdSbHBJZEdGQllrWnVkakJ1ZEcxd2FGWndkMXAzYlhveldrcEJaelF6YUV4S1prVjJha1ZmWHpOQlpYY1NGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkR1lYZE9NVU00ZURkVFpuUnlTVWxRT0dobk16ZFhla0V3YkVabg",
+        "job_title": "Senior Cybersecurity Architect (Zero Trust & Cloud Security)",
+        "employer_name": "Socium - Teams Done Differently",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jaabz.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Jaabz Jobs",
+        "job_employment_type": "متعاقد",
+        "job_employment_types": [
+          "CONTRACTOR"
+        ],
+        "job_apply_link": "https://jaabz.com/jobs/291444-cyber-security-architect",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://jaabz.com/jobs/291444-cyber-security-architect",
+            "is_direct": false,
+            "publisher": "Jaabz Jobs"
+          }
+        ],
+        "job_description": "Location: Riyadh, Saudi Arabia (Onsite)Contract Duration: Initial 12 months contractInternational candidates are welcome to apply. Visa sponsorship is available; however, candidates must be willing and able to relocate to Saudi Arabia at their own expense. Airfare and accommodation will not be covered by the company.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jaabz Jobs",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D5-M5UoyZ9BCxgvnAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "5-M5UoyZ9BCxgvnAAAAAAA=="
+      },
+      {
+        "job_id": "UHd0UnVJaWw2UTB4LTV0WUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV000ZWtZNU5XazVUR1JqY1Mxd01YRkNibEJQVTBaS2NtTnRYMkl5TkdaNmRXNTFXSHBMTFhFNWFsVnJPVWhaY0hKek5tUk9ja2xFWjA0eWRHWjFURlZGTTI5VlREaFlkVWRLWjJKS1ZFOXFaV2R2U205RVFUVnBiMDFVZVVwV1FWOWpibEExWDJsSFFXZFRaMlpMTFhjeVZIQnJjSGRrTFVOeVRXTnFSazlvUkZkcWJVa1NGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkR01URkhVRTB5VERSWWQwRm9XWGQ1UjB0WmNrUjJlbTVhZG5aQg",
+        "job_title": "Principal Engineer - AI Networking Solutions Architect",
+        "employer_name": "Dell Technologies",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7laB8Dmt-zDNMDqak78xqd6Lx6vA8_f0TxHJi&s=0",
+        "employer_website": "https://www.dell.com",
+        "job_publisher": "Dell",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/fr/sites/careers/job/300220",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/fr/sites/careers/job/300220",
+            "is_direct": false,
+            "publisher": "Dell"
+          }
+        ],
+        "job_description": "Principal Engineer - AI Networking Solutions Architect\n\nDell Technologies customers rely on our products and services to drive progress. So we take the service we provide extremely seriously. Service Delivery is all about making sure our technical solutions help clients fulfil their priorities, challenges and initiatives. As trusted advisors, we build in-depth knowledge of what each client wants to achieve. Then we make sure the services delivered by Dell Technologies deliver on all our promises.\n\nWe invite you to join our Services Solutions Architecture team as a Principal Engineer - AI Networking Solutions Architect, where you will have the opportunity to excel professionally and make a significant contribution to the advancement of high-performance AI infrastructure.\n\nWhat you’ll achieve:\n\nAs a member of the services delivery team, you will collaborate with Dell consultants, engineering teams, and client stakeholders to design, deploy, optimize, and support large-scale AI network infrastructure solutions, ensuring technical excellence and customer satisfaction throughout each phase of the engagement.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Dell",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DPwtRuIil6Q0x-5tYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "PwtRuIil6Q0x-5tYAAAAAA=="
+      },
+      {
+        "job_id": "VGVrRVAyaXhhenVwZEJITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzVTWlVGRlFrOUdNMGt3YlhOblZXdE9ZMk5FWkdnd2FqSnVNVEZFZW01emJYTnVkbWhKVlhWamNYbG5ZVmhUWHpWelNXOXFjalo0TFRsSU9UWnVXbWw2WDNkQ2RIQjVNalkwYlhwQmVsUnhlUzFWUkdReFIxaHhkVzV4Vm5kRFNHSm1ibXMxZUd4aE9ISXRjV1F6VldSa1dqaGZNSGhHT0UxVVRGb3lPVlZaY0ZkeFVsQVNGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkR2NWVnZXVzlRUTNsbk9EWTFha0pCZVd0T2VFNUhXWGxVY1hOUg",
+        "job_title": "Senior F5 Solutions Architect — Government (KSA)",
+        "employer_name": "C-Serv",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://c-serv.com&size=128",
+        "employer_website": "https://www.c-serv.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/1275038967829755788",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/1275038967829755788",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "C-Serv in Riyadh, Saudi Arabia, is seeking an experienced F5 Professional Services Consultant to manage key government contracts. The role combines on-site and remote work, requiring deep expertise in F5 product design, configuration, and deployment, and the ability to lead complex troubleshooting and health checks.\n\nIdeal candidates have 5+ years in architecture and design of network infrastructure, strong customer-facing consulting experience, and F5 certifications (101/201/301a/b/302+).\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DTekEP2ixazupdBHMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "TekEP2ixazupdBHMAAAAAA=="
+      },
+      {
+        "job_id": "VkdVN0ZKc0NKeWV4Rzd4UEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWR1Y0hKWlowUk1TMW8yTkVsVk5UWmxkRXhmT1V0dmMybGtWVXM0Ym5BMlpqVklNakU1TFRreVEwTmhZamxKUldwRlVFbFlSRVJFT1V0cU1UbHJibXRUT1U5Qk5VczBNalZzWlhJMFoyZFdTbGxxUm0xR1NsSndSR0pqUzJjeFMxTk1aa1pUYmxsd01sRmtSMHAyUzFOUmRrWTVVR3h4VDFWMFVWWkJObmhyYjBwTFpYVVNGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkSFVsbGZSa3RNU0VWSVZUUldSWGRYYTAxVlRucHhSbXBzYjFSQg",
+        "job_title": "Senior Enterprise Network & Security Architect - HA",
+        "employer_name": "Saudi Business Machines",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQB-mcq5QUiHHGdPvuIh4_aTafEGdrtvs9uL2&s=0",
+        "employer_website": null,
+        "job_publisher": "Jobilize",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobilize.com/job/sa-dhahran-compound-senior-enterprise-network-security-architect-ha",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobilize.com/job/sa-dhahran-compound-senior-enterprise-network-security-architect-ha",
+            "is_direct": false,
+            "publisher": "Jobilize"
+          }
+        ],
+        "job_description": "Senior Network & Network Security Architect\n\nPosition\n\nNetwork Architect (10+ Years of Experience)\n\nLocation\n\nWork Pattern\n\nFull-time, in-person\n\nInterview\n\nRemote\n\nJob Summary\n\nThe organization is seeking a highly experienced Senior Network & Network Security Architect with deep expertise in enterprise routing, switching, data center networking, load balancing, and network security controls.\n\nThis role focuses on designing, standardizing, and governing enterprise network architecture to ensure high availability, scalability, and security , particularly within healthcare and clinical environments.\n\nThe ideal candidate will bring strong hands-on and architectural experience in enterprise network infrastructure (routing/switching, VRFs, VLANs, Nexus, HA design, L4/L7 load balancing) along with solid expertise in network security technologies such as firewalls, WAF, NAC, and proxies. Knowledge of modern security frameworks like SASE, Zero Trust, and Cloud SWG is essential.\n\nCore Responsibilities\n• Design and oversee enterprise network infrastructures including LAN, WAN, SD-WAN, Wi-Fi, and data center connectivity\n• Develop high-availability and low-latency network architectures for critical environments\n• Define network zoning, IP schema, and segmentation strategies for complex systems\n• Implement and govern advanced network security controls:\n• Firewalls, VPNs, WAF\n• IDS/IPS\n• DLP and secure web/email gateways\n• Integrate security practices into infrastructure design and risk mitigation strategies\n• Lead adoption of Zero Trust, SASE, IAM , and next-generation security models\n• Deliver Engineering Design Packages (EDPs), architecture diagrams, and traffic flow analysis\n• Establish and maintain network/security standards and communication protocols\n• Lead vendor evaluations, PoCs, and technical workshops\n• Ensure compliance with regulatory and healthcare security frameworks\n\nKey Requirements\n• Minimum 10+ years of experience in enterprise network architecture and design\n• Expert-level knowledge of routing, switching, LAN/WAN, and wireless networking\n• Strong experience with firewalls, VPNs, WAF, IDS/IPS, DLP, and segmentation\n• Advanced experience in IP schema design, zoning, and multi-domain segmentation\n• Familiarity with cloud connectivity, SASE, Zero Trust, IAM, and hybrid architectures\n• Experience in healthcare or regulated environments is highly preferred\n• Strong communication, documentation, and stakeholder engagement skills\n• Proven ability to lead workshops and align technical solutions with business needs\n• Bachelor's degree in IT, Computer Science, or related field (Master's preferred)\n#",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobilize",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVGU7FJsCJyexG7xPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VGU7FJsCJyexG7xPAAAAAA=="
+      },
+      {
+        "job_id": "WFRUNVhwZ3htNTdfV19WZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEpaU2xwYWVXaEdSRmhuU1d4a1kwcHpNM0J5TFRGYVdEWkpNWEpVVFZjd01FRlpUM054YzBwSlNuTkZiUzFWWVZkT2VEVk9Vems0WWpSalJFeHZaVmxHZG5waGJVMVhkRFJzZEZGSFNqZHRTMVF5VURWdE5EaFJSVVpsTldORmNrMHlMV295TFRKWFdVRklhM1JIYlhoS1h6ZFpPVmRDU1RaWVlsVlFSRXByVUUxdGFWY1NGMUl4ZW05aGNUWlZSMDFJT0RWUFZWQTRORXgzYTBGbkdpSkJTRTR3UlRkSFZHMVFUbFZyTVhvMWVuTnVlVGwyUVhwdWVYbEphbEZ3WVdaMw",
+        "job_title": "Juniper Networking Presales Architect | AI, Cloud, Security",
+        "employer_name": "AlJammaz Technologies الجماز للتكنولوجيا",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/juniper-networking-presales-architect-ai-cloud-security--riyadh--e98a4cf81ac82d68954c351d2d45e2849",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/juniper-networking-presales-architect-ai-cloud-security--riyadh--e98a4cf81ac82d68954c351d2d45e2849",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "AlJammaz Technologies الجماز للتكنولوجيا in Riyadh seeks a motivated Presales Engineer specialized in Juniper networking to support the sales team in shaping solutions and presenting technical proposals.\n\nYou will engage with customers, design Juniper-based architectures with HPE Aruba components, and deliver compelling demonstrations and PoCs to win business. Strong networking presales experience and relevant certifications are required.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٤ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXTT5Xpgxm57_W_VgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XTT5Xpgxm57_W_VgAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWlJBX0xxbUpsYzE5NUowQnhRUVlKdERaMnNUYjA5TUpna1pQWXBwb1VOaExPZXY2S1pSUlROeDhTWG9Id3JqMUZWN0FKRlFhekFmczZXaXpnZjRNXzZTUmJ6T09KcVFWbDBWd21LNDRobHlGU3VwUFE3eFdYSzBWcmtkb1d1T1pUUFVhalVKZXUtRkkwTHBqbE00RklqaGhWbmM4eTd2Q1N2UHE1S0tWbjlVUEQ2RTZMdWcxdTMzUUs1b05GcnlZYkJ3WU5fSl9CVTVBTHdSYmpsLUVwOExFOGRCM1lHQm5aUHRFSWVzQTdRWnFYUWpnOEZvYzBaSm5PNzhRVUg2ZS1TZHl2MUEtUUJNTkl4dVdYTUNtRWxXY2J4MmRQRGpxOTlLTGlwdjhLd3FUcjNzVzZ1ZjJSUHlaU0pNeWtDMzZTRmwtLUxUTXpkX3VaellldElEdC1EWHdNM0lZdjhLMjRmRjJKOEthZUVBVmdkbkNPSDk3RnlGVnZxTjlIcHIxNmJ2X21tN1VXajJyYkpUWmRZbmc5VVltOEp1QU5aaU5DYjlMMG1ibmNjV1FtTG5NeHFIU2Ryem1mbmNYYXZSSUJJWUNVdlZBb0ZWb3Mwc1c0WHI0QUVOUTdpSFBVNzZHQVRsb0J2UjNHWDZ3clJkM1hxTllzSGJvVDdpS0RZZjhub0hoVmthNEhBdmJITjc2alpPNV9BM1NDMDNnEhdSMXpvYXE2VUdNSDg1T1VQODRMd2tBZxoiQUhOMEU3SEdmekdIdFptczlIcUx0cm02Q0lsVVBISjVOQQ"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "uiux_technical_products",
+    "query": "product manager"
+  },
+  "status": "OK",
+  "request_id": "b2f89713-e0aa-4049-abe0-838be078962c",
+  "parameters": {
+    "query": "product manager in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "VU9VVENhemRrMmVNZFV0QkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFpWU1hwWFlsWndabmRuVkZoNFRXbFZUVGR6UTNabmJISjNjV1pST0dkVmNqTXhkeTFXWWtwT2IzcElORmhHWkRNNVJsWjJORk5ZY0hKUlUxRlBWVXQyU1V4cVJYVnRTWFpXYURseU0zTjBWWGhhTFd4RVF6QTBWV3MxY0RsNldWcGhOVVYwYXkxdmFYcGpWR2hsWWpCZmIzQTRlRzV0Y0V0VGNGVklNVmRuVDJSWk9YRVNGM0pYU0c5aGIzbHRSbkJQUnpWUFZWQmZPVWhFZDFGWkdpSkJTRTR3UlRkRk5HOUpTelI1VWpORVJFZDNXRzQxU25KSFpGSjRaVFptUXpSQg",
+        "job_title": "Senior Product Manager",
+        "employer_name": "Consult-PRO",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://consult-pro.com&size=128",
+        "employer_website": "https://www.consult-pro.com",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/senior-product-manager-consult-pro-saudi-arabia-69668802",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/senior-product-manager-consult-pro-saudi-arabia-69668802",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "About The Role\n\nWe're looking for a structured, data-driven Senior Product Manager to shape and deliver digital financial products for a growing fintech startup. You'll own product direction and priorities, working closely with business, engineering, design and compliance to turn customer needs into practical, measurable product improvements.\n\nThe role covers the full product lifecycle, from discovery and strategy through launch and growth, with a focus on payments, digital wallets and BNPL.\n\nWhat you'll do\n\n• Define and own the product vision, strategy and roadmap for your assigned product area, aligning customer needs with business objectives.\n• Lead customer discovery through user interviews, product insights, and market and competitor research, translating findings into clear problem statements and business cases.\n• Own and prioritise the product backlog, balancing customer value, business impact, regulatory requirements, technical dependencies and delivery effort.\n• Develop product requirements documents, user stories and acceptance criteria that give engineering and design clear direction.\n• Define MVP scope and success measures, coordinating go-to-market planning, release readiness and post-launch improvements with relevant teams.\n• Partner with engineering and design on backlog refinement, sprint planning and delivery, resolving scope questions and managing product trade-offs.\n• Work with risk and compliance teams to incorporate applicable SAMA regulations, KYC and AML requirements into product design and delivery.\n• Define business and product requirements for API integrations with banks, payment providers and third parties, partnering with technical teams on implementation.\n• Establish product KPIs and contribute to OKRs, using funnel analysis, conversion, retention and other relevant metrics to evaluate performance.\n• Use customer feedback, product analytics and experiments, including A/B testing where appropriate, to guide prioritisation and continuous improvement.\n• Communicate product priorities, progress, dependencies, risks and results clearly to senior stakeholders.\n\nWhat you bring\n\n• 6+ years of product management experience, including 3 years in fintech.\n• A proven track record of taking digital products from discovery through launch and growth, with measurable outcomes.\n• Hands-on product experience in one or more relevant areas: digital payments, wallets, banking, lending, BNPL or open banking.\n• Experience defining product strategy, building roadmaps and making prioritisation decisions using frameworks such as RICE or MoSCoW.\n• Working knowledge of the Saudi fintech landscape, including relevant SAMA requirements and local payment systems.\n• Strong technical understanding of APIs, financial integrations and system dependencies, with the ability to discuss requirements and trade-offs with engineering teams.\n• Strong product analytics skills, including experience with tools such as Mixpanel, Amplitude or Google Analytics.\n• Experience working with cross-functional teams in Agile environments.\n• Proficiency with Jira and Confluence, and familiarity with Figma for reviewing designs and collaborating with designers.\n• Strong stakeholder management skills and the ability to communicate complex requirements clearly.\n• Strong written and spoken English and Arabic.\n\nNice to have\n\n• Experience launching and scaling fintech products in Saudi Arabia or other GCC markets.\n• SQL and/or Power BI skills for independent analysis and reporting.\n• Experience with core banking integrations.\n• Exposure to PCI DSS requirements or information security considerations in financial products.\n• CSPO or PSPO certification, or an MBA.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DUOUTCazdk2eMdUtBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "UOUTCazdk2eMdUtBAAAAAA=="
+      },
+      {
+        "job_id": "SmRsSU1SU3poaGloQU1zNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZaTFCVUhaME1uZHVielZxV21SdlYyVnlNVmx2Y2xkTWFtdE9lRzB3T0VaelFrSmtTemRQWVdjNVZWaE9UUzEzY21WcVltZ3pXVGs1YkRGbVNsRkxUMEoxYkZsdldteGpVMjF3T0d0WU5WaFZkamMzYW5kMFZEUjRjM1JKT1dwWllqaG9ZVzlXY1UwdE5GcGhjbWhzTVdsbVZ5MUdNVEYyVFhCd1dsTjBOMVJVTUdwM2RISVNGM0pYU0c5aGIzbHRSbkJQUnpWUFZWQmZPVWhFZDFGWkdpSkJTRTR3UlRkRlZIRkdkelpUVVhNd1oyRk1hMDVzV2pGeVMyeENTRnA0VW1Wbg",
+        "job_title": "Consumer Product Manager",
+        "employer_name": "Soum",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bayt.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/consumer-product-manager-75322917/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/consumer-product-manager-75322917/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "About Soum\nSoum is a fast-growing B2C marketplace based in Riyadh, connecting buyers and sellers of used electronics and used cars across Saudi Arabia through our website and mobile app. Everything we do is built on trust: buyers need confidence in what they are getting, and sellers need confidence they will be paid fairly and quickly. With the recent launch of our subscription model for electronics and cars, Soum is building the go-to recommerce platform in the Kingdom.\n\nAbout the Role\nThe Consumer Product Manager owns the experience our customers touch every day: how buyers discover, evaluate, pay for and receive a used phone or car, and how sellers list, price and get paid for what they sell. You will be the voice of the Soum customer inside the product team, turning deep consumer insight into features that grow conversion, repeat purchase and trust in the platform.\n\nYou will work across the app and web, partnering with design, engineering, operations and commercial teams to ship quickly and learn from what we ship.\n\nKey Responsibilities\n\n•\nOwn the roadmap for a core consumer area (such as the buyer journey, the seller journey or subscriptions), prioritising ruthlessly by impact on conversion, retention, GMV and customer trust.\n\n•\nBuild a deep, continuous understanding of Soum's customers through user interviews, usability testing, app reviews, customer support tickets and behavioural data.\n\n•\nOptimise the end-to-end marketplace funnel: listing creation, search and discovery, product pages, checkout and payments (Mada, Apple Pay, BNPL), delivery tracking, returns and post-purchase experience.\n\n•\nDesign and improve trust features that make buying used feel safe, including device condition grading, car inspection reports, verified sellers, buyer protection, ratings and transparent pricing.\n\n•\nShape the subscription products for electronics and cars: the value proposition, packaging, onboarding, engagement and retention, working closely with Commercial and Finance on unit economics.\n\n•\nTranslate problems into clear PRDs, user stories and acceptance criteria, and run agile delivery with design and engineering, from discovery through release and iteration.\n\n•\nChampion an Arabic-first, bilingual experience with high-quality RTL design and localisation for Saudi customers.\n\n•\nRun a disciplined experimentation practice: form hypotheses, design A/B tests, define success metrics and make fast, evidence-based decisions on what to scale or kill.\n\n•\nMonitor and report on core consumer KPIs, including conversion rate, listing-to-sale rate, activation, repeat purchase, subscription retention, NPS and customer complaints.\n\n•\nPartner cross-functionally with Operations (inspection, logistics, customer service), Marketing and Growth (acquisition, CRM), and Finance to make sure product changes work end to end, not just on screen.\n\n•\nKeep a close eye on regional and global marketplaces and recommerce players, and bring the best ideas back to Soum, adapted for our customers.\n\nRequirements\n\n•\n2–4 years of product management experience on consumer-facing digital products such as marketplaces, e-commerce, fintech or consumer apps.\n\n•\nA proven track record of shipping consumer features that moved measurable business metrics, and the ability to explain exactly how.\n\n•\nStrong consumer intuition backed by data: comfortable with product analytics tools (e.g. Amplitude, Mixpanel, GA4), funnel analysis and A/B testing; working SQL is a strong plus.\n\n•\nHands-on experience building for mobile (iOS and Android) and web.\n\n•\nSolid understanding of two-sided marketplace dynamics, including supply and demand balance, liquidity, trust and pricing.\n\n•\nExperience working closely with designers and engineers in an agile environment, with clear written specs and sharp prioritisation.\n\n•\nExcellent communication and stakeholder management, able to align operations, commercial and tech teams around a decision.\n\n•\nA true owner who moves fast, takes decisions with incomplete information and cares more about outcomes than output.\n\n•\nFluent English; Arabic is a strong plus.\n\nNice to Have\n\n•\nExperience with KSA or GCC consumers, Arabic/RTL products and local payment methods.\n\n•\nBackground in used goods, recommerce, automotive or subscription businesses.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DJdlIMRSzhhihAMs5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "JdlIMRSzhhihAMs5AAAAAA=="
+      },
+      {
+        "job_id": "ZGRjWmsyeHBHMjlUVU1ub0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkYyUlhKYVVXRkplRVJaY1hKS2RHdzJZV05ZWnpGSlEyeFljRlJmVm1GdFJtSmhZMnhrUzJ4d1VGZDFPRTVvUTNKa1JHRTJTM1E0Tms5emRsQXlUVkp1ZVVGUmJHc3pSMVJpYlVka2Vqa3dVblkxWHpSWVdsSmZZVWt6WVhkd1FsOXpNa1p0ZEhwQk4zQjNVakJ2WnpSQmQyOUxja3RzZEdSVVVESmlTMlU0WVRKb1dXUVNGM0pYU0c5aGIzbHRSbkJQUnpWUFZWQmZPVWhFZDFGWkdpSkJTRTR3UlRkSWFHZG5UblZHV0doUWQwcGpNMnQ1VlhKWGVsbHhURGh1VTFobg",
+        "job_title": "Digital Product Manager",
+        "employer_name": "staff connect saudi",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/digital-product-manager-staff-connect-saudi-saudi-arabia-69628677",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/digital-product-manager-staff-connect-saudi-saudi-arabia-69628677",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "Job Title: Senior Manager – Digital Product & Portfolio Management\n\nJob Location: Jeddah, Saudi Arabia\n\n1. Role Purpose\n\nThe Senior Manager – Digital Product & Portfolio Management manages and orchestrates a portfolio of digital products, platforms and business capabilities that enable digital sales growth, customer experience excellence, operational efficiency and transformation. The role provides central business-side product management and portfolio coordination, ensuring initiatives are clearly defined, strategically aligned, commercially justified, prioritized and delivered across an interconnected ecosystem.\n\nWorking with business stakeholders, Digital Technology, Architecture, UX/CX, Engineering, Data, Cybersecurity and external partners, the role translates opportunities and customer needs into structured capabilities, product requirements, roadmaps and executable delivery plans. It spans discovery, solution evaluation, backlog readiness, implementation coordination, launch readiness and post-launch optimization.\n\nA key mandate is business-side orchestration of connected capabilities across eCommerce, CRM, customer engagement, Voice of Customer, analytics, AI, automation and partner platforms. The Senior Manager independently leads portfolio analysis, discovery, governance and cross-functional coordination, developing evidence-based recommendations for Director-led strategy, investment prioritization and major decisions. This is a hands-on product and portfolio role—not a traditional PMO or technical engineering role.\n\n2. Key Responsibilities\n\nA. Portfolio Strategy, Prioritization & Roadmaps\n• Maintain an integrated portfolio roadmap across products, journeys, platforms and strategic initiatives.\n• Assess initiatives against business value, customer impact, urgency, effort, readiness, risk, dependencies, reuse and strategic alignment.\n• Recommend MVP scope, sequencing, release increments, trade-offs and investment priorities; prepare leadership decision materials.\n\nB. Product Discovery & Business Capability Definition\n• Lead discovery with business, customers, UX/CX, analytics, technology and delivery partners.\n• Define problems, outcomes, customer journeys, use cases, capabilities, business rules, success measures and requirements.\n• Produce business process flows and functional specifications; validate readiness before development.\n\nC. Digital Capability & Ecosystem Orchestration\n• Coordinate connected capabilities across eCommerce, CRM, engagement, VoC, analytics, AI, automation and partner ecosystems.\n• Clarify platform responsibilities, system handoffs, integration dependencies, business ownership and reuse opportunities.\n• Partner with Architecture and Engineering on platform-neutral solution options and cohesive end-to-end customer experiences.\n\nD. Backlog, Requirements & Delivery Readiness\n• Maintain product backlogs, epics, stories, acceptance criteria, release scope and requirement traceability.\n• Lead refinement and resolve business ambiguities with Business Analysts, Product Owners and delivery teams.\n• Assess scope changes and maintain documentation, decisions and ownership across product tools.\n\nE. Cross-Functional Delivery & Product Lifecycle\n• Coordinate business-side work from design and build through testing, launch, stabilization and optimization.\n• Track dependencies, blockers, risks, scope and decisions across internal teams and vendors; escalate material issues.\n• Support integrated release planning, demonstrations, business validation and transition into ongoing operations.\n\nF. Technology & Solution Evaluation\n• Work with Architecture and Engineering to evaluate build, buy, reuse and hybrid options against value, fit, integration, scalability, speed and cost.\n• Support RFP requirements, evaluation criteria, vendor demonstrations and proof-of-concept assessments.\n• Develop business-side recommendations without assuming technical architecture decision authority.\n\nG. Customer Experience, Measurement & Optimization\n• Champion usability, accessibility, localization, content readiness and consistent journeys.\n• Define product success measures with functional owners and ensure analytics and feedback requirements are embedded.\n• Review adoption, conversion, experience and operational performance; recommend post-launch improvements.\n\nH. Portfolio Governance & Stakeholder Coordination\n• Operate intake, assessment, prioritization, stage-gate, reporting and escalation processes under Director direction.\n• Maintain portfolio visibility of ownership, scope, funding, risks, dependencies, decisions and approvals.\n• Prepare executive updates, decision logs, governance forums and cross-functional alignment activities.\n\nI. Financial, Resource & Vendor Support\n• Support budgets, forecasts, business cases, capacity plans, procurement inputs and investment analysis.\n• Coordinate vendor assessments and business-side performance reviews; monitor commitments and deliverables.\n• Track planned versus realized benefits and recommend ways to improve platform and investment value.\n\nJ. Risk, Compliance & Release Readiness\n• Coordinate inputs from cybersecurity, privacy, data protection, legal, accessibility, brand and quality control owners.\n• Coordinate UAT, business and operational readiness, support arrangements, analytics readiness and acceptance evidence.\n• Provide business go-live readiness recommendations and track defects and stabilization actions.\n\n3. Qualifications & Experience\n\nMandatory\n• Bachelor's degree in Business, Computer Science, Information Systems, Engineering, Digital Business, Product Management or related field.\n• 8–12+ years of relevant experience, including 3–5 years in senior digital product, platform or product portfolio responsibilities.\n• Demonstrated hands-on ownership of discovery, roadmaps, prioritization, backlogs, requirements, cross-functional delivery and launch readiness.\n• Experience managing multiple digital products or connected business capabilities in complex customer-facing environments.\n• Understanding of SaaS ecosystems, API integrations and enterprise technology dependencies.\n• Strong commercial analysis, stakeholder engagement, problem solving and executive communication.\n\nHighly Preferred\n• Digital commerce, B2B platforms, insurance, banking, fintech, telecommunications or similar transactional ecosystems.\n• Experience across CRM, engagement, analytics, automation and integrated customer platforms; Salesforce, Sprinklr or Qualtrics exposure advantageous.\n• Agile delivery tools such as Jira, Azure DevOps or Confluence; vendor and systems-integrator coordination.\n• Digital analytics, conversion optimization, customer experience measurement and investment governance.\n\nPreferred Certifications\n• PSPO, CSPO, SAFe Product Manager/Product Owner or comparable product certification.\n• Relevant Agile, portfolio or programme management certifications; practical product ownership matters more than certification alone.\n\n4. Expected Deliverables\n• Integrated digital product portfolio roadmap and prioritization framework.\n• Product discovery outputs, business capability maps and cross-platform dependencies.\n• Backlogs, requirements, user stories, acceptance criteria and release readiness assessments.\n• Portfolio governance reporting, executive decision papers and investment recommendations.\n• Vendor/solution evaluations, product performance and value-realization reports.\n\n5. Key Performance Indicators\n• Portfolio roadmap alignment and readiness; quality of discovery and requirements.\n• Backlog readiness and reduction of requirement-related rework.\n• Cross-platform dependency resolution and business launch readiness.\n• Governance decision turnaround and stakeholder alignment.\n• Product adoption and realized value against approved objectives.\n• Targets and measurement methods will be set against the approved portfolio and operating model.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DddcZk2xpG29TUMnoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ddcZk2xpG29TUMnoAAAAAA=="
+      },
+      {
+        "job_id": "dWRzRUR0a1FOblkzN1FTSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUV4ZFRSQ01ETnNjWFpPWlZkd09IbHdiamwyTmpneGNETkNUbnB4UlhSeWRGTTJVWGxRU25wb1FXVmxha3g0TmpKTk1XNVdTM0ZGWTBWVE0zQlRUMmRIVWtaYVZEUkxXVGhZZFRoeFJGcHNjV1p0ZFU5VE5EaHViVTk2UmsxQ05uZERiRWRIWTBVdE9YTXRObm8wTWxSTFpWTjNTRmh2VjJaZlNVSnNVMUZrVW5waFFrc1NGM0pYU0c5aGIzbHRSbkJQUnpWUFZWQmZPVWhFZDFGWkdpSkJTRTR3UlRkSWRXVnlUbmMxWkRaWVRrWkdlRlJTV1hGRlNGTmlhRGMyUlVSMw",
+        "job_title": "Senior Remote Product Lead - iGaming & Growth",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-3728590281150366894",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-3728590281150366894",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Partner Company is seeking a Product Lead based in Saudi Arabia to shape product strategy and drive innovative iGaming solutions. You will mentor Product Managers, oversee roadmaps, and guide cross-functional teams to deliver measurable business value in a fully remote, international setting.\n\nYou will leverage analytics, experimentation, and market insights to optimize product performance while aligning with strategic growth objectives.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الدمام     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الدمام",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.420682799999998,
+        "job_longitude": 50.088794299999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DudsEDtkQNnY37QSJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "udsEDtkQNnY37QSJAAAAAA=="
+      },
+      {
+        "job_id": "VGRoVWNXbHRQMFlnSEJydUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTVQVURkeFRHeG1MVFpZTUVGb04wbHlkSGhmV0dvMlgwMTRZMjVtU0RaNVpISnJia3cxTlZaSVJtb3lRVkUyTW1WeVQxcHBVWGxxVFVOclZIZ3hSRTlMVFVaYVRHbEZOMk5rWjFNd1pUVlRSakZoYjBoTVlWWk9kUzFwTjB4eExYQklWMkpKWTBsdmNpMTNka1pLWlhGT01qQllOMHRDTnpCVVJuRnZkR1F5VUVkNU4wOFNGM0pYU0c5aGIzbHRSbkJQUnpWUFZWQmZPVWhFZDFGWkdpSkJTRTR3UlRkSVExUXhZV3M0VW1ScE9Fc3hWbE5UUldRemVVMVlSV1pDWTFsUg",
+        "job_title": "Strategic Product Manager, B2B E‑Commerce & Operations",
+        "employer_name": "Squadio",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/strategic-product-manager-b2b-e-commerce-operations--dhahran-compound--e2775b456cd26a34d097e430d3cdfa046",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/strategic-product-manager-b2b-e-commerce-operations--dhahran-compound--e2775b456cd26a34d097e430d3cdfa046",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Squadio in Saudi Arabia seeks a Product Manager to own the full product lifecycle of digital products, from strategy to ongoing optimization. You will drive adoption, collaborate with operations teams across warehousing, procurement, and logistics, and translate business needs into impactful digital solutions.\n\nYou will lead cross-functional efforts to prioritize features, define KPIs, and steer the product roadmap, delivering measurable improvements in B2B e-commerce experiences and operational",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر JobLeads",
+        "job_city": "الظهران",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2361248,
+        "job_longitude": 50.039301699999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DTdhUcWltP0YgHBruAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "TdhUcWltP0YgHBruAAAAAA=="
+      },
+      {
+        "job_id": "REdBQjU1eWwzR3lEQzVCdUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa05KVGtsUWFEVnVaMW8xVFVkNGRFaDZaRXR0Um1OSlpUQTBVbnB6WkdWdlNYcFhTRE13Wm5ka2FsZ3RXbTVFTkdKb1YyZHZZVmM1Y1hST2R6Tk5iV0oxTFZFMFJXbFRUbTAxYzNBME0xWjJjSEZtYkhsdmVGOVRiM0ZRWVZCVVQwWXpjMWhWVGw4NFV6TjRWVGh1UVhSemRuZG5jMEY2TFUxbmRXbGxaVXRFVmxKMWJGQVNGM0pYU0c5aGIzbHRSbkJQUnpWUFZWQmZPVWhFZDFGWkdpSkJTRTR3UlRkSWEyZFVNVkpLYzJ4b1V6azNjazF2YTI1c05rZ3dURzlFWWxKMw",
+        "job_title": "Senior Remote Product Lead - iGaming & Growth",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/7041938195984597359",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/7041938195984597359",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Partner Company is seeking a Product Lead based in Saudi Arabia to shape product strategy and drive innovative iGaming solutions. You will mentor Product Managers, oversee roadmaps, and guide cross-functional teams to deliver measurable business value in a fully remote, international setting.\n\nYou will leverage analytics, experimentation, and market insights to optimize product performance while aligning with strategic growth objectives.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DDGAB55yl3GyDC5BuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "DGAB55yl3GyDC5BuAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlYnZGVzlKbExsWTVHRGxHX2ZFaW92bVQxWTdxbFNrNmhyd2VJLU43RlFkR2FlVkZ0Q1BuNlNXeTBUZUo3NTFIeDg2cnhrZVVGc2ZFZTdXQzdsMEZFVmRhbHg0bU9TZWxFbG14RmU1MnIyWHlYZGszT1JSWlZ5dEphbG5RcjFhYm80VHlFV0xYYlF2Zzczd3YySFo4cmxHbDBYSldmcFZTWWdhbElWLVMyaXFVMFBMWG1yT2s0akFudURoTGpoTjlUM1IwMHRjVGpTTjJySVhEdUtBbmhwblJ5UWZ6eTcxM0w3NDN5VXRPRGZaMWNUd19CalZCbUlHWkdtakF3U2N4allheUZfeVVaWmF4SmhRODk5NjlYSThuV2kyR1hOVE9aMmE3VHRCbWdMRk9SVFZKN3NWMkg5MmNtN18wclIydk5HN2JaTUV6b2p3YkN2bUd4WVVBUUJ4ZkJwdDJzckF1TUtKZUc0dWJKTWNZMHYwdHM3MVQwTy1QaDZpa1pCSnh0RDRoc21Sc3NmNnhrYWZ1NFczVjFvbmpVWXJldWV5UWd6YnhIal80Q2JQQkVIZVFoYXZhWXhod3dNTDhmTUtjaVdfRW5JNl9DaFNQZkk4aEJlTkRFWXNtZUlrTXZKN1U5QXNGcXQtSEw3OUE3VFdPbEJkUHZFM3NrZ0pXX05pbXltaTFfbjRQblRPbEpMOVh4eTVuM2RJRllYd2NREhdyV0hvYW95bUZwT0c1T1VQXzlIRHdRWRoiQUhOMEU3R0gtbjVTcXFQWGt4elNERW8wdGZmTjV3Z2lTQQ"
+  }
+}

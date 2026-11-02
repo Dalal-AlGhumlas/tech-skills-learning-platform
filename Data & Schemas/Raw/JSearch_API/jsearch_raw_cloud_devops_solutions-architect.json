@@ -1,0 +1,248 @@
+{
+  "_meta": {
+    "specialization": "cloud_devops",
+    "query": "solutions architect"
+  },
+  "status": "OK",
+  "request_id": "6e1ec52c-abcf-4ea9-8770-a6b3345993b9",
+  "parameters": {
+    "query": "solutions architect in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "cVFPZ0doVVp1UnNqZlNhWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVFZEZEZKa1JYQllMVzFMYTJaSWEyNVBORUpaZWpZM0xWVkVZMVZZZDI5UWRqRkxZelF3VERaaVJreDJMVkJpWTNwdWFuY3dVMnQ1TFVaeFgwWjNlRloxVjBGNFV6ZG1UbFZyYm1wVWExSXpTSEpzUkZSNWFqUjVVMGt6VTBKc2FUUkxURkpYVVRWaVdXSlRSemhzZEZSRVYxUmxkMDF2ZDBkYVpXOHdjSGRWVEdaQ01YZ1NGMGh0U0c5aGIwdG1UWEl0ZFRWT2IxQXRZMTlNTWxGVkdpSkJTRTR3UlRkRmQydDZkVjh3TWxGNlEzTkxhRFl5YkRkNlZFUlBjbUZxZVdkbg",
+        "job_title": "IT Solutions Architect – Enterprise Architecture & Roadmaps",
+        "employer_name": "Saudi Ground Services",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatRjFlm-WDDdHgAw1P74kjCtONn2sRh4EEaQc&s=0",
+        "employer_website": "https://www.saudiags.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/it-solutions-architect-enterprise-architecture-roadmaps--jeddah--eaf3281a067bccf37983c3eb56bbd407a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/it-solutions-architect-enterprise-architecture-roadmaps--jeddah--eaf3281a067bccf37983c3eb56bbd407a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Saudi Ground Services seeks an IT Business Solutions Officer to support the daily operations of deploying and governing SGS's Enterprise Architecture. The role focuses on aligning IT initiatives with critical business processes and ensuring architecture compliance across the organization.\n\nYou will assist in roadmap planning, cost-benefit analyses, and coordination with various departments to enable efficient IT service delivery.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DqQOgGhUZuRsjfSaXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "qQOgGhUZuRsjfSaXAAAAAA=="
+      },
+      {
+        "job_id": "RzBOV3ZobG43TmJQclJXTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbDk0Y2pjelNYQlJiMncyUkc5eU0xaHZYMmxaT1dsM1IydG1hMjVUYjBwQmQyWTFWR1p6ZEMxdlFubEROelZHZVZCM1IxbEhhMDR5VTB0T1lVUjZkMGd6UTB4dlF6RlZTVEpETkd3d2JGYzVaVVIwU1ZkUVNtSkdXWFJOU2t0V1NXSkZWVkU1TVdFMlIwVjVTVkJZVUdFMWVXTXhNemhuUkU5Tk9WQXRYek5QUlhKUlIyc1NGMGh0U0c5aGIwdG1UWEl0ZFRWT2IxQXRZMTlNTWxGVkdpSkJTRTR3UlRkR01HdGtMVlV3WjBKUmRUZE1kMVJ5WkdNMWQwSkZVa3RhV2pCUg",
+        "job_title": "Solutions Architect Expert",
+        "employer_name": "CNTXT",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/solutions-architect-expert-cntxt-saudi-arabia-69585892",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/solutions-architect-expert-cntxt-saudi-arabia-69585892",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "Job Summary\n• Technical leader with an impact level defined by the ability to design critical systems and influence technology strategy. Operating primarily within the Google Cloud Platform (GCP) the role is responsible for designing secure, scalable, and reliable cloud solutions that address customer requirements and business objectives. the role's mindset is focused on collaboration and long-term vision, ensuring the architecture is sound and aligns with key business objectives. This role involves mentoring others and promoting reusables and scalable architectural principles for modern cloud infrastructure\n\nPrincipal Duties & Detailed Job Description\n• System design: lead the architectural design of large-scale systems, focusing on resilient and well-architected technical environments\n• Technology standards: evaluate and select technologies, defining standards and best practices for the department\n• Team mentorship: mentor and guide other architects and technical leads to help elevate the team's overall capabilities\n• Strategic alignment: collaborate with leadership to align the technology roadmap with strategic business goals\n\nQualification Requirements\n\nEducation Requirements\n\nBachelor's/Master's degree in Computer Science, Software Engineering, Information Technology or a related technical field\n\nWork Experience\n\n6+ years of relevant experience with a significant portion in an architectural role, including hands-on experience designing and implementing cloud solutions, preferably on GCP (not only presales & Advisory)\n\nCertification/License\n\nPreferred: Google Cloud Professional Cloud Architect certification (or equivalent), Terraform professional, or recognized enterprise architecture credentials such as TOGAF\n\nLanguage Skills\n\nProfessional working proficiency in English. Arabic is a plus\n\nFunctional Job Competencies\n• System/solution architecture: proven expertise in designing secure, scalable and resilient distributed systems.\n• Technical influence: demonstrated ability to influence technical decisions and lead architectural governance\n• Communication: exceptional communication skills to articulate complex solutions to any audience",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DG0NWvhln7NbPrRWLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "G0NWvhln7NbPrRWLAAAAAA=="
+      },
+      {
+        "job_id": "ejlqNk05TTdwZllEZVV2QkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZak51V0VGbVMwbHVMVEZLY1drd1FYRlhNWEF5V1Zad1ZIWjVlVEJ2U1VOU1NXZERlSGh5VHpWeE5XbG9RbFZTU21FMlpqQklORFpHZDNOelVsOUNVa051YVhGTVgzWmpaVzE1VTNOMGIzUTRjbkoyVHpSM00wWnNZMlprTFZaZk5FcFdkV3RMUjBselRWWjJkVVZ6ZUdoUlgwdDNkRlUwY2pWRmQwaDVNRTFYUlU5WVlYa1NGMGh0U0c5aGIwdG1UWEl0ZFRWT2IxQXRZMTlNTWxGVkdpSkJTRTR3UlRkR1JHWm9jMmcxU1RGdmJXSTFhVGhGYm5SbGFISm1lVUl0WTFKMw",
+        "job_title": "Senior Solution Architect, Banking Technology",
+        "employer_name": "Westbourneconsultants",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://westbourne.partners&size=128",
+        "employer_website": "https://www.westbourne.partners",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/9082582636669549385",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/9082582636669549385",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Senior Solution Architect, Banking Technology\n\nLocation: Jeddah, Saudi Arabia\n\nStart date: Ideally Sunday, 17 May 2026. Latest start date is 31 May 2026.\n\nDuration: 6 months\n\nClient: Foreign bank\n\nWestbourne + Partners is looking for a Senior Solution Architect with strong end‑to‑end banking technology expertise for a foreign banking client in Jeddah.\n\nThe client is opening an entity in Saudi Arabia and requires architecture support as part of building its technology and architecture function. The key requirement is a solid, holistic understanding of banking technology.\nKey responsibilities\n• Provide senior solution architecture expertise across the banking technology landscape\n• Support the setup of the architecture function for a new banking entity in Saudi Arabia\n• Define solution architecture across core banking and surrounding banking platforms\n• Work with business, technology, security, infrastructure, and vendor teams\n• Support architecture decision making across applications, integrations, data, infrastructure, and securityReview and guide technology choices and implementation approaches\n• Ensure solutions are scalable, secure, compliant, and aligned with banking requirements\n• Support stakeholder discussions and architecture governance activities\nRequired experience\n• Strong solution architecture experience within banking or financial services\n• Solid understanding of banking technology across core banking, channels, payments, integration, data, security, and infrastructure\n• Experience working on banking transformation, new entity setup, or major technology implementation programmes\n• Ability to operate across business, application, data, integration, infrastructure, and security domains\n• Strong stakeholder management and communication skills\n• Experience in Saudi Arabia or the wider GCC is preferred\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dz9j6M9M7pfYDeUvBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "z9j6M9M7pfYDeUvBAAAAAA=="
+      },
+      {
+        "job_id": "RWhLZnpmdmJ4THlKd0k4QUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazVZVFRKNlNXOU5Tbmh5YmxoYVdHMXlUWHBVTFhsWVoxaFZYMnBSUW1vMFJFRjZTRFpoU21sc1ZpMXNaVzF2UkhCZmNYRjFhRzVRVG1aR1pUaExiMlpZVVZWVVZYaHpNMGRMV2tNd1F6aFBXVFo1Ym05QlFuSTVlbGxPWlU4MldXNWtjME5OYzJKVVgxOVVRWE5FYWxWRVFWVkdWRWs0UVRoWmMydG1aMnAyUkVoeGVrSVNGMGh0U0c5aGIwdG1UWEl0ZFRWT2IxQXRZMTlNTWxGVkdpSkJTRTR3UlRkRlVUZHJPVEpKU0hadmEyRmlja1J5UjBONVNTMXFiVjlYV1hOQg",
+        "job_title": "Payments Solution Architect",
+        "employer_name": "Confidential client",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://freelanceradar.co&size=128",
+        "employer_website": null,
+        "job_publisher": "Freelance Radar",
+        "job_employment_type": "متعاقد",
+        "job_employment_types": [
+          "CONTRACTOR"
+        ],
+        "job_apply_link": "https://www.freelanceradar.co/ae/job/70d42493-a966-4306-8307-6245c98f43e6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.freelanceradar.co/ae/job/70d42493-a966-4306-8307-6245c98f43e6",
+            "is_direct": false,
+            "publisher": "Freelance Radar"
+          }
+        ],
+        "job_description": "Design secure, scalable and highly available payment solutions for banking and financial services, requiring 8+ years in solution/enterprise/technical architecture with hands-on FIS IST, FIS Cortex/Apex, Mada, SADAD, Visa, Mastercard, SWIFT, ISO 8583 and ISO 20022 expertise.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Freelance Radar",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DEhKfzfvbxLyJwI8AAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "EhKfzfvbxLyJwI8AAAAAAA=="
+      },
+      {
+        "job_id": "VmNTM3c3elZRQUNmVkdfZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1ZpYmxBNFZHNWphakZmU25reE1YWTVhMkZxTFRjNU9YWnVURzFxUlRsME5GSjBiVU14VmpCNlptaHFVVEJyWVdNMU5ucDNOalU1U1VKbGN6TkpjM0ZpUkdOR2FteHNNbXR6WTI1RmJYTjFSbTl0UTNjNFVVOHljREJUUldWa1RIbEZkVzVWYTJKMU4weERhMmhxTkhoYU5UY3hhVTlmYjJWVFNFTlZMVFE1T0VaU1h6Z1NGMGh0U0c5aGIwdG1UWEl0ZFRWT2IxQXRZMTlNTWxGVkdpSkJTRTR3UlRkRlpURk9iV1pKTkdka1NIcGFkWEE0ZDNvM00yZFpaVUp3Y1hSMw",
+        "job_title": "Solution Architect",
+        "employer_name": "Leuwint Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://leuwint.com&size=128",
+        "employer_website": "https://www.leuwint.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/solution-architect--medina--e97f55b2e8f29f14799152d59ad77b086",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/solution-architect--medina--e97f55b2e8f29f14799152d59ad77b086",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "We are looking for an experienced Solution Architect to design scalable secure and maintainable solutions The ideal candidate should have strong architecture knowledge API expertise digital channel experience and the ability to provide technical leadership.\nKey Responsibilities amp Skills\n\nMinimum 5- 10 years experience needed Strong understanding of Microservices Event-Driven Architecture Domain-Driven Design DDD scalable databases caching observability resilience and performance optimization Hands-on experience in API design and governance including REST standards versioning security documentation testing and release strategies such as Canary Blue-Green and A B testing Ability to create solution architecture diagrams UML sequence diagrams swimlane diagrams and C4 models Good understanding of digital banking channel architecture including authentication authorization token management session management BFF Experience Layer Domain Layer and integration patterns Ability to analyze and challenge business requirements and translate them into scalable secure and maintainable architecture solutions Collaborate with Business Analysts technical teams and stakeholders to align solutions with enterprise architecture and digital strategy Provide strong architectural guidance and technical leadership throughout the solution lifecycle.\n\nLocation -Riyadh Saudi Arabia",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVcS3w7zVQACfVG_eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VcS3w7zVQACfVG_eAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWktfY2VaWXFaTHFvRWFjTmRQeC1YNDlGRkNTOWpqWnpuVG93eFRacGF3b0I5VjQyQTZ2UWV6cUhHUjA0M0hBMFZCUGp0WUxLdDktMlZxbExEZnZUMHk5eXdhbjBRck1mVDktcGYwZF9JNDRLdEJydjZzbl9uTzBCdGQ0amVLS1k0RG81VGJIS1RaZDFZbWpIUnFVRHRFdHNLRGUyUThJQW5ybXZ5NlEtdnBTM0NlaGJTcS1wWENUV2F2dUpkSU54R2JvNWNVcGltM3BEWXphZndwWEoyVDNtbEt4cHJmWmdxQ29FY3hLbTFlcEF0RU4zSFpwbTdxSlR1R1didC1PTk16WG0yY2FMdC1XZ3lpT3d6ZEtMajhLRDN3WV92ZUJXb3M5b0otOUtlTTVjWHNjcVJGZTA2UTVkMmFQZVVoSmxxSmNHVzRvUk1hRS1SX2dSOVJoVXFuVXdRRlE4dWUyS0hycVZTMEVzdmVUcVlSVE5yTlVLNGtIcjVwQVIwUDdEOUprcUZ1VFl6c0F5Znlwcy1RSnlJOW43WWQ3b2RMYXlsZmFWaW5CMjQ1bTRiSVpNV1FkbFFqRzhMQ3N4UnpOSjAtM0V2NEdfSl9FUDJIVGR2anRKVU5lMV9wWE5uNWV4UUdTUjBEMWw4OXZraFVzeWV2N1hzMWlKb1JqTFRyZkNFS081ZXNRalU3R3d0bkk5S1U0OUFFdVBMLW1BEhdIbUhvYW9LZk1yLXU1Tm9QLWNfTDJRVRoiQUhOMEU3SEx4T3hZTmdDOTk0S0gtWkNmZFh4ZW1BSjJpdw"
+  }
+}

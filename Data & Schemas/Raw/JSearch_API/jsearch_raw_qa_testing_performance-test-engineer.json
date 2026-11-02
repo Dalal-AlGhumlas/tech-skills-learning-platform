@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "specialization": "qa_testing",
+    "query": "performance test engineer",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "18ce01a8-4c81-4987-89ba-542474401142",
+  "parameters": {
+    "query": "performance test engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "LXAyNU9zVE9PbEpadEtMMEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3MwUkZOU2FuTnhhbGxZWWxKeVJGQndSRXA2VFRGWE5HSkpRbE5qUmt4WVNWaGlTMGh4ZEU5QlJIaHBTREp3UkZKWFRFVk9SRW95TFV3NVdFMXVPVTFSZFVWSVltbFpPRUZmWlRGMWVtSTJSMmxGVDNaek0wcERjM2hKZDNKTlZqbERkbU0wUkhacmRXcEJRMGhKTkU4MVFrWkZUVVp4U0ZSMGNFaERZM2hwVDBWUlR6SVNGMFl5Ym05aGNIbFhTV054TFhBNE5GQjFaRFpST0VGdkdpSkJTRTR3UlRkR01HMUNTV3N0U2sxa2FsODVabTltYlhWRmNVVTVSakZYTTBGQg",
+        "job_title": "Senior QA Engineer: Quality, Automation & Performance",
+        "employer_name": "Takamol Holding",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://takamolholding.com&size=128",
+        "employer_website": "https://takamolholding.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-qa-engineer-quality-automation-performance--riyadh--e42ad7b699b719622dacd676cdba8ca29",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-qa-engineer-quality-automation-performance--riyadh--e42ad7b699b719622dacd676cdba8ca29",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Takamol Holding in Riyadh seeks a Senior QA Engineer to plan, design, and execute manual and automated testing to ensure software functionality, performance, reliability, and usability. You will own quality activities for assigned products, identify risks early, and support timely defect resolution.\n\nJoin a team that emphasizes rigorous testing practices, collaboration with developers and product teams, and continuous improvement of testing coverage, frameworks, and processes to deliver",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D-p25OsTOOlJZtKL0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "-p25OsTOOlJZtKL0AAAAAA=="
+      },
+      {
+        "job_id": "aHRaRThqTkNOaFhRb3ozYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmRPUVc4MVNYY3lWbVYyVmxKUFRWTjVZbVJJYVVwYWJVaHZRMEpxVWs5QlJIVndhREZNU3pGMk1VVkZaV1UzVVhWQlYyNHdaVXhtUVVoQk9EbFROVTEwYldsb2VFUk5RMnhZUXpWcmExUkxhakkyVDBoRFgyMXZjRWRaVWw5RGNrbFZZa1JtTVdzMFJYbFNTRGt0YURCclluTkRVMEZsWjI0M1JHSldTR2t0WXpWemJESVNGMFl5Ym05aGNIbFhTV054TFhBNE5GQjFaRFpST0VGdkdpSkJTRTR3UlRkR1lqVjBYMUk1YVhFMGVIaHhRa3R5VkhkSVRsTjNObUYxZGtwQg",
+        "job_title": "QA Lead: Automation, Performance & AI Testing Expert",
+        "employer_name": "Takamol Holding",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://takamolholding.com&size=128",
+        "employer_website": "https://takamolholding.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-lead-automation-performance-ai-testing-expert--riyadh--e34cb862bcde6fb0652652c8a6808341a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-lead-automation-performance-ai-testing-expert--riyadh--e34cb862bcde6fb0652652c8a6808341a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Takamol Holding is seeking a QA Lead Expert to orchestrate quality assurance across multiple products, providing advanced technical testing expertise and aligning QA standards with fast digital delivery in Saudi Arabia.\n\nYou will lead test planning, drive automation and performance testing, mentor QA engineers, and collaborate with security and development teams to ensure traceable, auditable quality metrics and timely releases.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DhtZE8jNCNhXQoz3bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "htZE8jNCNhXQoz3bAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

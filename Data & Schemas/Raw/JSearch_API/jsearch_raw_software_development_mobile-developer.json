@@ -1,0 +1,428 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "mobile developer"
+  },
+  "status": "OK",
+  "request_id": "72c8f86a-7bae-4ba8-af14-d5066a6e6c83",
+  "parameters": {
+    "query": "mobile developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "bTRtUWU5YjdvcmxpVVpvWEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVXhZUkRkRFJUbG9kalJEZVRKRU4xTTBjMWRSWkRGUmVsYzFSSFV6Y0RKcWEwTkxNVmc0ZFZwSGFVRjRTVmRtVjNoek9GVkhNQzFIYUZKQ01VZGxjMk5VZWtoSFJtaHBNRlJDYldaS2MyOU1aVk14WmxKbVZUQndkamN4VTFwblkzZ3dkRWRsZG1Gck1VdDRiV2h3ZGsxbFlrUXdSMHhIUmw5NFdYSnVWMmRRUVVkRU1GUVNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBoTU9XTnlYMmR2TFhCTVdrSnVhblZuWWpsSFNGcDFNMlJwT1VF",
+        "job_title": "React Native Mobile Developer",
+        "employer_name": "Royal Cyber KSA",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGNm6j_qi9gtIyOlQPR3ylIoqcgEgLsu_RDuX&s=0",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/react-native-mobile-developer-5503315/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/react-native-mobile-developer-5503315/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "JOB DESCRIPTION\n\nReact Native Mobile Developer (iOS & Android)\n\nJob Summary\n\nWe are looking for an experienced React Native Mobile Developer to design, develop, test, and maintain high-quality cross-platform mobile applications for iOS and Android. The ideal candidate will have strong expertise in React Native, JavaScript/TypeScript, mobile application architecture, API integration, and performance optimization. The candidate will collaborate with product owners, business analysts, UI/UX designers, backend developers, and QA teams to deliver secure, scalable, and user-friendly mobile applications.\n\nKey Responsibilities\n\n· Design, develop, and maintain cross-platform mobile applications using React Native for iOS and Android.\n\n· Build reusable components and scalable mobile application architectures.\n\n· Translate UI/UX designs and wireframes into responsive, high-quality mobile interfaces.\n\n· Integrate RESTful APIs, backend services, and third-party SDKs.\n\n· Implement secure authentication, authorization, session management, and data storage.\n\n· Optimize application performance, responsiveness, and memory usage.\n\n· Troubleshoot and resolve application defects across iOS and Android platforms.\n\n· Implement push notifications, deep linking, and device-specific functionalities.\n\n· Collaborate with QA teams on unit testing, integration testing, and UAT defect resolution.\n\n· Manage application builds, signing, and deployment to the Apple App Store and Google Play Store.\n\n· Participate in code reviews, technical discussions, sprint planning, and Agile ceremonies.\n\n· Maintain technical documentation and follow coding standards and security best practices.\n\nSkills\n\nRequired Skills and Qualifications\n\n· 6–9 years of mobile application development experience, including at least 3 years of hands-on React Native experience.\n\n· Strong proficiency in JavaScript (ES6+) and TypeScript.\n\n· Good understanding of React concepts, including hooks, state management, and component lifecycle.\n\n· Experience with state management libraries such as Redux Toolkit, Zustand, or Context API.\n\n· Strong experience integrating REST APIs, JSON, and asynchronous operations.\n\n· Familiarity with native iOS and Android development concepts.\n\n· Experience with native modules and third-party SDK integration.\n\n· Knowledge of mobile application security, secure storage, and authentication mechanisms.\n\n· Experience with Git, CI/CD pipelines, and mobile build tools.\n\n· Understanding of mobile application performance optimization and debugging.\n\n· Experience publishing applications to the Apple App Store and Google Play Store.\n\nPreferred Qualifications\n\n· Experience with React Native CLI and Expo.\n\n· Familiarity with Swift, Objective-C, Kotlin, or Java.\n\n· Experience with Firebase services, analytics, and push notifications.\n\n· Knowledge of biometric authentication, device security, and certificate pinning.\n\n· Experience in banking, fintech, or other regulated industries.\n\n· Familiarity with automated testing frameworks such as Jest, Detox, or Appium.\n\n· Experience with Agile/Scrum delivery and Jira.\n\nEducation\n\nBachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent practical experience.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dm4mQe9b7orliUZoXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "m4mQe9b7orliUZoXAAAAAA=="
+      },
+      {
+        "job_id": "QlZZektsd3JpS0lLQ1kxdEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbk53WDJrNVluVlRZMUpmTTJzeGR6VXliM0EwVFhWclJGZ3phSHBIZDBoSmMxZDVZbXBpT1VaV2N6Skhaakk0UmpsTlQyVmxURmhqU1VoSmVqbG9kRXhITjNCNGJGTTFaV3RGWW5oVE0yRkRRVkp4YjBGTGVEUkdiMDVOU0UxaE5YSkVOME5OY214WVEwOW5ZbkV4V0ZWbFdUTlZVMjVEYVVVeFdrVkZWbE5EZW5Ock9HVVNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBkNWFEZGxXVU5zWWpobFpYcG1ZM1YxVkc1NWJVSnBSbFJGZDJj",
+        "job_title": "Mobile Application Developer - Robotics",
+        "employer_name": "QSS AI & ROBOTICS",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/mobile-application-developer-robotics-qss-ai-robotics-saudi-arabia-69668509",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/mobile-application-developer-robotics-qss-ai-robotics-saudi-arabia-69668509",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "Company Description:\n\nQSS AI & ROBOTICS is a technology solutions provider that has built strong trust and long-term relationships with customers and partners. The company delivers complete support services, from early-stage planning through project implementation and closure. Its professional services team focuses on helping clients optimize technology investments, reduce business risk, and enhance return on investment. By collaborating with leading global technology partners, QSS enables customers to deliver high-value services to their own clients. QSS specializes in Artificial Intelligence, Robotics, and emerging technologies, offering a dynamic environment for innovation-focused professionals.\n\nRole Description:\n\nWe are looking for an Android Mobile Application Developer with at least 3 years of professional experience in designing, developing, and maintaining Android applications.\n\nThe candidate will be responsible for building and maintaining Android mobile applications for robotic systems, integrating backend services and APIs, optimizing application performance, and ensuring high-quality mobile solutions.\n\nThe role requires close collaboration with software developers, backend engineers, robotics engineers, AI engineers, QA engineers, and project teams to deliver reliable, scalable, and production-ready mobile applications.\n\nResponsabilities:\n\n· Design, develop, maintain, and enhance native Android mobile applications for robotic systems.\n\n· Develop clean, efficient, reusable, and maintainable code using Kotlin and/or Java.\n\n· Build responsive and user-friendly mobile interfaces following Android development best practices.\n\n· Integrate mobile applications with RESTful APIs, backend services, and third-party systems.\n\n· Implement authentication, authorization, and secure data handling within mobile applications.\n\n· Manage application data, local storage, caching, and synchronization.\n\n· Debug, troubleshoot, and resolve application crashes, bugs, and performance issues.\n\n· Optimize application performance, responsiveness, memory usage, and stability.\n\n· Implement push notifications, background services, and real-time data updates where required.\n\n· Collaborate with backend developers to define API requirements.\n\n· Participate in code reviews, testing, debugging, and application release processes.\n\n· Prepare and maintain technical documentation for mobile applications and integrations.\n\n· Support application deployment, updates, and maintenance through Google Play Store.\n\n· Work closely with QA engineers to identify and resolve issues before production releases.\n\n· Collaborate with robotics, AI, software, and project teams to ensure successful application development and integration.\n\nQualifications\n\n· Knowledge in backend development using Node.js, Python, Java, or similar technologies.\n\n· Familiarity with backend frameworks such as Express.js, FastAPI, Django, or Spring Boot.\n\n· Understanding of database technologies such as PostgreSQL, MySQL, or MongoDB.\n\n· Experience with Firebase services, including Firebase Cloud Messaging and Crashlytics.\n\n· Experience with Kotlin Coroutines, Flow, and asynchronous programming.\n\n· Familiarity with Jetpack Compose and modern Android UI development.\n\n· Experience with WebSockets, real-time communication, and event-driven applications.\n\n· Familiarity with Docker, CI/CD pipelines, and automated mobile application deployment.\n\n· Experience developing mobile applications for robotic systems, IoT devices, or connected hardware.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DBVYzKlwriKIKCY1tAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "BVYzKlwriKIKCY1tAAAAAA=="
+      },
+      {
+        "job_id": "Zm9HNkV2cEh4dGZlUjZTQUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVFpoVUhSRWNrWk9aamczY1dob1dYazFRMnBITjFWUk5qRXpWV1p5VGtaTWJsTk5RbXh1ZDNCa2VGOHRiR0o0TXpaNWJ5MVVhbmxGVlRsamFXRmhkbk4xTUc5NWVFSjJXakYwVDAxMGRsUTVUbFpCT1ZaQldGTm5aRnA2UVhCMU9VcFpNMnBIYzNGU2JIcDFlVFZPTTB4RE1rSmlibVUwWm5ZNU5tZDBjVFJTYjFoSGIyZ1NGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBoclRFTlRhbE5XVDB0elVqWTBNVWxTT0hac1ltTm9aR00wTWtF",
+        "job_title": "Mobile Application Developer - Robotics",
+        "employer_name": "QSS AI & ROBOTICS",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/mobile-application-developer-robotics--riyadh--ef1831da5029e6d9b77d1c4be91fa5b0e",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/mobile-application-developer-robotics--riyadh--ef1831da5029e6d9b77d1c4be91fa5b0e",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "QSS AI & ROBOTICS is a technology solutions provider that has built strong trust and long-term relationships with customers and partners. The company delivers complete support services, from early-stage planning through project implementation and closure. Its professional services team focuses on helping clients optimize technology investments, reduce business risk, and enhance return on investment. By collaborating with leading global technology partners, QSS enables customers to deliver high-value services to their own clients. QSS specializes in Artificial Intelligence, Robotics, and emerging technologies, offering a dynamic environment for innovation-focused professionals.\nRole Description:\n\nWe are looking for an Android Mobile Application Developer with at least 3 years of professional experience in designing, developing, and maintaining Android applications.\n\nThe candidate will be responsible for building and maintaining Android mobile applications for robotic systems, integrating backend services and APIs, optimizing application performance, and ensuring high-quality mobile solutions.\n\nThe role requires close collaboration with software developers, backend engineers, robotics engineers, AI engineers, QA engineers, and project teams to deliver reliable, scalable, and production-ready mobile applications.\nResponsabilities:\n• Design, develop, maintain, and enhance native Android mobile applications for robotic systems.\n• Develop clean, efficient, reusable, and maintainable code using Kotlin and/or Java.\n• Build responsive and user-friendly mobile interfaces following Android development best practices.\n• Integrate mobile applications with RESTful APIs, backend services, and third-party systems.\n• Implement authentication, authorization, and secure data handling within mobile applications.\n• Manage application data, local storage, caching, and synchronization.\n• Debug, troubleshoot, and resolve application crashes, bugs, and performance issues.\n• Optimize application performance, responsiveness, memory usage, and stability.\n• Implement push notifications, background services, and real-time data updates where required.\n• Collaborate with backend developers to define API requirements.\n• Participate in code reviews, testing, debugging, and application release processes.\n• Prepare and maintain technical documentation for mobile applications and integrations.\n• Support application deployment, updates, and maintenance through Google Play Store.\n• Work closely with QA engineers to identify and resolve issues before production releases.\n• Collaborate with robotics, AI, software, and project teams to ensure successful application development and integration.\nQualifications\n• Knowledge in backend development using Node.js, Python, Java, or similar technologies.\n• Familiarity with backend frameworks such as Express.js, FastAPI, Django, or Spring Boot.\n• Understanding of database technologies such as PostgreSQL, MySQL, or MongoDB.\n• Experience with Firebase services, including Firebase Cloud Messaging and Crashlytics.\n• Experience with Kotlin Coroutines, Flow, and asynchronous programming.\n• Familiarity with Jetpack Compose and modern Android UI development.\n• Experience with WebSockets, real-time communication, and event-driven applications.\n• Familiarity with Docker, CI/CD pipelines, and automated mobile application deployment.\n• Experience developing mobile applications for robotic systems, IoT devices, or connected hardware.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DfoG6EvpHxtfeR6SAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "foG6EvpHxtfeR6SAAAAAAA=="
+      },
+      {
+        "job_id": "ekd3cFRfUDloTU9FLTJtaUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVzFQV21sUFYyWnpWMnA1TmxFMGJUVlBaREJrZVMxMmNEWlNYemd5TVVwTU0yaFlNbGhyYkdOdFNUVk1ORGMyYkVobE5qVXRXbTl1UzBKMFpIWjZZMVF6UWpOUExXOUdOVTlPYzJ4aE1FZElRak5hY2t0RU1IaDRWV2cxVjFOUlFVUk9aVko2VURSS1QwVjZVM3AyY1RWSFlUbEZNMDFwYmxRdFNFeE1iWGN0YkY5cFJWQVNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBaS1VXRnlNa2RUVG1WNllVcHRSMmR5TUhsNVgwOVdOMHhEUkVF",
+        "job_title": "Android Developer (Saudi National)",
+        "employer_name": "Astek Middle East",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://astek.net&size=128",
+        "employer_website": "https://astek.net",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/android-developer-saudi-national--al-qassim-province--ecd3fe4b09c0173f0443780a4e0fa1593",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/android-developer-saudi-national--al-qassim-province--ecd3fe4b09c0173f0443780a4e0fa1593",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Astek Middle East is part of Astek, a global engineering and technology consulting group founded in France in 1988 and now present on five continents. The Middle East entity delivers IT and technology services across Saudi Arabia, the Emirates, and Jordan, supporting clients in public and government, healthcare, transportation, banking, retail, airlines, and tourism. With 10,000 employees worldwide and revenue of €620 million in 2023, Astek focuses on digital transformation and complex systems engineering for international clients. The group promotes a strong culture of entrepreneurship, innovation, and continuous skills development. More information is available on the Astek Saudi Arabia and Emirates country pages, and candidates can reach Astek Middle East at contact-astekme@astek-international.com.\n\nAbout the Role\n\nWe are looking for a skilled Android Developer to join our client's team in Al Qassim. The ideal candidate will have hands‑on experience developing high-quality, scalable, and reliable Android applications development using Kotlin and modern Android technologies.\n\nCandidates with 5+ years of experience are preferred. However, candidates with 3+ years of relevant experience may also be considered if they demonstrate strong technical capabilities and practical Android development experience.\n\nCandidates currently based in Al Qassim will receive priority consideration.\n\nKey Responsibilities\n\n• Design, develop, test, and maintain high-quality Android applications development.\n\n• Develop Android applications using Kotlin and modern Android development frameworks.\n\n• Integrate mobile applications with RESTful APIs and backend services.\n\n• Participate in application architecture and technical design discussions.\n\n• Write clean, maintainable, reusable, and testable code following Android development best practices.\n\n• Collaborate with Product, UX/UI, Business Analysis, QA, DevOps, and other engineering teams.\n\n• Participate in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, refinement, reviews, and retrospectives.\n\n• Conduct code reviews and contribute to development standards and code quality.\n\n• Troubleshoot application crashes, performance issues, and other technical problems.\n\n• Contribute to automated build, testing, and deployment processes for Android applications.\n\nRequired Technical Skills\n\n• Professional experience in Android application development, ideally 5+ years; candidates with 3+ years may be considered based on technical strength.\n\n• Strong hands‑on experience with Kotlin.\n\n• Solid knowledge of the Android SDK and application lifecycle.\n\n• Experience with Jetpack and Jetpack Compose.\n\n• Understanding of MVVM and/or Clean Architecture.\n\n• Experience integrating applications with RESTful APIs.\n\n• Familiarity with dependency injection frameworks such as Hilt or Dagger.\n\n• Experience with Kotlin Coroutines and Flow.\n\n• Understanding of local data storage and caching mechanisms, such as Room.\n\n• Experience with Git and modern source‑control workflows.\n\n• Knowledge of application security, performance optimization, and memory management.\n\n• Experience with unit testing and UI testing.\n\n• Basic practical understanding of DevOps and CI/CD concepts for mobile applications.\n\n• Familiarity with tools such as GitLab CI/CD, GitHub Actions, Azure DevOps, Jenkins, or Fastlane.\n\n• Experience working in Agile/Scrum environments.\n\nPreferred Qualifications\n\n• Experience publishing and maintaining applications on the Google Play Store.\n\n• Familiarity with Firebase services, crash reporting, analytics, and monitoring.\n\n• Exposure to automated mobile testing.\n\n• Understanding of secure mobile development practices.\n\n• Experience working on large‑scale or enterprise mobile applications.\n\n• Strong problem‑solving, communication, and teamwork skills.\n\nAdditional Information\n\n• Saudi nationality is mandatory.\n\n• Candidates currently residing in Al Qassim will be prioritized.\n\n• Candidates residing elsewhere may be considered if they are willing to relocate to Al Qassim.\n\n• Candidates with 3–4 years of experience may be considered if they demonstrate strong hands‑on technical skills.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "منطقة القصيم     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.207825999999997,
+        "job_longitude": 43.483737999999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DzGwpT_P9hMOE-2miAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "zGwpT_P9hMOE-2miAAAAAA=="
+      },
+      {
+        "job_id": "WHpLS2ZTVVJXazRXOFYzRUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZV3RZTlVWdlNVaFFNRXh6TURaaFZtdEpWbXRZZEZKWGNIZGZOV05sYzNaTFNtdGhlakZqU25WcU16VkxNRmRTWWtwUVZWaEdTMVZqTmxrNWNqSjJRMGhPTUVWWFQyUjBObXhFTVc1MGVUWlJOM0JJZWxOeFYxOUlaM2RMVTBsSlpFZ3dkekJvWHpGNmNIUkNabkp4Y1hCaE0zUjVhRXRDVERsWWMwSndPVmx4TmpCSWVtSVNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBWbmFIQldjMjEwVkVSVWFtcG5SakJUYW1oM1NHazFMV2x0V2xF",
+        "job_title": "Mobile Application Developer and Support Analyst",
+        "employer_name": "Jobgether SRL",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-2811606078069242685",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-2811606078069242685",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Mobile Application Developer and Support Analyst based in Saudi Arabia.\n\nAs a Mobile Application Developer and Support Analyst, you will design, develop, test, deploy, support, and optimize SAP-based mobile applications and extensions. You will work extensively with SAP Mobile Development Kit (MDK), SAP Business Application Studio (BAS), and SAP BTP Mobile Services. The role combines hands-on mobile development with technical troubleshooting and ongoing application support. You will collaborate with SAP developers, functional consultants, business stakeholders, and other technology teams to deliver reliable and scalable mobile solutions. Your work will span integrations, offline-first functionality, backend extensions, security, and device capabilities. This is a remote opportunity suited to a technically strong professional who can take ownership of mobile solutions throughout their lifecycle.\nAccountabilities:\n• Design, develop, test, deploy, support, and optimize SAP-based mobile applications and extensions using SAP MDK, BAS, and SAP BTP Mobile Services.\n• Create and maintain SAP MDK pages, rules, actions, and application functionality aligned with business requirements.\n• Integrate mobile applications with OData services and SAP S/4HANA environments.\n• Implement and maintain offline synchronization and offline-first mobile capabilities.\n• Develop and maintain backend extensions using technologies such as SAP CAP, Node.js, or Java.\n• Configure SAP BTP destinations, roles, authentication mechanisms, and security policies.\n• Implement integrations with mobile device capabilities, including camera, GPS, barcode and QR scanning, and file handling.\n• Support mobile application deployment across iOS and Android platforms.\n• Troubleshoot, debug, and optimize applications to ensure reliability, performance, and a high-quality user experience.\n• Work closely with SAP development teams, functional consultants, business stakeholders, and other technology teams throughout the application lifecycle.\n• Contribute to technical documentation and communicate technical issues, solutions, and recommendations clearly.\nRequirements:\n• 3+ years of hands-on experience developing with SAP Mobile Development Kit (MDK).\n• 3+ years of hands-on experience with SAP Business Application Studio (BAS).\n• 3+ years of hands-on experience with SAP BTP Mobile Services.\n• SAP certification in one or more of SAP BTP, SAP MDK, or SAP Mobile Services.\n• Strong experience developing SAP MDK pages, rules, and actions.\n• Proven experience integrating MDK applications with OData services and SAP S/4HANA.\n• Experience implementing offline synchronization and offline-first mobile functionality.\n• Strong JavaScript development skills.\n• Experience with SAP Fiori design and application development.\n• Experience deploying mobile applications for both iOS and Android.\n• Experience developing backend extensions using SAP CAP, Node.js, or Java.\n• Experience working with SAP HANA Cloud and HDI containers.\n• Practical knowledge of BTP destinations, roles, authentication, and security policies.\n• Experience with OAuth and SAML.\n• Experience integrating applications with device capabilities such as cameras, GPS, barcode and QR scanners, and file handling.\n• Strong troubleshooting, debugging, performance optimization, and application support skills.\n• Excellent technical documentation and communication abilities.\n• Ability to collaborate effectively with developers, functional consultants, business stakeholders, and cross-functional technology teams.\n• Post-secondary education related to Computer Technology or a comparable technical discipline.\nBenefits:\n• Fully remote work environment.\n• Contract opportunity.\n• Hands-on ownership of SAP mobile application development and support.\n• Opportunity to work across SAP MDK, SAP BTP Mobile Services, BAS, SAP S/4HANA, and related technologies.\n• Exposure to mobile development across both iOS and Android platforms.\n• Opportunity to collaborate with technical, functional, and business teams on enterprise technology solutions.\nHow Jobgether works:\n\nWe use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\nData Privacy Notice:\n\nBy submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXzKKfSURWk4W8V3EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XzKKfSURWk4W8V3EAAAAAA=="
+      },
+      {
+        "job_id": "V2pNTDZXUHdFbWY2dzlJRkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZazk2ZVRkd1FuZHFORlZqYm1ORFIwRnNjbFJtTFZWelpIVklWMFZvZHpKMGFWUk9PWGRETkZKb1RsZFFiRXRSUzBFd1NXbzFUbVV3UVZWelgwRnVka0pPWWpCMWRHZ3RkMkl6YkdRNE1rTkhMWGh2Ym5wd2RWbEtiREJXYm5wamRFNDFVakphZFVwTGFrcDNjMmwzTVVOeFVqRjVVRlZpVkV4TVpIUXpabEUyU2psWE9XNFNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBWd1RqRm5WSFJ6YVhwaFYyRnRRMHhRZGsxbGIwWlBiV1pZYlZF",
+        "job_title": "Mobile Application Developer and Support Analyst",
+        "employer_name": "Jobgether SRL",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-5345172663794784021",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-5345172663794784021",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Mobile Application Developer and Support Analyst based in Saudi Arabia.\n\nAs a Mobile Application Developer and Support Analyst, you will design, develop, test, deploy, support, and optimize SAP-based mobile applications and extensions. You will work extensively with SAP Mobile Development Kit (MDK), SAP Business Application Studio (BAS), and SAP BTP Mobile Services. The role combines hands-on mobile development with technical troubleshooting and ongoing application support. You will collaborate with SAP developers, functional consultants, business stakeholders, and other technology teams to deliver reliable and scalable mobile solutions. Your work will span integrations, offline-first functionality, backend extensions, security, and device capabilities. This is a remote opportunity suited to a technically strong professional who can take ownership of mobile solutions throughout their lifecycle.\nAccountabilities:\n• Design, develop, test, deploy, support, and optimize SAP-based mobile applications and extensions using SAP MDK, BAS, and SAP BTP Mobile Services.\n• Create and maintain SAP MDK pages, rules, actions, and application functionality aligned with business requirements.\n• Integrate mobile applications with OData services and SAP S/4HANA environments.\n• Implement and maintain offline synchronization and offline-first mobile capabilities.\n• Develop and maintain backend extensions using technologies such as SAP CAP, Node.js, or Java.\n• Configure SAP BTP destinations, roles, authentication mechanisms, and security policies.\n• Implement integrations with mobile device capabilities, including camera, GPS, barcode and QR scanning, and file handling.\n• Support mobile application deployment across iOS and Android platforms.\n• Troubleshoot, debug, and optimize applications to ensure reliability, performance, and a high-quality user experience.\n• Work closely with SAP development teams, functional consultants, business stakeholders, and other technology teams throughout the application lifecycle.\n• Contribute to technical documentation and communicate technical issues, solutions, and recommendations clearly.\nRequirements:\n• 3+ years of hands-on experience developing with SAP Mobile Development Kit (MDK).\n• 3+ years of hands-on experience with SAP Business Application Studio (BAS).\n• 3+ years of hands-on experience with SAP BTP Mobile Services.\n• SAP certification in one or more of SAP BTP, SAP MDK, or SAP Mobile Services.\n• Strong experience developing SAP MDK pages, rules, and actions.\n• Proven experience integrating MDK applications with OData services and SAP S/4HANA.\n• Experience implementing offline synchronization and offline-first mobile functionality.\n• Strong JavaScript development skills.\n• Experience with SAP Fiori design and application development.\n• Experience deploying mobile applications for both iOS and Android.\n• Experience developing backend extensions using SAP CAP, Node.js, or Java.\n• Experience working with SAP HANA Cloud and HDI containers.\n• Practical knowledge of BTP destinations, roles, authentication, and security policies.\n• Experience with OAuth and SAML.\n• Experience integrating applications with device capabilities such as cameras, GPS, barcode and QR scanners, and file handling.\n• Strong troubleshooting, debugging, performance optimization, and application support skills.\n• Excellent technical documentation and communication abilities.\n• Ability to collaborate effectively with developers, functional consultants, business stakeholders, and cross-functional technology teams.\n• Post-secondary education related to Computer Technology or a comparable technical discipline.\nBenefits:\n• Fully remote work environment.\n• Contract opportunity.\n• Hands-on ownership of SAP mobile application development and support.\n• Opportunity to work across SAP MDK, SAP BTP Mobile Services, BAS, SAP S/4HANA, and related technologies.\n• Exposure to mobile development across both iOS and Android platforms.\n• Opportunity to collaborate with technical, functional, and business teams on enterprise technology solutions.\nHow Jobgether works:\n\nWe use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\nData Privacy Notice:\n\nBy submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جيزان     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "جيزان",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 16.889358599999998,
+        "job_longitude": 42.5705674,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWjML6WPwEmf6w9IFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WjML6WPwEmf6w9IFAAAAAA=="
+      },
+      {
+        "job_id": "b2V1VERYOVN1YVRtbmtsZUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVVIxUmxwRE56WmthM2hKVTJSUVJHVm1Wakp1WVVoU2VWRjRNMmhqWlhWUWRXMVdjVlkxUm5KekxYWjJNRWgwTUVKWlgxWXlXVk5pVlRnemVtTlhjRVUzYjJGNWJUQTJVMlU1UVdkck4yd3ROVW8wU200NVRsVXlWbFpzTW14TE9GSkVkM2cwV0c5dGFtNWtiMEZGUWpaQk1ESnhURVZMWXpoUlZuWjVTM2RqVUZNdGEzTVNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBjeE1IbElObUl0VDFSTllXMVVTMUF0WlRWRFRsazRSbEpaTW5j",
+        "job_title": "We re Hiring: Web Developer – Hasbati",
+        "employer_name": "Hasbati",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hasbati.com&size=128",
+        "employer_website": "https://hasbati.com",
+        "job_publisher": "Naukrigulf",
+        "job_employment_type": "دوام جزئي",
+        "job_employment_types": [
+          "PARTTIME"
+        ],
+        "job_apply_link": "https://www.naukrigulf.com/we-re-hiring-web-developer-hasbati-jobs-in-al-madina-al-munawarah-saudi-arabia-in-hasbati-3-to-5-years-n-cd-380706-jid-261026000395",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.naukrigulf.com/we-re-hiring-web-developer-hasbati-jobs-in-al-madina-al-munawarah-saudi-arabia-in-hasbati-3-to-5-years-n-cd-380706-jid-261026000395",
+            "is_direct": false,
+            "publisher": "Naukrigulf"
+          }
+        ],
+        "job_description": "Design and develop interactive online calculators and web tools.Implement mathematical formulas and algorithms with a high level of accuracy.Improve existing tools, features, and functionality.Build responsive, user-friendly interfaces for desktop and mobile devices.Test applications, identify bugs, and implement effective solutions.Optimize website performance, loading speed, and code quality. Strong knowledge of HTML, CSS, and JavaScript.Experience developing interactive web applications and online tools.Ability to translate technical requirements into reliable solutions.Good problem-solving skills and attention to detail.Commitment to code quality, accuracy, and deadlines.Previous experience building calculators or similar web tools is a plus.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Naukrigulf",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoeuTDX9SuaTmnkleAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "oeuTDX9SuaTmnkleAAAAAA=="
+      },
+      {
+        "job_id": "czJGYmlwQmdRT2J4RmJEbUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZa1ZsVTBnM2VUSmxaVEJJWjJkTmVWUkpOWE5yTjFaUlZsb3pRVVpzTWpGeVoyVjFNMWx4UTFwRU1tTnViRzl5VjIxYWFFSjJUblJVVDJVeU5VZEhkVzQxUjFRNVRVMUliR3R3ZFUxaFkwUTVWVTAzYlV4WWVGazRSMVV6YWtGZmJqQm1aek5zVGtKSk5tczRiMmN0TmxjeWIwWjFkblpFZURWUWNuRlRZUzFPZHpsbk5EUVNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBoelVrbFJZa2RwZGpBeU5GZHRaMmROYW5BeFpuUlJTRmw0VjNj",
+        "job_title": "Healthcare Mobile App Developer | Android/iOS",
+        "employer_name": "Black Pearl Consult",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://blackpearlconsult.com&size=128",
+        "employer_website": "https://www.blackpearlconsult.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/4722732077438938719",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/4722732077438938719",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Black Pearl Consult in Dammam is seeking an IT Business Specialist - Mobile Application Developer to design, build, and maintain mobile apps for healthcare solutions. You will work across Android and iOS platforms, integrating RESTful APIs and leveraging cross‑platform frameworks as needed.\n\nThe role requires strong UI/UX sensibilities, experience with Android/iOS SDKs, and familiarity with SAP ABAP and SAP BAS.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٠ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الدمام     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الدمام",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.420682799999998,
+        "job_longitude": 50.088794299999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Ds2FbipBgQObxFbDmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "s2FbipBgQObxFbDmAAAAAA=="
+      },
+      {
+        "job_id": "TFRhS3ZJb0RSeDBfVXVacUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVGh4ZGpOWmRWOUlkMVJEU0V0d09VOXBNR05XV0RVdFoyRXhablpvWVVSM1EyZHNiM2RaV0ZjdFIxQkhPRmRUWVc5V01sOVFiMVZvYm1ObU9IZHdlaTAwVlhKUVpHVmFYeTFMY2pJMFUzbFFPR2gyVDA1dWEyZHdWMWRyU1drM1FWOUtOak56Umw5clpXZFRZelpYTFRCdWNUazNlazFqWW1NNVpqSkljbVEyYzNoRGNWTVNGbGRHZG05aGRHbzBRemRZUXpWUFZWQjNka3RzUlZFYUlrRklUakJGTjBkb1Nqa3RaRlpaVGpkWlVVOTFOMlV3T0Znd1pYTlNVVmhzVFhj",
+        "job_title": "Mobile Engineer",
+        "employer_name": "CoorB",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://coorb.io&size=128",
+        "employer_website": "https://coorb.io",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-5458503753406293882",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-5458503753406293882",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Jeddah, Saudi Arabia | Posted on 08/06/2026\nCoorB is all about digital finance. We build full-fledged innovative solutions with a focus on process automation, user experience enhancement, and advanced data analytics. With our extensive industry expertise, we help achieve operational excellence, future-proof your IT investments, and ensure a competitive edge in the ever-evolving finance industry.\n\nJob Description\nWe are looking for a talented and motivated Mobile Engineer with 1–3 years of experience in developing, testing, and maintaining mobile applications. The ideal candidate should have hands-on experience in building high-quality Android and/or iOS applications, a solid understanding of mobile application architecture, and a passion for delivering intuitive and scalable mobile solutions. You will work closely with product managers, UI/UX designers, backend developers, and QA teams to develop and enhance mobile applications.\n\nKey Responsibilities\n\n• Design, develop, test, and maintain mobile applications for Android and/or iOS platforms.\n\n• Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.\n\n• Write clean, maintainable, and efficient code following industry best practices.\n\n• Integrate mobile applications with RESTful APIs and backend services.\n\n• Debug, troubleshoot, and resolve application defects and performance issues.\n\n• Participate in code reviews and contribute to improving development standards.\n\n• Optimize applications for speed, scalability, security, and user experience.\n\n• Support application deployment to Google Play Store and Apple App Store.\n\n• Stay up to date with the latest mobile development frameworks, tools, and technologies.\n\n• Contribute to application documentation and technical design discussions.\n\nRequirements\nRequired Skills\n\n• 1–3 years of experience in mobile application development.\n\nProficiency in one or more of the following:\n• Android (Kotlin or Java)\n\n• Cross-platform frameworks such as Flutter or React Native\n\n• Strong understanding of mobile application architecture patterns (MVVM, MVC, or Clean Architecture).\n\n• Experience integrating RESTful APIs and JSON-based services.\n\n• Familiarity with Git and version control workflows.\n\n• Knowledge of mobile UI/UX design principles and responsive layouts.\n\n• Experience debugging and optimizing mobile applications.\n\n• Understanding of secure mobile application development practices.\n\n• Familiarity with local storage solutions such as SQLite, Room, Core Data, or Shared Preferences.\n\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLTaKvIoDRx0_UuZqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LTaKvIoDRx0_UuZqAAAAAA=="
+      }
+    ],
+    "cursor": "EuEECqIEQUREYldlWWc2cWlPa1YzX3VacUluZndKSVM4YldKWHFydDRBVjhTUEFqd2JWVHBFcFJ0bWsxTWtGMllHOW16U1p1TnJzRG11Q0ROSGpyU3Brd3FDOUJMMktocnRTZHgtajBiQ3hEYkMtbnVYclpuY1VpdlVXSDh6ZHVjeXBNaTBkV3VaNVNoMl80c1pQbGw3R2hrVmVPeE42WVBSeHZIMFp6ZTRpb0JXVVI3WkZZUk1YOV8yVE9LSmlzMFgzbTV6NjJuMDJ2ME5PR3NHdHdaUnpvM2JTUkQtS1QzMUx6dGJCQk51azlZaFJoVE1PeXM1RU1CS2oxWFMwT3R2M0RMX1lCckR5dGdQWHNMWFB4MmRpU2pMcFliWTlBc0xPMGJpUXFnWWdxSEpodnYwQjU1ajV1eFEyY3ZXaTJGQVZ2U0puSWdlR0JrSU9QN2FqN1BIZXg0S3hEbjFsdDBjYkI1dGFxaWRuTHIxR1JaUzZkaTlCTTNZai1CZlhmaTFwVkxpcDZJd3JBaGRhNUo1eW8wU0x5ZU5GUUU5NmpHMXdpNkkwZThnQW05VE1aamtlSTVMbXFTcFNIRTlFSWNuMG5tZlJFenZyRF9SSDZNcER3QjdlU25leDNqcTJfd2IyUl9xWS1WRDN1d0ZkOHhFdjRSY0lQdUtIcnIybkc2SU9MR0RTaVBhNUFXRi1IRUxOQUdMSWV0VFFRSXJrYWNVNEtOQmJBEhZXRnZvYXRqNEM3WEM1T1VQd3ZLbEVRGiJBSE4wRTdIV2tJemlnMEJZVEVyb0l1X3JLTjBXSDFjdWt3"
+  }
+}

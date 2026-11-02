@@ -1,0 +1,428 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "java developer"
+  },
+  "status": "OK",
+  "request_id": "3e590dce-49f1-429b-bc0b-7590462e728b",
+  "parameters": {
+    "query": "java developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "TWMybFpPZUtnbVRqVU5zTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZakZrV2tZNFduZFRaWHB2WW1SMGNtczJVM2sxTW5ad1dHMXVhREEwTmxwQ1YwVlJVRlE1VnkxMWRFbFpVRFZCVjFsQlFtcDZVRVJXVlRacGRGRkVXbVp2UkZSUGIwYzJWakJrWjJwSFpuZHhNazVFUVcxMFVHZzJZUzFqYlVoellXNVpRMDl4TUdrM1VXeDVSMDVOTWtKVFZ6Qm5jRVJZVlU5TloyNXljMFpMVXpsalJuY1NGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkRmFuTkNjVEJGVldkNmVYaGllRTl3YVRaUFVsSnhkbFJXVmtkUg",
+        "job_title": "Senior Java Backend Engineer - Scalable Travel Tech",
+        "employer_name": "AlMosafer",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://almosafer.com&size=128",
+        "employer_website": "https://www.almosafer.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/2068063519017795584",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/2068063519017795584",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "AlMosafer, one of the largest travel and transportation companies in Saudi Arabia, is seeking a Senior Backend Engineer. In this role, you will design and implement Java applications to enhance business solutions. The ideal candidate has 3-5 years of Java experience, a solid understanding of microservices, and will contribute to various phases of the development cycle. Join us in our exciting digital transformation journey!#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DMc2lZOeKgmTjUNsNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Mc2lZOeKgmTjUNsNAAAAAA=="
+      },
+      {
+        "job_id": "T1FnelpEdjNUUGZuRmllaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVZTVFRsbVYzcGxNamRWZERSWVFtSklja05FVlMxc1dXbFJkelpwV1ZsZlRFWkVWMVF5UlZOeWNHTXpiMms1Tms1eVZITXdkazU2U1d4RVltdDFZMlY1WVd0TlpYRTNhV3RWUmpsUGNFaG1RVXg1ZEVSSE56WmhRelZWWldvMWIxOUxTMGgwTkdGcE5rVnNXRFI2ZUZsSU9WQTJhR05xVFZJMFFUWXlNVFZtWWxaU0xWa1NGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkSGR6VkRkek10YVRZNUxYTmxiREpsZGxaTWRWYzVhbU52UkdwUg",
+        "job_title": "Hands-On Senior Dev Lead: Java Spring Microservices Architect",
+        "employer_name": "CodeNinja Inc.",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://codeninjaconsulting.com&size=128",
+        "employer_website": "https://codeninjaconsulting.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/hands-on-senior-dev-lead-java-spring-microservices-architect--riyadh--ef28666e6a06ac04ad113f2c6e1003a03",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/hands-on-senior-dev-lead-java-spring-microservices-architect--riyadh--ef28666e6a06ac04ad113f2c6e1003a03",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "CodeNinja is seeking a hands-on Senior Development Lead based in Riyadh to drive architecture, LLD, and delivery of scalable AI-enabled platforms. You will lead the development team while staying deeply involved in coding, design reviews, and troubleshooting.\n\nThe role requires deep Java/Spring Boot expertise, microservices, API design and security, and strong leadership to mentor developers and ensure high-quality production systems for Saudi Arabia and the wider MENA region.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DOQgzZDv3TPfnFieiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "OQgzZDv3TPfnFieiAAAAAA=="
+      },
+      {
+        "job_id": "UnhZMEVpaXd0NkxwLWVfU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmR2Y0ZWR1dFZE1WekZpWlhSaGMzcFRMVzV0TW01RWIxUXRZbmhoY0RSUE0yNVdXbDlUV1VvMmNHNXhhMXBQTkVKNWNWOU5iazgyU1doQllVUnlWaTF3Y0U5S2NUWXRURlJRYkRoUlFuWTFjMnBvZHpBNVZESldZbGxFV0hwblRYRjNabmxLYzJ4Wk0yeHRXVzF1YnpRMFUwVmhjbUZtVjBWUVNUSk1hV2wyV1dSdmVIa1NGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkR1lUUkJVWEo2VFdGelFYZFZXbGxvWkcxamVIWk5SRlJpYlMxbg",
+        "job_title": "Riyadh-Based Java Backend Developer (Quarkus) — 3-Month Contract",
+        "employer_name": "Uasmart",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uasmart.eu&size=128",
+        "employer_website": "https://uasmart.eu",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/riyadh-based-java-backend-developer-quarkus-3-month-contract--riyadh--e414b366d38d69c43c6bd3be7852d8d72",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/riyadh-based-java-backend-developer-quarkus-3-month-contract--riyadh--e414b366d38d69c43c6bd3be7852d8d72",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Royal Cyber Arabia in Riyadh, Saudi Arabia, is seeking a Java Backend Developer with Quarkus experience for a three-month contract. The ideal candidate has roughly 7 years of backend Java experience and must already be located in Riyadh for local engagement.\n\nThe role focuses on developing and maintaining backend services, integrating Quarkus components, and ensuring robust application functionality within a fixed contract period.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DRxY0Eiiwt6Lp-e_SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "RxY0Eiiwt6Lp-e_SAAAAAA=="
+      },
+      {
+        "job_id": "UG5JcDJVSkJsZ2tHc3lGekFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZalJLWm00MVNUUjBTV3RFWTBwNWFGbFljek56YVZoUk1VaDNlV2xaWmpkWGIzTkJRVWs1Wms5cVoxRlJTa1JhZEUxNmRrUTJkV1V6TVZORmQybE9TVVpMTjBaNlQxWXdhVEpsVWtKc2VqRlZaMTlqYkRCNGQybFdMVmx0Y0hGcVZsSkhjbkpuVWxkcFJURnhjak5sYkVSd2FIVjJkREI2TFZwU1ZHZERjV2RhWTFGNGNFY1NGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkR1FWcE9MWGhoVWxoMWEyUXhNbXBLYUcxTU9TMWlaM2h6ZGw5Qg",
+        "job_title": "Java Team lead #D009",
+        "employer_name": "Tamem",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/java-team-lead-d009--riyadh--e49d9ba13afbf326f0eba9ac6818cb12a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/java-team-lead-d009--riyadh--e49d9ba13afbf326f0eba9ac6818cb12a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "We are seeking an experienced Java Team Lead to oversee the design, development, and delivery of enterprise‑grade web portals and digital experience solutions. The ideal candidate will have a strong technical background in Java/J2EE and related frameworks, combined with proven leadership skills to guide and mentor a team of developers.\n\nKey Responsibilities\n\nTechnical Leadership\n\n• Lead a team of Java developers in delivering scalable, secure, and high‑performance solutions.\n\n• Define technical architecture, coding standards, and best practices for portal and web application development.\n\n• Review and approve technical designs, code, and system configurations.\n\n• Provide hands‑on support in designing, coding, debugging, and optimizing applications when necessary.\n\nProject Delivery\n\n• Collaborate with Product Owners, Business Analysts, and Architects to gather requirements and translate them into technical solutions.\n\n• Plan, prioritize, and allocate tasks for the development team to ensure timely delivery.\n\n• Ensure solutions meet performance, scalability, and security requirements.\n\n• Oversee integration of Liferay portals with enterprise systems (e.g., ERP, CRM, ECM).\n\nPeople & Process Management\n\n• Mentor, coach, and develop team members to enhance skills and productivity.\n\n• Foster a culture of innovation, collaboration, and accountability.\n\n• Conduct regular performance reviews and provide feedback.\n\n• Drive Agile/Scrum practices, ensuring continuous delivery and improvement.\n\nRequired Skills & Qualifications\n\n• Bachelor's or Master's degree in Computer Science, Engineering, or related field.\n\n• 5+ years of experience in Java/J2EE development, with at least 2+ years leading development teams.\n\n• Strong expertise in Java, including customization, theming, portlet/module development, and OSGi frameworks.\n\n• Proficiency in Spring, Hibernate/JPA, RESTful services, and front‑end technologies (HTML, CSS, JavaScript, React/Angular is a plus).\n\n• Solid understanding of software design principles, microservices, cloud deployment (Docker, Kubernetes), and CI/CD pipelines.\n\n• Experience integrating Liferay with identity management (SSO, LDAP, OAuth2, SAML).\n\n• Strong problem‑solving, analytical, and communication skills.\n\n• Ability to manage multiple priorities in a fast‑paced environment.\n\nPreferred Qualifications\n\n• Experience with cloud platforms (AWS, Azure, GCP).\n\n• Exposure to DevOps practices and tools (Jenkins, GitLab CI, SonarQube).\n\n• Liferay certification(s) is a plus.\n\n• Familiarity with enterprise content management (ECM) and document management systems (e.g., Alfresco, SharePoint).",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DPnIp2UJBlgkGsyFzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "PnIp2UJBlgkGsyFzAAAAAA=="
+      },
+      {
+        "job_id": "NklJWGw1N0d2MzV3azM5eUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVWRDTUVoa0xTMVFRVFZLUWtrdGNHRjNjbHB1YjNwNU5EUjNNWEI0Wkdac2JqZzNXa1pOVmxoU2JGZFNlR3hZWmt0b1owUkNaMDVJZG5ZdE16azBVR3ByV25GNlJtZFdaM2d4VDNsMk9EWlhZMko0T0haaFFuZ3hhamxOYkhodlVVMVVlblV5Um1aeGVpMXFWV2RKTmxGVmVrNDJUREZ4YjFOdVJXVmtibWx4VTFWYWRuSVNGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkSGVXTlpOaTB0Y0ZsTlNucDBNa0pmYkV4cllWVmplVVpCYzFkbg",
+        "job_title": "Senior Java developer #D007",
+        "employer_name": "Tamem",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-java-developer-d007--riyadh--e3bd0ae5771869fba31a14bea52201e59",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-java-developer-d007--riyadh--e3bd0ae5771869fba31a14bea52201e59",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "About the job Senior Java developer #D007\n\nDuties & Responsibilities\n\nPosition Overview\n\nWe are seeking an experienced Java Senior Developer to oversee the design, development, and delivery of enterprise-grade web portals and digital experience solutions. The ideal candidate will have a strong technical background in Java/J2EE and related frameworks, combined with proven leadership skills to guide and mentor a team of developers.\n\nKey Responsibilities\n\n• Mentor Java developers in delivering scalable, secure, and high-performance solutions.\n\n• Define coding standards and best practices for portal and web application development.\n\n• Provide hands-on support in coding, debugging, and optimizing applications when necessary.\n\n• Collaborate with Product Owners, Business Analysts, Team Leads, and Architects to gather requirements and translate them into technical solutions.\n\n• Oversee integration of portals with enterprise systems (e.g., ERP, CRM, ECM).\n\n• Foster a culture of innovation, collaboration, and accountability. Conduct regular performance reviews and provide feedback.\n\nQualifications, Skills & Abilities\n\n• Bachelor's degree in Computer Science, Engineering, or related field.\n\n• 3+ years of experience in Java/J2EE development.\n\n• Expertise in Java, including customization, theming, portlet/module development, and OSGi frameworks.\n\n• Solid understanding of software design principles, microservices, cloud deployment (Docker, Kubernetes), and CI/CD pipelines.\n\n• Experience integrating Liferay with identity management (SSO, LDAP, OAuth2, SAML).\n\n• Strong problem-solving, analytical, and communication skills.\n\n• Ability to manage multiple priorities in a fast-paced environment.\n\n• Preferred Qualifications\n\n• Experience with cloud platforms (AWS, Azure, GCP).\n\n• Liferay certificate(s) are a plus.\n\n• Familiarity with enterprise content management (ECM) and document management systems (e.g., Alfresco, SharePoint).",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D6IIXl57Gv35wk39yAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "6IIXl57Gv35wk39yAAAAAA=="
+      },
+      {
+        "job_id": "N1BaYS1QWmNwWlBWbGl4QUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVEJ0WmpOeFExbHZTbEo1TUdoSlFuUktVVTUwWW5aVFluRXpkamRvZFZnMmQyNTFXRjlrTVdWVFRtRTVSWEpFUlc5SmMyTnplbG80WjNSR04zbFdiMUZYU2xCTVZtTXhTbEJGT1dZeGNITjZUbVF5UjA1WFRISTFZM2hPUlhOUWRVc3lRV2hvWkdnMlFtUkpaVXBrYkRseFMyTktabmwwVHpOQ1JtSTRNRWd5VWxkNFNtTVNGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkRlVra3RaR0V5UWtsTFFsRTJTbVY1Y1ZReFIwbGlVbnBYZW1KUg",
+        "job_title": "JAVA Full Stack Developers",
+        "employer_name": "Confidential",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://confidential.careers&size=128",
+        "employer_website": "https://confidential.careers",
+        "job_publisher": "Saudiacareer.com",
+        "job_employment_type": "متعاقد",
+        "job_employment_types": [
+          "CONTRACTOR"
+        ],
+        "job_apply_link": "https://saudiacareer.com/en/jobs/java-full-stack-developers",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudiacareer.com/en/jobs/java-full-stack-developers",
+            "is_direct": false,
+            "publisher": "Saudiacareer.com"
+          }
+        ],
+        "job_description": "We are hiring more JAVA Full Stack Developers for a 3 months project in Riyadh, Saudi Arabia. Candidates must have excellent skills in Java, Spring Boot, React JS.\n\nSalary: SAR15000 to SAR18,000 per month\n\nExperience: Minimum 5 Years.\n\nCandidates must be available in Saudi Arabia and ready to join immediately.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٦ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Saudiacareer.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D7PZa-PZcpZPVlixAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "7PZa-PZcpZPVlixAAAAAAA=="
+      },
+      {
+        "job_id": "LXA0YkRNQ3lFazdNdS12eUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbE5qYWxCelZ6UTVhVjltTjNVek5VbFFVbkZYTlVabExUZERkV3RRZDBNeFVITjRaaTFhVTI5WWJIUkxRM0F0YTJGRWNrcFRjemxsWDJSS1pGWm1YMVZIV0ZwWVZVeHVUa3RhVlUwNFVEVndWRm8wZUVoM1RFa3liSGhQUTBkeVJtaHBUVGxKT1hZeE9ERkpPV00yTlRWa1NtaENNMHBzYkVVeGIxSjRjbTk1YkRkQ1NHb1NGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkRlVreHNUM2s1U1ZwVU9GY3hNVzE1ZHpsaVJWZFhiMnBwY25CUg",
+        "job_title": "Senior Java Full-stack Engineer (spring Boot + Angular)",
+        "employer_name": "Emdad By Elm",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/1021073637555306496",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/1021073637555306496",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Emdad By Elm in Saudi Arabia is seeking a Senior Java Full Stack Developer to design, build, and maintain scalable web applications. You will develop backend services with Java and Spring Boot and craft responsive frontend applications using Angular. You'll integrate frontend with APIs, participate in code reviews, testing, deployment, and continuous improvement, and write clean, maintainable code while collaborating with cross-functional teams to deliver high-quality software. #J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D-p4bDMCyEk7Mu-vyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "-p4bDMCyEk7Mu-vyAAAAAA=="
+      },
+      {
+        "job_id": "U0RMNjVDUDd6b2VMdUtuYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa0YwTlc5MVpITnZiVFJWYldGUU5FcFNNRWR4VEVsak1rRktiVkp2ZHpSVlpHOWFhMFZrVW05ME9FTjBjamx4YVc1MFlUYzVNRVpaVmpsV1VIQkdiVVZEU1hsR2FEZENRVzFHVjE5MmRFbFFOMHBxY3pKS1IydElkVFZ3YkZnNFlYTjBUblJaWDJaUWJVbDJObEUwUjFaV1J6ZzVaa3hLWkdVeFZHOW9ZVjlTU1hWbmVXWVNGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkRmMxUTBjRGx0ZFRaaFkwRkJVamg0TVRjelZ6RjBUV1pJYldkbg",
+        "job_title": "Senior Java Engineer (Payments)",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-5516595657140588656",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-5516595657140588656",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Java Engineer (Payments) based in Saudi Arabia.\n\nJoin a specialized engineering environment where you will design and deliver secure, scalable, and high-performance payment platforms for leading organizations in the global financial services industry. As a Senior Java Engineer, you will take end-to-end technical ownership of mission-critical systems that process financial transactions reliably and efficiently. You will lead architectural decisions, build robust integrations, and ensure the highest standards of performance, security, and regulatory compliance. Working with modern Java technologies, cloud infrastructure, and event-driven architectures, you will tackle complex engineering challenges across multiple clients and platforms. You will also help shape engineering best practices, mentor fellow developers, and drive continuous improvements across the software development lifecycle. This fully remote opportunity offers the variety of a specialist payments consultancy, combining technical leadership, international collaboration, and meaningful impact on the infrastructure powering global transactions.\nAccountabilities:\n• Design and develop scalable applications: Build, maintain, and optimize enterprise-grade applications using Java and Spring Boot, taking ownership of features from initial design through production deployment.\n• Lead technical architecture: Define service boundaries, data models, integration patterns, and non-functional requirements for complex software components, ensuring solutions are reliable, maintainable, and scalable.\n• Deliver payment technology solutions: Develop and maintain payment platforms and integrations with external systems, APIs, and third-party providers, supporting secure and efficient financial transactions.\n• Ensure reliability and compliance: Take responsibility for application performance, availability, security, and adherence to applicable regulatory and industry standards.\n• Build event-driven systems: Develop robust asynchronous processing workflows using Apache Kafka, applying appropriate approaches to idempotency, transaction consistency, and reliable message handling.\n• Collaborate across disciplines: Work closely with product managers, solution architects, and DevOps engineers to translate business requirements into effective technical solutions while evaluating and challenging design trade-offs where necessary.\n• Improve engineering practices: Strengthen CI/CD pipelines, automated testing, observability, and deployment processes to improve delivery speed, software quality, and operational resilience.\n• Promote code quality and technical excellence: Write clean, efficient, testable code, lead code reviews, establish engineering best practices, and mentor junior and mid-level engineers.\n• Manage production incidents: Investigate operational issues, conduct root-cause analyses, and implement sustainable fixes that prevent recurrence and improve system reliability.\n• Leverage AI-assisted development: Integrate AI coding assistants and large language models into daily development workflows for implementation, refactoring, testing, debugging, and documentation, while validating their output for correctness, security, and maintainability.\nRequirements:\n• Professional experience: At least seven years of professional Java development experience, including responsibility for designing, delivering, and operating complex production systems.\n• Payments and fintech expertise: Hands-on experience building or operating payment or financial technology systems, such as card issuing, acquiring, transaction processing, authorization, settlement, or cross-border payments. A strong understanding of transaction lifecycles, reconciliation, idempotency, and regulatory constraints is essential.\n• Advanced Java and Spring expertise: Strong knowledge of Java 21 or later, including relevant long-term support releases, and experience with Spring Boot and modern Spring Framework technologies for building RESTful and event-driven microservices.\n• Event-driven architecture: Practical experience with Apache Kafka, asynchronous processing, idempotent operations, and exactly-once processing semantics.\n• Database technologies: Proficiency with relational databases such as PostgreSQL and MySQL, along with ORM technologies including Hibernate and JPA.\n• API design and integration: Strong experience designing REST APIs, working with OpenAPI specifications, and implementing reliable integrations with external systems and third-party services.\n• Build and delivery tooling: Experience with Gradle, Maven, and CI/CD pipelines, with familiarity with tools and technologies such as GitHub Actions, Helm, and Terraform.\n• Cloud and containerization: Hands-on experience with AWS, Docker, and Kubernetes, including deploying and operating applications in modern cloud environments.\n• Testing and observability: Strong testing practices using tools such as JUnit 5, Mockito, and Testcontainers, alongside experience with production monitoring and observability technologies such as OpenTelemetry, Prometheus, and Grafana.\n• AI-assisted engineering: Regular, practical use of AI coding assistants and large language models throughout the software development lifecycle, combined with the technical judgment needed to identify and correct inaccurate, insecure, or poorly maintainable generated code.\n• Technical leadership: Experience mentoring engineers, leading code reviews, making architectural decisions, and raising engineering standards across a team.\n• Communication and collaboration: Ability to work effectively with technical and business stakeholders across distributed teams, clients, and international environments.\n• Professional mindset: A strong commitment to precision, reliability, security, accountability, and continuous learning, combined with the adaptability to work across different clients, technologies, and problem domains.\n• Additional advantages: Familiarity with payment standards and protocols such as ISO 20022, ISO 8583, EMV, and 3-D Secure, or experience with payment scheme certification.\n• Security expertise: Knowledge of encryption, OAuth2/OIDC, JWT, mutual TLS (mTLS), hardware security module (HSM) integration, and tokenization is an advantage.\n• Further relevant experience: Background in infrastructure as code, platform engineering, or direct collaboration with enterprise clients in a consultancy or professional-services environment is beneficial.\nBenefits:\n• Fully remote working environment: Work remotely as part of a distributed engineering team, with flexibility built into the organization's operating model.\n• Exposure to leading payments organizations: Contribute to technology platforms used by established players in the global payments industry.\n• Variety of technical challenges: Work across different clients, platforms, and business domains rather than being limited to a single product or codebase.\n• Technical ownership and autonomy: Take responsibility for significant architectural decisions, production systems, and end-to-end engineering outcomes.\n• Professional growth: Develop expertise in payment infrastructure, financial technology, cloud-native architecture, and modern software engineering practices.\n• Collaborative engineering culture: Work alongside experienced professionals who value technical excellence, knowledge sharing, mentorship, and continuous improvement.\n• Modern development tools: Apply contemporary Java technologies, cloud infrastructure, automation, and AI-powered development tools to solve complex engineering problems.\n• Meaningful industry impact: Help build secure, resilient, and scalable systems that support the movement of money across global financial networks.\n• Inclusive workplace: Join an equal-opportunity working environment that welcomes qualified applicants from all backgrounds.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٠ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DSDL65CP7zoeLuKnbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "SDL65CP7zoeLuKnbAAAAAA=="
+      },
+      {
+        "job_id": "NEhhaURuRmdWV2lWVTZlVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTgxZVd0d2VuZExibVYyVDFFMVZFMXdOMkpPV2xWNVVIVXdSekYxZUhsUWFFWk5UREJaY1ZoSlF6aEJSV0pPYjI5RUxXeEJhVXByVm5ORmQwNU9VREpsU1VwZlduWjFRMFV3VURGT1F6SmhaMlZ3UjNsYVNEYzFPVFl4YVZWVVFqUnhSa0ZHWWtWVFpuRndWREF5YVU0eFNWaG5XbDlvU0hWTlpGZHZVelpPZVc5NU5WQVNGek5IUkc5aGIybEpSWEIyVVRWT2IxQTNiMTlOY1VGWkdpSkJTRTR3UlRkSVpXeHNlRmhJTFhCZlRFbGFSbFZWYTBwMWNWYzVMVEIxVTBSQg",
+        "job_title": "Senior Java Full-Stack Engineer - Onsite Riyadh",
+        "employer_name": "Hexaware Technologies",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYUCXRK0XrBzNkjlrCMaDZka9vblSPlLCWC33&s=0",
+        "employer_website": "https://hexaware.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-java-full-stack-engineer-onsite-riyadh--saudi-arabia--edb9660ff4103aa4b0054ca9f2f7c219c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-java-full-stack-engineer-onsite-riyadh--saudi-arabia--edb9660ff4103aa4b0054ca9f2f7c219c",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Hexaware Technologies is seeking an experienced senior Java-based software engineer to translate requirements into scalable product features. You will participate in Scrum ceremonies, lead an agile team, and drive technical discussions with customers.\n\nThe role involves full-stack development across front-end, middleware, and database layers, with emphasis on REST APIs, design patterns, and automated testing.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D4HaiDnFgVWiVU6eUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "4HaiDnFgVWiVU6eUAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWmNoZ1BtZ3NSazVlZ2I1bFNjM1lzdFZLVmpYbE9ZZlphSDlfcmF3Q0U1YkhmbUZQZkVob1BfLTRyaUZCTnJUbmowRk9fT2FrMnRIWDl6T0I2NjhtSGNEV0ItNTQ5SGplcEd1eTQwRkdRWFppYzNTZWFzSmVqRk16TW5FdWQ5VjZDaW1keVNMY1Q2bUp2ZVlscHJYZEJ3MGpJZnVrbzBUOU91UC03TUdoRFpDX1dBc01pbDJZRV9wODRuTzBCT3lleE9wWTZDV2NQV3lZTUlHaXlBT1Q4eEhDSWhKdHBmWjBycU42NHJVSlNVTGZ2QklYeGY5dHJtWHpGVklCaEZwUjB2ZEtiTVhxbVJKMG41WmFwQW8wODhqZkJsZnFWR3BnVHNUNGVFY0VmbHplQ0hka1ozY0RUNVM4bTRNVFhvT1dabzFUME1vbUlwRVJaX21Udk5JblpERnhFbF84bWNqYmpEZE1RcUdvUjhoT0dqS1lCaU4tVDZlbnJFYmxQcVdfTVNLajNRRnBjVGxxa090NElkaWs0ZFJxeFpHSjR0T2Y4Wm1aVE9vQTV3UHVGTzd1dGJVOUpIUUtBekZPd1JUUV9nb0lWaV9JRV9BTFRLWlEtbjM0YWJSSjlhSW55SjNtMkZydjhWMFRrdkZnblZGdnl1WjNpUG4wS2lSWUxqVFoyb1JYMU1qbE5MQi05Wkwwdm9nZTlKZEhQUHRREhczR0RvYW9pSUVwdlE1Tm9QN29fTXFBWRoiQUhOMEU3RzViSjF2WkUxRWZUV3R6VnRuMkdBdlAwb0diQQ"
+  }
+}

@@ -1,0 +1,316 @@
+﻿job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
+WHlaTjZOV01VZW8wNXNHNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFF0Y1UxMWNtNVNObWM1UjNOUE0ycHVkeTF6WmtGMGRFNDVUSGRRZEVabllqRmhUVTFXUjBSd2ExTnVhbVpVZFdGcGR6UnRaVUZwTVVNNE9HNWFSWEJLZHpWUlEyMU5NVmxETUVoUGIweFdjblZ3WVRkbE1HNUdlRmhMVUVkclZuQm1ablpLWldab1drOU1WV1J5VFRjNFpWQlRlVlJTV1haUE4xQlJSaTFzVm01QldrNFNGM0ZYYW05aGRUSTJTMXBtVFRGelVWQnRURmRJYjFGUkdpSkJTRTR3UlRkR2FXcEZhVGhJY0VFeVRrY3dZblEyZUdaalFWRm1OemhPYUY5Mw,Senior Node.js Backend Engineer (TypeScript) – Riyadh,Apexops,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-node-js-backend-engineer-typescript-riyadh--riyadh--e3f03b2e99924bc567b26a922c292d02c,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-node-js-backend-engineer-typescript-riyadh--riyadh--e3f03b2e99924bc567b26a922c292d02c"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Apex Operations Company in Riyadh is seeking a skilled Backend Engineer to design, develop, and maintain the APIs behind ARK47 Studio. You will work with Node.js and TypeScript, crafting robust PostgreSQL schemas and efficient queries while integrating payments, messaging, and other services with a focus on data protection and reliability.
+
+You will collaborate with frontend teams, product managers, and QA to implement new features, write tests, and ensure smooth operation of services on-site in",False,قبل ٤ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXyZN6NWMUeo05sG4AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,XyZN6NWMUeo05sG4AAAAAA==
+R19mczJRVTBHTGltUnFBSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmRYUkVjemNFZDRNM0pCZUROcU1EZFpWVmxUWkdseGNGRnNSM1ZEWkV0RE5qVlFTbkpXWkVoMFJXOXFkVUZ4TUMxS1VuTmhabEpLU2tGSlNWWTRiRWg2YzBzMGFWTmZkR3gxY2pWRlJpMDVkWGx1VkdNdExVWmFOazAzVjFFd1V6QnhPVVl5WkdzdGRVb3hSV1ZzUkhndFZXMTFWMUpJZGs1SFptMVJNbUZxWldGck1EUVNGM0ZYYW05aGRUSTJTMXBtVFRGelVWQnRURmRJYjFGUkdpSkJTRTR3UlRkRkxWWnJkVGg2ZEVsM2QxVlhaQzAxWVd4MGFsZE5VRTFGYXpkQg,Backend Developer; Node.js,Apexops,,,Learn4Good,دوام كامل,FULLTIME,https://www.learn4good.com/jobs/riyadh/saudiarabia/software_development/5558904882/e/,False,"[{""apply_link"": ""https://www.learn4good.com/jobs/riyadh/saudiarabia/software_development/5558904882/e/"", ""is_direct"": false, ""publisher"": ""Learn4Good""}]","Position: Backend Developer (Node.js)
+About ARK
+47 Studio
+
+ARK
+47 Studio is a Saudi AI app, available on the App Store and Google Play, that builds business systems from a plain-language description: for example HR, bookings, an online store or a sales board. It drafts a plan with the business owner first, then builds the screens, data and access permissions. We are a Riyadh team bringing it to businesses in the Kingdom and beyond.
+
+To get to know our work, we recommend downloading ARK
+47 Studio from the App Store or Google Play via our careers page: careers.apexops.sa
+What you will do
+• Build and maintain the APIs and services behind ARK
+47 Studio with Node.js and Type Script.
+• Design database tables and queries in PostgreSQL, and keep them fast.
+• Build integrations with payment, messaging and other services, following data-protection rules.
+• Write tests, review code and help keep the service running.
+• Work with frontend developers and the product team on new features.
+What we need
+• Minimum qualification:
+
+a bachelor’s degree, or equivalent work experience.
+• Based in Riyadh, or willing to relocate to Riyadh.
+• 3+ years building backend services with Node.js and Type Script.
+• Good SQL, ideally PostgreSQL.
+• Arabic or English, spoken and written; having both is an advantage.
+Pay and terms
+• Total monthly salary SAR 16,000–24,000 (basic salary plus allowances), depending on experience.
+• Full-time, on-site at our Riyadh office; working days, hours and annual leave per the Saudi Labour Law.
+• Health insurance and GOSI registration as required by Saudi law.
+• Employer:
+
+Apex Operations Company.
+
+Work location:
+
+Riyadh.
+How we select
+• We aim to reply to every application within 7 days.
+• A 30-minute video call about the role and ARK
+47 Studio, in which we hear your view of the app and your questions.
+• For shortlisted candidates, a 30-minute technical exercise using ARK
+47 Studio on a test account we provide.
+• Final interview in Riyadh. We inform every interviewed candidate of the result within 30 days of their interview.",False,قبل ٨ أيام,,,الرياض     •  عبر Learn4Good,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DG_fs2QU0GLimRqAHAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,G_fs2QU0GLimRqAHAAAAAA==
+ZFFZRG9VQUtpMFBCQXE3R0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVZzTVVzM1lqRjBkMjlFT0VoQ1VYTmhSbmhZVkd0YVYyNW5RbUpOZVRNMFZHWnhVbE5hY1ZWT04wWnJla1ZoUTB0ZmMyc3lURkI0TTFwR2IyUkNOVk5SU1hwSVRWWklOVGR5VGxoR1dqSktRMUk1TkhsU0xVTlRUbUYyYUhrMU1VaEJaMlZZVmxOa1dIRk1lbmQxY1RSRVNIbFliRGMyYlc5VVdIcGxiMlppTmtwNFowY1NGM0ZYYW05aGRUSTJTMXBtVFRGelVWQnRURmRJYjFGUkdpSkJTRTR3UlRkSWVXZG9NMWN4Y0VKSGFteFRWWGRzTm1KdlEwUktMV0Z6WVZaQg,Backend Developer Node.js,Apexops,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",,Jobilize,دوام كامل,FULLTIME,https://www.jobilize.com/amp/job/sa-riyadh-backend-developer-node-js-apexops-hiring-now-job-immediately,False,"[{""apply_link"": ""https://www.jobilize.com/amp/job/sa-riyadh-backend-developer-node-js-apexops-hiring-now-job-immediately"", ""is_direct"": false, ""publisher"": ""Jobilize""}]","About ARK47 Studio
+
+ARK47 Studio is a Saudi AI app, available on the App Store and Google Play, that builds business systems from a plain-language description: for example HR, bookings, an online store or a sales board. It drafts a plan with the business owner first, then builds the screens, data and access permissions. We are a Riyadh team bringing it to businesses in the Kingdom and beyond.
+
+To get to know our work, we recommend downloading ARK47 Studio from the App Store or Google Play via our careers page: careers.apexops.sa
+What you will do
+• Build and maintain the APIs and services behind ARK47 Studio with Node.js and TypeScript.
+• Design database tables and queries in PostgreSQL, and keep them fast.
+• Build integrations with payment, messaging and other services, following data-protection rules.
+• Write tests, review code and help keep the service running.
+• Work with frontend developers and the product team on new features.
+What we need
+• Minimum qualification: a bachelor's degree, or equivalent work experience.
+• Based in Riyadh, or willing to relocate to Riyadh.
+• 3+ years building backend services with Node.js and TypeScript.
+• Good SQL, ideally PostgreSQL.
+• Arabic or English, spoken and written; having both is an advantage.
+Pay and terms
+• Total monthly salary SAR 16,000-24,000 (basic salary plus allowances), depending on experience.
+• Full-time, on-site at our Riyadh office; working days, hours and annual leave per the Saudi Labour Law.
+• Health insurance and GOSI registration as required by Saudi law.
+• Employer: Apex Operations Company. Work location: Riyadh.
+How we select
+• We aim to reply to every application within 7 days.
+• A 30-minute video call about the role and ARK47 Studio, in which we hear your view of the app and your questions.
+• For shortlisted candidates, a 30-minute technical exercise using ARK47 Studio on a test account we provide.
+• Final interview in Riyadh. We inform every interviewed candidate of the result within 30 days of their interview.
+#",False,قبل ٨ أيام,,,الرياض     •  عبر Jobilize,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DdQYDoUAKi0PBAq7GAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,dQYDoUAKi0PBAq7GAAAAAA==
+bnQySmFBcDJ5TmRyMmduNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkZIZVVvMVIxTnJjSFo2VW1OSmMxZExjelJoYzFsWmNuZFBhME5VYm1kbGMzaE1WMnR3ZDFOUVNGcG9WbEZwY0U5VGVsVXhRa3AxWWxkMmIxcGxTR1pVTkVaTFRucHROVUozZDNOZlNqaDFjVXRSWkdsaWNFRm5hWFp0UkZSQ2VqazRURWxKTlcxaFVFTXdkVFZ2VWs4MGRWb3plRU5qV2s5V04wbE5SVmh6V1ZsWVpFTVNGM0ZYYW05aGRUSTJTMXBtVFRGelVWQnRURmRJYjFGUkdpSkJTRTR3UlRkRlUxQnBTbFJuYUVOeU5UUnhPREZJWDB4VVgwa3RORFpQVnpSbg,Senior Full Stack Developer (React + Node.js),Jobgether,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",https://jobgether.com,BeBee,متعاقد,CONTRACTOR,https://bebee.com/sa/jobs/senior-full-stack-developer-react-nodejs-jobgether--ss-sa-mgq17k,False,"[{""apply_link"": ""https://bebee.com/sa/jobs/senior-full-stack-developer-react-nodejs-jobgether--ss-sa-mgq17k"", ""is_direct"": false, ""publisher"": ""BeBee""}]","This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Full Stack Developer (React + Node.js) based in Saudi Arabia.
+
+Are you a seasoned full stack developer passionate about building scalable applications and solving complex engineering challenges? This opportunity allows you to contribute to innovative digital solutions transforming how utility companies plan, manage, and optimize their field operations. You will work on a cloud-native platform combining workflow automation, operational management, digital twin technology, and AI-powered planning capabilities.
+
+Using
+
+React, Node.js, NestJS, PostgreSQL, and AWS, you will develop end-to-end features that deliver tangible value to real-world infrastructure operations. You will take ownership of features from initial design through production deployment while contributing to architectural decisions and platform reliability. Working remotely with experienced engineers and an international team, including UK-based stakeholders, you will have the opportunity to influence product development and adopt modern AI-assisted engineering practices.
+
+Accountabilities
+
+• Develop modern frontend applications: Design, build, and maintain responsive, scalable, and user-friendly React applications that support operational planning, scheduling, and management workflows.
+
+• Build robust backend services: Develop and maintain scalable backend services and REST APIs using Node.js and NestJS, ensuring performance, security, and maintainability.
+
+• Deliver end-to-end features: Take ownership of full stack functionality from requirements analysis and technical design through implementation, testing, deployment, and ongoing maintenance.
+
+• Design and optimize databases: Develop and maintain PostgreSQL schemas, optimize queries, and ensure efficient data management and reliable application performance.
+
+• Implement cloud-native solutions: Deploy, operate, and support applications on AWS, leveraging relevant services and infrastructure to build scalable and resilient systems.
+
+• Contribute to technical architecture: Participate in architectural discussions, recommend effective technical solutions, review code, and help establish engineering standards and best practices.
+
+• Maintain software quality: Implement appropriate testing strategies, participate in code reviews, support release activities, and contribute to continuous integration and continuous delivery (CI/CD) processes.
+
+• Troubleshoot and improve reliability: Investigate production incidents, identify root causes, resolve technical issues, and proactively improve platform stability, performance, and scalability.
+
+• Collaborate with cross-functional teams: Work closely with product managers, designers, engineers, and UK-based stakeholders to translate business requirements into practical technical solutions.
+
+• Drive independent problem-solving: Analyze complex technical challenges, evaluate alternatives, and deliver solutions with minimal supervision.
+
+• Leverage AI-assisted development: Use modern development tools, including Cursor and Claude Code, to accelerate implementation, improve productivity, and support efficient software engineering workflows.
+
+Requirements
+
+• Professional experience: At least 7 years of commercial Node.js development experience, with a strong focus on backend engineering and building production-grade applications.
+
+• Frontend expertise: Solid commercial experience with React and the ability to develop and maintain modern, scalable frontend applications.
+
+• Backend development: Strong knowledge of Node.js, hands-on experience with NestJS, and demonstrated expertise in designing, implementing, and maintaining REST APIs and backend services.
+
+• Database proficiency: Strong knowledge of PostgreSQL, including database design, query optimization, and efficient data access patterns.
+
+• Cloud computing: Practical experience with AWS services, particularly Lambda, ECS, API Gateway, and related cloud infrastructure.
+
+• Software engineering practices: Good understanding of software testing, Git workflows, code reviews, CI/CD pipelines, and modern development methodologies.
+
+• Analytical and problem-solving skills: Ability to investigate complex technical issues, identify root causes, make sound engineering decisions, and deliver effective solutions independently.
+
+• Communication skills: Upper-intermediate English proficiency (B2+) or higher, with the ability to collaborate effectively with international colleagues and communicate daily with a UK-based team.
+
+• Adaptability and ownership: A proactive approach to development, strong attention to detail, and the ability to take responsibility for features throughout the software development lifecycle.
+
+Nice to have:
+
+• Strong commercial experience with TypeScript.
+
+• Experience with Docker and containerization technologies.
+
+• Knowledge of Infrastructure as Code (IaC) tools such as Terraform or AWS CloudFormation.
+
+• Experience building SaaS platforms or highly available production systems.
+
+• Familiarity with monitoring, observability, and cloud security best practices.
+
+• Experience with Feathers.js.
+
+• Experience with automated testing tools such as Playwright or Selenium.
+
+• Experience integrating third-party services and platforms, including Stripe, OpenSearch, or Elasticsearch.
+
+• Experience working in large, cross-functional engineering teams.
+
+• Familiarity with Java Spring applications.
+
+• Experience using AI-powered development tools to enhance engineering productivity.
+
+Benefits
+
+• Competitive compensation: A salary package that reflects your skills, experience, and technical expertise. The specific salary range is not disclosed in the original job posting.
+
+• Remote work: Work remotely in an international environment, with the flexibility and convenience of a distributed team.
+
+• Contract opportunity: An initial engagement of approximately 6–12 months, with potential longer-term project prospects.
+
+• Meaningful industry impact: Contribute to digital products that help utility companies improve operational planning, field service management, and infrastructure efficiency.
+
+• Modern technology stack: Work with React, Node.js, NestJS, PostgreSQL, AWS, and other contemporary technologies in a cloud-native environment.
+
+• AI-powered development: Gain exposure to AI-assisted coding tools and modern engineering practices that support productivity and innovation.
+
+• Technical ownership: Take responsibility for end-to-end features, contribute to architectural decisions, and help improve the performance and reliability of production systems.
+
+• Collaborative environment: Work alongside experienced engineers and international stakeholders in an open culture that values technical expertise, innovative thinking, and individual contributions.
+
+• Military deferment: Official military deferment or reservation is listed among the offered benefits, subject to applicable eligibility requirements and local regulations.
+
+How Jobgether works:
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+We appreciate your interest and wish you the best!
+Why Apply Through Jobgether? Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",False,قبل ٢٠ يومًا,,,السعودية     •  عبر BeBee,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dnt2JaAp2yNdr2gn5AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,nt2JaAp2yNdr2gn5AAAAAA==
+RkQySk0wM2lWb1N5OWtuYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbDl1YWkxQlVraGFUREJtWW5Ob1pIWjNOMmRpWVhkS1ZUZDNORzFMY0ZoM1RGTm5PREY2U21OYVNXNHpiM1Z0Yld0UmVITnplR2hsWkZkWmNuWjVVRUZmZUdaWU4zQnBXa2htUzJ4elNVSlZiVjlNVTA1R1QyOXBRVWhrTTFCTlgwbEJSWEZXTkcxV2FDMWhOSGRaYVdOWFZ6UmpTWGx0VVdGeVpXaDJhMnRoV1ZwR1dXc1NGM0ZYYW05aGRUSTJTMXBtVFRGelVWQnRURmRJYjFGUkdpSkJTRTR3UlRkR1ZrRmpNM1JuVnkxQ1pYbFpOMGwzY2paV1RWazRRMGxEZUhwbg,Senior Full Stack TypeScript,Client of Kaffu Salla,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-full-stack-typescript--medina--efb85222aac4cc98f6d0aa3de755c7f60,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-full-stack-typescript--medina--efb85222aac4cc98f6d0aa3de755c7f60"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","About the Role
+
+Kaffu Salla currently recruiting on behalf of one of our merchants for a Senior Full Stack TypeScript Engineer to take ownership of an existing production system strengthen its security and improve its functionality without disrupting ongoing business operations The merchant is looking for an experienced hands‑on engineer who can understand unfamiliar and undocumented code investigate existing system architecture identify security vulnerabilities and implement reliable improvements without unnecessarily rebuilding the system from scratch This role requires strong full-stack development skills practical application security experience and the ability to maintain and improve business‑critical systems safely
+Key Responsibilities
+• Legacy Code Takeover and Refactoring
+
+Take ownership of an existing production system including code written by previous developers Read understand and reverse‑engineer undocumented code and existing system architecture Identify technical risks and implement incremental improvements without unnecessary rewrites Maintain system stability and business continuity while fixing bugs and improving existing functionality
+• Full Stack Development
+
+Develop and maintain backend services using TypeScript Node js and NestJS or Express Develop and maintain frontend applications using React js or Next js Build maintain and integrate REST APIs Work with PostgreSQL and Redis to support reliable application functionality and data management
+• Application Security and Secrets Management
+
+Secure API keys credentials environment variables and application secrets Review GitHub repositories and Git history to identify exposed secrets and leaked credentials Revoke and rotate compromised API keys credentials and cloud access secrets Apply secure coding practices and prevent common application vulnerabilities including SQL injection Implement secure authentication and server‑side authorization Use secure password hashing mechanisms such as bcrypt or Argon2 Apply appropriate encryption and access controls to protect sensitive information
+• Sensitive Data Protection and Access Control
+
+Protect sensitive employee information payroll data identity numbers and contractual records Implement granular role‑based access control RBAC Enforce authorization checks on the backend to prevent users from accessing information outside their permissions Identify and prevent insecure direct object reference IDOR vulnerabilities and unauthorized data exposure Ensure that data access is properly restricted across users roles departments and tenants where applicable
+• Database Management and Safe Migrations
+
+Design maintain and improve PostgreSQL databases and database schemas Execute database migrations safely without breaking existing production functionality Plan and implement zero‑downtime migrations where required Protect existing data integrity and minimize service interruptions during database changes
+• Automated Testing and Production Reliability
+
+Write and maintain integration tests and end‑to‑end E2E tests Establish a testing safety net before refactoring existing functionality Verify that changes do not introduce regression bugs Troubleshoot production issues and prioritize system stability security and reliability
+
+Requirements / Qualifications
+• Strong practical experience with TypeScript and Node.js.
+• Hands‑on experience with NestJS or Express.
+• Experience developing applications with React.js or Next.js.
+• Strong knowledge of PostgreSQL and relational database design.
+• Practical experience with Redis.
+• Proven experience maintaining and improving existing production systems, including legacy or undocumented codebases.
+• Strong understanding of application security, secure API development, and secrets management.
+• Experience implementing authentication, authorization, and granular RBAC.
+• Knowledge of secure password hashing, data encryption, and SQL injection prevention.
+• Experience writing integration tests and end‑to‑end tests.
+• Experience with production database migrations, with the ability to minimize downtime and prevent data loss or regressions.
+• Ability to investigate unfamiliar codebases, work independently, and deliver practical solutions while maintaining business continuity.
+Benefits
+• Accommodation: Provided by the merchant.
+• Iqama Transfer Fees: Covered by the merchant.
+• Medical Insurance: Provided by the merchant.",False,قبل ٦ أيام,,,المدينة المنورة     •  عبر JobLeads,المدينة المنورة,,SA,24.4672132,39.6024496,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DFD2JM03iVoSy9knbAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,FD2JM03iVoSy9knbAAAAAA==
+b0tiZmswMk5DSkRYNHZlNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXhsZEY5V2FUWjZaRTVDTXpkWlQwVnBRa0YzZDFKR1ZVOUhXa3BKZWtRMmVITnpYekV0VUd0aFowcFJWWGhrUW1oaFIyRTFRV28zTW1RNWRIQXhjREJFVkZGUlMyWXhlRVo1WW5OcldHbzRaRzlrV0hOelFXMTBXbU5IWmxKdGMwMVZYMHhWTVdSc1NHZ3hWMFV4TldrMFNWRk5ZMDk2ZG1aMFpEWmtZMkp4TVVKYU9GQVNGM0ZYYW05aGRUSTJTMXBtVFRGelVWQnRURmRJYjFGUkdpSkJTRTR3UlRkSWMyMTJabk5SU2pGalJGaFJjbTVvVjFSM2FUZFlSMUJZY1VkUg,Senior Full Stack Developer React + Node.js,Jobgether SRL,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",,Jobilize,دوام كامل,FULLTIME,https://www.jobilize.com/job/sa-remote-senior-full-stack-developer-react-node-js-jobgether-srl,False,"[{""apply_link"": ""https://www.jobilize.com/job/sa-remote-senior-full-stack-developer-react-node-js-jobgether-srl"", ""is_direct"": false, ""publisher"": ""Jobilize""}]","This position is listed on behalf of a partner company, which manages all applications and next steps.
+Our partner is looking for a Senior Full Stack Developer (React + Node.
+js) based in Saudi Arabia.
+
+Are you a seasoned full stack developer passionate about building scalable applications and solving complex engineering challenges? This opportunity allows you to contribute to innovative digital solutions transforming how utility companies plan, manage, and optimize their field operations.
+You will work on a cloud-native platform combining workflow automation, operational management, digital twin technology, and AI-powered planning capabilities.
+Using React, Node.
+js, NestJS, PostgreSQL, and AWS, you will develop end-to-end features that deliver tangible value to real-world infrastructure operations.
+You will take ownership of features from initial design through production deployment while contributing to architectural decisions and platform reliability.
+Working remotely with experienced engineers and an international team, including UK-based stakeholders, you will have the opportunity to influence product development and adopt modern AI-assisted engineering practices.
+
+Accountabilities
+• Develop modern frontend applications:
+Design, build, and maintain responsive, scalable, and user-friendly React applications that support operational planning, scheduling, and management workflows.
+
+• Build robust backend services:
+Develop and maintain scalable backend services and REST APIs using Node.
+js and NestJS, ensuring performance, security, and maintainability.
+
+• Deliver end-to-end features:
+Take ownership of full stack functionality from requirements analysis and technical design through implementation, testing, deployment, and ongoing maintenance.
+
+• Design and optimize databases:
+Develop and maintain PostgreSQL schemas, optimize queries, and ensure efficient data management and reliable application performance.
+
+• Implement cloud-native solutions:
+Deploy, operate, and support applications on AWS, leveraging relevant services and infrastructure to build scalable and resilient systems.
+
+• Contribute to technical architecture:
+Participate in architectural discussions, recommend effective technical solutions, review code, and help establish engineering standards and best practices.
+
+• Maintain software quality:
+Implement appropriate testing strategies, participate in code reviews, support release activities, and contribute to continuous integration and continuous delivery (CI/CD) processes.
+
+• Troubleshoot and improve reliability:
+Investigate production incidents, identify root causes, resolve technical issues, and proactively improve platform stability, performance, and scalability.
+
+• Collaborate with cross-functional teams:
+Work closely with product managers, designers, engineers, and UK-based stakeholders to translate business requirements into practical technical solutions.
+
+• Drive independent problem-solving:
+Analyze complex technical challenges, evaluate alternatives, and deliver solutions with minimal supervision.
+
+• Leverage AI-assisted development:
+Use modern development tools, including Cursor and Claude Code, to accelerate implementation, improve productivity, and support efficient software engineering workflows.
+
+Requirements
+• Professional experience:
+At least 7 years of commercial Node.
+js development experience, with a strong focus on backend engineering and building production-grade applications.
+
+• Frontend expertise:
+Solid commercial experience with React and the ability to develop and maintain modern, scalable frontend applications.
+
+• Backend development:
+Strong knowledge of Node.
+js, hands-on experience with NestJS, and demonstrated expertise in designing, implementing, and maintaining REST APIs and backend services.
+
+• Database proficiency:
+Strong knowledge of PostgreSQL, including database design, query optimization, and efficient data access patterns.
+
+• Cloud computing:
+Practical experience with AWS services, particularly Lambda, ECS, API Gateway, and related cloud infrastructure.
+
+• Software engineering practices:
+Good understanding of software testing, Git workflows, code reviews, CI/CD pipelines, and modern development methodologies.
+
+• Analytical and problem-solving skills:
+Ability to investigate complex technical issues, identify root causes, make sound engineering decisions, and deliver effective solutions independently.
+
+• Communication skills:
+Upper-intermediate English proficiency (B2+) or higher, with the ability to collaborate effectively with international colleagues and communicate daily with a UK-based team.
+
+• Adaptability and ownership:
+A proactive approach to development, strong attention to detail, and the ability to take responsibility for features throughout the software development lifecycle.
+
+Nice to have
+• Strong commercial experience with TypeScript.
+
+• Experience with Docker and containerization technologies.
+
+• Knowledge of Infrastructure as Code (IaC) tools such as Terraform or AWS CloudFormation.
+
+• Experience building SaaS platforms or highly available production systems.
+
+• Familiarity with monitoring, observability, and cloud security best practices.
+
+• Experience with Feathers.
+js.
+
+• Experience with automated testing tools such as Playwright or Selenium.
+
+• Experience integrating third-party services and platforms, including Stripe, OpenSearch, or Elasticsearch.
+
+• Experience working in large, cross-functional engineering teams.
+
+• Familiarity with Java Spring applications.
+
+• Experience using AI-powered development tools to enhance.",False,قبل ٥ أيام,,,السعودية     •  عبر Jobilize,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoKbfk02NCJDX4ve4AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,oKbfk02NCJDX4ve4AAAAAA==
+Q194M0djQTJreUhPd1hNOEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa0p0U2xsTVFUaHBSR1JYUWtOMk5sbzNObTFhVUdSdWFuRldablpvYUdNeFFVUk9NSE5KT1dKRVRVdFZibmg1TmxaUlNIUnFYMUptTTI1QmJqZEphbEpyUmxSS1puRkhkMlZxYWpKNWJsQkdSVVIzZW5sdk16ZHlSakZFU2poVGNuZ3dOVkZhVTNkUVVUVmZZM2xOYUdsTmNuUjRWM0ZOUTB0UWMwVnFXakprVjBzMFJrMFNGM0ZYYW05aGRUSTJTMXBtVFRGelVWQnRURmRJYjFGUkdpSkJTRTR3UlRkSWR6bFZRazR4WWtGaE5uRk1jbGRWYW5scldsVk9XRWRPU0ZGbg,Riyadh Onsite Senior Full-Stack Engineer (2-Year Contract),kbctechnologies,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kbctechnologies.com&size=128",https://kbctechnologies.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/riyadh-onsite-senior-full-stack-engineer-2-year-contract--saudi-arabia--e48d41df6fdb0259bb220c0c78c589af6,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/riyadh-onsite-senior-full-stack-engineer-2-year-contract--saudi-arabia--e48d41df6fdb0259bb220c0c78c589af6"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","kbctechnologies in Riyadh, Saudi Arabia, is seeking a Senior Full Stack Developer for a 24-month onsite contract. This role targets experienced software professionals with 8-12 years of hands-on work building, maintaining, and enhancing enterprise web applications using ASP.NET Core, Angular, Node.js, and Oracle APEX, including Oracle EBS integration.
+
+You will design REST APIs, engage in SQL/PL/SQL tasks, support deployments and production operations, and contribute to troubleshooting, incident",False,قبل ٦ أيام,,,السعودية     •  عبر JobLeads,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DC_x3GcA2kyHOwXM8AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,C_x3GcA2kyHOwXM8AAAAAA==

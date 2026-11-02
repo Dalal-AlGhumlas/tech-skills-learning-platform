@@ -1,0 +1,159 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "php developer",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "8ddadff7-0053-46af-b59a-5b0b559590b4",
+  "parameters": {
+    "query": "php developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "RmFEcERBTVluMlcwZzd0bkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkZaU0ZKZlYwSTROR3g2UTA5cmQyWldiWGsyTjJoQlFqVkpZM050Wm1WUFpsaGFZVXhaY0hWU2JVUkZhMWwxUVUxcWVGRkVhR05oWjFoT09IVlFjM0JvWW1GdmRISTBMUzFDY2xWc1NYUlJSME5aYkc5dE1UQnFaakJxYzIxSFowRTJia0l5VXpObk9VMVFPR3hNVW5waGRrNUdlRVpyY1hOU2QwbFZkbEZ1UkY5c0xWWVNGM1ZYYW05aGRreDBRMkY1TkhKbVkxQnFiMkZuZFVGdkdpSkJTRTR3UlRkSVFVUmFlbE5YUTNGV1ZWUXphR1I0ZG5velVtcE5ObEEwTTJsbg",
+        "job_title": "Senior PHP / Laravel Developer",
+        "employer_name": "Demo Gulf Tech",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://wazifiq.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Gulf Jobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.wazifiq.com/jobs/senior-php-laravel-developer-demo",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.wazifiq.com/jobs/senior-php-laravel-developer-demo",
+            "is_direct": false,
+            "publisher": "Gulf Jobs"
+          }
+        ],
+        "job_description": "Demo listing for testing. Build and maintain job-platform features used across the GCC.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٣ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Gulf Jobs",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DFaDpDAMYn2W0g7tnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "FaDpDAMYn2W0g7tnAAAAAA=="
+      },
+      {
+        "job_id": "YWlWa2c2OE9JSHFDbEV6MkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWFpqZEZSdU1WbzBNMnBVUjJKeE1GUkdRVEZSV205UVF6Uk9iemQzY0V0UlFrWXpTekZsUTB0bGNUZEJUbmhCU3pWeVJrNHpPWFZUYWxoSUxVZzRVemRCYzI1dU1ITkRXa05CZGpOSmREQnBaamRDV0c5RFlVWnNYMjgzT1U1blNHaGxTMk5JUjBkNU1VTjFOa0l4TjBacmJETktPSEpwZEdSTVVVZFBSMU4xV1RaNGNXUVNGM1ZYYW05aGRreDBRMkY1TkhKbVkxQnFiMkZuZFVGdkdpSkJTRTR3UlRkR1prOU9jVVI2ZGs4d1EyVkViWEZKWXkwdE5ucEZMV2RtVGtaQg",
+        "job_title": "Remote Magento 2 Developer – Part-Time",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/remote-magento-2-developer-part-time--saudi-arabia--e23c101757ddb0466ee679131ce32daf9",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/remote-magento-2-developer-part-time--saudi-arabia--e23c101757ddb0466ee679131ce32daf9",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Jobgether's partner company is seeking a Magento Developer based in Saudi Arabia to contribute to Magento 2‑based e‑commerce sites. The role is remote and part-time, focusing on development, customization, and maintenance of storefronts, modules, and integrations across project-based or monthly engagements.\n\nYou will write PHP, MySQL, HTML, CSS, JavaScript, and XML, customize themes and extensions, integrate third‑party services, troubleshoot issues, and optimize performance and security.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DaiVkg68OIHqClEz2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "aiVkg68OIHqClEz2AAAAAA=="
+      },
+      {
+        "job_id": "ZjZfV2U2NkRDbnphU1QySkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbVZ2ZFdwMmVuWnJRa0ZPUWxBeFdHTjBhREUyTW1NM01qTlJUMnN6TFhCRGREbEJTRU5JVERjM09USkxZVzkyYVRaSGQwRklWR2Q0WjJOTFJGODJaWGczTlZVeFgxVmhXbUZ0UkhVMlUzVkpRa1ZhVkVsRGFGUkpNSFJWZFRSVU1FZG5XalJNYnpock5FWnBNbWhTVTNWU05EQXpiRFZtZGpVMlJtNU9kRzVLWmxoUlRFWVNGM1ZYYW05aGRreDBRMkY1TkhKbVkxQnFiMkZuZFVGdkdpSkJTRTR3UlRkSFJUVkhUSFpQVURkVlowczFSbkV0UTFGVFdXNXlXbFZUVUVkbg",
+        "job_title": "Remote Magento 2 Developer - Part-Time",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/7611760792273642398",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/7611760792273642398",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Jobgether's partner company is seeking a Magento Developer based in Saudi Arabia to contribute to Magento 2‑based e‑commerce sites. The role is remote and part-time, focusing on development, customization, and maintenance of storefronts, modules, and integrations across project-based or monthly engagements.\n\nYou will write PHP, MySQL, HTML, CSS, JavaScript, and XML, customize themes and extensions, integrate third‑party services, troubleshoot issues, and optimize performance and security.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جيزان     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "جيزان",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 16.889358599999998,
+        "job_longitude": 42.5705674,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Df6_We66DCnzaST2JAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "f6_We66DCnzaST2JAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

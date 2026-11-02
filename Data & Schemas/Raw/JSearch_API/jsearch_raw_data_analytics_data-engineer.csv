@@ -1,0 +1,105 @@
+﻿job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
+OGpqMWE5ZFBNNzhJZ0ZFc0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXbWRHZDNkalZqRnFUV05qUzNSUFkyTnlaR3RXV0VkU1RsUm9hM0pJYURkd0xXMVZSR0ZNTTI0dGNWTmlOV05mVkZKUlNrTklMWE5hTW05TFozQnpPV2xOYVU1S2NXMXpjMlYwZVVzNFowaGhNakU0WlRCUU5WaFRjRm8yT1RsWE9EVXpYMG94YzNSMmVVcEplamRXWmxCT1JuQmtaelJSWjJkd1dWVkhaemN3T1hOTU1FMFNGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBacFFWOXphVE5FTUVkbWFuVjJNa1kwYlZadWFHdFVMV2xLT0VF,"Senior Data Engineer: BI, ETL & Data Warehousing",Master Works,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://master-works.sa&size=128",https://master-works.sa,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-data-engineer-bi-etl-data-warehousing--riyadh--e361ca7694d58241e68c606bcfd033080,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-data-engineer-bi-etl-data-warehousing--riyadh--e361ca7694d58241e68c606bcfd033080"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Master Works in Saudi Arabia is seeking a Data, Senior Engineer to design and maintain data integration solutions, data warehouses, and BI systems. You will work on ETL pipelines, database development, and reporting to support data-driven decisions.
+
+The role requires MIS/CS background, at least 3 years in data engineering or BI, and strong SQL skills. Proficiency with Power BI, Tableau, or AWS QuickSight is preferred. English communication and collaboration with teams are essential.",False,قبل ٦ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D8jj1a9dPM78IgFEsAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,8jj1a9dPM78IgFEsAAAAAA==
+QW9kYnMycHkzM1hZSUpPc0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXbmRWYWs5bVVsTnZiVVV3UlZaaVlraGxaMnRaWkZsWVdrNVlTR1JXV2xwR01XeFRkRUZDUVZCc1MwVktibEZwWDFaM1ExSkpWSFpHVUZoNVUxWjRiazF3VVhVd1dqY3hTR0k0TlZRd2FYSlNVM0ZPTFZZM2VEQmZURk5VZDBOTmQyVlljMWczT0ZsRmVFNW9WR051Tm1zeFEzazBaMTlHVGxrMlVYVjVUV1ZyZWsxRFQyd1NGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBkVk1UTkdWbTlaUVVGRWRGaEJORWt0YzFWaFRFSkxRMHhyUmxF,PC Assistant Data Engineer (Saudi National),Lenovo India Private Limited,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lenovo.com&size=128",https://www.lenovo.com,Foundit,دوام كامل,FULLTIME,https://www.founditgulf.com/job/pc-assistant-data-engineer-saudi-national-lenovo-india-private-limited-saudi-arabia-69633226,False,"[{""apply_link"": ""https://www.founditgulf.com/job/pc-assistant-data-engineer-saudi-national-lenovo-india-private-limited-saudi-arabia-69633226"", ""is_direct"": false, ""publisher"": ""Foundit""}]","Description and Requirements
+
+Please note: We are actively hiring for this position. However, due to the current regional situation in the Kingdom of Saudi Arabia, our hiring process may take longer than usual. We appreciate your patience and will keep you informed throughout the process.
+
+Data Manufacturing Engineer - Notebooks & Desktops (PCG)
+
+Location: Riyadh, Saudi Arabia (Special Integrated Logistics Zone)
+Department: Engineering
+Experience: 2+ years preferred
+Employment type: Full-time
+
+About the role
+
+Every notebook and desktop that leaves our line depends on accurate data. That includes the bill of materials, the routing, the label on the box, and the trace back to each part. As a Data Manufacturing Engineer in Lenovo's PC Group (PCG) in Riyadh, you'll own that data.
+
+You'll prepare, validate and improve the manufacturing engineering data behind our PC production at every stage: new product introduction (NPI), line qualification, pilot runs, ramp-up and mass production. When something doesn't match, you'll be the one who finds it and fixes it fast, so production keeps running smoothly and every unit is fully traceable.
+
+What you'll do
+• Prepare and maintain product master data, bills of materials (BOMs) and process routings
+• Implement engineering changes (EC/ECN/PCN) with full validation, revision control and change tracking
+• Set up label configurations and support barcode and label printing on the line
+• Validate data across MES, SAP/S4, TDC and other manufacturing systems
+• Find and resolve data discrepancies on your own, including urgent issues during ramp-up
+• Make sure production data flows correctly for end-to-end traceability
+• Work with Production, Quality, Engineering, IT, Supply Chain and global Lenovo teams
+
+What you'll bring
+• A bachelor's degree or higher in Computer Engineering, Information Systems, Computer Science, Software, Industrial or Electrical Engineering, or a related field
+• 2+ years in manufacturing data engineering, production systems, ERP/MES support or engineering data management (preferred)
+• A solid understanding of manufacturing processes, BOM structures, master data, routings and engineering change management
+• Experience with MES, SAP/S4, TDC or similar ERP/MES systems (preferred)
+• Knowledge of product labeling, barcode systems and traceability
+• Good written and spoken English
+• Willingness to give hands-on support on the production floor
+
+What we offer
+• An international team with a high focus on Gender Diversity.
+• Employee Assistance Program, e.g., for psychological, legal & financial consultancy
+• You are joining a company that prioritizes sustainable solutions like CO2 Offset, Asset Recovery Services, and the Lenovo Certified Refurbished portfolio.
+• Access to training for personal development - Internal E-learning Development Platform Available for Employees
+• Mentorship program
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, national origin, status as a veteran, and basis of disability or any federal, state, or local protected class.",False,قبل ٥ أيام,,,السعودية     •  عبر Foundit,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAodbs2py33XYIJOsAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,Aodbs2py33XYIJOsAAAAAA==
+UXNwLVRncnhUTVRUb193NkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbWRwU0ZCdFRHeE5aVmh0ZG1WMU1sUnZRamx0WkZKV2FqUmZhR052YlRGUWF6Qk9lVEJpWmxwbGVuaFVSVmhyVTAxa2REaExZMGR4TFd4d1RuZGFiWEZ5TUdoNmIyeG1hVkZEZHpKd1dpMVFjVkpKY3pWU1drMW5PRE5uU20xWVJHUkJUM2hXWHpSdU5HSnVlWGRRVG1kS1JqVXhTVlZPY2pSQ2NUSnpaMmwyY3pOT1UzY1NGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBWWlFqbGxPSEZuT1VoSlFVc3lPRjlHY0ZZM2NsTjVVMDF1VjFF,Principal OT Data Engineer & ETL Architect,Maaden,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKcPZ50fbWBU57LdoB75QDWjkz9abKdvY35CA&s=0,https://maaden.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/principal-ot-data-engineer-etl-architect--saudi-arabia--e936ea4a8e9e5dd4a246500e10e9ac7c2,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/principal-ot-data-engineer-etl-architect--saudi-arabia--e936ea4a8e9e5dd4a246500e10e9ac7c2"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Maaden seeks a Principal Specialist, Engineering and ETL (OT) to lead OT data engineering strategy and architecture. You will define enterprise standards, ensure reliable data pipelines, and drive governance across multiple sites to enable analytics and AI initiatives.
+
+You will bridge OT environments with enterprise data platforms, advancing data quality, security, and scalability while aligning with regulatory and risk requirements. This role reports to senior data leadership.",False,قبل ٤ أيام,,,السعودية     •  عبر JobLeads,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DQsp-TgrxTMTTo_w6AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,Qsp-TgrxTMTTo_w6AAAAAA==
+d0RINGJBTnZvamR1MWsxUEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZalU0U1ZWR2EwVklTVzFEVFVkdllXRkZlamRsZGxWNlNHeG9Ta3M1YlVjdE1HeGliak50WVVaMWNtVnFObEZvZEdwaFoxTXpUVVZaYTJwSU5YaGlMVmhMYmtkM1ZFOVZVMGN4YTNsR2FrdFJRMTgyV2psWVZrOW9SVGxGYW5sbVFtdGljMlkzTVZseWNtTlRVSEphZG1KaFVYUklVV1pWV21adWJqTktZVjgwYkU5dk9GQVNGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBocFRsOUpiVzFCY21ONFJHMHRiV05vVWt0NVlVYzJka2czY0ZF,Junior Data Engineer,شركة درعه للتجاره,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.kss.sa&size=128",,منصة وظائف,دوام كامل,FULLTIME,https://jobs.kss.sa/job/junior-data-engineer-6ace558dc7c60,False,"[{""apply_link"": ""https://jobs.kss.sa/job/junior-data-engineer-6ace558dc7c60"", ""is_direct"": false, ""publisher"": ""منصة وظائف""}]","Junior Data Engineer – Data Platform (Urgent hire)Job code: DRH-DE-JDE-2026Deraah, a Saudi perfume and cosmetics retail group with about 900 branches, is hiring a Junior Data Engineer to work across the whole data platform, from ingestion to BI. The candidate must be a native Arabic speaker.Location: Riyadh, Saudi ArabiaExperience: 0–2 yearsPriority: Candidates already in Saudi Arabia. Iqama transfer is available for the right candidate.Start date: Urgent. Immediate joiners preferred, or two weeks' notice at most.Stack: Odoo, SQL Server, Airbyte, SSIS, Kafka, Airflow, n8n, dbt, Python, ClickHouse, Microsoft Fabric, Power BI.Requirements: a degree in CS, IS or Engineering; strong SQL; basic Python; data warehousing basics; Git; care for data accuracy. Nice to have: dbt, Airflow, ClickHouse or Kafka experience, Power BI or Fabric, Odoo, retail, DP-600 or DP-700.To apply: send your CV (and a GitHub link or any project, if available) to h.elbhrawy@deraah.com.sa, with the job code DRH-DE-JDE-2026 in the email subject.",False,قبل ٢٠ يومًا,,,الرياض     •  عبر منصة وظائف,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DwDH4bANvojdu1k1PAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,wDH4bANvojdu1k1PAAAAAA==
+bE9HUGNJTW9wcFVNTE1yWUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbkE0TmtKRWJYazNVMkpzTjJkWU5FOHllblo0Y1d4bWFYTmxNa1poT1ROM1ZHMHhPRWd3YlhJelQyUmthMHQxY0ZvMVJVUllNSEJJU214TE5WbEpjV3BSTkhSc2VtNXZlVlkxVG10SGMwUnhMVWRaY210ZmVrMUZVbTVGVUZGM2F5MVdiM1IxTldWcmRYVkZhWEp2YW5Kc2NsQmZNMkZ3YkZVMFZqSXRlRGcwTXpWSmNtMFNGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBjNWJHZDRaRmN3WXpOaExYZHVhRk4xTUhndFZVd3pUM3B4YW5j,Senior Data Warehouse Engineer for ETL & Analytics,Confidential Government,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-data-warehouse-engineer-for-etl-analytics--riyadh--e00673cca23898869e8ddc29556090ac4,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-data-warehouse-engineer-for-etl-analytics--riyadh--e00673cca23898869e8ddc29556090ac4"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Confidential Government in Riyadh seeks an experienced Data Warehouse Engineer to design, develop, and maintain scalable data warehouse solutions that support enterprise analytics, reporting, and informed decision-making.
+
+You will optimize ETL processes, enforce data modeling standards, monitor performance, and ensure data quality and security across warehouse systems. A minimum of four years in data warehousing and strong SQL skills are required.",False,قبل ٦ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DlOGPcIMoppUMLMrYAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,lOGPcIMoppUMLMrYAAAAAA==
+bmVaRXBZYjB3NlpKQlgyREFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZazVWVFhWbU1XMU9YMUpPWDBkdk5Ya3hXVkJSYlZGWVEyeFJVWGwxWjBoTlpUZ3hUbHBGUjIxZlExcFBjM0YyWWtSQ1FqSlRSVTQ1TUY4MVVIUmhVM2c0ZWxsc2FYTnBUemR6YjB0SFRtOVZjRmQxYzNWeFZYWjVMUzF4UW5KbmVXRlZNbXhLTm5wZlNFNUlVbmMzVG5Kd2NsRnRSMVpJV0dWTGRHWkRlR1pGVTB4aGRFTVNGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBkelZHcElNRkZGVTBZMFJucHlWRGRuYzA4MU1YRkNhVWRYYmxF,Senior Spark Data Engineer – Lakehouse & Informatica,Datamatics Technologies,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",https://datamaticstechnologies.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-spark-data-engineer-lakehouse-informatica--riyadh--e1f05b03ef7df3a5d1346004e2585f700,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-spark-data-engineer-lakehouse-informatica--riyadh--e1f05b03ef7df3a5d1346004e2585f700"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Datamatics Technologies is seeking a Data Engineer to build and optimize data ingestion, transformation, and consumption workloads on a modern on-prem lakehouse platform in KSA. Strong Spark, Iceberg, and Informatica expertise are required to implement scalable data pipelines.
+
+You will work with Denodo, SQL, and data modeling to enable analytics and governance across enterprise standards, with emphasis on batch and near real-time processing.",False,قبل ٤ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DneZEpYb0w6ZJBX2DAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,neZEpYb0w6ZJBX2DAAAAAA==
+WGFmbGt2UXZQRmNCek5Dc0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVFp0VVhSR1pubHFhVTlrY1RJd01UaGhaMmRaYzJGck5GcFVVakpwYUhwU1RrZG1WRGd3VVhCMWRGRjJMVEo1TVRWdVVYWTJaRTFwWm5scFJXdFpSa0Y1YkU5QlFrOWpaMHhUTVVOeVUxRlhUa2REZEZNNGFrcDFPVXN6V0ZjeE9GTTJVelJTVG1oUGNERkJkVWhHVW1OalNYZExPSEp4Vm1KWU5FWldXVFUwUXpKWldDMFNGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBodWMxRkdhalJoZGw5TE5YTjJRVEZ6U1dwWFRFbHJRMVpGV2xF,Data Engineer (GCP),Client of AIQU,,,Jobrapido.com,دوام كامل,FULLTIME,https://sa.jobrapido.com/jobpreview/6331977376833994752,False,"[{""apply_link"": ""https://sa.jobrapido.com/jobpreview/6331977376833994752"", ""is_direct"": false, ""publisher"": ""Jobrapido.com""}]","About the Role
+We are seeking an experienced Data Engineer with 5-7 years of hands-on experience to design build and maintain scalable data solutions on Google Cloud Platform In this fully remote role you will leverage GCP services Python SQL and BigQuery to drive data-driven insights and ensure the performance reliability and security of our data infrastructure
+Responsibilities
+Design develop and maintain ETL ELT pipelines using GCP services
+Implement and optimize data models and schemas in BigQuery
+Write efficient SQL queries and Python scripts for data transformation and analysis
+Collaborate with data scientists analysts and stakeholders to translate requirements into robust data solutions
+Monitor pipeline performance troubleshoot issues and ensure data quality and reliability
+Document data workflows architectures and best practices
+Implement data governance security controls and compliance standards
+Mentor junior engineers and share technical knowledge across the team
+Preferred Qualifications
+Google Cloud Professional Data Engineer certification
+Experience with Apache Airflow or other workflow orchestration tools
+Familiarity with infrastructure as code Terraform Deployment Manager
+Knowledge of dbt or similar data transformation frameworks
+Experience with real-time data streaming technologies Pub Sub Dataflow Streaming
+Exposure to additional cloud platforms AWS Azure
+Position Details
+Position Details Position Title Data Engineer GCP Location Remote Saudi Arabia Industry Software Engineering Experience Required 5 years Required Qualifications: 5-7 years of professional experience in data engineering Strong proficiency with Google Cloud Platform services, including BigQuery, Cloud Storage, and Dataflow Expert-level SQL skills and experience optimizing complex queries Advanced Python programming skills for data processing and automation Proven experience designing and maintaining scalable ETL/ELT workflows Solid understanding of data modeling, warehousing concepts, and best practices Excellent problem-solving, communication, and collaboration skills
+#J-18808-Ljbffr",False,قبل ٩ أيام,,,المنطقة الشرقية     •  عبر Jobrapido.com,,,SA,23.568134699999998,50.6793759,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXaflkvQvPFcBzNCsAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,XaflkvQvPFcBzNCsAAAAAA==
+YUNpTlM2WWQwM1JPZ3ZLLUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbk5WWkRGTVZYZ3pjbmRyTjI1VFQwRktjWEYyUW1SWlpUY3RRWFpJWjJOTFdqTkdUbXhxUW0wNE5UTTRRVzFXVWxWelQybHZkVVp1TTE5cFQweEhiMVI0VW1KbGNraDZaVll4TkRObVpFYzVZa2xLWVVSWGRHRlhVa3B3Y2xKNWVUWTRZbTlaWTNsS1VGQklRM1JvUkVWVlltZEdORzVmY2t3MFJrWk1VemQxUzJocVdHZ1NGbmRIUkc5aGRuVnNUVXRwYURWT2IxQnNaVEpUWlZFYUlrRklUakJGTjBkc2ExVnBVMngzYzBsMFVVUlZTakpYZEhOTlVFMVpla3RYV0VF,Senior Data Engineer,robusta,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://robustagroup.com&size=128",https://www.robustagroup.com,JobsOnline Africa,دوام كامل,FULLTIME,https://jobsonline.africa/technology/senior-data-engineer-06a1f396,False,"[{""apply_link"": ""https://jobsonline.africa/technology/senior-data-engineer-06a1f396"", ""is_direct"": false, ""publisher"": ""JobsOnline Africa""}]","Company Overview
+Robusta helps organizations adopt a digital-first mindset, creating exceptional customer experiences. We offer strategic, design, product, and technological services to leading businesses, leveraging our market expertise to enhance customer interactions and improve conversion rates.
+
+Position Summary
+We are on the lookout for a seasoned Senior Data Engineer to spearhead the design, implementation, and deployment of an enterprise-level, AI-ready Data Lakehouse platform. This position is vital for establishing a foundational data layer crucial for a large-scale digital transformation project that will support AI agents and knowledge graph systems. The ideal candidate will possess extensive software engineering expertise with an emphasis on data pipelines, architecture, and scalable systems.
+
+Main Responsibilities
+
+• Lakehouse Architecture: Design and implement a Data Lakehouse using the Medallion architecture on cloud platforms located in Saudi Arabia.
+
+• Data Ingestion: Develop automated ingestion frameworks for both structured and unstructured data.
+
+• Data Governance: Establish automated data quality measures and comprehensive data lineage tracking.
+
+• Optimization: Enhance data workflows for better performance and cost-effectiveness.
+
+• System Maintenance: Oversee data systems and address urgent operational issues.
+
+• Security Compliance: Ensure adherence to national cybersecurity standards and implement robust security protocols.
+
+• Capability Building: Conduct training sessions and create operational documentation.
+
+Requirements
+Applicants should have a Bachelor’s or Master’s degree in Computer Science or a related field, with a minimum of 5 years of experience in Data Engineering, including 2 years in Data Lakehouse implementations. Proficiency in programming languages such as Python or Java, alongside experience with distributed systems and cloud infrastructure, is essential. Strong analytical and leadership skills are also required.
+
+How to Apply
+Interested candidates should submit their applications detailing relevant experience and qualifications.",False,قبل ٧ أيام,,,جدة     •  عبر JobsOnline Africa,جدة,,SA,21.5291073,39.1610619,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DaCiNS6Yd03ROgvK-AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,aCiNS6Yd03ROgvK-AAAAAA==

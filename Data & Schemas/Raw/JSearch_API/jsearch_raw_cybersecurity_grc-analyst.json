@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "specialization": "cybersecurity",
+    "query": "grc analyst",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "6abb2c83-153a-4b94-ac2a-b65120a38bf2",
+  "parameters": {
+    "query": "grc analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "S3ZNR29wRERWRU5rUVJ2MkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZUzFIZUdaTU1qZHJRVnB0TVU4dGFpMUNhMFJsWjJSUFJFNVphalJmV25KdmFISjBkRXd0WjI5amQwdGxlVFZqTTBaQmN6bElSMmxFZHkxSFVXUmlibk5xWTFreWVuWnhlVmhmV1hkTFVFaEdXVWR5VVhsTlNUSlViMk10U210TVFVMTFlVGhTWWpsMlJsY3pVUzFKVXpjNVRFOUViRWhhWDJWdFVrMTRPV1ZmU1c1R1UxZ1NGM3BYYW05aGIzRktRbU5QVDNkUVFWQXlTa05FTUVGSkdpSkJTRTR3UlRkSFMwODJkVEUyV0RCMWNXdHhTVzUwV2tJNE1rTm1NRzl0UVhsbg",
+        "job_title": "Business Analyst, GRC",
+        "employer_name": "Professional Pyramid",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://professionalpyramid.com&size=128",
+        "employer_website": "https://www.professionalpyramid.com",
+        "job_publisher": "Trabajo.org",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.trabajo.org/job-2278-592efab208ceb94620c9aa556c974a24",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.trabajo.org/job-2278-592efab208ceb94620c9aa556c974a24",
+            "is_direct": false,
+            "publisher": "Trabajo.org"
+          }
+        ],
+        "job_description": "A client in KSA needs a Business Analyst who knows Governance, Risk & Compliance (GRC) and Integrated Risk Management (IRM) inside out, and this Riyadh position supports that engagement on site. Requirements gathering comes first, through workshops and sessions that uncover current processes, challenges and business objectives. Those needs become detailed functional requirements, documented in BRDs, FRDs, process flows and use cases. Gaps between existing processes and proposed GRC/IRM solutions are identified, along with opportunities for improvement. Developers, QA teams and project managers depend on clear requirements, so close collaboration runs through design, configuration and implementation. UAT preparation covers test scenarios, test cases and validation of delivered functionality. Tracking requirements across the full project lifecycle is part of the job, and functional issues get resolved during and after go-live.\n• Benefits include family medical insurance, airline tickets for the employee, spouse and up to two children, and Iqama sponsorship.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Trabajo.org",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKvMGopDDVENkQRv2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KvMGopDDVENkQRv2AAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

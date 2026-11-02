@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "backend developer"
+  },
+  "status": "OK",
+  "request_id": "62afc914-8998-4ce4-8995-25ab2589a8da",
+  "parameters": {
+    "query": "backend developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "WHlaTjZOV01VZW8wNXNHNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1pqVmtkUVVHeDJMVmhDTW1GSVZrMVVTRXBxTlRKeGFqZzNiWGh6ZWtsSVFsRllXa1V4UWxBdE5sZFRhSGxFWkdwaFlXOWFWMHRsYVUxbWMyWndVMFZOUzNOemRXMU9Vemd3VUhaTFEzVkhWMlV5YjBwdVpVdzFaazlFTUZGRWNWVXRkVkJNWjNGb1pEQjBabE5yZW5WZlNrOWhVVjkyVlRGcGFWWk1PSEpZY2xsWVpFVVNGMHRXZG05aGNGZFFTR0pmUTJoaVNWQndPR0ZhTkVFNEdpSkJTRTR3UlRkRmJsSklTMG81WmtoZlpERkhWVXRWTlcxUVZHTnFMVTlQTVdOUg",
+        "job_title": "Senior Node.js Backend Engineer (TypeScript) – Riyadh",
+        "employer_name": "Apexops",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apexops.agency&size=128",
+        "employer_website": "https://www.apexops.agency",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-node-js-backend-engineer-typescript-riyadh--riyadh--e3f03b2e99924bc567b26a922c292d02c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-node-js-backend-engineer-typescript-riyadh--riyadh--e3f03b2e99924bc567b26a922c292d02c",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Apex Operations Company in Riyadh is seeking a skilled Backend Engineer to design, develop, and maintain the APIs behind ARK47 Studio. You will work with Node.js and TypeScript, crafting robust PostgreSQL schemas and efficient queries while integrating payments, messaging, and other services with a focus on data protection and reliability.\n\nYou will collaborate with frontend teams, product managers, and QA to implement new features, write tests, and ensure smooth operation of services on-site in",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXyZN6NWMUeo05sG4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XyZN6NWMUeo05sG4AAAAAA=="
+      },
+      {
+        "job_id": "UnhZMEVpaXd0NkxwLWVfU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3RYUkVsMlVWTkxObkp0T0UxWmNIcHZSRXQ0V0VZdGVYWldVSGczT1V4NFNuUlBVbTFOYlZadFNuTTJiVjh5YUd4UWJIcEtMV3h6YUhKWlgyUTNRek5yVUROTk9WOW1kazVzWlhGSE0zaEdhbUo2YWs1eVRHbEJlRVY2VDIxWU5Wa3RkRzlXU0dSbk16SnlTbVJOUlRsU01tOTJObmc1UlZOUE1DMVBkRGhIY2xselNub1NGMHRXZG05aGNGZFFTR0pmUTJoaVNWQndPR0ZhTkVFNEdpSkJTRTR3UlRkSGRGTlpWVkJOWDJoM1dXNXFhVlpPZURSUlp6RTJVR3RqTmxkbg",
+        "job_title": "Riyadh-Based Java Backend Developer (Quarkus) — 3-Month Contract",
+        "employer_name": "Uasmart",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uasmart.eu&size=128",
+        "employer_website": "https://uasmart.eu",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/riyadh-based-java-backend-developer-quarkus-3-month-contract--riyadh--e414b366d38d69c43c6bd3be7852d8d72",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/riyadh-based-java-backend-developer-quarkus-3-month-contract--riyadh--e414b366d38d69c43c6bd3be7852d8d72",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Royal Cyber Arabia in Riyadh, Saudi Arabia, is seeking a Java Backend Developer with Quarkus experience for a three-month contract. The ideal candidate has roughly 7 years of backend Java experience and must already be located in Riyadh for local engagement.\n\nThe role focuses on developing and maintaining backend services, integrating Quarkus components, and ensuring robust application functionality within a fixed contract period.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DRxY0Eiiwt6Lp-e_SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "RxY0Eiiwt6Lp-e_SAAAAAA=="
+      },
+      {
+        "job_id": "Q2pOQ08tOWkybWlOeU1JU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZamhJT1dVNVN6RlljWEJ1TURGMGNVVlhWVzFGYzBwWmFIUkZTSFJ1TUZGQ2FYY3lZMkUwYjFrMFpqQnBRelJEYVZKWlRWSTBWVGxSVURoR1ZsRnhMVlp2VFRkME1VUllhVWhwT1VvMmRFcHRRVGR1Y0ZnMVoydG5ORXhWVVUxRVdGZDVaVkk0TWpSbldXTjRiMHhGYlVWNmMxbG5RMmRTVjNaWmNVTkpRMGxGYTIxTFZXVVNGMHRXZG05aGNGZFFTR0pmUTJoaVNWQndPR0ZhTkVFNEdpSkJTRTR3UlRkSFRXMVRYMHhJYUV4blpXdHNkVk53U2s5SVozcG1Na2t6WmxCQg",
+        "job_title": "Remote Senior Backend Engineer – Payment Protection & Fraud",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/remote-senior-backend-engineer-payment-protection-fraud--saudi-arabia--e9521783107f58b452c660aaf614155e4",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/remote-senior-backend-engineer-payment-protection-fraud--saudi-arabia--e9521783107f58b452c660aaf614155e4",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "A partner company listed on behalf of Jobgether is seeking a Senior Backend Engineer – Protection based in Saudi Arabia. You will design and build scalable back-end systems for payment dispute management, fraud prevention, and risk automation, taking ownership from architecture to deployment in a fully remote, distributed team.\n\nYou will work with engineering managers, product leads, and third‑party vendors to integrate solutions, implement rules engines, and monitor reliability.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DCjNCO-9i2miNyMISAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "CjNCO-9i2miNyMISAAAAAA=="
+      },
+      {
+        "job_id": "SXY5aDNaOTd5NXNRUzJMckFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWswTjJ0T2RXaGlTazFMUnpKV1IwWkROM1ZpUlhoUFRtZEJZVXhpVEdsb1pWTnVUVmRVVkRST1VYVnhabkZYWDFOQ1FVbG9OMFJsY3pOR2FubG5VVlk1VEhWTFlsTkpVbVpZZDFsVlkwWnRjVTFJVmtWSFVXcEdURlJ6TVhFM1dqZENOVTgyWlZsdGNuVTFUVm95Y1hSeFRsWnlSakV4UW1sUE5qRk9kREJ0U0dwbE1tb1NGMHRXZG05aGNGZFFTR0pmUTJoaVNWQndPR0ZhTkVFNEdpSkJTRTR3UlRkSGNEbDFPVEZwWDJ0dlZqZFlkVjkwWW1VdGFESlFNRzl1WldkUg",
+        "job_title": "Senior Backend Developer Al Musanid",
+        "employer_name": "Qureos Inc",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.qureos.com&size=128",
+        "employer_website": "https://jobs.qureos.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/5905802614660243228",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/5905802614660243228",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "We are looking for a Senior Backend Developer to be part of a team responsible for the development of our products backend. You should be comfortable with both front-end and back-end coding languages PHP development frameworks (especially Laravel ) and third-party libraries. You should also be a team player with strong problem-solving abilities.\n\nResponsibilities\n• Write PHP backend code using the Laravel framework following best practices.\n• Design client-side and server-side architecture.\n• Develop and manage well-functioning databases and applications.\n• Write effective APIs using best practices.\n• Test software to ensure responsiveness and efficiency.\n• Troubleshoot debug and upgrade software.\n• Create security and data protection settings.\n• Build features and applications with a mobile-responsive design.\n• Refactor legacy code and apply modern software architectures.\n• Write technical documentation.\n\nRequirements\n• Bachelors degree in Computer Science Computer Engineering or equivalent.\n• 4 years of experience in software configuration management.\n• Strong knowledge of SDLC management .\n• Experience with version control tools ( DevOps Git etc. ) from a management and administration perspective.\n• Good knowledge of DevOps CI/CD methodologies and tools (Jenkins DevOps pipelines Docker Containers).\n• Knowledge of various application servers (e.g. Apache NGINX ).\n• Strong knowledge of release management processes and regulations.\n• Strong skills in troubleshooting deployments and configuration issues.\n• Familiarity with various operating systems ( Windows Linux MacOS ).\n• Knowledge of cloud services (AWS Google Cloud Azure) is a plus.\n• Knowledge of MERN/MEAN stack (MongoDB React/Angular ) is a plus.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٣ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الهفوف‎     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الهفوف‎",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 25.380025999999997,
+        "job_longitude": 49.5887652,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DIv9h3Z97y5sQS2LrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Iv9h3Z97y5sQS2LrAAAAAA=="
+      },
+      {
+        "job_id": "OVdYdkxTQS1GVHlvUmhLc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEZoZHpNMFZrcDVVbXBpTkhGM1FVNTZYM2gxVDNkNWN6Vk1TMXBrVmxWUFdtUndRbUl4VjNacE5tWmhhWGwzWkZVeVRVdEJkbVZuVUROdmRDMU9PRkJQVnpoUlJrMVRRa0pvYmpBeFQwUXRXa1I0WjNoQ01uZEhjamszWVVKRlVtTnFWa2xCWlZKYVVUTXhjVko0ZFhOMWRuUTNlVzU0VGxSRFkwRnlXVGt5ZW1GRWFYY1NGMHRXZG05aGNGZFFTR0pmUTJoaVNWQndPR0ZhTkVFNEdpSkJTRTR3UlRkSVlUbDVUaloxVlc1VlRHRmlZMEprVmxCeE5WRjNRbkpHZDNGUg",
+        "job_title": "Backend Developer - Python & Go",
+        "employer_name": "RESC",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ91lUpTAjDQV5d15uI3oHUR7qOvg_-x3OoK-0h&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/backend-developer-python-go--jeddah--ea6eba7e84b8873f7ba4a886fcf338eb4",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/backend-developer-python-go--jeddah--ea6eba7e84b8873f7ba4a886fcf338eb4",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "RESC is a leading technology and engineering company, with a wealth of experience spanning more than 25 years in a wide range of fields, including energy, electronic systems, safety solutions, automation, communications, control, embedded systems, and software.\n\nOur expertise spans renewable energy, electronic systems, smart devices, industrial safety systems, automation, and control, supported by state-of-the-art R&D centers and calibration laboratories to ensure the highest standards of quality and performance.\n\nWith a strong focus on research and development, we deliver cutting-edge solutions that drive efficiency, sustainability, and industrial progress.\n\nRESC is headquartered in Jeddah, Saudi Arabia. We combine local expertise with global innovation to deliver cutting-edge solutions in the Middle East and beyond.\n\nOur state-of-the-art 15,000-square-meter manufacturing facility in Jeddah underscores our commitment to local production, quality control, and the deployment of scalable technology.\n\nWe are looking for an experienced Mid-Level or Senior Backend Developer with strong hands‑on experience in Python and Go.\n\nThe main focus of this role is building reliable, scalable backend systems, APIs, and real‑time services. We are looking for someone with a broad engineering mindset who understands the full software lifecycle, from development and architecture to deployment, monitoring, and optimization.\nResponsibilities include:\n• Design and develop scalable backend services using Python and Go.\n• Build and maintain REST APIs, WebSockets, and real‑time services.\n• Design reliable backend architectures and system workflows.\n• Integrate SQL/NoSQL databases and third-party APIs.\n• Implement authentication and authorization using JWT, OAuth, and similar technologies.\n• Improve application performance, reliability, security, and scalability.\n• Troubleshoot backend, infrastructure, and deployment issues.\n• Build and maintain CI/CD pipelines.\n• Deploy and manage applications on Linux servers using Docker and Nginx.\n• Maintain clean Git workflows and participate in code reviews.\n• Monitor production systems, logs, errors, and performance.\n• Develop and integrate IoT services and real‑time device communication.\n• Collaborate with frontend developers, product teams, and other engineers.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D9WXvLSA-FTyoRhKsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "9WXvLSA-FTyoRhKsAAAAAA=="
+      },
+      {
+        "job_id": "MUFZdWFHWXBaQVl5TTVVMUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmhNTVRCeVZHSkpaa3RsTlhWNlFtNTJiV1kyV2pRdE9VUTFWME0xVkRKU1QxQk1aelJEWTBaa1EyVktjakJ1TFdSSmNYSmxlVEZ3TjNGd1kxRkRUWEI2UldrNFQzQXRVVk5wV0ZwVFh6RlJVR0ZCVm5seGNrdDNZMVZEYTJscFYwUm9kVmt4Tm01b1V6VTJOM1JqV25OYUxURTRWRE5SVnpONFpURlNTMnBFZUhWa1JsQVNGMHRXZG05aGNGZFFTR0pmUTJoaVNWQndPR0ZhTkVFNEdpSkJTRTR3UlRkR1pHa3RYM0JTYWpKaWIwTjRRVVJyUzNveE9YWjZlVU10UkdKUg",
+        "job_title": "Senior FullStack Developer",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/5893860407352754176",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/5893860407352754176",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Full Stack Developer based in Saudi Arabia.\nJoin an innovative Web3 technology environment developing advanced market intelligence solutions and next‑generation decentralized trading infrastructure. As a Senior Full Stack Developer, you will take ownership of architecture and implementation across frontend applications, backend services, and blockchain integrations. You will help build sophisticated trading tools that process hundreds of real‑time data streams, transforming on‑chain activity and market intelligence into actionable insights. Working with a highly experienced engineering team, you will design scalable, secure, and reliable systems while solving complex technical challenges across decentralized ecosystems. This role offers significant autonomy, broad technical responsibility, and the opportunity to influence core product architecture from design through production deployment. It is an ideal opportunity for an experienced engineer who thrives in a fast‑paced startup environment and is passionate about building impactful Web3 products.\nAccountabilities\nLead end‑to‑end full stack development across React‑based user interfaces, Node.js backend services, and Web3 integrations.\nDesign, develop, and scale decentralized applications that integrate blockchain wallets, decentralized finance (DeFi) protocols, and on‑chain data sources.\nIntegrate Web3 libraries, software development kits, third‑party packages, and APIs into robust, secure, and reliable product workflows.\nArchitect and implement systems that meet demanding requirements for performance, scalability, security, and interoperability across decentralized ecosystems.\nDevelop and optimize infrastructure capable of processing high volumes of real‑time market information, blockchain activity, and other data streams.\nTake ownership of the entire software development lifecycle, from technical design and implementation through deployment, monitoring, and production support.\nInvestigate complex production issues, identify root causes, and implement improvements that strengthen system reliability and operational performance.\nCollaborate with experienced engineers on architectural decisions, technical strategy, and research into emerging technologies relevant to Web3 and decentralized markets.\nContribute to the development of advanced trading and market intelligence products, helping transform complex data into intuitive, high‑performance user experiences.\nMaintain high engineering standards through thoughtful technical decisions, quality‑focused implementation, and continuous improvement of development practices.\nRequirements:\nAt least 10 years of professional software development experience, with a strong background in designing, building, and maintaining production‑grade applications.\nA minimum of 3 years of full stack development experience with a substantial focus on Web3 technologies and blockchain‑based applications.\nStrong proficiency in TypeScript, React, and Node.js, with the ability to develop and maintain complex frontend and backend systems.\nDemonstrated experience delivering Web3 applications or integrations to production environments.\nHands‑on experience integrating blockchain wallets, DeFi protocols, on‑chain data sources, and third‑party Web3 libraries, packages, or APIs.\nProven experience designing and scaling data‑intensive systems, particularly those involving real‑time processing and high‑volume information flows.\nStrong architectural judgment and a practical understanding of system performance, security, scalability, and reliability.\nAbility to troubleshoot complex technical issues, make independent engineering decisions, and take responsibility for production outcomes.\nExcellent problem‑solving skills, with the ability to balance rapid delivery against long‑term maintainability and technical quality.\nFluent English communication skills, with the ability to collaborate effectively with experienced engineers in a distributed environment.\nA high degree of autonomy, accountability, and initiative, along with the ability to manage broad responsibilities in a fast‑moving startup.\nComfort working in a demanding, execution‑focused environment where engineers are expected to take ownership and deliver results with limited supervision.\nExperience with multi‑chain development, particularly across Ethereum and Solana, is an advantage.\nFamiliarity with Prisma, Zod, tRPC, and Fastify is considered a plus.\nBenefits:\nFully remote work:\nWork remotely from Poland with flexible working hours.\nCompetitive compensation:\nAnnual salary of up to USD 90,000, depending on experience and qualifications.\nTechnical ownership:\nSignificant autonomy in shaping architecture, making engineering decisions, and delivering core product capabilities.\nExperienced colleagues:\nCollaborate with a highly skilled, senior‑level engineering team in a direct and execution‑focused environment.\nWeb3 innovation:\nContribute to advanced decentralized applications, market intelligence infrastructure, and next‑generation trading technologies.\nEnd‑to‑end responsibility:\nOwn projects from initial design through implementation, deployment, and ongoing production support.\nProfessional growth:\nExpand your expertise in blockchain integrations, real‑time data infrastructure, decentralized finance, and scalable full stack engineering.\nFlexible collaboration:\nBenefit from a remote‑first working model with a focus on meaningful output, technical excellence, and efficient communication.\nWe appreciate your interest and wish you the best!\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D1AYuaGYpZAYyM5U1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "1AYuaGYpZAYyM5U1AAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWVViS1M1czJqSGZrSk1adnJMU3dDQnNTLTZWc2ZSaHNpY0dVU3RldG5WUkh5aUExTF9HSTNYM2lfU0ZWYzNubC1DV1NGZDRuZHBtWGx1OGFtd0U5QXJubDdhODlHRUxJSDNJZDVCTXJLTGphRFgxS0c4ajZJXy1rSHBHS1czU2hmeWZlSU9JRnUtWVVMeVBPM0h5Mk1FNUl6RWNORnhwWjUwanlla054WnVOQjBrSW9rS2JvMDJSOC1pVkVnZHQ1bjVKY1NsSXN5WHl3OXBwYkI5eC1PN3N4S3dNTVZ6Z2xPal9WR1dOZTFDYTgtMDM4SGhPdl8zeDdXOExickdMOTE3TkxfallxVHlQRkRnYWQ0VEVLS3c4S0NoU0h2d1BQWFBKZHVmN1RLLUJQNHd5cDVEdFVjcG5QbHZ4MHAwY1dVMUkzWE85VlIzT1pGVGVjaldjcDRTa0FFS3VpNDBvOEkybEZUR0c4VFpteVRBR19Qd1lLQ3owOTBiVzRsaTFvSmhBVEh3Y3Ribm1YaVNVSDQ0dlJtUlhCUlEwc1ZCZm90QXFSVS1iaTNlVDVsYlFlZVFVc0FhVG4zZ0VJNGJhdzVOUG5UOGJoeTZET2c5MG5ybmtLR1VYM0lVMnhQMUJvVzgzT01SRi1lVnE3RnpxYXdsMm43N29kZDdXN09NNUQtNlNNY1dUaXAzOXVQTExQRTB0S2w4R2J3b0pREhdLVnZvYXBXUEhiX0NoYklQcDhhWjRBOBoiQUhOMEU3RnozR2RMQzhPaklwNzg1YTNsQ0dnZ1RtREl5UQ"
+  }
+}

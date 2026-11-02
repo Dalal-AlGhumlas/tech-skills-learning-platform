@@ -1,0 +1,473 @@
+{
+  "_meta": {
+    "specialization": "cloud_devops",
+    "query": "aws engineer"
+  },
+  "status": "OK",
+  "request_id": "d56b1761-cd77-4317-90de-2417e6ab105f",
+  "parameters": {
+    "query": "aws engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "Qk82cVd1c2ZCWHhCWEpvWEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZak54VDBKUldtUnlka1ZTUzBsd1JuVmtVR2wwVGprMWMxVlZUa2xNZEZoT2VYRmlURTB0WlZSWFdsRTFaREF6V1ZKeVlsRnlWeTFITjBaaldreGhXRGszWDNvNU5rdFNOVGc1YTNaSlFsOWZaV2hGZDBkYVlrbHFXV1JZTVhOSVRsSm9VVkJyWDNkUWJFNTNRbkZsY2xWSGJISjRRalZrTVd3M01XWjFPWGd0VVd0cVEyMFNGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBad2ExOUdUSGQwWlRONVNsZDFSVXM0V0VFMlRESnRja2xOYWtF",
+        "job_title": "Data Center Engineering Operations - 2027 Internship",
+        "employer_name": "AWS EMEA SARL (Saudi Arabia Branch) - H11",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhvF9EGO240KecCy-EZXI--1oeDiOBgHLdexL&s=0",
+        "employer_website": null,
+        "job_publisher": "إنديد",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.indeed.com/viewjob?jk=58a20c74283a6eec",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.indeed.com/viewjob?jk=58a20c74283a6eec",
+            "is_direct": false,
+            "publisher": "إنديد"
+          }
+        ],
+        "job_description": "DESCRIPTION\n\nWant to be part of the team that keeps the world's largest cloud running? As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical infrastructure behind Amazon's global data centers — and your work will directly impact millions of customers worldwide.\n\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Engineering Operations Technician position, subject to available roles and business needs.\n\nWho Should Apply\n\nWe welcome applications from:\n\n• Students in the last year of their Bachelor's degree in Mechanical Engineering, Electrical Engineering, or a related field who are looking for an internship that could lead to a full-time career.\n\nIt is a requirement to be graduated by the end of the internship.\n\nAbout the Role\n\nAs an intern, you will provide technical support within Amazon's owned and operated data centers. Your work will ensure that the data center's mechanical, electrical, and plumbing systems operate at 100% availability while maintaining first-class customer service to the teams and groups on site.\n\nYou will be exposed to both independent work and team-based collaboration. Prioritization, organizational skills, effective communication, and the ability to react quickly are critical to being successful.\n\nWhat You Will Do\n\nThe Engineering Operations team is Amazon's front-line responders for hands-on electrical and mechanical equipment troubleshooting and operations. You will work with equipment that supports mission-critical servers and must maintain better than 99.999% uptime. This equipment includes, but is not limited to:\n\n• Stand-by diesel generators and switchgear\n\n• Uninterruptible Power Supplies (UPSs) and Power Distribution Units (PDUs)\n\n• Air Handling Units (AHUs), chillers, and cooling towers\n\n• Chemical treatment systems, pumps, motors, and Variable Frequency Drives (VFDs)\n\n• Building automation systems\n\nYour day-to-day duties include:\n\n• Maintaining mechanical and electrical equipment\n\n• Assisting with root cause analysis of equipment failures\n\n• Troubleshooting facility and rack-level events within internal Service Level Agreements (SLAs)\n\n• Taking daily operational readings of all mechanical and electrical equipment\n\n• Using internal Computerized Maintenance Management Systems (CMMS) to manage building workflows\n\n• Interacting with third-party vendors and contractors working on site\n\nInternship Structure\n\nAmazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules, Sunday through Thursday.\n\nPlease note that full-time Engineering Operations Technician roles operate on a rotating shift pattern, which may include days, nights, weekends, and public holidays. Candidates should be willing and able to commit to shift work upon transitioning to a full-time position.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\n\nYour Career at Amazon — A Universe of Opportunity\n\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\n\nFrom your first day as an intern, you will own real work that matters. You will troubleshoot and maintain the systems that keep AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\n\nImpact. Your work shapes the infrastructure that millions of customers rely on every day. From cloud computing to artificial intelligence, the systems you maintain power it all.\n\nAction. You will move fast, experiment, and learn by doing. Your ideas do not get stuck in approval chains — they get tested, refined, and put into practice.\n\nCuriosity. Every project teaches you something new. You will apply what you learned in the classroom to real challenges and explore different teams, technologies, and career paths within Amazon.\n\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Beyond that, you will find continuous learning opportunities and the chance to work on different projects. Your journey here is yours to shape.\n\nAbout the team\n\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\n\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\n\nBASIC QUALIFICATIONS\n\n- In pursuit of a Bachelor's degree in a relevant field such as Mechanical Engineering or Electrical Engineering, or a related technical field, graduating in 2027 - before the end of the internship.\n\n• Professional English proficiency, both written and verbal\n\n• Ability to work well with others in a team environment, with strong time management skills\n\n• You must have access to your own transport (note: public transit options may be limited)\n\nPREFERRED QUALIFICATIONS\n\n• Experience in program or project management\n\n• Knowledge of mechanical systems (Heating, Ventilation, and Air Conditioning systems, controls)\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٥ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر إنديد",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DBO6qWusfBXxBXJoXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "BO6qWusfBXxBXJoXAAAAAA=="
+      },
+      {
+        "job_id": "dUt4Tm55cVBzLTJZZGdqNkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVGxqVVdaa1l6RjJiRWROVkRKV2JYWkhSRzFEVG14Wk5FYzFUUzFKUlVScWFXeERUbDlST0d4RFdUVkNSRk5sVWpNME1HdFNSbHBWZEZCdFRWQnlWVms0WTA1ZlRWTTFUMnhxVDNkSlowVmlPR1JYZWpGVU1WRjFhRXRZYkRKdlZWZFBXRWhqVEVKUlVqSk1SMGRpTWxoNGJIZElMVmxoWTJSR1MwUkhOR2haVUdOdVdURVNGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBka1lYSkVVVFJOVW1RM05tRTNhWFYzYjFKMVp5MUZPSGg1Vm5j",
+        "job_title": "كبير مهندسي الحلول، المبيعات العالمية لـ AWS",
+        "employer_name": "AWS EMEA SARL (Saudi Arabia Branch)",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://saudi.tanqeeb.com&size=128",
+        "employer_website": null,
+        "job_publisher": "تنقيب",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/ar/jobs-in-middle-east/all/jobs/021310409.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/ar/jobs-in-middle-east/all/jobs/021310409.html",
+            "is_direct": false,
+            "publisher": "تنقيب"
+          }
+        ],
+        "job_description": "• 8+ years of specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data & analytics) experience\n• 3+ years of design, implementation, or consulting in applications and- 5+ years of infrastructure architecture, database architecture and networking experience\n• Experience working with end user or developer communities\n• Experience in a technical role within a sales organization\n• Experience with presentations an\n\nDesired Candidate Profile\n- 5+ years of infrastructure architecture, database architecture and networking experience\n- Experience working with end user or developer communities\n- Experience in a technical role within a sales organization\n- Experience with presentations and speaking with executives, IT, management, and developers\n- Experience designing or advising on AI/ML workloads, including model training, inference, and deployment on cloud infrastructure\n- Experience with generative AI concepts and their application to enterprise use cases (e.g., foundation models, RAG architectures, AI agents, prompt engineering)Preferred / Nice-to-have:\n- Experience architecting data pipelines and data platforms that support AI/ML workloads (e.g., data lakes, feature stores, vector databases)\n- Hands-on experience with AI/ML frameworks and services (e.g., SageMaker, Bedrock, TensorFlow, PyTorch, Hugging Face) or equivalent cloud AI platforms\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you re applying in isn t listed, please contact your Recruiting Partner.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٩ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر تنقيب",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DuKxNnyqPs-2Ydgj6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "uKxNnyqPs-2Ydgj6AAAAAA=="
+      },
+      {
+        "job_id": "MHl4VDQ1d2t0eHpLblJzWEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZakEwTkhwYWNXdHRZVXRXYm1aYWJIRnlVWGhyY0cxNlUxaFBUa1pWWWpZNGRHRmtRV1F4ZUVoeFFqWTRNbU5WTnpBMk9HcHFRV1l5Y2pWeGNqUkVjMDF2VkhkRmNHTkdSR05YV1RZMlQwVXlhVmxCTjFVNWJuVXlhM1JFYldSS1FuUkxiRkJXVUhwNE5Ib3RRMEZhYVRGdWFEbDZVVEJOUjFaQk5raGliR015WVhablpIZ1NGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBkRVNWb3dNR1pUYkVobVExTkVNbUpWTUdSeFVUWmZUREJNZFVF",
+        "job_title": "Senior Technical Lead - Cloud Engineering",
+        "employer_name": "SITE سايت",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-technical-lead-cloud-engineering--riyadh--e8b1332c755963d5cf44890ec8000c884",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-technical-lead-cloud-engineering--riyadh--e8b1332c755963d5cf44890ec8000c884",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Lead the technical delivery of cloud projects and ensure successful implementation for clients onboarding.\n\nThe role requires strong technical knowledge across cloud platforms, IT infrastructure, operating systems, networking, and migration technologies, along with the ability to coordinate with customers and internal teams.\n\nThe Senior Technical Lead will be responsible for delivering cloud services such as customer onboarding, workload migration, disaster recovery (DR), backup, email services, and other enterprise IT solutions.\n\nKey Responsibilities\n• Lead the technical delivery of cloud projects from planning and implementation to customer acceptance and handover.\n• Review the Scope of Work (SoW) and ensure all technical requirements and deliverables are clearly defined.\n• Act as the main technical point of contact for assigned customers.\n• Conduct technical discovery and assessments of customer infrastructure, applications, and dependencies.\n• Prepare and review technical designs, implementation plans, and migration strategies.\n• Coordinate with internal teams, vendors, and customers to ensure successful project delivery.\n• Deliver cloud onboarding activities, including resource provisioning, networking, connectivity, and service configuration.\n• Plan and execute workload migrations from on-premises environments or other cloud platforms.\n• Implement backup and disaster recovery solutions, including DR testing, failover, and failback.\n• Support the deployment and integration of enterprise services such as Active Directory, DNS, email, databases, and application hosting.\n• Troubleshoot complex technical issues and resolve delivery challenges.\n• Identify technical risks, dependencies, and scope gaps that may impact project delivery.\n• Ensure technical documentation, knowledge transfer, and operational handover are completed.\n• Support technical discussions, solution assessments, and delivery planning.\n• Improve delivery processes through automation, standardization, and knowledge sharing.\n\nRequirements\n• Bachelor's degree in Computer Science, Computer Engineering, Information Technology, or a related field.\n• Minimum 6 years of experience in cloud engineering, IT infrastructure, or technical project delivery.\n• Proven experience leading technical projects and working directly with enterprise customers.\n• Strong knowledge of cloud platforms, including private, public, and hybrid cloud environments.\n• Hands-on experience with virtualization, compute, storage, and backup technologies.\n• Strong experience with Windows Server and Linux administration and troubleshooting.\n• Good understanding of networking, including routing, firewalls, VPN, NAT, DNS, and load balancing.\n• Experience with cloud migrations, customer onboarding, and disaster recovery implementation.\n• Broad knowledge of enterprise IT services, including Active Directory, email, databases, and application infrastructure.\n• Understanding of IT security, access management, and infrastructure best practices.\n• Familiarity with automation and scripting tools such as PowerShell, Bash, Ansible, or Terraform.\n• Strong communication, problem-solving, documentation, and customer management skills.\n• Ability to manage multiple projects, coordinate technical teams, and work under pressure.\n\nPreferred Qualifications\n• Experience working with a cloud service provider, system integrator, or IT consulting company.\n• Professional certifications in cloud or infrastructure technologies, such as AWS, Azure, Google Cloud, VMware, Red Hat, or Cisco.\n• Experience with Kubernetes, OpenShift, or other container platforms is an advantage.\n• Experience delivering enterprise-scale migration and disaster recovery projects.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D0yxT45wktxzKnRsXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "0yxT45wktxzKnRsXAAAAAA=="
+      },
+      {
+        "job_id": "WEVBdGtSR1V0Zk1QV1pBb0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbEpVUVdSUFNGVnVXRTk0WDBadVJEZzNZVXBNTjI1R1RGTm9NbXhSWVdwVVFqVXRWMDlDZFUxaVMwazBXVmhEVW5GcWJHUkZkMDk1YVVSUmJFMWhhbVV5UmxKZldXcEphR2t0VkRGalZsY3lkMFZXYkdvNE1tSlNOMFI0TjNGNk5VcERWVE4wZEdaVWJFYzJNRXB1WkdaUGRVcGhUMFJETjE5SGVqZE9ZalZ1VHpaV1RFZ1NGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBWRE1ubHFXa2hTVkVGMGRYVk5aM2RFVkdaMFRuZzVOR1I0Wkdj",
+        "job_title": "Cloud Operations Engineer | AWS/Azure, DevOps & Security",
+        "employer_name": "Client of PENTABELL",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/cloud-operations-engineer-aws-azure-devops-security--medina--e70b924bf75943c88c83a6a2579fe3da2",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/cloud-operations-engineer-aws-azure-devops-security--medina--e70b924bf75943c88c83a6a2579fe3da2",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Client of PENTABELL is seeking a Cloud Operations Engineer to monitor cloud infrastructure, implement scalable cloud solutions, and collaborate with cross-functional teams to deploy new services in Medina.\n\nThe role requires a Bachelor’s or Master’s in CS/IT, at least 1 year of experience, and relevant certifications (AWS, Azure, Kubernetes). You will troubleshoot issues, document processes, and uphold cloud security best practices.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXEAtkRGUtfMPWZAoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XEAtkRGUtfMPWZAoAAAAAA=="
+      },
+      {
+        "job_id": "d3h0MjFCSVYzcmp6M2JTZ0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZamR2WTNKeVdVOTJhWFJJVVRkeWJuRTFTRWRrUTB0UVIwZFNPVmhNV0ZvMU16RlRWRkp0VVVGVFRpMVJWRkpYYUZkMk5GTnVkMEpvTld0NlRIRXdVbVJaUlZBd1JFcEVRblozYlc5WlVGbHdWVGQ2VTBkWE9EVkRRMDR4WmtkNVkxSkZTVWRNY0Y5TVprVkVVMW8yUW1kZlUzUnFRVFZHY1dodWFrNXJiMHBOVWxCWGEwVVNGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBVM1kzSjJORUZNU0Uwd2RVZzVlRUZvVFVOcE1DMW5XVVZDWkdj",
+        "job_title": "Senior Solutions Architecture Leader",
+        "employer_name": "AWS EMEA SARL (Saudi Arabia Branch) (Amazon)",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-solutions-architecture-leader--riyadh--e2d4bac6ace704a8e874f2c31800a11b7",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-solutions-architecture-leader--riyadh--e2d4bac6ace704a8e874f2c31800a11b7",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "AWS EMEA SARL (Saudi Arabia Branch) invites a Sr. Manager, Solutions Architect to lead a growing team of solution architects serving Saudi customers, guiding complex cloud architectures and strategy.\n\nYou will partner with Sales and AWS teams to drive revenue, craft scalable, secure, and cost-effective cloud solutions, and mentor engineers toward business impact.\n\nJoin a high-impact role shaping customer success and cloud adoption across industries.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dwxt21BIV3rjz3bSgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "wxt21BIV3rjz3bSgAAAAAA=="
+      },
+      {
+        "job_id": "cXlXRHBBZTNJdXFXdlR5OEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVmhpTUZKNFRYWlVlbkpDUld4MFoybG1ha3AxUmxWc05GUnVTek5mUjJGUE1tZGxOMEpPYlhab2FVZG1WM0ZPTmpWbE9WVkRhekl0Y2taNlVWRkNUVzgxVEdGZlVEZGFYME5RZHpGNGJUbERlSFEwYkdscmNYZHhNa3hYYkdKUU1GbHdlRzR6WjNSTk9FNDJOVVJJUkVnMFpFODJUblZQT1RoQk5XeFFkazkwZERWNk1XY1NGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBoRU5GaE1PVFJJZEdoVlpVZ3plWFpaTjJWbWJrNUtOMlEwWlhj",
+        "job_title": "Install Technician, Infrastructure Delivery, AWS Amazon IT 6 Oct · 08:36",
+        "employer_name": "AimGulf",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aimgulf.com&size=128",
+        "employer_website": "https://aimgulf.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/install-technician-infrastructure-delivery-aws-amazon-it-6-oct-08-36--riyadh--ee8d5b6ce40a50d6c4ef460c6a7dbdc07",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/install-technician-infrastructure-delivery-aws-amazon-it-6-oct-08-36--riyadh--ee8d5b6ce40a50d6c4ef460c6a7dbdc07",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Amazon Web Services Infrastructure Delivery owns the end-to-end design, planning, delivery, and operation of the global AWS infrastructure footprint — the backbone that enables the cloud to operate at scale. Our teams support every AWS data center and the full stack of critical infrastructure including compute, storage, networking, power, and cooling systems, ensuring customers maintain continuous access to the services and innovation they depend on.\n\nYou will join a high-performing, diverse organization of software engineers, hardware engineers, network specialists, supply chain professionals, security experts, operations leaders, and infrastructure teams working collectively to deliver scalable, secure, and highly available infrastructure globally. We are seeking an ID Install Technician to support network infrastructure deployment and expansion within our next-generation data center environments.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DqyWDpAe3IuqWvTy8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "qyWDpAe3IuqWvTy8AAAAAA=="
+      },
+      {
+        "job_id": "aUtBZGpvZXZQbGphb3JMaEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVWxUVVVGT1dURTFTMUZxY2pNMVpVNTNSV1JXTjFsNFpHNVBjVVJET1ZONVFVRTJSMkpWYmxWMFJYWTJOUzFEV25ScU5IUndiVnBMTlMxZmIxZGpXVEprY1ZVeWR6Qm9UM0V5VjJacmJ6aE5hSFp1ZEdaNFIyTkhVVjluZUhBMGNtbzJXbFJaVGs1a1ZVOVlaR2w2U0hCYVVsZzNkRXgyTjFGb1UwMTZUR2hoU1VsTVNrTVNGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBkc0xYZE5PRjl0UW5VeE16UkZSVkU0Y0ZKblZWOVVORGhGVEVF",
+        "job_title": "Data Center Technician – 2027 Internship",
+        "employer_name": "AWS EMEA SARL (Saudi Arabia Branch) - H11 (Amazon)",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/2261723525674958848",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/2261723525674958848",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Description\nAt Amazon Web Services (AWS), we are working to be the most customer-centric company on earth. To get there, we need exceptionally talented, bright, and driven people. Are you ready to embrace the challenge? Come build the future with us.\nThis is a unique opportunity to work in some of the most cutting-edge data centers in the world. Amazon data centers are large-scale, high-density facilities where you will help change the face of cloud technology in the region — and your work will directly impact millions of customers.\nThis internship is designed as a potential pathway to full-time employment. Interns who demonstrate strong performance throughout their internship may be considered for a full-time Data Center Technician position, subject to available roles and business needs.\nWho Should Apply\nWe welcome applications from:\nStudents in the last year of their Bachelor’s degree in a relevant technical field such as Information Technology, Computer Hardware Repair, or similar. It is a requirement to be graduated by the end of the internship.\nImportant — Site Location & Commuting: This role is based at a data center facility in a remote location with no public transportation access. A valid driving license and access to personal transportation are required to commute to the site daily. Please consider this before applying.\nAs a Data Center Technician Intern, you will work as part of the Operations team, whose primary responsibility is the maintenance and upkeep of the data center infrastructure. This position involves hardware and network diagnostics followed by physical repair.\nYou will be exposed to both independent work and team-based collaboration. Prioritization, organizational skills, effective communication, and the ability to react quickly are critical to being successful.\nWhat You Will Do\nYou will provide our internal teams with infrastructure-related support, resolving tickets related to hardware (motherboards, Random Access Memory, Central Processing Units, Graphics Processing Units, and more) and networking (link-down events, optics replacements, switch replacements, and more).\nIn addition to hardware and network repair, you will learn how to install equipment, create documentation, innovate solutions, and fix complex problems within the data center environment.\nYour day-to-day duties include:\nTroubleshooting server hardware alongside experienced AWS technicians\nMeeting Service Level Agreements (SLAs) against assigned trouble tickets\nShadowing AWS technicians during network troubleshooting to build your diagnostic skills\nReplacing media (Solid State Drives and Hard Disk Drives) in accordance with AWS Data Tech guidance\nPerforming regular server hardware repairs (drives, motherboards, and other components) under the guidance of experienced technicians\nInteracting with third-party vendors and contractors working on site\nInternship Structure\nAmazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027. This position requires the intern to report to work on site daily. Intern schedules are typically day schedules, Sunday through Thursday.\nPlease note that a full-time Data Center Technician position could involve day, evening, or weekend shifts and on-call rotations. Candidates should be willing and able to commit to shift work upon transitioning to a full-time position.\nDiverse Experiences\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed below, we encourage you to apply. If your career is just starting, has not followed a traditional path, or includes alternative experiences, do not let that stop you from applying.\nYour Career at Amazon — A Universe of Opportunity\nAt Amazon, your career is not a straight path. It is a journey you build as you go.\nFrom your first day as an intern, you will own real work that matters. You will diagnose and repair the servers and networks that keep AWS running for millions of customers. Your mentors and teammates will champion your growth, helping you build skills you did not know existed — and you will see your work come to life at massive scale.\nImpact. Your work shapes the infrastructure that millions of customers rely on every day. Every server you repair and every network issue you resolve keeps the cloud running.\nAction. You will move fast, learn by doing, and solve real problems from day one. Your ideas do not get stuck in approval chains — they get tested, refined, and put into practice.\nCuriosity. Every project teaches you something new. You will apply what you learned in the classroom to real challenges and explore different teams, technologies, and career paths within Amazon.\nMentorship and career growth. You will start with structured onboarding and get paired with experienced mentors. Our team is dedicated to supporting new members in an environment that celebrates knowledge sharing. Projects and tasks are assigned in a way that leverages your strengths and helps you further develop your skill set. Your journey here is yours to shape.\nAbout the team\nAWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. We are the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on.\nYou will join a diverse team of engineers, supply chain specialists, security experts, operations managers, and other vital roles. You will collaborate with people across AWS to deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers.\nBasic Qualifications\nIn pursuit of a Bachelor’s degree in a relevant technical field such as Information Technology, Computer Hardware Repair, or similar, graduating in 2027 – before the internship´s end date.\nProfessional English proficiency, both written and verbal\nAbility to work well with others in a team environment, with strong time management skills\nPreferred Qualifications\nBasic knowledge of Linux and networking\nBasic knowledge of computer hardware components\nAbility to manage work and priorities through a ticketing system and coordination with Manager.\nAn interest in computer sciences and information technology\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\nTagged as: Alexa Support, and Support Engineering, IT, operations\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DiKAdjoevPljaorLhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "iKAdjoevPljaorLhAAAAAA=="
+      },
+      {
+        "job_id": "OGk0M1BMYlRqYVdURnpVN0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVmwxTVRkSFFXWXhSbGx0TmpVM05UWlJNR1poUWpaU1NWZFRXbFJsZVZKaFVURlFRM0ZaZFU5NFRWcHFNbTFuY1dSSVZWWTJhM2xIZFdsUU9IVkhVSEJhZW5veWMwcDFUMDFqVkVablJsWldjMHBOVm5WbFpFcERXRVpIUVd4VWEwRjRjamMyWDJkRk16RnJNakZqWjB0UFNVSnFNa1J1YldKNU5FVkZaR05UTVRWVFpFWVNGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBadGFsQjBaM0l6Y1dkSldUVkJUR2hTV1VaUGJrZFFYMFZuY25j",
+        "job_title": "Senior Cloud Platform Engineer - Azure & AI (Remote)",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-cloud-platform-engineer-azure-ai-remote--saudi-arabia--e376619b5c9dcd8c3b4b07b7159d43ce6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-cloud-platform-engineer-azure-ai-remote--saudi-arabia--e376619b5c9dcd8c3b4b07b7159d43ce6",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Jobgether is seeking a Cloud Platform Engineer based in Saudi Arabia to design, build, and operate scalable cloud infrastructure supporting AI applications. The role focuses on Azure with exposure to AWS, creating IaC modules, CI/CD pipelines, and observability to accelerate production readiness across international teams.\n\nYou will collaborate with AI engineers, data specialists, and IT teams to automate provisioning, strengthen security, and optimize cloud costs in a remote, globally",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D8i43PLbTjaWTFzU7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "8i43PLbTjaWTFzU7AAAAAA=="
+      },
+      {
+        "job_id": "cW82SndRVkdIN090cXo0MkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVEYzVTNsR2R6RXdlRmwyZUVsTUxXOXZabmN6TUhweWJ6WXRVblp5VURsaFVVSlZiMnBqVWsxUWVtWk1jVEpuVDNGMWR6TTBOWE5sU2pVdGRrVlBUVFphVDBwUlNpMVdjVjh0UWpVMWEyRlRkSHB1WlRSTE9GUktWMU5LZFVKYVpuVlNSRjh5ZUV0UmVtNTRhRFJLVTNCSVVsOHlSRnA2UlZsbVNrVnZObWxYZUVOSmIzSVNGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBZdGRuWm9WbXB3WjBZMFJVcEpZemMyVUU1cVdqSjNjWHBxYkhj",
+        "job_title": "Data Center Ops Engineer Intern — Hands-On Cloud Infra",
+        "employer_name": "Amazon Inc.",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvibMuzxqI5vSKQnhp0n5kNT0a3uVSMxcFtupp&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/data-center-ops-engineer-intern-hands-on-cloud-infra--riyadh--e588a170006c7a6f54d55944e3390ac0a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/data-center-ops-engineer-intern-hands-on-cloud-infra--riyadh--e588a170006c7a6f54d55944e3390ac0a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Amazon is offering a Data Center Engineering Operations Internship for 2027, aimed at Mechanical or Electrical Engineering students who may transition to full‑time roles. The internship focuses on hands-on support in AWS data centers, ensuring high availability, and develops skills in troubleshooting and collaboration on site.\n\nInterns work full-time for 3 consecutive months starting Summer 2027, reporting on-site; typical schedule is Sunday through Thursday, with a rotating shift possibility as",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dqo6JwQVGH7Otqz42AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "qo6JwQVGH7Otqz42AAAAAA=="
+      },
+      {
+        "job_id": "djVkN0NSQk9sdE5lUjFXcUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXV2M1YVZSTU0zbGhkR3RLTTBSVFUxa3dNVnBDVTAwd2JYaDVPRk40UkRCb1J6aElXWGxaV1RkMU1XTklTVmxDYmpsYVZXRlNNV0pPZURSSGIxQnBhMjB3UVZFNVFXTnlRaTAzWWxSWGJqUkRWVU55Umt4V05HZ3dUazV6VFRCaGNFSkJibEl6ZW5OWmVEVkVSWGxFVFV0T1RsbGFkbEZXY0VKd1Z6STNhMVJJVTFCcGNVUVNGazFYU0c5aGRreHVSMHN5ZW1rdFoxQnFVSEp0VFVFYUlrRklUakJGTjBjM09WZzBRVzltVEVwRVZWRmFkMFZDWDBoNWNYVkZWbXd6TUVF",
+        "job_title": "ELV Engineer – Saudi Arabia",
+        "employer_name": "AWS DISTRIBUTION",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "إنديد",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.indeed.com/viewjob?jk=a7657c521b08e598",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.indeed.com/viewjob?jk=a7657c521b08e598",
+            "is_direct": false,
+            "publisher": "إنديد"
+          }
+        ],
+        "job_description": "We are seeking a qualified and experienced ELV Engineer to join our team in Saudi Arabia. The ideal candidate should have hands-on experience in the installation, testing, commissioning, troubleshooting, and maintenance of ELV and security systems.\n\nThe candidate will be responsible for supervising project execution, ensuring compliance with client and consultant requirements, and coordinating with clients, consultants, subcontractors, and project teams to ensure timely and successful project delivery.\n\nKey Responsibilities\n\n• Execute and supervise ELV projects from installation through testing and commissioning.\n\n• Install, configure, test, commission, and troubleshoot ELV and security systems.\n\n• Ensure all installations comply with client, consultant, project specifications, and applicable Saudi standards and requirements.\n\n• Prepare and review shop drawings, as-built drawings, material submittals, method statements, and other technical documentation.\n\n• Coordinate with clients, consultants, subcontractors, and internal project teams.\n\n• Conduct site inspections, testing, troubleshooting, and system handover.\n\n• Support project inspections and obtain necessary approvals from clients and consultants.\n\n• Monitor project progress, quality, and safety standards.\n\n• Prepare daily, weekly, and monthly project reports.\n\n• Provide technical support during project execution and after project handover.\n\n• Identify technical issues and coordinate with relevant teams for timely resolution.\n\n• Ensure project activities are completed according to approved drawings, specifications, and project schedules.\n\nRequirements\n\n• Bachelor's Degree or Diploma in Electrical, Electronics, Telecommunications, or a related field.\n\n• Minimum 2–5 years of experience in ELV and Security Systems.\n\n• Saudi Arabia experience is preferred; GCC experience may also be considered.\n\n• Valid Saudi Driving License is preferred/required depending on project requirements.\n\n• Good communication skills in English.\n\n• Arabic language skills will be an advantage.\n\n• Ability to work on project sites and travel within Saudi Arabia when required.\n\nApplication Question(s):\n\n• What is your current or last monthly salary?\n\n• What is your notice period, and when can you join?\n\n• Do you have a valid driving license?\n\nWork Location: In person",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٦ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر إنديد",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dv5d7CRBOltNeR1WqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "v5d7CRBOltNeR1WqAAAAAA=="
+      }
+    ],
+    "cursor": "EuEECqIEQUREYldlYmdMdWN5NUlmSlVvMUhYSDI2Mm9oWDBxdW9hTVBxMTVReGFsaS0wa3FZSHBJNTlSQzhmZXZrQU9HYk1xeVdIb3N1X3pPcUdyUldFRUpIU3FScDhCd0RqT3cxZ1V6dW1Kc2JoelRvQWoxT1UwZ0l0NjN1Q2NyalVfWGVvdE5OQ0xiQUhXNGZBdE5DTHQxcjJNMENzaEY5RHJkVW92RzA2Q3EzUU5oS0otSWZ6TkVfbTlRNGxld3A4aXlHcnFDa05VaXFOOWZrX3ltRG02SThPYVBYa251bHAxUTk2a1YxS2dURHo5MkFwem5wTEtfaHFXVEdHdlI1TFVSZm9FcXJ2Mk5SczhnbTVYUFBwRWJqT2hIencwREYta0VUVmxwNVVfZkliRXpLVWd4anNLZUVYdldCVDRhSlJJRnNPWkdPWkU4VC1qUWN3SUlmVVhmQmhfSkc4dVdFWHFKaDhsV0g0QzQySVNrZWFzMnBZYkhZZ3BxRGZ5WDJFVVRzNHpPeWhzX08tS0RGRzlvbFFlVVlUdFV0WDFndkVLYktoTmJRY1RyeWYtb3FGZTZZX0t0QXFPOTR6c0dtS3NCdnB5TGI4T2JYb1c3Nm1rQ0w1alZUYW9iSF82eGJPRWU3LVFBaWlMbTAyR0RVTzI0MnY1bVFGTFRFU3N6bWpSWXBJQm03ZW9Wa3lQYmduV1pTRnZDb2tWcDVmX2drM0p4R3pBEhZNV0hvYXZMbkdLMnppLWdQalBybU1BGiJBSE4wRTdFQmJULUNhcnlVbW5qOFJXLVBoQTYwaHVrWGx3"
+  }
+}

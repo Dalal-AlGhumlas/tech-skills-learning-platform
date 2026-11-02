@@ -1,0 +1,186 @@
+{
+  "_meta": {
+    "original_file": "linkedin_raw_3.json",
+    "jobs": 1,
+    "label": "infra",
+    "label_source": "heuristic from job titles"
+  },
+  "data": [
+    {
+      "id": 2406246010,
+      "date_posted": "2026-09-25T11:14:49",
+      "date_created": "2026-10-09T13:26:08.236765",
+      "title": "Product Marketing & GTM Manager – AI-Infrastructure, Networking & Enterprise Storage (m/f/d)",
+      "organization": "Swissbit AG",
+      "organization_url": "https://www.linkedin.com/company/swissbit-ag",
+      "date_valid_through": "2026-11-20T08:09:53",
+      "locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "SA",
+            "addressLocality": "النعايم",
+            "addressRegion": null,
+            "streetAddress": null
+          },
+          "latitude": 25.454552,
+          "longitude": 44.15773
+        }
+      ],
+      "location_type": null,
+      "location_requirements": null,
+      "salary": null,
+      "employment_type": [
+        "FULL_TIME"
+      ],
+      "url": "https://sa.linkedin.com/jobs/view/product-marketing-gtm-manager-%E2%80%93-ai-infrastructure-networking-enterprise-storage-m-f-d-at-swissbit-ag-4426633627",
+      "source_type": "jobboard",
+      "source": "linkedin",
+      "source_domain": "sa.linkedin.com",
+      "organization_logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGhJEh2j4dXrg/company-logo_200_200/B4DZyVzVkYJYAI-/0/1772039789319/swissbit_ag_logo?e=2147483647&v=beta&t=WrrTSEuQ2ARxZaaOUo9CGmmofKVRV9U9a9Hbfr1KBSM",
+      "cities_derived": [
+        "An Na`ayim"
+      ],
+      "counties_derived": [
+        "Al Badai"
+      ],
+      "regions_derived": [
+        "Al-Qassim Province"
+      ],
+      "countries_derived": [
+        "Saudi Arabia"
+      ],
+      "locations_derived": [
+        "An Na`ayim, Al-Qassim Province, Saudi Arabia"
+      ],
+      "timezones_derived": [
+        "Asia/Riyadh"
+      ],
+      "lats_derived": [
+        25.605262
+      ],
+      "lngs_derived": [
+        43.942142
+      ],
+      "seniority": "مستوى متوسط الأقدمية",
+      "direct_apply": false,
+      "no_jb_schema": null,
+      "ats_duplicate": false,
+      "linkedin_id": 4426633627,
+      "org_linkedin_slug": "swissbit-ag",
+      "org_linkedin_id": 122923,
+      "org_linkedin_headcount": 282,
+      "org_linkedin_website": "http://www.swissbit.com/careers/job-opportunities",
+      "org_linkedin_size": "501-1,000 employees",
+      "org_linkedin_slogan": "Store. Secure. Trust. - We empower the digital and connected world by reliably storing and protecting data.",
+      "org_linkedin_industry": "Semiconductor Manufacturing",
+      "org_linkedin_followers": 20442,
+      "org_linkedin_headquarters": "Bronschhofen (CH)",
+      "org_linkedin_type": "Privately Held",
+      "org_linkedin_founded_date": "2001",
+      "org_linkedin_specialties": [],
+      "org_linkedin_locations": [
+        "Industrie Str. 4, Bronschhofen (CH), CH",
+        "Bitterfelder Straße 22, Berlin, 12681, DE",
+        "Leuchtenbergring 3, Munich, Bavaria 81677, DE",
+        "Reichenaustraße 39 a, Constance, Baden-Württemberg 78467, DE",
+        "Jägerhofstraße 21, Düsseldorf, North Rhine-Westphalia 40479, DE",
+        "238 Littleton Rd, Suite 202B, Westford, Massachusetts 01886, US",
+        "1375 Ken Pratt Blvd, Suite 350, Longmont, Colorado 80501, US",
+        "3F Core Koenji, 2-1-24 Koenji-Kita, Suginami-Ku, Tokyo, 166-0002, JP",
+        "3F, No 501, Sec. 2, Tideing Blvd.,, Taipei City, Neihua Dist, TW"
+      ],
+      "org_linkedin_description": "Welcome to Swissbit\n\nInformation is fundamental to every modern organisation and protecting data integrity and security is more important than ever.\n \nFor over 25 years Swissbit has been providing embedded memory and storage solutions that safeguard knowledge. Our secure solutions are tailored to meet the needs of the most demanding market segments including Industrial, Automotive, Networking/Communications, Security.\n \nAll products meet the highest quality criteria and performance benchmarks. More than 5000 customers worldwide rely on our expertise and technology – every day.\n\nThe values that drive us: trust, responsibility, respect and curiosity. Do they also drive you?\n\nOur HR team is available to discuss opportunities and answer questions about working at Swissbit.\nYou can reach us at career@swissbit.com or by phone +49 30 936 954 89.",
+      "org_linkedin_recruitment_agency_derived": false,
+      "ai_salary_currency": "USD",
+      "ai_salary_value": null,
+      "ai_salary_min_value": 120000,
+      "ai_salary_max_value": 180000,
+      "ai_salary_unit_text": "YEAR",
+      "ai_benefits": [
+        "Health Insurance",
+        "401(k) Matching",
+        "Paid Time Off",
+        "Dental Insurance",
+        "Paid Holidays",
+        "Vision Insurance",
+        "Remote or Hybrid Work"
+      ],
+      "ai_experience_level": "5-10",
+      "ai_work_arrangement": "Hybrid",
+      "ai_work_arrangement_office_days": null,
+      "ai_remote_location": null,
+      "ai_remote_location_derived": null,
+      "ai_key_skills": [
+        "Product Marketing",
+        "Go-to-Market Strategy",
+        "Business Segment Leadership",
+        "Market Analysis",
+        "Competitive Analysis",
+        "Product Roadmap Planning",
+        "Campaign Management",
+        "Sales Enablement",
+        "Customer Engagement",
+        "Business Development",
+        "Technical Marketing",
+        "Communication and Presentation",
+        "KPI Management",
+        "High-Bandwidth Communications",
+        "Low-Latency Networking",
+        "Enterprise Storage"
+      ],
+      "ai_hiring_manager_name": null,
+      "ai_hiring_manager_email_address": null,
+      "ai_core_responsibilities": "Lead the Netcom and Enterprise Storage business segment’s growth strategy, coordinating Marketing, Sales, and Product Management to align customer needs, product positioning, and commercial execution. Drive go-to-market initiatives, monitor business and market performance, and guide cross-functional priorities to increase revenue, market share, customer adoption, and design wins.",
+      "ai_requirements_summary": "A degree in marketing, business administration, or engineering and several years of experience in product or technical marketing, sales, or business development within electrical engineering disciplines are required. Candidates should understand high-bandwidth, low-latency networking and storage systems, have experience with go-to-market strategies, campaigns, and sales enablement, communicate effectively, be customer-oriented, speak German and/or English, and be willing to travel up to 30%.",
+      "ai_working_hours": 40,
+      "ai_employment_type": [
+        "FULL_TIME"
+      ],
+      "ai_job_language": "English",
+      "ai_visa_sponsorship": false,
+      "ai_keywords": [
+        "AI Infrastructure",
+        "Networking",
+        "Enterprise Storage",
+        "Netcom",
+        "Product Marketing",
+        "Go-to-Market Strategy",
+        "Business Segment Strategy",
+        "Market Share",
+        "Design Wins",
+        "Product Roadmaps",
+        "Competitive Insights",
+        "Commercial Campaigns",
+        "Sales Enablement",
+        "Customer Adoption",
+        "High-Bandwidth Communications",
+        "Low-Latency Communications",
+        "Cloud Infrastructure",
+        "Telecommunications",
+        "Hyperscale Data Centers",
+        "Edge Systems",
+        "Industrial IoT",
+        "Cybersecurity",
+        "Embedded IoT",
+        "Storage and Security Solutions",
+        "Electrical Engineering",
+        "Pipeline Development",
+        "Market Dynamics",
+        "Customer Engagement"
+      ],
+      "ai_taxonomies_a": [
+        "Marketing",
+        "Management & Leadership",
+        "Sales",
+        "Technology",
+        "Engineering"
+      ],
+      "ai_education": [
+        "bachelor degree"
+      ],
+      "description_text": "A Swissbit more you.\n\nAt Swissbit, you shape the future! Swissbit is the leading manufacturer of storage and security solutions for industrial, data networking and AI infrastructure applications. We are shaping the future of intelligent connectivity—from carrier networks to hyperscale data centers. We empower the digital and connected world by reliably storing and protecting data. For this - and many other exciting projects - we are looking for people who share our passion for creating impact together.\n\nBecause we get things done - and preferably today rather than tomorrow. We are there when a customer needs a solution. In doing so, we take leaps we have never made before - because we trust in our expertise. We say: yes, of course!\n\nYour mission\n\nWe are looking for professionals passionate about next-generation connectivity and the technologies powering cloud, AI-infrastructure, telecom and enterprise infrastructures. As the Product Marketing & Go-to-Market Manager – AI-Infrastrucure, Networking & Enterprise Storage (m/f/d) you are leading and coordinating a cross-functional Business Segment Team that drives sustainable business growth, customer engagement and market share expansion. You effectively align Marketing, Sales and Product Management activities to identify market opportunities, define go-to-market strategies, enable customer success and achieve market share and design-win targets.\n\nDo you enjoy bringing technology and business together? Can you explain complex topics in a simple way? Do you work with a strong business focus and are committed to driving success? Then read on - we are looking for exactly you!\n\nExciting tasks are waiting for you\n\nDefine and execute the growth strategy for the business segment Netcom & Enterprise Storage aligned with corporate business objectives.\nCollaborate with Product Management to influence product roadmaps based on market requirements and competitive insights\nDrive go-to-market initiatives and commercial campaigns to increase revenue, market share and customer adoption\nEstablish clear Business Segment objectives, KPIs and execution priorities while ensuring accountability across all functions\nEnsure strong alignment between customer needs, product positioning, technical value propositions and sales activities\nMonitor and analyze business performance, pipeline development, market dynamics and competitive activities\nAct as the central point of leadership and decision coordination for the assigned market segment\n\nYour profile\n\nSuccessfully completed degree in marketing, business administration or engineering\nSeveral years of experience in product/technical marketing, sales, business development within electrical engineering disciplines\nStrong understanding of the systems and partner networks behind high-bandwidth, low-latency communications for the world’s most demanding networking and storage applications\nExcellent communication and presentation skills\nExperience in go-to-market strategies, campaign management and sales enablement\nEntrepreneurial and customer oriented mindset\nVery good German and/or English skills, written and spoken\nWillingness to travel up to 30%\n\nBenefits & Compensation\n\nThe opportunity to shape strategy, positioning and market direction with visible impact across the organization\nA role that bridges technology, market trends, customer engagement and business strategy\nWorking with differentiated solutions rather than broadly commoditized products\nContributing to areas like AI infrastructure, edge systems, industrial IoT, cybersecurity and resilient data solutions\nFreedom to introduce ideas, challenge assumptions and create new market opportunities\nHealth insurance 401(k) matching\nPaid time off\nDental insurance\nPaid holidays\nVision insurance\nRemote or Hybrid work\nThe Total Compensation Package is between $120,000 – $180,000 per year, depending on experience, qualifications, and location\n\nAbout Us\n\nSwissbit AG is the leading European manufacturer of storage, security and embedded IoT solutions for demanding applications. Swissbit combines its unique competences in storage and embedded IoT technology with its advanced packaging know how. This expertise allows our customers to reliably store and protect data in industrial, NetCom, automotive, medical and fiscal applications as well as across the Internet of Things (IoT). Swissbit develops and manufactures real industrial storage and security products “Made in Germany” with long-term availability, high reliability and custom optimization.\n\nSwissbit was founded in 2001 and has offices in Switzerland, Germany, USA, Japan and Taiwan. Swissbit owns the registered trademarks Swissbit and Hyperstone."
+    }
+  ]
+}

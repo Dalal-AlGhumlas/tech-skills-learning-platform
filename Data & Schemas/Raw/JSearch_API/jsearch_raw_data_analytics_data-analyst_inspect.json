@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "data analyst"
+  },
+  "status": "OK",
+  "request_id": "1cb0b458-98e2-4f34-881e-c4d177aa6179",
+  "parameters": {
+    "query": "Data Analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "VUZnRjdJQlBsR3N5dlhoWUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzVoY1RJNVFUZEJNa3cyTFVrd1pUaERWRWhVWkMxRVVXVjVVWFJ2V1hWcFlXTlBkak5rZG5kUFl5MUdUVk42YW1Kd2MwaHZkMVJ0TFhkS1kyWXljR2RKTlhCNFIyMVpaVmhsZWtkNlFuSm9SWE5KUVZoeE1rOTVZbmhpZEVaSFIzbElOV0l3YXpKcmVFdDNVR0phYVRjMWNUZEJka010U0MwMlVtWnZSa2x1Ym0xemNWZ1NGM0V4Wm05aGRESlhRblpRWXpGelVWQnBkQzFUTWtGUkdpSkJTRTR3UlRkRlpHOVlSVGhzVjJONE9ESlVSRE4xWW1STU4zaEtlRWRGUm0xUg",
+        "job_title": "Data Analyst - No Experience Required",
+        "employer_name": "Peroptyx",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBGoO791bD7DGGErsaA-4WRANU0ay3CqUvwuU&s=0",
+        "employer_website": "https://www.peroptyx.com",
+        "job_publisher": "Saudi.tanqeeb.com",
+        "job_employment_type": "دوام جزئي",
+        "job_employment_types": [
+          "PARTTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021348331.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021348331.html",
+            "is_direct": false,
+            "publisher": "Saudi.tanqeeb.com"
+          }
+        ],
+        "job_description": "For thousands of years, maps have provided humans with the knowledge they need to make decisions.\nAs a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country.\nAt Peroptyx, we are looking for Data Analysts who will review mapping data for digital mapping applications. Your research capabilities will validate and ensure that the navigation of certain routes are accurate and safe.\nAs part of this role you will verify that business names and opening hours are correct. You will check that the distance from a starting point to an end destination is listed accurately, resulting in better user experiences.\nWith this job you can plan your days around this highly flexible working schedule, work weekends or late evenings, all from the comfort of your own office. The flexibility of our roles minimizes the impact on your daily routine.\nSo, whether you are a student looking to earn as you learn, a retiree looking for a new challenge, a part-time/full time professional or a work from home parent, Peroptyx has the right role for you!\n\nJob Requirements·\n• Must be living in your Saudi Arabia for a minimum of 5 consecutive years.\n\n• Must pass an online open-book exam that can verify your full understanding of the material and concepts.\n\n• Must be willing to work a minimum of 10 hours and up to 20 hours per week depending on task availability.\n\n• Good working knowledge of search engines, map applications and familiarity with social media platforms.\n\n• Strong ability to learn, understand and apply multiple sets of different instructions.\n\n• All work must be of an independent nature.\n\nTechnical requirements to perform the work\n• Access to a laptop or computer which uses:\n\n• A logon account unique to you\n\n• Malware Protection System or Anti-virus or solution that is kept up to date, with regular scans performed\n\n• Only one member per household may apply\n\n• NB. All products should be provided at your own expense.\n\nBenefits\n• Work up to 20 hours per week.\n\n• Earn a competitive rate of pay.\n\n• Develop your research skills.\n\n• Avoid the long commute.\n\n• Work from the comfort of your home office.\n\n• Enjoy the flexibility of setting your own working hours!\n\nDesired Candidate Profile\nIdeal Candidate\n• Fluent in English and Arabic\n\n• Excellent research skills.\n\n• Excellent local knowledge of news, cultural affairs, media in Saudi Arabia.\n\n• Good understanding and general knowledge of the geography and culture of Saudi Arabia.\n\n• Analytical mindset.\n\nApply Today!",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر Saudi.tanqeeb.com",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DUFgF7IBPlGsyvXhYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "UFgF7IBPlGsyvXhYAAAAAA=="
+      },
+      {
+        "job_id": "U1JHS3VpNld3TTB3UmdveUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa1YzWTE5a1drTlpjbWhVVjJRNVZURm9TVVU0ZDFGNFZVdEdOSFJpVW14TGVYaFhWRzh0Y1ZSb1VubEhabDloVm5KNWJsRTFlVlk1TUhwRGVXWnNSemRvYnpKaVFVUmpUVTVRYzJ3d04zTkdaVEZUWDNaSVVDMVVVVU5FU1VoUFkxWXpVVVJZY1dsdVMwZENlaTB4VUhNeFgwdEhYMVl0UjFCV1VYYzBZbWxhTFRJdGJVd1NGM0V4Wm05aGRESlhRblpRWXpGelVWQnBkQzFUTWtGUkdpSkJTRTR3UlRkSWRHNW9jRnBxWVRBdGFERnNNMGhzVjJoaFVUQmpaMHR3V0hOMw",
+        "job_title": "Riyadh Data Analyst: Dashboards, SQL & Insights",
+        "employer_name": "Apexops",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apexops.agency&size=128",
+        "employer_website": "https://www.apexops.agency",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/riyadh-data-analyst-dashboards-sql-insights--riyadh--ef826a556717f7aa67d2da835d1ba8a09",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/riyadh-data-analyst-dashboards-sql-insights--riyadh--ef826a556717f7aa67d2da835d1ba8a09",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "ARK47 Studio in Saudi Arabia (Riyadh) is seeking a data analyst to build dashboards for installs, sign-ups, usage and credit purchases; answer the team’s questions with data using SQL; measure campaign results and app-store changes; ensure data is collected correctly and in line with data-protection rules.\n\nThis is a full-time, on-site role at our Riyadh office; Saudi Labour Law applies to working days, hours and annual leave.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DSRGKui6WwM0wRgoyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "SRGKui6WwM0wRgoyAAAAAA=="
+      },
+      {
+        "job_id": "RVYtZnFiUTY1U1BGNlc0M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazlZVm1kcVNWQjRWMHBZVGxaWlFtMUVNbXhCU0cxWGJtMXJVVlJJTldkeU1YaGtXRE0xVEVZeWJqZDZWR1ZyU21wWk0xcFRhblZLUWtWelQySjJXakpNWjJKRFF6VnBWRzA0ZDFseGFURXRXbEJqVVVSNWRVTlVNR2h0VVhRNVIybHBiV1pJVkVvd1kyOTNVMjl0Y1RKaFlYSjRNRkkyVldWbFpHNDBPRlptVVVoNmRURVNGM0V4Wm05aGRESlhRblpRWXpGelVWQnBkQzFUTWtGUkdpSkJTRTR3UlRkSGJHWTRiQzF0ZUVGNFRWbDBOV2RNWVROM2MxbG1WRWQ1TUVabg",
+        "job_title": "Data Analyst in Riyadh, Saudi Arabia",
+        "employer_name": "PPOAR",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/data-analyst-in-riyadh-saudi-arabia--riyadh--e901de456b1d39dae339c4664fbe67795",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/data-analyst-in-riyadh-saudi-arabia--riyadh--e901de456b1d39dae339c4664fbe67795",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Data Analyst vacancy in Riyadh Saudi Arabia\n\nData Analyst in Riyadh, Saudi Arabia\n\nResponsibilities, conditions of employment and requirements.\n\nData Analyst Job in Riyadh\n\nWe are seeking a highly motivated, detail-oriented Data Analyst to join our team based in Riyadh. The ideal candidate has strong analytic skills and experience with data analysis, modeling, and reporting.\n\nThe Data Analyst will be responsible for gathering and analyzing data from various sources to identify trends and develop actionable insights that can be used to inform business decisions. The Data Analyst must have strong problem-solving skills, the ability to work independently, and the capacity to communicate findings clearly and effectively.\n\nThe successful candidate will have the following qualifications:\n• Bachelor's degree in Computer Science, Mathematics or a related field\n• Proficiency in SQL, R/Python/Excel/Tableau\n• Strong background in data analysis, modelling and reporting\n• Excellent problem-solving skills\n• Ability to work independently as well as part of a team\n• Excellent communication skills (verbal & written)\n• Ability to multitask and prioritize effectively\n\nThis is a full-time position with a competitive salary for 1400.\n\nWe are open to considering immigrants for this role.\n\nIf you feel that you meet the criteria listed above we invite you to apply today!",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DEV-fqbQ65SPF6W43AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "EV-fqbQ65SPF6W43AAAAAA=="
+      },
+      {
+        "job_id": "RkFEeHBHOFFBRk1Va3lhWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGQzWmpOcWFsRnlka2xWZFhGaGFXZEpWVVJvUW1wZmN6TjNSMlkxVmsxR1dHdENjM0F0ZEVaSE5GWTVaa2RzUkZwQlZVTXdNbVpOY0cxSGRHc3lhSFpKTm1sUlpXNVpWM1JKTmpsalJtbGhZMlpoU21SMVNYRTNPR05zUlRGcFlWWlliWGxuU3paa1VqYzJRVkJLTTJvMVR6VXRVbk5HTTJGVE0yaHdVbFpITkdKQk1WSVNGM0V4Wm05aGRESlhRblpRWXpGelVWQnBkQzFUTWtGUkdpSkJTRTR3UlRkSVZuZFFXbHBNT1c5T1NreFdTMnhNYWxSdWNVSktSRVpoYzFSMw",
+        "job_title": "Data Analyst - Jeddah | Transform Data into Decisions",
+        "employer_name": "شركة خاصة",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/data-analyst-jeddah-transform-data-into-decisions--jeddah--ef34a3a2f7025c4632fd140c565743b65",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/data-analyst-jeddah-transform-data-into-decisions--jeddah--ef34a3a2f7025c4632fd140c565743b65",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Khalejy is seeking a Female Data Analyst to join our team at the Jeddah headquarters (First Industrial Area). The role focuses on transforming data into insights to support decision-making in a professional environment.\n\nThe ideal candidate should hold Saudi nationality, reside in Jeddah, and have at least two years of data analysis experience, with strong Excel/MS Office proficiency and solid reporting skills. The position emphasizes collaborative teamwork and data-driven workflow improvements.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DFADxpG8QAFMUkyaXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "FADxpG8QAFMUkyaXAAAAAA=="
+      },
+      {
+        "job_id": "MTlhN0d0TDFUWk5rZkxiNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXblo0YjAxdlZrSm1RaTFhYmpOTlZrZEVTM2MzVGxKMmMwaE5TMFE1YTAxSVUyeExkRzVGYzFoa1kzZzRSakYwU0dKNVgxOUhhVUV4TFRoTE1rNW1YeTEyVERocWFHUmhYME5zYVVocVdDMUNia2RIVlhKRlVuQkxUVVZNYzBZd1l6VkVWbE5mVDJVMVlUbEdlRTlqWW1wR05WTlVXak5vTlRGNFpWTnVYMlpmUlZSbVpXRVNGM0V4Wm05aGRESlhRblpRWXpGelVWQnBkQzFUTWtGUkdpSkJTRTR3UlRkR1YyNTRTVUpmWDAwdFJrVm5XR3RRTkdGWWNXWnplV2huZHpsQg",
+        "job_title": "Data Analyst",
+        "employer_name": "Arab Center for Engineering Studies",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/3910114381693714432",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/3910114381693714432",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Company: Arab Center for Engineering Studies (ACES) Industry: Consultancy Job Location: Al Khobar, Saudi Arabia Career Level: Junior (With some experience in the field) Date Posted: 25-10-2026 Ref. Number: 167578\nJOB SUMMARY\nResponsible for assisting in the analysis of large datasets and implementing data-driven solutions that support ACES’s goals. Contributing to the design of data models, development of data pipelines, data analysis and visualization, as well as collaborating on AI-related projects and supporting continuous improvement throughout the data and software development lifecycle.\nDUTIES & RESPONSIBILITIES\nGather, clean, and organize large volumes of structured and unstructured data from multiple internal and external sources, including ACES data.\nUse statistical tools and visualization techniques to analyze large datasets, identify trends, patterns, and correlations, and extract meaningful insights (e.g., geotechnical parameters, test outcomes, operational data).\nDevelop and maintain interactive dashboards and reports using Microsoft Power BI.\nEnsure data accuracy, consistency, and integrity throughout the analysis process.\nSupport ad-hoc data requests as needed.\nContribute to AI-related initiatives such as natural language processing, predictive analytics, or computer vision, depending on project requirements.\nWrite and debug code in data analytics languages (e.g., Python, R).\nDevelop or assist in developing APIs and integrations when needed.\nBrainstorm and develop data-driven solutions for improved decision-making and risk assessment.\nWork closely with engineering teams to understand ACES data requirements and ensure proper data interpretation and application.\nCollaborate with IT teams, data engineers, and ERP Techno Functional consultants to develop data automation solutions.\nAttend and contribute to ACES development and data-focused meetings.\nWrite reports, technical documentation, and standard operating procedures related to data analytics and AI and maintain up-to-date documentation of data workflows and infrastructure changes.\nPresent findings to stakeholders in clear, concise formats using visualizations, dashboards, and reports.\nMaintain up-to-date documentation of data workflows and infrastructure changes.\nAdhere to all quality, safety, and regulatory guidelines.\nAny duties or responsibilities assigned by the management.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المنطقة الشرقية     •  عبر Jobrapido.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 23.568134699999998,
+        "job_longitude": 50.6793759,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D19a7GtL1TZNkfLb5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "19a7GtL1TZNkfLb5AAAAAA=="
+      },
+      {
+        "job_id": "MEhNVzJpVFhMSWd4S29wS0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZazk0TjFwTWR6QmZOM0V5VHpWbGRHZElVRGRIVUVOclJISTVXREZRVTJsRmRGazVRelZHY1ZvME1EaHBlV3d5VGs5Vk9YVnhhRkU1VEU5dFRHbG1ReTFCTWxsWWVqUkxVWGhLWVVVMlpYVk5ZbXBFYW1KUFJsUlpObnA2VldKV1gyMWhhSEUwYm1SMlRqZFhWVE5CYlRSVGJVTnRXVWxXVG5wemRsSmFUV3RxZUVOa1dXc1NGM0V4Wm05aGRESlhRblpRWXpGelVWQnBkQzFUTWtGUkdpSkJTRTR3UlRkRlRFWkhaRmx1VjNSWlkxUlhla1JMYm5scVZscEZPRlJSYkd0Qg",
+        "job_title": "محلل قواعد بيانات محترف براتب حتى 8,400 ريال",
+        "employer_name": "شركة خاصة",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/mhll-qwa-d-byanat-mhtrf-bratb-hty-8-400-ryal--riyadh--ea45aa3cf6124bfdf28120690a7ef630a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/mhll-qwa-d-byanat-mhtrf-bratb-hty-8-400-ryal--riyadh--ea45aa3cf6124bfdf28120690a7ef630a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Khalejy in Mecca's Jeddah region seeks a Data Analyst to build, manage and maintain databases, ensuring data integrity and performance. The role requires 5 years of experience in databases and data analysis and a Bachelor’s degree in Data Science or related fields.\n\nThe candidate will work with MarkLogic NoSQL databases, design schemas, set up tables, provide technical reports, and support beneficiaries. Working hours are morning, six days a week, with a salary range of 8,000–8,400 SAR.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٠ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D0HMW2iTXLIgxKopKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "0HMW2iTXLIgxKopKAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWU1sMlFMZUFxcTlIRDEyMk5oR0Z2XzgxUC1FWFZKR2FyOVlmUWVJUHhBT0RCT2xPa2swV3hPeXZjUVlYVjRxRHNhc290YXBmdmVDSlowa0pCblA1Rkt1M2hZWEpwWGNUYWZaTnBxandwX2RqTkc2Y0JnOThBUzNnMHkxV0RMeXdVR0tJQ0dNUmcwSHhzTE9UclhYQWVlekRlR1BiY2hhRE0tVjJhZ1ZJNGJyS09nWW1pcTVrQm1OcUdxa2FxcHNtS3paeFV2TFZoWnRTRlJUTVdSZ1o0SWQ0SEgxNUdEYXJmTk8yRm9Ub2tqNFdESjNFUTJob0lLWWtENkZBRDQ1a1djd2tfSl9PM0VvZlA0ODVZZzMwYmdvWWZNaWNJQ2JOY1hKcUE2bDNVbkpfMVB0d2lPV1ZjdlpYNVhaVllzWWRYZ0VCWWRodmJHWWtLZl9wbkxIenJhQjNKa2RkNzJQdXpzdllQRlkwekZscFRvUmNQM2xSZmFtX0QwUlFUNDNJeFdlLVBsYVBrdHdqZTJMVkFnekZPUGlud19Ja3RvXzRqY1o5blB2QmVlU2pTNm8yenB1MFVvU0k2ZWl3azlBbm83X05fQWxPa1dyZEFWbWxmSmxUc1FyRklyVkpBQkpKX2otS3RDelBfWS1GNUlpMjZtQmY3VFBJLXJONkx3WU4wYnZoTDJUNDZBTzBzNWxmXzVUQ0lNTEItck5BEhdxMWZvYXQyV0J2UGMxc1FQaXQtUzJBURoiQUhOMEU3R2hOMlBfQThDZFR5cE5uenNnejlxV1pLNXhadw"
+  }
+}

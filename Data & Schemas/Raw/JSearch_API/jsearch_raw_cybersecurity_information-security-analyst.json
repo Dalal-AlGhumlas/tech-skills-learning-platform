@@ -1,0 +1,338 @@
+{
+  "_meta": {
+    "specialization": "cybersecurity",
+    "query": "information security analyst"
+  },
+  "status": "OK",
+  "request_id": "927d2b60-7b4b-4f5e-805d-cdc1e39a748b",
+  "parameters": {
+    "query": "information security analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "eXVfU2RkWHpIRHVDRHZFaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakJaVVZsNFpHSlJMVFp6VTNkZldIUTFhSEp1UTNSM2VESnROR0pxU3psTGJreGlWWEZXUTNKalFqaHZYM2hFVlRocFgyRkdWMnB6VERsWWNrWlFPVUpsUkhoTmVHaHlaRjlCVTJwdFZqSkZSMkpFVjJkZlMwOXFVMFk1TkRBMFFrOTVhVTVtTkdocE1HdHBlVGszVURsNGQwZFVUVm8yYVZScWRIQnVOMkYwTkdvMmVuSVNGM1ZzZG05aGREZHdSV05EY1RGelVWQTFZMHd3TWxGUkdpSkJTRTR3UlRkRlFrUTFPRVZSYlVVMlNVczNRbU5IV2tGd1dXSkdPV1ozUzBGUg",
+        "job_title": "Security Analyst",
+        "employer_name": "Jobmaze FZ LLC",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/security-analyst-jobmaze-fz-llc-saudi-arabia-69668581",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/security-analyst-jobmaze-fz-llc-saudi-arabia-69668581",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "We are hiring an experienced Security Analyst for our client in Khobar, Saudi Arabia to monitor, investigate, and respond to security alerts across a complex enterprise security environment.\n\nThe role will work closely with a third-party SOC, validating and actioning escalated security incidents while monitoring security tools and technologies that are not yet fully integrated into the SIEM.\n\nKey Responsibilities:\n\n• Review and action security alerts escalated by the third-party SOC through Gurucul SIEM\n• Monitor CrowdStrike EDR and SentinelOne consoles and investigate potential threats\n• Analyze Vectra AI NDR alerts and identify suspicious network activity\n• Review BeyondTrust PAM session logs and recordings for anomalous privileged access\n• Monitor Cisco Duo for suspicious authentication activity involving internal and remote users\n• Review Proofpoint email security alerts and phishing simulation results\n• Monitor Cloudflare WAF/DDoS security events\n• Review and prioritize vulnerabilities identified through CrowdStrike Spotlight and coordinate remediation\n• Monitor security technologies including Forescout NAC and Nexthink\n• Periodically review existing security solutions and policies and recommend improvements\n\nRequired Technical Skills:\n\n• EDR investigation and threat triage using CrowdStrike and/or SentinelOne\n• NDR alert analysis using Vectra AI or equivalent platforms\n• Familiarity with Forescout NAC\n• PAM session monitoring using BeyondTrust\n• MFA platforms such as Cisco Duo and Okta\n• Email security operations using Proofpoint\n• WAF/CDN security event monitoring using Cloudflare\n• Familiarity with F5 technologies\n• Strong understanding of incident response fundamentals\n• Knowledge of the MITRE ATT&CK framework\n\nCandidates with hands-on experience across SOC operations, EDR, NDR, PAM, NAC, email security, and incident response are encouraged to apply.\n\nOnly shortlisted candidates will be contacted.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dyu_SddXzHDuCDvEiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "yu_SddXzHDuCDvEiAAAAAA=="
+      },
+      {
+        "job_id": "dUZKazhRQkZQcXROWG1FSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUpUY1dWT2RUbEtjRTF0TVU5RWRUWjNaRE5JWVdwRVdVOW1jRzFxU0RoYVRIbHZNMnhGUjBwclRFbEpSMVF0VmsxWlMzZERRVFV3ZEhOMWJHTnZiSGxVWlVSVGF6TnlSekIyVEhKdE5HSjRhVlpwYWxFNFJrdHdaMUJqVEc0MGF6bDBPV3hCV1dsSGFGcHBabXBpV0dNeE1sTlpRbnBsVG5VMlEwcFVUR3BITldvemRVUVNGM1ZzZG05aGREZHdSV05EY1RGelVWQTFZMHd3TWxGUkdpSkJTRTR3UlRkSE1TMXhWVXRmWld4NmIyWk1URUZ6ZUdaR2NqRmpkRmg0UVhoQg",
+        "job_title": "Security Analyst: Threat Defender in Jeddah",
+        "employer_name": "Flyper",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://flyper.co&size=128",
+        "employer_website": "https://www.flyper.co",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/security-analyst-threat-defender-in-jeddah--jeddah--e3da663e56c1e5ded24d02b1acc7c9b1e",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/security-analyst-threat-defender-in-jeddah--jeddah--e3da663e56c1e5ded24d02b1acc7c9b1e",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Flyper in Jeddah, Saudi Arabia is seeking a Security Analyst to protect our networks, systems, and data. You will analyze threats, perform vulnerability assessments, and work with IT teams to implement security measures.\n\nThe role requires a Bachelor's in CS/IT, experience as a security analyst, knowledge of security best practices, and familiarity with Nessus/Nmap. CISSP or CEH are a plus. This is a full-time position requiring a valid Saudi work visa.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DuFJk8QBFPqtNXmEJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "uFJk8QBFPqtNXmEJAAAAAA=="
+      },
+      {
+        "job_id": "RUdCbUt4OW4tdGdCMEVUYUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbGRVTjFBeVRFcFlMWHBRVlhObmRWRnNjRUZPZWpCMFJXTkNMVGd6WlY5VlltVkNVVmxLVG1WdlgzZzNPVXd3VGxKT1Z6QkNjMGhETFU5U1VqQnNkV1ZCYm5jemVGQkVlbG90WkhKb2FGSnZjbFJJZWtwVFRuSk1VV1ZvVkVvd1FrSTFhRmxJU0hGQlJuSkdZV2hJU0dWNFMzVk5WVWhLUWxKaFJVc3RjSEZyVm1kQ04wc1NGM1ZzZG05aGREZHdSV05EY1RGelVWQTFZMHd3TWxGUkdpSkJTRTR3UlRkSVdHRnlSVWRVT0RJeGNuVlRUa1UxUVZkcFprVTNOMnhtTVV4Ug",
+        "job_title": "Cybersecurity Security Analyst – Jeddah (visa Sponsorship)",
+        "employer_name": "Jing Hau",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/3364018842014580736",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/3364018842014580736",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Jing Hau in Jeddah, Saudi Arabia is seeking a Security Analyst to help protect our systems and data. The role focuses on audits, threat monitoring, policy implementation, and incident response. Candidates should have a bachelor's in CS/IT, at least 3 years of experience, strong knowledge of firewalls and IDS/IPS, familiarity with ISO 27001 or NIST CSF, and excellent English communication. The position is full-time on-site with visa sponsorship.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "مكة المكرمة     •  عبر Jobrapido.com",
+        "job_city": "مكة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.424096799999997,
+        "job_longitude": 39.817336399999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DEGBmKx9n-tgB0ETaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "EGBmKx9n-tgB0ETaAAAAAA=="
+      },
+      {
+        "job_id": "X2lyMXZVYUhyN2pEZUJEYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlpOU1U4eFZIbFpSbWxKVTJrek5UZFBjSGswTTBOb2RFeHpjVmRrZVdwU00xbDBSbWQ1ZDNFeVZVaDZVM1p4Ym1aelExTnhPVVF6YnpsM1dXZHBUVkZaWWxGd1RHNU9VelpMVTBkc2REbHdPRjlUTlRCeFJHY3llV2xIYkVsVU9WWjRjRGx0VGw5eVVuaFlia3hxTjJnMFZuQlVYMmRWWVVOdVlXaHBaSFZhWlcwMFZVY1NGM1ZzZG05aGREZHdSV05EY1RGelVWQTFZMHd3TWxGUkdpSkJTRTR3UlRkR1ZXbE9TMFZuYUV4aE1teEVUWEl4VlZOSGNHUnRTWGwwWVY5bg",
+        "job_title": "Part-time Security Analyst – Safeguard Data In Jeddah",
+        "employer_name": "Workato",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://workato.com&size=128",
+        "employer_website": "https://www.workato.com",
+        "job_publisher": "The BIG Jobsite",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.thebigjobsite.com/details/0BBECA7BCB5F8DE6A2B9B3CFA62F6024/part-time-security-analyst---safeguard-data-in-jeddah",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.thebigjobsite.com/details/0BBECA7BCB5F8DE6A2B9B3CFA62F6024/part-time-security-analyst---safeguard-data-in-jeddah",
+            "is_direct": false,
+            "publisher": "The BIG Jobsite"
+          }
+        ],
+        "job_description": "Security analyst vacancy in Jeddah Saudi Arabia Entry Level Security AnalystWe are seeking an Entry Level Security Analyst to join our team in Jeddah. As a Security Analyst, you will be responsible for monitoring and analyzing security systems, identifying potential threats, and implementing security measures to protect our company's data and assets. This is a full-time position with a salary of 1400$ per month. We welcome applications from freshers or those without prior experience in the field. Fluency in English is required for this role. Accommodation will be provided for the successful candidate. If you are passionate about cybersecurity and have strong analytical skills, this could be the perfect job for you! This job has no reviews yet. You can be the first! The most in-demand professions in Jeddah: Users also frequently search in these cities:: More professions from the category Security - Security - Power structures: Subscribe to our telegram channel@layboard_in WAREHOUSE WORKER | Without work experience | for all foreign citizens WAREHOUSE WORKERLocation: Bratislava, Slovakia. We invite men, women, and couples up to 55 years of age to apply. Salary: 5 euro/hour. Work schedule: Full-time, shift-based schedule;8–10 hours per day;5–6 days per week; Shift schedule... POSTAL WAREHOUSE WORKER | Without work experience | for all foreign citizens Poland POSTAL WAREHOUSE WORKERLocation: Sochaczew (37 km from Warsaw, Poland)This position is open for men, women, and couples Job description: Men: loading and unloading parcels, sorting shipments, working with a scanner, order picking. Women: working with a scanner, packing parcels, order... Production Worker | Poland | Lodz | for all foreign citizens 1500 $ Poland Job Vacancy: Production Worker About the Position A Polish temporary employment agency is seeking production workers for a manufacturing company based in Łódź. This is a temporary employment contract for a fixed term. Work Schedule Full-time (1/1 FTE), shift system:1st... #J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر The BIG Jobsite",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_ir1vUaHr7jDeBDbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_ir1vUaHr7jDeBDbAAAAAA=="
+      },
+      {
+        "job_id": "WFJBOTVhTFpJR0tudjJ6ckFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblprUWpWWWRWSTJRVkJVWW1aa1ZWaHpTRGM1VkVOSGRUWXdjM05HYTA1TE4xbEtTa3hHUWtRNVVqQlZjMWRIVFRWa2VqQlZjalpYZG1KaVlXZFJTVzFMZGxVeGJTMXhjRlJCU205eFN6VlVRVTFtZVhCcmFqRkJkMk5MTFhSTmJ6RnlNR2RxYW14bVV6Sk9TVTlUWlRKeGFWSllPV2hTUjBGclZFdElUbU5ZVmxseVluWVNGM1ZzZG05aGREZHdSV05EY1RGelVWQTFZMHd3TWxGUkdpSkJTRTR3UlRkRlRsSnNXblUyV0ZobGFXUlVSMmRmVXpNelJYbGlVbU5QVHpsQg",
+        "job_title": "Information Security Analyst: Protect Data & Systems",
+        "employer_name": "Abroad Work",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://workaway.com&size=128",
+        "employer_website": "https://www.workaway.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/information-security-analyst-protect-data-systems--ar-rass--e21c0b39b880caa5708653d97e47a1e97",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/information-security-analyst-protect-data-systems--ar-rass--e21c0b39b880caa5708653d97e47a1e97",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Abroad Work is seeking an Information Security Analyst in Ar Rass, Saudi Arabia to protect the organization's information systems and data from threats. You will work with the IT team to implement security controls and ensure regulatory compliance.\n\nResponsibilities include conducting vulnerability assessments, developing security policies, monitoring networks, and training staff on best practices. The ideal candidate has a bachelor's degree and at least 2 years' experience, with knowledge of",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرس     •  عبر JobLeads",
+        "job_city": "الرس",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 25.8517475,
+        "job_longitude": 43.5222313,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXRA95aLZIGKnv2zrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XRA95aLZIGKnv2zrAAAAAA=="
+      },
+      {
+        "job_id": "TVZGUjlpaWczNGFyT0JxOUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEZMY1ZacVpHbElSVGRwUWtWSGRXNXlkRkZmU1hocmJ6RjNTVmR3TUUwdFQyVllSRnBhYVVJeWRVTktZVjgyTTJOck5VcFdNbVk0YmtGU2VYSlNTMHRuUWt0V1dtUnZVVGxCVkVkR1kwWnFXRVl5TmpoM1dtcGlNVkJIYVdaZmMySnlOaTFwTFhCak1FaFBZa1J1YkZSa1RWOTZTSEZCWTNGdlVtcGllWFZHZVdSaWMxUVNGM1ZzZG05aGREZHdSV05EY1RGelVWQTFZMHd3TWxGUkdpSkJTRTR3UlRkRk5HbHNWV1pUZEVoaFRXNDRlbVpuVEZaM2MwMXhUemMwZFhkQg",
+        "job_title": "Senior GRC & IT Audit Analyst (SMP)",
+        "employer_name": "NES Fircroft",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nesfircroft.com&size=128",
+        "employer_website": "https://www.nesfircroft.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-grc-it-audit-analyst-smp--dhahran-compound--ed85ef89d429783c9214eb6a6d3977fb3",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-grc-it-audit-analyst-smp--dhahran-compound--ed85ef89d429783c9214eb6a6d3977fb3",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "NES Fircroft is seeking a Sr Digital Solutions Analyst–SMP with Saudi Aramco, to oversee governance, risk, and compliance initiatives within strategic energy projects. The role emphasizes policy implementation, audit readiness, and collaboration with IT and business stakeholders in a fast-paced environment.\n\nThe ideal candidate will have a degree in CS/IT/AI and 2–5 years of experience across GRC domains, with hands-on experience in COBIT/ITIL and familiar with tools such as ServiceNow, Archer,",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر JobLeads",
+        "job_city": "الظهران",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2361248,
+        "job_longitude": 50.039301699999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DMVFR9iig34arOBq9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "MVFR9iig34arOBq9AAAAAA=="
+      },
+      {
+        "job_id": "b3Flcko4bFVhVG5XMEcyaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0ZaWkhkck5ITmFlVmgyUjBodGNIbFFPVGx1WTFJM1RHUTVkWFp0YlU5NVZETXpUV3B6WVdSWk1DMTNkR0pwV0hkU1puWmlOa2xqU3paU1ZscDBlWHBSUkc0MlFUUm5TbE5GVldSVlZHbDJUSEJEUTA5b1pqWlhRVmxuTldaaFVVRnNZMUJXZVMwM1VrbGhkbVZOTjNScGNEUllibWRmVDNkVE1sWTRPRms1ZGxObVkwMFNGM1ZzZG05aGREZHdSV05EY1RGelVWQTFZMHd3TWxGUkdpSkJTRTR3UlRkSVltTmtaM05WT1RaMGVHSkVNWGN4VjBsMkxWQkVabGhqTXpaQg",
+        "job_title": "Information Security Analyst",
+        "employer_name": "Jobleader",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleader.cz&size=128",
+        "employer_website": "https://www.jobleader.cz",
+        "job_publisher": "Jobilize",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobilize.com/job/sa-ar-rass-information-security-analyst-jobleader-hiring-now-job-immediately-q6f2boq",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobilize.com/job/sa-ar-rass-information-security-analyst-jobleader-hiring-now-job-immediately-q6f2boq",
+            "is_direct": false,
+            "publisher": "Jobilize"
+          }
+        ],
+        "job_description": "Information Security Analyst vacancy in Ar Rass Saudi Arabia\n\nWe are hiring an Information Security Analyst for our growing company in Ar Rass, Saudi Arabia.\nResponsibilities\n• Conducting security assessments\n• Implementing security measures\n• Monitoring systems to protect against cyber threats\n• Identifying vulnerabilities\n• Recommending solutions to enhance overall security posture\nQualifications\n• Degree in Computer Science or a related field\n• At least 2 years of experience in information security\n• Knowledge of ISO 27001 and GDPR (preferred)\n\nSalary: 1500$ per month.\n\nVisa sponsorship opportunities.\n\nStudents and Malayalees are strongly encouraged to apply.\n#",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرس     •  عبر Jobilize",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoqerJ8lUaTnW0G2iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "oqerJ8lUaTnW0G2iAAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlYTRxWjlxd3piTlgwczJaVjc1UFFFVkJfRHUxalhJY2RIS3I4ZVN1UW1tWnFPalpKNWc5Wm1wbkdaSzV0a05sSFpRUHFaWm1iRnZrOG55VFczUDNBWEp6REVCcVJWTW9LU1FnZ2llRHBxU05kZWZkcFFFaUJmRUxYOU8yUU1SU2dQX3dmbTJ6ZTRTTHNpZXJhYklEUnNTX283TGFTel9GSWFrMGxlQXlaT1NnUnJiZXplNXNNWER0ZWZHcUNNbkZGenJJOGtOT1FPbHBKMG5lYUdKNjZPdHZma2QxbjEyRXBkb2xBZjc5emczVVpRV25RVng2WmJBanBHWlowMjdQYlFEUzl4Yy1UYnhNVHFBM2ZkRkk1ZDhxb2lsSTZiUGE2eHJwNVpnV3lFclhxZXFUZnltQ0YySl9fX1lodjAycWlDa1RnTEZWQ1F4dHZuREFRX3ltajRveGI0U1lkYUdsenFOMnBwM0g0TDA5dmZvSExVNjB2Q0NUdlBHVi1YMG9OVEplYlNzNjh0QWJCZGtIU3padHg5S0VxT3AzdWNWeUhxbkJ3am9sWUtmZnl1Z2FuNzFCYTRJSTl1QTZfb0E5VjhUNW9YeDJYZ1Zpc1lCVGgtVGhxYTNmeUlGc2V1Tl8wc0xBLUtzd2VNV05QaVBCYW02cGp6VERkNm9QLXBnZHZrMlVJdWtGTkdNQ3hDMEMxeGMzOFBCUlRQeXhFWm12TnlCSnV1NHpPSjU1TVNmdmJNEhd1bHZvYXQ3cEVjQ3Exc1FQNWNMMDJRURoiQUhOMEU3RTdxbFBhR2RIaDhnTFRSdVRWNFNpdjZlSF9FQQ"
+  }
+}

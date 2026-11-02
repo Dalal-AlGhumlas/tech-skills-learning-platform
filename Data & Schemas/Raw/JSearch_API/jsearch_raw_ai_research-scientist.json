@@ -1,0 +1,203 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "research scientist"
+  },
+  "status": "OK",
+  "request_id": "f891f84b-0721-44be-93ba-9b2c983775e4",
+  "parameters": {
+    "query": "research scientist in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "QVlCYmotLWEzNTN0Sml6cUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWFZuWmxKa05TMXRjazFMTURsM1gyRjBRMUpVY2sxSU5rbzBaMDg0YlVsMGNrSjVlakZDU25wcFIwWkRPSFp5YmpOMWFDMWZjbVpEV0RoUGVrOXZPVmN0VDFSMFpXWllTRVozTUhsTVQyRTBWWFpyVlMxdVJqZDBZbVV6UkhGV2FsUk9RMEprVkRSMGFqZHZXVkZMWW1Gd04ybGhXak5uZFdKUmJWTnlUVUpUY2tJdGMzZ1NGekV4Y205aGNYbzRTV1ZVTWpGelVWQnlZVWhpZVVFNEdpSkJTRTR3UlRkSWVUUk9jbEZOZVVwb2JHUndSREJpY0dSNk5UaEVOMmR3UlZSUg",
+        "job_title": "Research Scientist - Applied Research Center for Environment & Marine Studies - RI",
+        "employer_name": "King Fahd University of Petroleum and Minerals",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKB32rSbjlTuT0RWLgpbQ0yzGOpgTUNtg8MRt&s=0",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/research-scientist-applied-research-center-for-environment-marine-studies-ri-74065319/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/research-scientist-applied-research-center-for-environment-marine-studies-ri-74065319/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "The Center for Environment & Marine Studies at\nKFUPM\nis seeking qualified researchers to fill a research scientist position. The potential candidate must hold a Ph.D. degree in Chemistry with experience in Analytical and Environmental Chemistry. Besides, they must utilize that experiment in the environmental monitoring and in the determination of hazardous contaminants such as\nTPH\n(Total Petroleum Hydrocarbon),\nPAH\n(Polycyclic Aromatic Hydrocarbon), polychlorinated, and\nBTEX\n(benzene, ethylbenzene, and toluene) in water, sediment and biota samples using different analytical instruments such as GC-MS,\nHPLC\nand LC-MS.\nJob Responsibility:\n· Perform samples analysis for quantification of different environmental pollutants using the most common analytical techniques GC-\nFID\n, GC-MS,\nHPLC\nand LC-MS.\n· Train joiner chemists on the advanced analytical techniques.\n· Conduct basic and applied research related to water treatment, analytical method development and environmental monitoring.\n· Publish findings in reputable peer reviewed journals.\n· Write research proposals.\nCompensation & Benefits:\nCompetitive salary based on qualifications and experience. The appointment includes the following benefits according to the university policy.\n1. Tax free salary.\n2. Free furnished air-conditioned on-campus housing unit with free essential utilities and maintenance.\n3. Air ticket/s to Dhahran on appointment for family members up to four persons.\n4. Final repatriation air ticket/s for family members up to four persons.\n5. 30 days of paid vacation.\n6. Assistance with local tuition fees for school-aged dependent children.\n7. Transportation allowance\n8. Medical insurance\n9. End-of-service gratuity after two (2) years of continuous service.\nThe\nKFUPM\ncampus has a range of facilities including a medical and dental clinic, health club with swimming pool, an extensive library, computing, research\nQualifications:\n· PhD degree in Analytical Chemistry.\n· Has an experience in a research centers similar to the Center for Environment & Marine Studies whose working in the environmental monitoring and in the determination of hazardous contaminants such as\nTPH\n(Total Petroleum Hydrocarbon),\nPAH\n(Polycyclic Aromatic Hydrocarbon), polychlorinated, and\nBTEX\n(benzene, ethylbenzene, and toluene) in water, sediment and biota samples.\n· Experience in Analytical instruments such as GC-MS,\nHPLC\nand LC-MS.\n· Published a good number of articles in reputable journals\n· Ability to work with interdisciplinary research groups.\nSpecial Instructions to Applicants:\n1. Applications are invited for faculty positions as soon as possible at King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.\n2. Applicants must be fluent in English as it is the medium of instruction in the University.\n3. A good track record of research and of handling projects independently.",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAYBbj--a353tJizqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AYBbj--a353tJizqAAAAAA=="
+      },
+      {
+        "job_id": "cS1nUlpmaDFTdXpLNnA5cEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEEwZUhOa1pIVklibXBIWDAxaWQyeHlNell4TFhaUlRUTjNiak14YUVkaFRqVlVUamh1TFhsdFNuQmlUMVV4VUZKbVJFMXJTSEUwVVdOWGRtaHRVRWxyUm5sWmFVa3lOVXh6VFdoeGJtUm9PWEJDWldkdmJsWmhXR3RyVlhSc1NXZHhXbEZrZFRaQ1IzbFNjbWcyTW1NeFkxcHhiekZ0U25aa2RHaHhWbmR6T1haWU9YZ1NGekV4Y205aGNYbzRTV1ZVTWpGelVWQnlZVWhpZVVFNEdpSkJTRTR3UlRkRllrTllaRVZRVFZCUVdXVnZUR1ZXVFV4clJrRklaa1E1TVVkMw",
+        "job_title": "Postdoctoral Researcher / Research Scientist in Polymer Rheology and Processing",
+        "employer_name": "King Abdullah University of Science and Technology (KAUST)",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7xcxQggHEnX7JC2tBMKAA5RBJgXvR2dZsLn0&s=0",
+        "employer_website": null,
+        "job_publisher": "Academic Positions",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://academicpositions.com/ad/king-abdullah-university-science-technology-kaust/2026/postdoctoral-researcher-research-scientist-in-polymer-rheology-and-processing/251941",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://academicpositions.com/ad/king-abdullah-university-science-technology-kaust/2026/postdoctoral-researcher-research-scientist-in-polymer-rheology-and-processing/251941",
+            "is_direct": false,
+            "publisher": "Academic Positions"
+          }
+        ],
+        "job_description": "Postdoc/Research Scientist: lead industrially funded research on polymer rheology & processing—interfacial/multilayer systems, extrusion/compounding, experiments, publish & IP.",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "ثول     •  عبر Academic Positions",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dq-gRZfh1SuzK6p9pAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "q-gRZfh1SuzK6p9pAAAAAA=="
+      },
+      {
+        "job_id": "MzY1Vm5zdzU0YURadndKd0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWhxZWpBd1REWTFlbXhXUzNwaFgySnBkV2hCWXpSVU1FVjBTbVpmVjFwVFZGRjRiMVZOUWxNNVpuZHFhek5ZU1dkMk5FcGthR0ZaYTJGTU1VTTVlbFJxY0V4SFozQmplbkZGVm1WUGF6VklVVU5TY1V0MGJFcG5iMGg2Y1V0WFIyaHZhbTVZTTNVeE5FZE5iVzAxYmxKTFRXZGpXbDlJUjNoZldEbHJTVmhaUlV4WmFTMFNGekV4Y205aGNYbzRTV1ZVTWpGelVWQnlZVWhpZVVFNEdpSkJTRTR3UlRkSWFERmFiSFZNYkUxdVZWbDFiMncwU1VwZkxXdGhUelpGY2tkMw",
+        "job_title": "Postdoctoral Position in Battery Safety",
+        "employer_name": "King Abdullah University of Science and Technology (KAUST)",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7xcxQggHEnX7JC2tBMKAA5RBJgXvR2dZsLn0&s=0",
+        "employer_website": null,
+        "job_publisher": "Academic Positions",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://academicpositions.com/ad/king-abdullah-university-science-technology-kaust/2026/postdoctoral-position-in-battery-safety/251922",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://academicpositions.com/ad/king-abdullah-university-science-technology-kaust/2026/postdoctoral-position-in-battery-safety/251922",
+            "is_direct": false,
+            "publisher": "Academic Positions"
+          }
+        ],
+        "job_description": "Postdoc on battery safety/thermal runaway: ARC/DSC & abuse tests plus electro-thermal-mechanical modeling (COMSOL/ANSYS). Build diagnostics/BMS & mitigation; tax-free pay, housing.",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "ثول     •  عبر Academic Positions",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D365Vnsw54aDZvwJwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "365Vnsw54aDZvwJwAAAAAA=="
+      },
+      {
+        "job_id": "QU96Q05LLUVPbkI2QmR5eEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWFJ4TVUxUFUweENTRk0zUVhoRlNVMW9PVXhCY1MxQkxVcGZSalo1Y25GTU1VVk1PRzlzZHpFeGJFSkVURk5uYkhZd2FUTkZlbTVNYUdSNlVEUlJYMUF0U0hWWGNYZGxTV2RrVkVSaVdHNTRaRUZ6TjA4eFNsVXdTRWxoTlRWdmJtcFVjVVZLWlRsTGVVWTJUVk5zWTBWbk5UQTFZekV0ZVZwVFpsUk5hblpVWDNaeE1tSVNGekV4Y205aGNYbzRTV1ZVTWpGelVWQnlZVWhpZVVFNEdpSkJTRTR3UlRkSFlrNTZjMFJXVFhoak5VYzNUbTl5ZFc1SmFHTmhiSEJMVGpSbg",
+        "job_title": "Senior Legal Researcher",
+        "employer_name": "Saudi Telecom Company",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAO9Fdxez-uZeEsp-TYcfYKZL8VUyRdOx8WK7F&s=0",
+        "employer_website": null,
+        "job_publisher": "Edarabia",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.edarabia.com/senior-legal-researcher-stc-riyadh-saudi-arabia/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.edarabia.com/senior-legal-researcher-stc-riyadh-saudi-arabia/",
+            "is_direct": false,
+            "publisher": "Edarabia"
+          }
+        ],
+        "job_description": "Job Summary\n\r\nJobs at this level are responsible for providing paralegal services to lawyers including investigating facts, preparing legal documents and researching legal precedent to support legal proceedings, legal studies or other investigations.\r\nCore Responsibilities\n\r\n\r\n• Prepares legal documents, including briefs, contracts, agreements, pleadings and appeals and files pleadings with court clerk, if required.\n\r\n• Prepares affidavits and organizes and maintains documents in paper or electronic filing system.\n\r\n• Completes various forms, such as accident reports, trials and courtroom requests and applications for internal STC customers.\n\r\n• Collects and analyses research data, such as statutes, decisions, and legal articles, codes, and documents and submits the report to lawyers.\n\r\n• Coordinates with relevant sectors – Network, IT and Information Center to collect and analyze information not available in the ICMS system.\n\r\n• Assists in analyzing the data regarding studies about new rules and regulations issued by government authorities.\n\r\n• Collects data regarding investigations of violations committed by company employees in the regions and reports it to the senior management.\n\r\n• Examines employee legal cases before granting housing loans.\n\r\n• Follows Legal Affairs policies and procedures and ensures that the assigned tasks are carried out consistently.\n\r\n• Executes work as per agreed stages and timescales of the overall project to achieve the required results.\n\r\n\r\nQualifications\n\r\nMaster or Bachelor’s degree in law or any other related majors.\r\nYears of Experience\n\r\nA minimum of 2 - 4 years of relevant experience.\r\nNature of Experience\n\r\nPrior experience in corporate legal roles area.\r\nDesired Skills & Knowledge\n\r\n\r\n• Basic proficiency in legal documentation – drafting of legal contracts and agreements\n\r\n• Basic proficiency in legal procedures and regulations of the court\n\r\n• Basic proficiency in telecom regulation\n\r\n• Basic proficiency in research and legal studies\n\r\n• Advance proficiency in English language",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Edarabia",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAOzCNK-EOnB6BdyxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AOzCNK-EOnB6BdyxAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

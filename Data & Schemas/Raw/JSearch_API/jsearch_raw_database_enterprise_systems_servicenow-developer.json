@@ -1,0 +1,203 @@
+{
+  "_meta": {
+    "specialization": "database_enterprise_systems",
+    "query": "servicenow developer"
+  },
+  "status": "OK",
+  "request_id": "fe7b7161-0ce5-48d9-ae87-73cef64b43a2",
+  "parameters": {
+    "query": "servicenow developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "eFYtcnF0cGZURDEtM08yT0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmhIVEZoS1JGRXlRMEpqZHpoQlVIVlNNVlppWmxodWNEWTVTMjA0UkhGdWJtNVhTVlU1UjBsR2VERXhhamhSTlRkR1JuQlZVRGczZEdwV1pVaHpVRk5PWTNkU1IxaGxjMmQ0VVZoS1MyZzRUM2g1UnpKT09YVm5TbWRTZG01dU5WVnRaMHhhWDJKdWVWaGpVVkJKVGtsQ1YxTnRSVlYwTUdWdFVqVmtNbEpGY21GSGJuZ1NGM0ZIU0c5aGRIbDRTM0F5VERWUFZWQnZZWEpxTkVGSkdpSkJTRTR3UlRkSVJGQTFkMVp4TjFNd05rRmtkVVIwTjFCMWNUVjVXbTgyTTI1Ug",
+        "job_title": "Entry ServiceNow Developer - Hybrid & Flexible",
+        "employer_name": "International Business Machines Corporation",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-YFFnD4wL58tYc9vho6eZP3jqKjWmGjhUbHM&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/entry-servicenow-developer-hybrid-flexible--al-bahah--ee69df95bfcd30a972b1499860f562674",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/entry-servicenow-developer-hybrid-flexible--al-bahah--ee69df95bfcd30a972b1499860f562674",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "IBM Consulting in Al Baha, Saudi Arabia is seeking an Entry Level Application Developer specializing in ServiceNow implementation. You will design, configure, and build workflow-based solutions, collaborating with senior developers to deliver the full lifecycle from requirements to go-live.\n\nYou will gather requirements, customize the platform, develop scripts, build catalogs, and integrate with external systems. This role offers growth through certifications and cross-team collaboration.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الباحة     •  عبر JobLeads",
+        "job_city": "الباحة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 20.012303,
+        "job_longitude": 41.468586599999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DxV-rqtpfTD1-3O2OAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "xV-rqtpfTD1-3O2OAAAAAA=="
+      },
+      {
+        "job_id": "d2I4THd2Y1RTSGg3ZGhBRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEpwV1RWRVVHUjVhVXAzVGxSVlVWWndMVFpDT0doTk9FVjVjVTFqU0hReWEybExNM0JSUTNaUGVIVjVXSEpXT1VkV00wdERSR05MZFZWNVEweE1ORTlaTVd0R1gwTlJVM1JSWTFaMlkzTmthMkk1V1hab1VtVlBOVTE1VTFWS09VODNkVjl5UkZKNmN6Y3hOVXczWkVGdmJuUXhjMkZDWm5SbU5GazVNMUUxUWtRNUxUUVNGM0ZIU0c5aGRIbDRTM0F5VERWUFZWQnZZWEpxTkVGSkdpSkJTRTR3UlRkR2JURjZXRnBXZUVOdGFURlVWa0ZDYTNoelpYZEJaVmMzTTFOMw",
+        "job_title": "ServiceNow ITSM / Virtual Agent / Agentic AI Developer",
+        "employer_name": "Confidential client",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://freelanceradar.co&size=128",
+        "employer_website": null,
+        "job_publisher": "Freelance Radar",
+        "job_employment_type": "متعاقد",
+        "job_employment_types": [
+          "CONTRACTOR"
+        ],
+        "job_apply_link": "https://www.freelanceradar.co/ae/job/c01459bc-8bb7-4f7b-b398-c6e13e351588",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.freelanceradar.co/ae/job/c01459bc-8bb7-4f7b-b398-c6e13e351588",
+            "is_direct": false,
+            "publisher": "Freelance Radar"
+          }
+        ],
+        "job_description": "Contract-to-hire role in Riyadh, onsite, for a ServiceNow developer with 7-8 years experience in ITSM, Virtual Agent and Agentic AI, 4 openings, relocation required.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٩ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Freelance Radar",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dwb8LwvcTSHh7dhAEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "wb8LwvcTSHh7dhAEAAAAAA=="
+      },
+      {
+        "job_id": "SVVVUGJoWkRMUTM3RTVTa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa2RrVlVNellrUm1ja2xRU1hkcFpUWjFOMFpqTUUxRVprZHplRVYwTWxJMVJVeEtXbU0yZDFRMFUyUjBXSGt3VjNoMlFVTlBha3RUUkVacGFtZHpMVE0zVFRaR1UzaEtPWGt0T0V0UlRWUTNSR2czYkZCNFlWWmFiVWh3TmxoNGMydGZORjltTVY5MlIzQkxRbEZ6YXpKdmRVWnJVV1ZHT0hCWk1EWTBVREZyWTFSdk1Ib1NGM0ZIU0c5aGRIbDRTM0F5VERWUFZWQnZZWEpxTkVGSkdpSkJTRTR3UlRkR2NsTnpNVFZHVFZCM2FuTktRVzk1VnpoNWJtTjZjVTVpYkhkQg",
+        "job_title": "Senior ServiceNow Developer - Integrations",
+        "employer_name": "Ameera Talent Solutions",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Jobilize",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobilize.com/job/sa-riyadh-senior-servicenow-developer-integrations-ameera-talent-solutions",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobilize.com/job/sa-riyadh-senior-servicenow-developer-integrations-ameera-talent-solutions",
+            "is_direct": false,
+            "publisher": "Jobilize"
+          }
+        ],
+        "job_description": "Location: Riyadh, Saudi Arabia (Onsite)\nEmployment: Full-time\nVacancies: 1\nStart: Immediate\nPackage: Negotiable\nIndustry: Enterprise Technology & Digital Transformation\n\nWe are hiring a Senior ServiceNow Developer in Riyadh who specialises in enterprise integrations. You will build and improve the connections between a large-scale ServiceNow platform and the wider enterprise. This is an immediate start and we are shortlisting now.\nThe Role\n• Design and build integrations between ServiceNow and external enterprise applications\n• Build and maintain REST and SOAP integrations, IntegrationHub spokes and scripted APIs\n• Develop custom ServiceNow scripts, workflows and integration components\n• Configure authentication, data mapping and error handling\n• Support inbound and outbound data exchange\n• Troubleshoot integration failures and improve performance and reliability\n• Work closely with architects and integration specialists\n• Support technical reviews, testing, deployments and documentation\n• Make sure all work meets platform security and development standards\nWhat You Bring\n• Strong ServiceNow development and implementation background\n• Proven experience with REST APIs, SOAP, IntegrationHub and scripted integrations\n• Knowledge of Flow Designer, Business Rules, Script Includes and data transformations\n• Experience integrating ServiceNow with enterprise IT systems\n• Understanding of authentication, integration troubleshooting and platform best practice\n• Ability to work independently on complex technical tasks\n\nPreferred certifications: ServiceNow CSA, CAD and relevant integration or implementation certifications.\nDesirable: Knowledge of Workflow Data Fabric and enterprise data integration patterns.\n#",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobilize",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DIUUPbhZDLQ37E5SkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "IUUPbhZDLQ37E5SkAAAAAA=="
+      },
+      {
+        "job_id": "WXNZVkhBUHlMdzFNcHpLYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1ZvYVhWb015MU1XV3BwY1dKV2FEUTVkRWsxU1ZKWVJUQXllakZQWlhCbU1IcFFkWGRqWjB0bFNVWkhlRGR4YkZKbE1qVkpabGxTTm10cWNGTm9TbUZKUzNOc2EyUmxhakZwYUhJelJIbERNMHhsV0VWaFVscHlOVWxsZFVoVU0xZG9aVFpLY0cwMVZWZERTV3hNUlU5RVh6RlpkQzFDY1c5Uk5YcE5lalphY0ZaWVRGa1NGM0ZIU0c5aGRIbDRTM0F5VERWUFZWQnZZWEpxTkVGSkdpSkJTRTR3UlRkSGIyY3lSRVY1Y3pZM1MydGZVa3d5Y2xwSU5UTldhbVpGYnpoMw",
+        "job_title": "ServiceNow Developer - CMDB & Service Mapping",
+        "employer_name": "Ameera Talent Solutions",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Jobilize",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobilize.com/amp/job/sa-riyadh-servicenow-developer-cmdb-service-mapping-ameera-talent",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobilize.com/amp/job/sa-riyadh-servicenow-developer-cmdb-service-mapping-ameera-talent",
+            "is_direct": false,
+            "publisher": "Jobilize"
+          }
+        ],
+        "job_description": "Location: Riyadh, Saudi Arabia (Onsite)\nEmployment: Full-time\nVacancies: 2\nStart: Immediate\nPackage: Negotiable\nIndustry: Enterprise Technology & Digital Transformation\n\nWe are hiring two ServiceNow Developers in Riyadh who specialise in the Configuration Management Database (CMDB) and Service Mapping. The focus is improving enterprise configuration data, mapping application services and giving clearer visibility across IT infrastructure. This is an immediate start and we are shortlisting now.\nThe Role\n• Develop, configure and improve ServiceNow CMDB and Service Mapping capabilities\n• Implement and maintain Discovery patterns, identification rules and reconciliation\n• Configure CI classes, relationships and service data structures\n• Build and maintain service maps showing how applications and infrastructure depend on each other\n• Support alignment with the Common Service Data Model (CSDM)\n• Troubleshoot Discovery and Service Mapping issues\n• Support MID Server configuration and connectivity where needed\n• Write scripts, integrations and automation to improve CMDB accuracy and completeness\n• Work with infrastructure, operations and architecture teams\nWhat You Bring\n• Strong hands-on ServiceNow CMDB implementation and development experience\n• Practical experience with Service Mapping and ServiceNow Discovery\n• Understanding of configuration items, service relationships and CMDB governance\n• Familiarity with MID Servers, identification and reconciliation\n• Understanding of CSDM principles and CMDB Health\n• Ability to diagnose data quality, Discovery and Service Mapping issues\n\nPreferred certifications: CSA, CIS-Discovery, CIS-Service Mapping or other relevant ServiceNow credentials.\n#",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٤ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobilize",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DYsYVHAPyLw1MpzKbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "YsYVHAPyLw1MpzKbAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "bi analyst"
+  },
+  "status": "OK",
+  "request_id": "8dcd6fa1-b7ac-4090-ad23-e356229e7bf9",
+  "parameters": {
+    "query": "bi analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "eDVCcnA0VEZ0OVM3ZkxFRkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEpDVEdSdmRYZFNRVXBuVUd4Vk5USlNRVzVJWldOUlNqTkVUUzFyVmxSVmRHTTVNbWhVUWxwcmIwMU9VRmxoTlhoUlgxVjBMV3g0VEVsSFJVMDVUbmhrZDBOcFNrNVlTa1ppV0hwMU9YSTVja2h0TkVwaFlrUlJkVTlGTjFOR1pXazVhSEZhTURCeGFtVlVaSFp5VlhoTFVUUnNVUzFIVG5CSFpFbFZkVEp6VFZWalMyUVNGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkR1VrSnhiblJEV21wbFRIRktVemxQV1dKVVQyYzRXRnBYVTBSbg",
+        "job_title": "Data & Analytics Lead — BI, Data Warehousing & Strategy",
+        "employer_name": "Alfanar Precast",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/data-analytics-lead-bi-data-warehousing-strategy--riyadh--e550de6190ca8d97ab26fbe1edd012b58",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/data-analytics-lead-bi-data-warehousing-strategy--riyadh--e550de6190ca8d97ab26fbe1edd012b58",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Alfanar Precast in Riyadh is seeking a senior leader to drive data & analytics strategy across the organization. You will oversee BI, analytics, and data infrastructure teams to deliver integrated insights and align data initiatives with business goals.\n\nYou will champion a data-driven culture, guide dashboards and governance, and collaborate with stakeholders to translate complex data into actionable decisions that support growth and efficiency.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dx5Brp4TFt9S7fLEFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "x5Brp4TFt9S7fLEFAAAAAA=="
+      },
+      {
+        "job_id": "Tk9IRTE0ZlZBWU94c2FxdEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEY2YzBKMFFub3pTVFJzVTFKRllVWkJTREpPYjFKTWVFOHpValZPVkhCVlMyTm9RVFpZTTE5UVF6QkNabFZ1WjBKeFUwbEdURzVSUjJVMU0xSjFRemRuWHpOeFNVczRYMHRaU0U5UU0zcHBlV2RhWlVWS1JFVlFNM1pHWmtSUGIwcDRXWE5rUzNSWWVXVnZVMm81UVUxSWVsZHVlSGRZWnpoV2FrNW5RV0ZWVTNaVVNGb1NGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkRk5FOXllR1pzWWxsM1N6bEVjbEp6WjJ0RFZucG1kWHBSTFcxMw",
+        "job_title": "Senior Data Analyst | Power BI Data & Analytics Specialist",
+        "employer_name": "Macpower Digital Assets Edge",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://naukrigulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Naukrigulf",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.naukrigulf.com/senior-data-analyst-power-bi-data-analytics-specialist-jobs-in-dammam-khobar-eastern-province-saudi-arabia-in-macpower-digital-assets-edge-7-to-12-years-n-cd-20010022-jid-051026500350",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.naukrigulf.com/senior-data-analyst-power-bi-data-analytics-specialist-jobs-in-dammam-khobar-eastern-province-saudi-arabia-in-macpower-digital-assets-edge-7-to-12-years-n-cd-20010022-jid-051026500350",
+            "is_direct": false,
+            "publisher": "Naukrigulf"
+          }
+        ],
+        "job_description": "Leverage data analytics skills, BI technologies, and best practices to transform raw data into actionable business insights, enabling informed decision-making and enhancing data readability for stakeholders.\r\nRoles & Responsibilities:\r\n\r\nRequirement Analysis & Solution Design: Conduct stakeholder sessions to gather requirements and design BI solutions using BI stack.\r\nData Extraction & Transformation: Extract data from SQL, SAP BW, Oracle, and other systems. Cleanse, transform, and optimize data for accuracy and usability.\r\nBI Development & Governance: Develop Power BI dashboards and reports adhering to best practices. Monitor system logs, enforce data access controls, and refine user roles.\r\nData Quality & Integrity: Collaborate with data owners to define data quality standards and ensure compliance. Perform data validation, profiling, and quality assessments.\r\nStakeholder Collaboration: Maintain clear communication with stakeholders, ensuring alignment on deliverables. Support data governance initiatives to enhance integrity, availability, and reliability.\r\n\r\nBachelor's degree in Computer Science, MIS, or a related field.\r\n7+ years in data analysis, BI development, or data modeling.\r\nAdvanced SQL & Python for data extraction and manipulation.\r\nPower BI expertise (dashboard development, DAX, data modeling).\r\nDatabase design, ETL processes, and data warehousing.\r\nData mining, segmentation, and statistical analysis.\r\nData visualization tools (e.g., Tableau, Power BI).\r\nStrong analytical and problem-solving abilities.\r\nHigh attention to detail and accuracy.\r\nExcellent communication (written & verbal) and stakeholder management.\r\nAbility to present insights effectively through reports and presentations.\r\nCollaborative team player with cross-functional experience.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Naukrigulf",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DNOHE14fVAYOxsaqtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "NOHE14fVAYOxsaqtAAAAAA=="
+      },
+      {
+        "job_id": "V1dzUURhTXI4NFZTMmhPSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGxGZFdzMmFrOW1VazVTTUVwWGJXVkxTV0ZuY2tSaVFqVlVXbVp5UWxnNVpWWnNWV1pOTXpGdldrWk9jRWswVlVKdVNuZDVXa1EyZFhkRE0xSkdjRjgyUWxWcU0ySlNVakV0TjNCcVR6RkhabTlmV1ZSQmMzRmlNVzB0ZUMxb1ZIbFVhMFpMYWs4eExURm9VbUpXWjFSWk5IaElVMWR6WWxaNFJqWnRaa3B6Wkd4WE1sVVNGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkSWQxaDJNM2xpVldaTlVtRkxiVmRQWTBzdE5UaFNZMmRLTjFsQg",
+        "job_title": "Senior Data & BI Engineer (ETL, DW, SQL, Power BI)",
+        "employer_name": "MASTER-WORKS",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-bi-engineer-etl-dw-sql-power-bi--riyadh--ea98a5a13f489e0fd8abd29054b2c4da2",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-bi-engineer-etl-dw-sql-power-bi--riyadh--ea98a5a13f489e0fd8abd29054b2c4da2",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Master Works is seeking a Data Senior Engineer in Saudi Arabia to design and maintain data integration, data warehousing, and BI solutions. You will work on ETL processes, SQL optimization, and dashboards to support data-driven decisions.\n\nYou will collaborate with stakeholders to translate business requirements into technical specifications, ensuring scalable architectures and adherence to enterprise standards. A MIS/CS/IT degree and 3+ years of experience are expected.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWWsQDaMr84VS2hOHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WWsQDaMr84VS2hOHAAAAAA=="
+      },
+      {
+        "job_id": "SnVLbTFZeTVCTzRSNWFHRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1JtTWtkMFJXOWxla1ZtVUVjdFVGcG5jbUpVWkVNNGVtaFpVVTkwUVdzNVkzRTFlR1p4V2tOU05YQlFaSEpTZGtSdVdXa3pZMHBIUlVJd1RGaHNVazVKVmxKeVdWRk5TRGQ1TmpndFdHZHRTVFkxYlZOMVpqVnpiMUppVFMxVloyTjJjVGh6YTI5T2RXSjJkbTQ0YjBwTlZrSmxkMTlLUTBoUU16UnNWVGx1U0VoUGJrRVNGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkSVFURnZhbGd6WmtoVVJXdFZiMkl3UjFKRWJ6ZFdYMVZNWlcxUg",
+        "job_title": "Strategic Financial Analyst | Power BI & Forecasting",
+        "employer_name": "EXACT Technical Solutions Co.",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/4461810834597786004",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/4461810834597786004",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Exact Technical Solutions Company in Saudi Arabia is seeking a highly analytical Financial Analyst specialized in Power BI, Power Query, and financial reporting tools. You will develop dynamic dashboards, support budgeting and forecasting, and analyze financial performance.\n\nResponsibilities include preparing KPIs and reports, building budgeting models, and ensuring data integrity across systems. Strong communication across departments and knowledge of ERP systems are required.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DJuKm1Yy5BO4R5aGEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "JuKm1Yy5BO4R5aGEAAAAAA=="
+      },
+      {
+        "job_id": "U1JHS3VpNld3TTB3UmdveUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWRZZEVWUlFXMUJhazV6U3pFMVFXcHhaWEV5ZWtkMVVuTlFjV1JDVTBONVIyZDNXRXBwVm1WV1ZqZHVTMnRzY0RWQ1FVVm9YemRUYVRobFFVbDNORkppVjFKRGNqWTRZbEJTWkRsWlptMTVaRzU2V1ZGellXOUJPVmt0YTFKNmIxWmhURGxqY1RCM01YWnRNM05UT0hsTmEwMHRXV1EwUjFOVk9GTmlVMkpJZWtONVRVUVNGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkSGRITnJjbEJEVldVNFptRTFNbWxrWkZsNlUwNXBjVXA1UTBkQg",
+        "job_title": "Riyadh Data Analyst: Dashboards, SQL & Insights",
+        "employer_name": "Apexops",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apexops.agency&size=128",
+        "employer_website": "https://www.apexops.agency",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/riyadh-data-analyst-dashboards-sql-insights--riyadh--ef826a556717f7aa67d2da835d1ba8a09",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/riyadh-data-analyst-dashboards-sql-insights--riyadh--ef826a556717f7aa67d2da835d1ba8a09",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "ARK47 Studio in Saudi Arabia (Riyadh) is seeking a data analyst to build dashboards for installs, sign-ups, usage and credit purchases; answer the team’s questions with data using SQL; measure campaign results and app-store changes; ensure data is collected correctly and in line with data-protection rules.\n\nThis is a full-time, on-site role at our Riyadh office; Saudi Labour Law applies to working days, hours and annual leave.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DSRGKui6WwM0wRgoyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "SRGKui6WwM0wRgoyAAAAAA=="
+      },
+      {
+        "job_id": "QVZkU3RZX1d2RENGZm92Q0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEZmWDBwRmRFNW5NVVZ4V25kUmJYSTNZbUpLVG5KNVdtOWxNMjFoU1V4Uk1UVlZMVE5KZFRSZldEVk9TR3A0ZWtWbGIxWnJNMlJJVEhoaFNqUklWREUyZFhCVFpubE9VMnd3ZGpsNWRqaFdSbk5qWW1KWlprMURkMUpwUjNsZlpucFlVazFRYW5sT2VFNXNPRTlGUjFwNWNWbGxVVU0wWVROd1ltSldjekV4ZDJGM1R6VVNGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkSU16QmxabTA1U3pOU0xWbGhTM1Z1WkhCaGVrOTFNR0YxY1ZOMw",
+        "job_title": "Strategic HR Data Analyst — Power BI & Compliance",
+        "employer_name": "Sgr Sa",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sgr-sa.com&size=128",
+        "employer_website": "https://sgr-sa.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-8009343119106356405",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-8009343119106356405",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Saudi Gold Refinery (SGR) in Riyadh, Saudi Arabia, seeks an HR Data Analyst to ensure data integrity in HRIS and generate strategic workforce insights. You will support Saudization compliance, GOSI/MHRSD reporting, and dashboard development to track turnover, absenteeism, and labor costs.\n\nThe role reports to the VP of HR and focuses on data-driven decision-making, regulatory alignment, and automation of reporting processes.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAVdStY_WvDCFfovCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AVdStY_WvDCFfovCAAAAAA=="
+      },
+      {
+        "job_id": "TFoyc2VFRHFJTVJ6eGc1M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa1JEV2s1dU9YQkxTRnBGU25KcGFHeHJSRkpWTVhaalJHbFhlbFpWTldkdE5rRkhZVlZ2UjJ4amFuZFpPV1JvTjJveFNWb3dSM05hTW1oU1p6ZHlTbnAyVEdkQk1HWTFOSGhhYWpOS1lYWTJla3hhZVZWeVdqbG5SVlZ5TlMxRFptMHhaRUpoVURsVWFuSlViMGxYVjFWdlZXZGxWRTFoY0dWVGFVeFdaRzVDTkdoc2FtRVNGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkRmJYWklSRlYzU1RCdlRFSlRWamhyTWpaaGMwVmtRa0Y1UnpCMw",
+        "job_title": "BI Developer/Consultant",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/bi-developer-consultant--riyadh-region--e53dcd2fd648442c597acc0e4cebb7013",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/bi-developer-consultant--riyadh-region--e53dcd2fd648442c597acc0e4cebb7013",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "BI Developer/Consultant\n\nLocation: KSA (On-site)\n\nExperience: 4-6 years\n\nARABIC SPEAKING IS A MUST HAVE.\n\nMUST HAVE\n\n• 4-6+ years building BI solutions end-to-end (data modeling - visualization - deployment)\n\n• Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) — expert-level in at least one\n\n• Strong SQL (query optimization, stored procedures, complex joins)\n\n• Data modeling experience (star schema, dimensional modeling)\n\n• ETL/ELT experience — building and troubleshooting data pipelines feeding BI layers\n\n• Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the “consultant” half — not just a report-builder)\n\n• DAX or equivalent calculation-language proficiency (if Power BI-centric)\n\nGOOD TO HAVE\n\n• Experience with Microsoft Fabric or similar unified analytics platforms\n\n• Exposure to Python or R for advanced analytics feeding into BI layers\n\n• Experience presenting to executive/C-level audiences\n\n• Domain experience in operations/logistics/parking/municipal data\n\n• Arabic language skills\n\n• Familiarity with data governance/row-level security implementation\n\n• Prior consulting background (used to client-facing engagements, scoping, and stakeholder management)",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLZ2seEDqIMRzxg53AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LZ2seEDqIMRzxg53AAAAAA=="
+      },
+      {
+        "job_id": "TjlmeTJJbXprNGJhcmJtdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbTF3UkRNellTMXJiMHRETkV0WVNISTRaVmQyT0ZsNlVreFRWbk42Y2xGb1EybHhkVmxIVmxKa1IydDNNRGxCZEhCVWNETk1jWFpoZEdKWVdGWjVTRTgyUWtkRmEyRmphbE5zUmxjeVJVeFVXa1JaZUhSZlREUllaV0p1YW1GeGVtSk5OSGwwZDJkQk1sOHhZamxaTVVka2VHRjVOMWhmYW1KdmFFaGFhblF5TVdwVlMzY1NGMEZzZG05aGRTMU5UblV6Yld0UVNWQndiMnAyZVZGVkdpSkJTRTR3UlRkSVMxWjJPV0ZzV0VwSU5raFVlSEEzVjJwc05YVlpOVTVrV0VoMw",
+        "job_title": "Senior Business Analyst: Strategy, BI & Leadership",
+        "employer_name": "Partners in Digital Health",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://partnersindigitalhealth.com&size=128",
+        "employer_website": "https://www.partnersindigitalhealth.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-business-analyst-strategy-bi-leadership--riyadh--e6d840d2192c0b5d9200990de8b03d062",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-business-analyst-strategy-bi-leadership--riyadh--e6d840d2192c0b5d9200990de8b03d062",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Partners in Digital Health is seeking a Senior Business Analyst to lead analysis and design of business processes, systems, and strategies to boost organizational efficiency. You will work with stakeholders to identify business needs, document requirements, and translate them into functional solutions aligned with strategic goals.\n\nThe role includes mentoring junior analysts and ensuring best practices across projects.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DN9fy2Imzk4barbmvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "N9fy2Imzk4barbmvAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlYjhiUXByUC1jT2dzTURzSy1ydm80WGFkeTRTcVZpQ1YxSnNsdnZGekdVMGlGNkVvUEl0dXd6Zk9hTVJCU3J2aVB2alg1UEVTYUlWZzdlcXRadVdFajR0dTYxQS1aZmxTVmRPTkFGNXctRXgzenBpTWk0Z09LbG9STkJTTGRUQWVjTUMxR2R4azZicUNfSld6NF9yQVRCQ2ZpLVE1WmpBcDJtWVRVaDdYNjQ4TVN3N053V3dNT3RneV95SjZpR2tnUW1qclNUbzJxSG43UEJRR0QzY0JJck95bmMyZjQwdEZvaUNnVUpRN2RJMEhMYXYwb3Q1M0pNajdNMmNJRXduRXllelF6LS1qWnl0amJ2b2REMHZxaXVIMzJZbVc1UlhacGJXenBHZ1RHNjdDM3pYRkxzWG5SX0FuS0FEZllLRUZQaV9tRjI3YmZwbXg1c2EwZW81ajBrT1ExMG42V3k3T1g2MWgwdWY3NHBnMDJhTmk1YWhhX2NsMlEyM0NDQXJtSGFoU3paMlNwM3dLekc0VWJZVDh2Qi0tRkxXcVA5bnBldTh5aTlMNHo3VG5ydDJUNVFNUUpYYjhob2NwazNfTXVpQWstZUV3U2FJU2JvcnRDalB5dk90UXYxWkpLS2w1M3ZROVhRcVpHUTVSeGJPYjZrRE1vYjZyZlhiWFJtajNPcmE5OVhkRFdPMUlGdkhPMlpGeThDZ2F1QkF3EhdBbHZvYXUtTU51M21rUElQcG9qdnlRVRoiQUhOMEU3RTdJa3VVQ2NfcFg5blp2anlPVFNuc0s2OHRfUQ"
+  }
+}

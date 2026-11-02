@@ -1,0 +1,102 @@
+﻿job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
+MENSQnlGeG1kaHZLTVB3S0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUpZTFROUWMyZGZXWHBoVTBSM2RUWjFUR2hUT1VJM1lUSm5ORzlFWVRSWlNYTjVNSFJMU1Y5ZlgxQlNjVE5QU0dWR2RFdGFhRUpMTm13M05qbGlibmxmY21KUWFWRlFZaTFpUWtjNWRqTmZMWE5SVW1aVVNFRk9ZVFozTFZjMFUxbEVibmx2U1hCUWFuaE9WbTlNVDJOdVpGaHFZa05yUWxsYVdrVnFibGN4YzJ0NFNqY1NGMUV4ZG05aGNtcGFRMUJZVVRWT2IxQXpVSEZGYVZGekdpSkJTRTR3UlRkSVkxSktlV1l3V0ZCTWVGZFRPRkZwVFRKSVNscDFPVFpKZFZOUg,Senior Front-End Engineer - Enterprise UI (Angular/React),700Apps,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-front-end-engineer-enterprise-ui-angular-react--riyadh--ec9556cf768c2ec506669eb131bbb0204,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-front-end-engineer-enterprise-ui-angular-react--riyadh--ec9556cf768c2ec506669eb131bbb0204"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","700Apps is hiring Senior Front-End Developers to build responsive, secure, and accessible web interfaces for an enterprise Board Management System with complex workflows for a leading government entity in KSA.
+
+You will develop responsive UIs using Angular and React.js, integrate with RESTful services, implement complex workflows, enforce OWASP front-end security, and work with cross-functional teams to ensure performance and quality.",False,قبل يومين,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D0CRByFxmdhvKMPwKAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,0CRByFxmdhvKMPwKAAAAAA==
+MnJoUG1lSGFkMW5ndWFsbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWx0UWt0cE1EbHpVMGxuWldwV1ZrWmtSbFZ6TWpjMlJGbHZWR1ZuY1dvME1VNWpNVGxUYzAxSWNtTllhWEJITkV0WmNrOXROa2s1WWxKQ1QyUnBXbTVUYkVReVFrbEpTR1pMWVZCRmFFdzFiV2MxUmw5VldVVTBhVlJoU0V4a2FGWkdOakYyV0hOVVlXUnpkR3hqV0RsMVJXc3hSMlUzVFdoU1R6aFBNVGhwZEdOdFNrTVNGMUV4ZG05aGNtcGFRMUJZVVRWT2IxQXpVSEZGYVZGekdpSkJTRTR3UlRkSWJWSndWRkZNVTFnek1FdG5RV2RuYkdjdFkwSXRSbEpKZUZkMw,Full Stack Developer (.NET & React) Saudi National,Astek Middle East,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZKCuvdlOHLyT0r3mCmGFvUsfyw08etBQbQWO&s=0,https://astek.net,Saudi.tanqeeb.com,دوام كامل,FULLTIME,https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html,False,"[{""apply_link"": ""https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html"", ""is_direct"": false, ""publisher"": ""Saudi.tanqeeb.com""}]","About the Role
+
+Astek Middle East is seeking a Full Stack Developer with strong experience in .NET and React. This full-time role is based in Al Qassim, Saudi Arabia, and requires Saudi nationality. The successful candidate will be responsible for developing, maintaining, and enhancing scalable enterprise applications, working within Agile/Scrum methodologies.
+Key Responsibilities
+• Design, develop, test, and maintain web applications using .NET, **** Core, and React.
+• Build secure, scalable backend services, RESTful APIs, and system integrations.
+• Develop responsive frontend applications using React, JavaScript, and TypeScript.
+• Participate in technical discussions, solution design, and architectural decisions.
+• Write clean, reusable, maintainable, and testable code following software engineering best practices.
+• Collaborate with Product, Business Analysis, QA, DevOps, and other engineering teams.
+• Participate in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, refinement, reviews, and retrospectives.
+• Conduct code reviews and contribute to coding standards and overall software quality.
+• Troubleshoot application issues and support continuous improvement of existing systems.
+• Contribute to CI/CD pipelines, deployment processes, and collaboration with DevOps teams.
+Qualifications and Requirements
+• Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field.
+• Typically 5+ years of professional software development experience; candidates with 3+ years may be considered based on technical strength and relevant experience.
+• Saudi nationality is mandatory.
+• Strong hands-on experience with C# and .NET / **** Core.
+• Strong experience with React, JavaScript, and TypeScript.
+• Experience designing and consuming RESTful APIs.
+• Good understanding of SQL and relational databases, preferably SQL Server.
+• Knowledge of software architecture, design patterns, SOLID principles, and clean coding practices.
+• Experience with Git and source-control workflows.
+• Understanding of authentication, authorization, and application security fundamentals.
+• Experience with unit testing and automated testing practices.
+• Practical understanding of Agile/Scrum development environments.
+Preferred Skills
+• Experience with Clean Architecture, microservices, or modular architectures.
+• Familiarity with Azure or AWS.
+• Exposure to Docker, CI/CD pipelines, and DevOps practices.
+• Experience with application monitoring, logging, and performance optimization.
+• Strong analytical, problem-solving, communication, and teamwork skills.
+Work Location
+
+This position is based on-site in Al Qassim, Saudi Arabia. Preference will be given to candidates currently residing in Al Qassim. Candidates from other locations willing to relocate to Al Qassim are also encouraged to apply.
+Application Process
+
+If you possess strong hands-on experience with .NET, React, and Agile development, and are seeking your next opportunity, please submit your updated CV for consideration.",False,قبل ٤ أيام,,,السعودية     •  عبر Saudi.tanqeeb.com,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2rhPmeHad1nguallAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,2rhPmeHad1nguallAAAAAA==
+d2Q5eVdDRklfczJTQU5IdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV05VUTNveVJtRlJZVXh4UjBkWU1uaFJTMlEzYm1RM1RXVlVSVjlrVjFSWlJWbEJPWEpoWHpkTFRIcFVVemR0YmpOdUxWQlplbFIyWm5KVFpXcG9UbXA1WlRWMmIwbHpYemhzVW05WFlrOTVkbEkwTURFeVF6VllWMVV6U2t3dGRUTTBhRmRQY1ZoR1JYRlhXbHA2ZUU4MU5VOVFjVzlTZFdGNVVVY3plRGx0VFRaMVowVVNGMUV4ZG05aGNtcGFRMUJZVVRWT2IxQXpVSEZGYVZGekdpSkJTRTR3UlRkRlRrUkZabGRLZUV4VWNuSlpiRzAxUkc0eVV6RlNZME50U2tSQg,"Frontend Angular Developer – Al Qassim, Unaizah, Saudi Arabia",Uasmart,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uasmart.eu&size=128",https://uasmart.eu,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/frontend-angular-developer-al-qassim-unaizah-saudi-arabia--unaizah--eafd03ceb3f59b519e951a2a19c7cc739,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/frontend-angular-developer-al-qassim-unaizah-saudi-arabia--unaizah--eafd03ceb3f59b519e951a2a19c7cc739"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Location: Al Qassim - Unaizah, Saudi Arabia
+
+Job Category: Information Technology (IT) & Software; Remote / Work-from-Home Opportunities is not applicable.
+
+Job Overview
+
+NTG Clarity is hiring a Frontend Angular Developer to join its team in Unaizah, Al Qassim, Saudi Arabia. This opportunity is suitable for frontend developers with 2-4 years of professional experience and strong hands-on expertise in Angular.
+
+The successful candidate will contribute to building responsive, user-friendly web applications using modern frontend technologies. The role requires proficiency in Angular, TypeScript, JavaScript, HTML5, and CSS3, along with experience integrating REST APIs and following frontend development best practices.
+
+Candidates should demonstrate strong problem-solving abilities, attention to detail, and effective debugging skills. This position is open exclusively to Saudi nationals.
+
+Key Responsibilities
+
+• Develop and maintain responsive web applications using Angular.
+
+• Build user-friendly interfaces with HTML5, CSS3, TypeScript, and JavaScript.
+
+• Integrate REST APIs with frontend applications.
+
+• Troubleshoot, debug, and resolve frontend development issues.
+
+• Follow frontend coding standards and development best practices.
+
+• Use Git for version control and collaborative development.
+
+• Support application performance, usability, and maintainability.
+
+Requirements & Qualifications
+
+• 2-4 years of professional experience in frontend development.
+
+• Strong hands-on experience with Angular.
+
+• Good knowledge of TypeScript and JavaScript.
+
+• Proficiency in HTML5 and CSS3.
+
+• Experience developing responsive and user-friendly web applications.
+
+• Practical experience integrating REST APIs.
+
+• Familiarity with Git and frontend development best practices.
+
+• Strong problem-solving and debugging skills.
+
+• Saudi nationality is mandatory.
+
+Salary, Benefits & Career Growth
+
+The employer has not specified salary, compensation, or employee benefits for this position.
+
+This role offers an opportunity to apply and strengthen frontend development skills through practical work with Angular and related web technologies. Further professional development, training, certification support, and career progression details should be confirmed with the employer.",False,قبل ٧ أيام,,,عنيزة     •  عبر JobLeads,عنيزة,,SA,26.090730999999998,43.9875457,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dwd9yWCFI_s2SANHvAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,wd9yWCFI_s2SANHvAAAAAA==
+b2V1VERYOVN1YVRtbmtsZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3RTUlVWMmVGaE9Yemx1U1VGeFRHVkZVVlpuTUZaeE1XbzFORmd3YUc5b1RVdFdTbGw2VldaTlJGOVhRVnAwWjJjMVV6RnVkSHBTTlZkUWVHTkRlRTVoZEdOcE5ESmFiRkExVWtWelpYZDZkVkJ4YW5CTU5YaHJTaTFwWTB4UFdtNXFTSEphYURCUlprUTVWbnBOVFVrNWRXcDNNelpOTWtscWF6WmhaV1p1VkdvNFQxb1NGMUV4ZG05aGNtcGFRMUJZVVRWT2IxQXpVSEZGYVZGekdpSkJTRTR3UlRkSFpqZDFkVXg1ZGt4UlQxcFRNblpOUkZOYWJXUlRRVnA2Y0ZsMw,We re Hiring: Web Developer – Hasbati,Hasbati,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hasbati.com&size=128",https://hasbati.com,Naukrigulf,دوام جزئي,PARTTIME,https://www.naukrigulf.com/we-re-hiring-web-developer-hasbati-jobs-in-al-madina-al-munawarah-saudi-arabia-in-hasbati-3-to-5-years-n-cd-380706-jid-261026000395,False,"[{""apply_link"": ""https://www.naukrigulf.com/we-re-hiring-web-developer-hasbati-jobs-in-al-madina-al-munawarah-saudi-arabia-in-hasbati-3-to-5-years-n-cd-380706-jid-261026000395"", ""is_direct"": false, ""publisher"": ""Naukrigulf""}]","Design and develop interactive online calculators and web tools.Implement mathematical formulas and algorithms with a high level of accuracy.Improve existing tools, features, and functionality.Build responsive, user-friendly interfaces for desktop and mobile devices.Test applications, identify bugs, and implement effective solutions.Optimize website performance, loading speed, and code quality. Strong knowledge of HTML, CSS, and JavaScript.Experience developing interactive web applications and online tools.Ability to translate technical requirements into reliable solutions.Good problem-solving skills and attention to detail.Commitment to code quality, accuracy, and deadlines.Previous experience building calculators or similar web tools is a plus.",False,قبل ٧ أيام,,,السعودية     •  عبر Naukrigulf,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoeuTDX9SuaTmnkleAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,oeuTDX9SuaTmnkleAAAAAA==
+SVlxbXRlR0JzZEMtTWVOSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalJhVjB0T1owTTVkV0ZTWm1aM2FWOXBWMmRJUmtOQlZXVkpWa2hOZGs1MlNtNHhlVlJGUzBkQllWUnNhVTlRYjFkYVlYaEVNV1pUYTAxcmNFcGpSemczZWtGblJrUnhSa1pMUldOdWQzWldZbXRtTjB3elJubzJkSEJHU1V0cmRrcFdMWFU0U21sME1HNWxObUZNVUd4TldtVlVXWGh6VlZCek1FdERkRm95YkY5SmMxRVNGMUV4ZG05aGNtcGFRMUJZVVRWT2IxQXpVSEZGYVZGekdpSkJTRTR3UlRkR1lrVjNha2xQVm5OSVQzTXdVRlpwTTJGdVFubFpkemxCT1dSQg,Senior Frontend Architect & Tech Lead,Nakhla,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nakhla.com&size=128",https://www.nakhla.com,Jobs In Saudi Arabia - Jooble,دوام كامل,FULLTIME,https://sa.jooble.org/jdp/409271481872731143,False,"[{""apply_link"": ""https://sa.jooble.org/jdp/409271481872731143"", ""is_direct"": false, ""publisher"": ""Jobs In Saudi Arabia - Jooble""}]","A modern technology company in Saudi Arabia is seeking an experienced Frontend Developer to design and maintain responsive web applications. In this role, you will work closely with product managers and designers to create intuitive user interfaces. Applicants should have over 5 years of experience with React and state management tools, as well as a solid understanding of API integrations. This position offers the opportunity to work in a dynamic environment and contribute to the company's growth.
+#J-18808-Ljbffr",False,قبل ٤ أيام,,,الرياض     •  عبر Jobs In Saudi Arabia - Jooble,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DIYqmteGBsdC-MeNHAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,IYqmteGBsdC-MeNHAAAAAA==
+SFlYeENIVVphNVpnZWh2Q0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbU55UTBSdU5sbFdaMXAxUVhoaFkzWnJSM0pXVlY4MVlYTjJTM2x4UzI1alZVTnFaRm90ZWxCRWVVSjFMWHBrVlVsRldISjVRbkJsT0hWcmRERk1ZV2xzYUVJNFpsSmFRVGhqVm10NFpVMTNSRkZuTURSNGFHeFljVms0WjJsZlMybzJWR1IxUmpKdFJrdzNNMmxXWnpSVGJFcDJWazl2T1Y5SVNtZ3pZbTlHVkZZNU0xa1NGMUV4ZG05aGNtcGFRMUJZVVRWT2IxQXpVSEZGYVZGekdpSkJTRTR3UlRkRmNHNHdXVFl4U0d0Q2RYbGxUa3A0UlhWTk1tc3pTemROVjAxQg,Senior React/Next.js Lead - Build & Scale Front-End,Saudi Digitalization ICT,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosHJ10PYg8KpG1P0mAZqKb6dvyCVlEqWsMfTv&s=0,,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-react-next-js-lead-build-scale-front-end--riyadh--eb6335cb79886549c80db7a2857ed5f5d,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-react-next-js-lead-build-scale-front-end--riyadh--eb6335cb79886549c80db7a2857ed5f5d"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Saudi Digitalization ICT is seeking a Senior Web Developer to lead the design, development, and maintenance of high-quality, responsive web applications using React.js and Next.js. The role involves driving technical decisions, mentoring junior developers, and collaborating with cross-functional teams to translate business requirements into robust, scalable solutions.
+
+You will leverage AI-assisted development tools to work efficiently while upholding high standards of performance, security, and",False,قبل ٧ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DHYXxCHUZa5ZgehvCAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,HYXxCHUZa5ZgehvCAAAAAA==

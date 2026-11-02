@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "specialization": "qa_testing",
+    "query": "software test engineer"
+  },
+  "status": "OK",
+  "request_id": "f1bbc962-d124-46b3-8559-9b66156ffa39",
+  "parameters": {
+    "query": "software test engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "SDc5alVQLU1US3c0U3dyZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGt6ZDBGaGNtNXNhR3hTUm1sak5sSnVVRkZ2ZVhKTFVVTmhiSGN4WXpkUWVVbzBUWFpTVERSVVRqSTFZM0pLTjNOSWVXVTNhVXRNYlhweFVTMW9Vek52UlZwMU1GVlpUMUJ6YkRWc1ZXZDZVRlJuV0ZOeFUybGxlRkJTTVRGVWF6aGtjbVJDYzFGUFpYRXdjMk50VmxCQ1ZHeEJTM2xqTFRSV1lsSkRUamhNUW1OZlQxUVNGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkR1IxUnJRbE40VUc1bFkySjFja3hOTlhCbE1rSlBRa2RNWWxwbg",
+        "job_title": "QA Engineer – Software Testing (Saudi National)",
+        "employer_name": "Astek Middle East",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3B5nBNmZT0epAmJizmQrBJaK9eOnpTuQBpwOA&s=0",
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/qa-engineer-software-testing-saudi-national-astek-middle-east--fj-2437963265",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/qa-engineer-software-testing-saudi-national-astek-middle-east--fj-2437963265",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "About the Company\n\nAstek Middle East is part of Astek, a global engineering and technology consulting group founded in France in 1988 and now present on five continents.\nThe Middle\n\nEast entity delivers IT and technology services across Saudi Arabia, the UAE, and Jordan, supporting clients in public and government, healthcare, transportation, banking, retail, airlines, and tourism. With 10,000 employees worldwide and revenue of €620 million in 2023, Astek focuses on digital transformation and complex systems engineering for international clients. The group promotes a strong culture of entrepreneurship, innovation, and continuous skills development. More information is available on the Astek Saudi Arabia and UAE country pages, and candidates can reach Astek Middle East at contact-astekme@astek-international.com.\nAbout the Role\n\nWe are looking for a detail-oriented QA Engineer to join our team in Al Qassim, Saudi Arabia. The ideal candidate will have experience in software quality assurance and testing, with a strong understanding of testing methodologies, defect tracking, and software quality standards. This position is open to Saudi Nationals only. Candidates with 1 year or more of relevant experience are encouraged to apply. Preference will be given to candidates currently residing in Al Qassim.\nResponsibilities\n\n• Review business requirements, specifications, and technical design documents to identify potential issues and provide feedback.\n• Plan, prioritize, and coordinate testing activities.\n• Create and execute detailed, comprehensive, and well-structured test cases.\n• Develop and apply testing processes for new and existing software products.\n• Perform functional, regression, integration, system, and user acceptance testing.\n• Identify, document, and track software defects using bug-tracking tools.\n• Conduct API testing and collaborate with development teams to resolve identified issues.\n• Write SQL queries to validate data and verify system functionality.\n• Perform cross-browser and cross-device testing for web applications.\n• Test mobile applications and use debugging tools to investigate issues.\n• Collaborate with automation teams to expand automated test coverage.\n• Monitor testing progress, report issues, and contribute to quality improvement initiatives.\n• Work closely with cross-functional teams in an Agile/Scrum environment.\n\nQualifications\n\n• Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field.\n• 1+ years of experience in Software Quality Assurance (QA) or Software Testing.\n• Saudi National.\n\nRequired Skills\n\n• Understanding of software testing methodologies and the software development life cycle (SDLC).\n• Familiarity with Agile/Scrum development processes.\n• Basic knowledge of API testing tools such as Postman.\n• Knowledge of SQL queries, including SELECT statements and JOINs.\n• Familiarity with web and mobile application testing.\n• Strong analytical, problem-solving, and communication skills.\n\nPreferred Skills\n\n• ISTQB Foundation Level certification is a plus.\n\nLocation & Candidate Preference\n• This position is based on-site in Al Qassim, Saudi Arabia.\n• Candidates currently residing in Al Qassim will be given preference.\n• Candidates from other locations who are willing to relocate to Al Qassim are also welcome to apply.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "منطقة القصيم     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DH79jUP-MTKw4SwrfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "H79jUP-MTKw4SwrfAAAAAA=="
+      },
+      {
+        "job_id": "dDJ1aXpaNU9wa1A5YXo0Z0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblZrWkZsSE1TMWtWVkJ6WW14UmRXRkpVR1p2U21kdWVGaE1jWFJhVWtSNkxVUjZjRXBHVEZWMGNFdFhOakZMV0RJMVYyZGFOalUyYjNCalIyWlhiVnBsYUZsV05UTnpjRXhpYkVjd05HNUZaekpzVVZONmIwWTJlbXM0UkhNMlJWTk1YMVEzVkhSQk1VTTNRakkxWVhCcWFuZHFWbWxIVEV0WWFrODVlV0pPU0ZCRU9WOFNGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkRlQxZHdhRWcwZG05Q1FVbEVkVkJXWm1JeGJEZGlhRkpzUWxWQg",
+        "job_title": "QA Engineer: AI-Driven Mobile & API Testing",
+        "employer_name": "Gathern",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-engineer-ai-driven-mobile-api-testing--riyadh--ec8325b6d36aa43f593a59f709ff7b114",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-engineer-ai-driven-mobile-api-testing--riyadh--ec8325b6d36aa43f593a59f709ff7b114",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Gathern is seeking a Quality Assurance Engineer to support the delivery of reliable, high-performing products. You will collaborate with engineers, product managers and designers to validate features, report issues and ensure quality across apps and services.\n\nThe role includes manual and automated testing, participation in Agile ceremonies, and helping improve testing processes. Experience testing mobile apps (iOS/Android) and backend APIs, plus strong bug reporting, is valued.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dt2uizZ5OpkP9az4gAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "t2uizZ5OpkP9az4gAAAAAA=="
+      },
+      {
+        "job_id": "V09uNUFBbkR0SW96OHAwZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzV0WVZWa1JtMXpVMDUwTm14TGRGUkdjRlkyUkdrMWVsTklkVmxMYUhKemNGVk1WVUp3WDFCNE9IUk9PRlZuY1VwR1RFTnBSa3cyYW1kRk9IUkhSVnBpYWxWc2MyZHdNVk5GZERSTlRYQmZkbVJaUWxkZkxUaHhkMFI1ZFhwRk5HaHNMVEZDVnpWTE5VazJVa2N5VFhwc1owMWFTbXQ2YzFSWVJtazNOM2RPU1hkcVFYQVNGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkSFJFWlRlVmxDV25Wc1F6WllTaTFWZGpoc1VXOVJWRGw0WWpCUg",
+        "job_title": "QA Analyst: Software Testing & Automation",
+        "employer_name": "DXC Technology Morocco",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_e9b9_8_QKjoeRl_-rVIAJiMFcLPEOzYR-yg&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-analyst-software-testing-automation--riyadh--eeb44177a82726b6e08c140ee9356729d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-analyst-software-testing-automation--riyadh--eeb44177a82726b6e08c140ee9356729d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "DXC Technology Morocco is seeking a Software QA Engineer to ensure quality across the development lifecycle in a fast-paced environment. You will analyze requirements, design test cases, and report defects clearly.\n\nYou will perform manual testing, with automation experience a plus, and collaborate with developers in Agile teams. Familiarity with JIRA, API testing tools, and cloud platforms is desirable. Strong communication and teamwork are essential to thrive in this role.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWOn5AAnDtIoz8p0fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WOn5AAnDtIoz8p0fAAAAAA=="
+      },
+      {
+        "job_id": "S3htZGxRakdXaFdraG9vbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVkU1VW5BNWEzQXpiRkZrY0c5NWNWcFNlV1V0YWs1dFN6ZE9WSEpYVVU5c1QxVmtYeTFwZGxaRVYxaE5XakpRTjNaVVoyeFBUbEE0VFZaUlFUTmFhR2szYlY5TVJWZFZhRFZ3Wm0xaVgxQnpWVzFSYUd0S1kxSlVXbTVNWHpaeVIweHRXVXBmU25OWlpqZEtSbnBVUkdaSmF6Vndlamx4VjFkWVUzTnBWMWRpVGpJMWRYb1NGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkSVJtTTFTRTFxVkU1b09XTlBWVXN3WjBoRFMycHlZMlJRUm5CQg",
+        "job_title": "QA Engineer for Smart Devices & Web Apps (Riyadh)",
+        "employer_name": "Avensys Consulting Pte Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-engineer-for-smart-devices-web-apps-riyadh--riyadh--ee62d2cc603512c3f5c01d42b00ab3479",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-engineer-for-smart-devices-web-apps-riyadh--riyadh--ee62d2cc603512c3f5c01d42b00ab3479",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Avensys Consulting is seeking a Quality Assurance Engineer for smart devices and web applications, based in Riyadh, KSA. A Bachelor’s degree in Computer Science or equivalent and a minimum of 4 years of QA experience are required.\n\nThe role involves creating test-case scenarios, documenting defects, and executing manual and automated testing. You will analyze results, troubleshoot issues, and report UX/UI concerns for the systems and applications.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKxmdlQjGWhWkhoolAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KxmdlQjGWhWkhoolAAAAAA=="
+      },
+      {
+        "job_id": "VTJHdHdIMVZzdjVJbm5XREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVUpLV1RneVEzZEhia3RHVTBWQ1JVeG5WMmhNVG01VGFqZEZlSE14ZFRSTmIwaEVYMjFNTWtsNlJXaEphV0oyTXpNd01sRlVVVlV6TTI1SmVHeDNXVzFGU0VKQlYwRlpRa0pNVkhsT2VsZGljMEYxTVhsRFZYaFdiMGd0VlU1RVFuZ3hWMWw2U0ZwS2VVRkpkRFJoY1dwMmFrMVBRMFZVYjFVeVl5MXNia3N0ZVdjME9Ua1NGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkRmQwbGhhRTVZVW5KcWMwbG9RVUkyV1dzd1NtOUplazVVU1hOUg",
+        "job_title": "QA Manual Tester (Gaming) Saudi Nationals Only",
+        "employer_name": "Hypemasters",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hypemasters.com&size=128",
+        "employer_website": "https://www.hypemasters.com",
+        "job_publisher": "منصة صبار",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sabbar.com/ar/jobs/c-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-r-qa-manual-tester-gaming-saudi-nationals-only/id-1d08c7ec-ed95-4735-8a69-0b79f3261b6b",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sabbar.com/ar/jobs/c-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-r-qa-manual-tester-gaming-saudi-nationals-only/id-1d08c7ec-ed95-4735-8a69-0b79f3261b6b",
+            "is_direct": false,
+            "publisher": "منصة صبار"
+          }
+        ],
+        "job_description": "About Hypemasters\n\nHypemasters is a game development company known for World War Armies and other upcoming titles. The company focuses on building strategy games that integrate depth, innovation, and community-driven gameplay, with a player-centric approach.\nRole Overview: QA Manual Tester (Gaming)\n\nHypemasters is seeking a QA Manual Tester to ensure the quality of its mobile games. This full-time position is based in Riyadh, Saudi Arabia, and is open to Saudi Nationals only. The role involves collaborating with the QA Lead and developers to test new features, identify bugs, verify fixes, and contribute to a smooth player experience.\nKey Responsibilities\n• Manually test mobile game builds on physical devices to identify bugs, gameplay issues, and usability problems.\n• Execute test cases and follow testing plans to ensure features function as intended.\n• Identify, document, and track bugs, providing clear steps for reproduction.\n• Retest fixes and perform regression testing to confirm existing features continue to work correctly.\n• Test new features, game updates, events, and hotfixes for live mobile games.\n• Verify gameplay mechanics, user interfaces, game progression, and in-game systems.\n• Test across various devices and operating system versions to identify compatibility issues.\n• Collaborate with the QA Lead, developers, and production team to communicate findings and enhance game quality.\n• Contribute to maintaining clear testing documentation and reporting recurring issues.\nRequired Qualifications and Skills\n• Previous experience in manual game testing or mobile game QA is preferred, but not mandatory for candidates demonstrating relevant skills and aptitude.\n• Experience playing mobile games, particularly mid-core or strategy genres.\n• Strong attention to detail and the ability to identify unexpected behavior and potential issues.\n• Good problem-solving skills and a methodical approach to testing.\n• Ability to write clear, structured bug reports with reproducible steps.\n• Familiarity with bug-tracking tools such as Jira is an advantage.\n• Comfortable testing games on Android and iOS devices.\n• Strong written communication skills and the ability to collaborate with a remote team.\n• A proactive attitude, willingness to learn, and genuine passion for gaming.\nPreferred Experience\n• Experience testing live-service mobile games, including updates, events, and hotfixes.\n• Experience with mobile strategy or mid-core games.\n• Familiarity with tools such as Android Studio, ADB, or Xcode.\nApplication Information\n\nCandidates interested in this QA Manual Tester position are encouraged to apply. This role offers an opportunity to contribute to the quality assurance of mobile games within a growing development company.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر منصة صبار",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DU2GtwH1Vsv5InnWDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "U2GtwH1Vsv5InnWDAAAAAA=="
+      },
+      {
+        "job_id": "OUtHMGNMR19UdV9EVnNNZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2wzT1dSd1FsQlVTek5DZWxkeVlUZEdPWGRQUWpKS1ZsaHRMVEJDWDNRdGNuaHVTR2hzUVc5b2NuVnROMDV2U25GMWMzTTJhbXRCWVRsbVZITjJUVk4zYW1SMFYzYzFUa2t4ZGtwd2JFbzFTVzVuVFZwRlF6SnFYekp0Y1RSME0zTXhXWEF4TFUxM2RIUTJZa0ZFUlhveldsSmZXV1ZXVXpZM1dVYzNNbGhaY1ZWRGJXWVNGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkSFVqQTBhek5hYjJReFRqaDZhM05pVWtaUmJXY3llRzVZY0U5Ug",
+        "job_title": "QA Engineer - Hybrid, Fast, Defect-Free Releases",
+        "employer_name": "Mnzil | منزل",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-engineer-hybrid-fast-defect-free-releases--riyadh--ee7af138d6aa74de5ad400a7b80461c21",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-engineer-hybrid-fast-defect-free-releases--riyadh--ee7af138d6aa74de5ad400a7b80461c21",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Mnzil | منزل in Saudi Arabia is seeking a Quality Assurance Engineer to own the quality bar for our web and mobile products, ensuring every release is fast, functional, and defect-free.\n\nYou will design, write, and maintain manual and automated tests, log defects with clear reproduction steps, and collaborate with product managers and engineers from requirements review to production release in a hybrid work setup.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D9KG0cLG_Tu_DVsMfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "9KG0cLG_Tu_DVsMfAAAAAA=="
+      },
+      {
+        "job_id": "aUduQmpVSnhIMkxFVTdEbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGxsVUdKdFdYQjJOMVJhYkdOTVQxYzRkM0k1U1hOWWFVRmFkMHBPTVhKWWJWTjBjV0ZHYVVVNVN6aEhhR1p1YTFnNGVWZFNVR1Y0UXkxWWJVVllXRVpOZUhCcWEyeFdVVmRRVjFSVVFXNXFiRlZ0T1ZodVNYZG9SbUl3VFZZMGRYWk1aSFIzZGtSdmVtUlBSbTF1Umt0V2NEQldRbEZ2TjBWNlpFRnRjM0JXUjNaTWVUa1NGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkR2QyODFOMHRPY2xoRlFUUkZZMDFxY1hkcVRHOXRjazVUTVVWbg",
+        "job_title": "Riyadh-Based ISG Server Test Engineer – Growth & Mentorship",
+        "employer_name": "Lenovo India Private Limited",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lenovo.com&size=128",
+        "employer_website": "https://www.lenovo.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/521629001853173760",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/521629001853173760",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Lenovo Infrastructure Solutions Group (ISG) in Riyadh, Saudi Arabia, seeks a Test Engineer to own production testing for servers. You will set up and maintain test stations, deploy test software, analyze failures, and ensure data flows to MES for traceability.\nRole involves collaboration with Manufacturing, Quality and global teams, and hands-on production floor support during ramp-up. The role requires a bachelor's degree in a relevant field and 2+ years in server or electronics manufacturing,\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DiGnBjUJxH2LEU7DnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "iGnBjUJxH2LEU7DnAAAAAA=="
+      },
+      {
+        "job_id": "dFdVbUZNTTkzOVJLZWNvOEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWx3VTFkUGVtdFRURWRRZUhsbGRtdDNka2xNUW5OWmRYQkRlRzAxUVROYU1GZDFTRzVGWWpsemEwOUhaR05pTkV0T2VuQTRUWEJ6TTAwNGIxaHVZVXB0VDFGNGFXWmZWekpWYlc1TU9XMHpiemt5VVZOQ1F5MXpXaTFyYkUxU1dVdzNNbmhVTjFFM1FtVjNXR1ZCVFd0d1NrTlVkQzFQTFU4Mk5VcEJjVlJFV1dWT1MzWVNGMjVXZW05aGMyRlRTblY2WXpWUFZWQjRjUzAzZVZGTkdpSkJTRTR3UlRkR2RVSkJSR2R1Wm1OU2VpMWZaV3RpYW5scFozTlZVRU5oVldsUg",
+        "job_title": "مهندس موثوقية الموقع",
+        "employer_name": "TestCrew | Quality Engineering & Software Testing",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZKCuvdlOHLyT0r3mCmGFvUsfyw08etBQbQWO&s=0",
+        "employer_website": null,
+        "job_publisher": "تنقيب",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/ar/jobs-in-middle-east/all/jobs/021336721.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/ar/jobs-in-middle-east/all/jobs/021336721.html",
+            "is_direct": false,
+            "publisher": "تنقيب"
+          }
+        ],
+        "job_description": "About the Role\n\nTestCrew | Quality Engineering & Software Testing is seeking a Site Reliability Engineer to join a client engagement in Al-Ahsa, Eastern, Saudi Arabia. This full-time operational role involves ensuring the availability, stability, and performance of critical systems. The successful candidate will work closely with development, operations, and security teams in an enterprise environment.\nKey Responsibilities\n• Operate and manage comprehensive monitoring and observability systems to ensure high availability, system stability, and rapid incident detection and response.\n• Continuously monitor system performance, analyze anomalies, and troubleshoot issues to maintain smooth and efficient operations.\n• Design and implement monitoring strategies; analyze operational data and metrics to proactively identify and remediate performance risks.\n• Automate operations and maintenance processes to improve efficiency, reduce manual effort, and minimize operational errors.\n• Optimize system performance while ensuring compliance with defined performance standards, SLAs, and operational requirements.\n• Support business continuity and risk management practices, enabling rapid incident response and minimizing downtime during disruptions.\n• Manage deployment pipelines and release processes, applying DevOps best practices (CI/CD, infrastructure as code, configuration management) to ensure efficient, reliable, and seamless releases.\n• Apply cybersecurity best practices and system protection measures to safeguard data and services in day-to-day operations.\n• Collaborate with cross-functional teams—development, operations, and security—to achieve operational objectives and ensure smooth system integration.\n• Maintain clear operational documentation, runbooks, and incident reports; participate in post-incident reviews and continuous improvement initiatives.\nCandidate Profile\n\nThe ideal candidate will possess 2-5 years of experience in a relevant role. This position requires a strong ownership mindset with a proactive, prevention-first approach to reliability. The ability to remain calm and methodical under incident pressure is essential.\nWork Environment and Location\n\nThis role is based onsite in Al-Ahsa, Saudi Arabia. The successful candidate will be expected to participate in on-call and shift coverage as required by the engagement.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٠ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الهفوف‎     •  عبر تنقيب",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DtWUmFMM939RKeco8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "tWUmFMM939RKeco8AAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlYXl6RDdQWjZKYlpocjRkanlDT3h2c05yS1Jjb01jYzl0aF95eGk5REZPTThlZ3FRaEc0R1FSdm93Q1RndzYzY2Q1dkNwa3F0TFJ2RUVPWngwVHBkXzZ1SllLODdLU2x4YjkxdG5pR2kzTm5NZC1nLVVmYnFhOXBFZ3dpUmh0NXlXQVRnb2lEbjZzTW0xZkpJbzUzYm9zRlBlcHZLX0U2M0otUmIwVmVsNjRQRkZ4TTNQbUYxbVk2NjdVUm5VbTV4Vy04TjFRdm85MS11MUxwZ3F1M0k3UHREWGdoVVhNUUxtSzZyTnMtYkpmZFMyekJ1MEd1NnJpMFJMa1Y5WWNpT25TdktIMnZNMkZsZ1pmWlhxNWZxUHByQzVkSEJvMGYzOGNBY2xqM0ZLakJUYm9nVmdXRHU0aUt6ZTV4cmxjQ1ljZjVmUHBPWWZtX2dEVFBMQW5sekFxZ0M4dHZ3WWlXMWV5RF9jSVdYZ0tIOHRQR2tJS0FEZklVSWxscWpzRXl2cDNfYWl0UTNac2FZOTVPTTF6SGlJSF9HUWtBLUFqWmxSa3lGZnI3ekVwNWd2eHI3U3hfTTRoUDVQZXRJQUt6ekJtTWZoUE5vN1VkcW84SGdKRVlRWm4zUGM5SUdPTEtOMTJZbkpySlRGUEpHSmlPNTBCQjdBV3FhU1BVQUlKZ0dIWUtuQmZEeFV3S0tPV1J6MTVnRnM4MURmb1RIdXBrRTVEcC1oZmk5OFhOY2kxbHY4EhduVnpvYXNhU0p1emM1T1VQeHEtN3lRTRoiQUhOMEU3R3FhX2ZmVEJUbEQtTWQycm96MWpOYTB5ME9Qdw"
+  }
+}

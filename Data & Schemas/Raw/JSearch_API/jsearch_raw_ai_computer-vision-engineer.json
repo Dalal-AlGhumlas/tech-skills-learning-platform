@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "computer vision engineer"
+  },
+  "status": "OK",
+  "request_id": "13a3180f-d593-4ba5-a2e2-86590cfe6351",
+  "parameters": {
+    "query": "computer vision engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "azJjTXZrZ0JkUDFqeEdQbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEpoT1RKc1VrUlFkMnhMVldFd1RWcFlSVmh3U0dGR2MwTjBRalZ5YjB0eWFWcG5XVU55U0RCamMwaGlNbXhRWnpsYVlrZzBSRVZ5TjNGbFJHZ3RYM2RxTjE4MmFWOUtPVU5qY1Uxc2RFOUpSelpsYURJd2VGWk9iSGxmWTFsMGJYaGtaVGxFYVhOb2RrUnpZbE5UUmtOeVowSm1TVzFuTVVOQ1oyUkVTM05GTFhNMVpGTVNGM2t4Y205aGNWUmxTa3hYWjI1bGMxQjBUWEZJZVZGSkdpSkJTRTR3UlRkSFZHeHRaVXhrVjA0NVlWSlpWVXB5Wm5OYVZTMUNWRVV6YWt0Ug",
+        "job_title": "AI Engineer: Vision, NLP & Speech ML Specialist",
+        "employer_name": "Latitude",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lat.ai&size=128",
+        "employer_website": "https://lat.ai",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-engineer-vision-nlp-speech-ml-specialist--riyadh--e8b4a5102bde1a48826d6c92ebf7fe812",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-engineer-vision-nlp-speech-ml-specialist--riyadh--e8b4a5102bde1a48826d6c92ebf7fe812",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Nabeh, a subsidiary of Master Works, seeks an AI Engineer, Specialist to develop and deploy AI/ML solutions across Computer Vision, NLP, Speech AI, and Generative AI in Riyadh, Saudi Arabia. You will design, train, fine-tune, evaluate, and optimize models, prepare datasets, and integrate AI components into enterprise apps via REST APIs, scaling across cloud, on-prem, and edge environments.\n\nCollaborate with AI, Backend, DevOps, and QA teams to move prototypes into production, monitor performance,",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dk2cMvkgBdP1jxGPnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "k2cMvkgBdP1jxGPnAAAAAA=="
+      },
+      {
+        "job_id": "YXhnbDJRUmNsX25oMFphcUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbU14U0MxaVQwdGpXVkJUWm1sbU5EVkxSMFE1VEVVd1kxUmxOMjlKTm1kaVpUZHZUMGxWYjNCUVkzTTBSMFZ0TmtnMlZGTkViaTFhUVVGcVlreGtiMFJrYmw5VVRXVkdhR3RVZFhKa1oyRlFWR1JFVDBsNloyeEZZMnczV1VsV1lWWnZhMWR6TUMxVk5rOXpVbk5pU0dWeVZpMVVObEZ1ZW5VNE9HUjJWMnhDZDFwaE1rNFNGM2t4Y205aGNWUmxTa3hYWjI1bGMxQjBUWEZJZVZGSkdpSkJTRTR3UlRkSGQxQjZURGhzV1dNMmRVMDFhelV0ZVdsT1VrY3laa2h1Tm1aMw",
+        "job_title": "AI Vision Solutions Architect",
+        "employer_name": "Fathom",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fathom.ai&size=128",
+        "employer_website": "https://www.fathom.ai",
+        "job_publisher": "Ai-Search.io",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://ai-search.io/job-board/fathom-ai-vision-solutions-architect-20250211",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://ai-search.io/job-board/fathom-ai-vision-solutions-architect-20250211",
+            "is_direct": false,
+            "publisher": "Ai-Search.io"
+          }
+        ],
+        "job_description": "## Full Description\n\nCompany Overview\n\nFathom.io is a pioneering AI/DataOps company that has marked its footprint on the global stage with a presence in multiple countries. As a pre-Series A startup, we are proudly backed by one of the world's leading corporations, underscoring our potential and the innovative spirit driving our mission.\n\nWe engineer our platform to address complex business challenges through cutting-edge AI solutions, with a particular emphasis on computer vision technologies. Our ambition is to launch a product that will revolutionize the industry by leveraging advanced computer vision capabilities.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Ai-Search.io",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Daxgl2QRcl_nh0ZaqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "axgl2QRcl_nh0ZaqAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

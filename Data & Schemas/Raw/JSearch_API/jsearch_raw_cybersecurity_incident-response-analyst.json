@@ -1,0 +1,338 @@
+{
+  "_meta": {
+    "specialization": "cybersecurity",
+    "query": "incident response analyst"
+  },
+  "status": "OK",
+  "request_id": "c470451a-2a74-4652-9b19-779e1eb4cc2b",
+  "parameters": {
+    "query": "incident response analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "dGF0ZUJPZGp0ZW4walltSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZNUWxvME9YbFBUall3VHpOR2FHVjFPVVJPTlVwZlRIaHNaekpWWWpsRGJUYzFZbDlWWkhsNVJFbEJORFp4ZVdwSFpIaE5hREI2UmxoYVRVNWlObFpVZG1WNU4yOUZiQzFhV1MxTlJtdFpNbnBNTFRseVNFbE5VbXRvZFdWRFRFOUdjVWR6YTJad1drSmtkbk4zUkZReU4weGhUbFF4U0hGS0xXZERXVGRsY1ZwcFZWRVNGelF4ZG05aGRtcFFSVGxmVm5KMVJWQjROWEZvTFVGbkdpSkJTRTR3UlRkSFJFSTVlbk5zWTNsRlluRm5UWEJGVWxnME1tZzNkM0JoUzNGbg",
+        "job_title": "SOC Specialist: Incident Response & Digital Forensics (DFIR)",
+        "employer_name": "ES Consulting",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esconsult.net&size=128",
+        "employer_website": "https://esconsult.net",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/soc-specialist-incident-response-digital-forensics-dfir-es-consulting-saudi-arabia-69645226",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/soc-specialist-incident-response-digital-forensics-dfir-es-consulting-saudi-arabia-69645226",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "We're Hiring | DFIR Specialist — Incident Response & Digital Forensics (Saudi Nationals Only)\n\nWe are looking for a DFIR Specialist to join our resident SOC team supporting a leading government entity in Riyadh (on-site).\n\nWhat you'll do:\n\n- Lead investigations and response for cybersecurity incidents\n\n- Perform disk, memory, and network forensic analysis, with proper evidence handling and chain of custody\n\n- Conduct malware analysis and attacker activity investigations\n\n- Perform root cause analysis (RCA) and produce high-quality incident reports\n\n- Develop and maintain IR playbooks and DFIR procedures\n\n- Ensure incident handling aligns with regulatory requirements, including NCA\n\nWhat we're looking for:\n\n- Saudi national\n\n- Bachelor's degree in Cybersecurity, Digital Forensics, Computer Science, or related field\n\n- 7+ years of experience in incident response and digital forensics\n\n- Hands-on experience with EDR, SIEM, EnCase, FTK, Volatility, and Autopsy\n\n- Strong knowledge of NIST IR frameworks and MITRE ATT&CK\n\nApply directly through LinkedIn.\n\n#Hiring #Cybersecurity #DFIR #IncidentResponse #SOC #Riyadh #SaudiArabia",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DtateBOdjten0jYmJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "tateBOdjten0jYmJAAAAAA=="
+      },
+      {
+        "job_id": "NnlsRVQtVWdPTUNqMEk4cUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEp6YlhST1NEQktRbWx3YkhWT2JFUk5jMHgwWVVJM2FISmtjMWswV2tkSGNYazFibEpmTkhoZlNEUXdNV05FVW5kalMwWnpWM2xTUzBKaFVWSlVjV2hDZW5oT1V5MVNPV1JQZDIxWFR6ZEZSelZKVkdSdWJTMWlRVjlhTkhOR2F6QlZVbTFOWTNwdFJHdFhNRlpCTUVnNWNGWkpRMFpOVjJnMlNEaHVWbGRxVG5oaVpXOFNGelF4ZG05aGRtcFFSVGxmVm5KMVJWQjROWEZvTFVGbkdpSkJTRTR3UlRkSUxWQlZialpaWTNGSVdraE5jVlZaVURKU1JETjBXbUY0TW5sbg",
+        "job_title": "SOC Specialist: Incident Response & Digital Forensics (DFIR)",
+        "employer_name": "ES Consulting",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esconsult.net&size=128",
+        "employer_website": "https://esconsult.net",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/soc-specialist-incident-response-digital-forensics-dfir--riyadh--e15f5cf5d652011d5caa5f28013d46540",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/soc-specialist-incident-response-digital-forensics-dfir--riyadh--e15f5cf5d652011d5caa5f28013d46540",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "We're Hiring | DFIR Specialist — Incident Response & Digital Forensics (Saudi Nationals Only)\n\nWe are looking for a DFIR Specialist to join our resident SOC team supporting a leading government entity in Riyadh (on-site).\nWhat you'll do:\n• - Lead investigations and response for cybersecurity incidents\n• - Perform disk, memory, and network forensic analysis, with proper evidence handling and chain of custody\n• - Conduct malware analysis and attacker activity investigations\n• - Perform root cause analysis (RCA) and produce high-quality incident reports\n• - Develop and maintain IR playbooks and DFIR procedures\n• - Ensure incident handling aligns with regulatory requirements, including NCA\nWhat we're looking for:\n• - Bachelor's degree in Cybersecurity, Digital Forensics, Computer Science, or related field\n• - 7+ years of experience in incident response and digital forensics\n• - Hands-on experience with EDR, SIEM, EnCase, FTK, Volatility, and Autopsy\n• - Strong knowledge of NIST IR frameworks and MITRE ATT&CK\n\n#Hiring #Cybersecurity #DFIR #IncidentResponse #SOC #Riyadh #SaudiArabia",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D6ylET-UgOMCj0I8qAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "6ylET-UgOMCj0I8qAAAAAA=="
+      },
+      {
+        "job_id": "b0kzd2JrXy1zb0Q3X2dOakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTFrYjIxVlVYTnZOM1pKV1Mxdk5VZFhaVVYxY0hORVprdHdjM3A2YzNKbWFWRm1SVkZHY0dGRFV6aFNORWxLWW5SbVdYVm5lVkV6YzJoNFpIWlNWMUZWVjBKWU0zcGplbTlWVkZKWVVtSXlOR3hpY0dVelFtcHBkbGhuVDFKb2VVMDJkMUpqZUhBMFNrUlhVazExWlRsc2Iyd3pMVTgzWjNWRk5qVkhRekkzTFdaVVRqa1NGelF4ZG05aGRtcFFSVGxmVm5KMVJWQjROWEZvTFVGbkdpSkJTRTR3UlRkRlZITmZNbXRuUkZkb04wVnRUamxaTkZCTWIwWm9XRGRpUTJwQg",
+        "job_title": "Dynamic SOC Analyst: Real-Time Incident Response & Containment",
+        "employer_name": "Accenture PLC",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtCGwzQoKqjLwBvxqn8cxSZtbPQ2zzLhNILV9&s=0",
+        "employer_website": "https://www.accenture.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/dynamic-soc-analyst-real-time-incident-response-containment--riyadh--e4c30982ff7a160d17dfa9edf9264bd3a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/dynamic-soc-analyst-real-time-incident-response-containment--riyadh--e4c30982ff7a160d17dfa9edf9264bd3a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Accenture PLC is seeking a Security Operations Center (SOC) professional to join a global delivery team on a 24x7 operation. You will triage, investigate, and respond to incidents, ensuring rapid containment and remediation for enterprise clients.\n\nYou will work with SIEM/SOAR platforms, endpoints, and firewalls while maintaining clear documentation and stakeholder communication. A strong cybersecurity foundation and incident response mindset are essential for success.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٩ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoI3wbk_-soD7_gNjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "oI3wbk_-soD7_gNjAAAAAA=="
+      },
+      {
+        "job_id": "Qi1qX0U0YnNrTm4xSE5PaEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmhITTBaQlVrUmtTMnhLTFRKQ1lUaDVSbXgwWlhoSU1FVnpaMnh0TldjNFFVVjNTbVJsTFVkVE5FZHdiMWN3WWxaVWF6TXhORGR2WW5rMWNVVlRlVlpZTlhwdFpuQkpZa0ZCVFVaUmVXUXRSVWxpVERkdlNEUXdOa3RxYUV4UlUybGxNWGhVVW1OS2FVaEphalJRYkhoeFNVVllaM0k1WVVWeVpYTTJXVTVtZW1aTVgwY1NGelF4ZG05aGRtcFFSVGxmVm5KMVJWQjROWEZvTFVGbkdpSkJTRTR3UlRkR1RGTlBOVk0wTTFvMk1FWnVXWFpVY0RoQlQxaFNXRVV5VEZsMw",
+        "job_title": "Billing Operations & Incident Analyst (Onsite)",
+        "employer_name": "CSG Systems",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-7615898877513257146",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-7615898877513257146",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "CSG Systems seeks a Billing Analyst I to support Mobily platforms from Riyadh. You will monitor health dashboards, acknowledge alerts, perform initial triage, and coordinate with NOC and DBAs to resolve issues. The role emphasizes accurate incident records and timely stakeholder updates.\n\nYou will work in a fast-paced, onsite setup, contributing to SLA tracking, health checks, and continuous improvement of monitoring and support procedures within a shift-based environment.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DB-j_E4bskNn1HNOhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "B-j_E4bskNn1HNOhAAAAAA=="
+      },
+      {
+        "job_id": "Y2VWN1lRdEJNVGJjUGpMaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbXhVWmt0T1dsWklWbmh4YW5wMlJEZFVaMHhIWDBOMlN6bERORWN5ZUhBdFJrWk5Ra05aZFVKR2NIUm5URkUwWVc1Sk4xOXdXa2hTUlRJM1kxQk9VR0phVEZjMmIwWkxlWE01TURSNk5HWlNSVE5ZTnprNVZYRjFiMVJ1ZUY4d016aGFRVEo0ZUZWdE1IUTNabmxaV0ZsemNXdExYMHRUWDJsdVEyeEJTbHBNWjBwUGFsTVNGelF4ZG05aGRtcFFSVGxmVm5KMVJWQjROWEZvTFVGbkdpSkJTRTR3UlRkSWJ6ZEdRVEphZDJsa2RIYzFVMUZaYW1WaFUxOUNkV2hLZDNkbg",
+        "job_title": "Security Control Room Operator — Incident Response",
+        "employer_name": "H&P",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/security-control-room-operator-incident-response--dammam--eafca8d1fb874c486963ca07671217043",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/security-control-room-operator-incident-response--dammam--eafca8d1fb874c486963ca07671217043",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "H&P Saudi Arabia is seeking a Security Control Room Operator to monitor CCTV, alarms, vehicle tracking and communications across the kingdom, coordinate security operations, and support emergency responses. The role requires a minimum of two years in a security control room, fluency in Arabic and English, and strong communication under pressure.\n\nThe position prefers control room certification or formal training, with duties including incident reporting and maintaining accurate logs, while",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الدمام     •  عبر JobLeads",
+        "job_city": "الدمام",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.420682799999998,
+        "job_longitude": 50.088794299999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DceV7YQtBMTbcPjLiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ceV7YQtBMTbcPjLiAAAAAA=="
+      },
+      {
+        "job_id": "cURLNE14dy15aFgtaFZyNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEoyZGkxMGIydGtSbWgzV1VFd2NqQjZSbFJmZFMwdGVraDVjVTh6TW5KUk5YRnNPRGh2ZDFGMExWcHBVbmw2VXpJM1FXeGljRlJXV2toeFVWQldWVnBTVFRjdGJETjNUSGhKVG13NGQwWjVYMHQ2ZFdkclMyTlFWVW8yVDBGdWVHUk5XRXR5WW1wcE4xRXliMWN6TkV0eVEzcHFOVTVRTTA1WlIybzNUMmxpY2w5T1RVZ1NGelF4ZG05aGRtcFFSVGxmVm5KMVJWQjROWEZvTFVGbkdpSkJTRTR3UlRkR1pXdENRVGx0T0U5eFlsSnJXQzA1TUc5SVZETnJUbUZYWTIxMw",
+        "job_title": "Metro Operations Liaison & Incident Response Specialist",
+        "employer_name": "AtkinsRéalis Group",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVFT8NK4bVCmHAI9TWcLZI8zZucCc3tsqf--ZE&s=0",
+        "employer_website": "https://www.atkinsrealis.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/metro-operations-liaison-incident-response-specialist--saudi-arabia--e2cf295124b9d5577f4474cc02bf2973e",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/metro-operations-liaison-incident-response-specialist--saudi-arabia--e2cf295124b9d5577f4474cc02bf2973e",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "AtkinsRéalis in Saudi Arabia is seeking a TCC Liaison Officer to ensure seamless coordination between the Transportation Control Centre and field operations during the O&M phase of the metro project. The role focuses on traffic management, incident response, and real-time decision-making, requiring a bachelor's in transportation, 5+ years in metro/urban rail, and strong communication under pressure.\n\nThis position offers full-time employment at site offices with 24/7 operations support and a",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DqDK4Mxw-yhX-hVr4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "qDK4Mxw-yhX-hVr4AAAAAA=="
+      },
+      {
+        "job_id": "SEoxZGJ5NG9GQ21OZ0RFZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlJHY25sak1GaFVaV0pUYjFkTU1GRnJVMkV6YVY4d1dWVmlkMWh1UTNoSWVFb3lWMnAyZVZCNlVFbHFNRm8zYlRWSGNWVlpaMUIzYjAweWNVaDVUWEp0T0RGb1dqbHpVVlpGYkRsSVVVdzNWalIxVkhOS1lXOWFPRWhyYUdkMlZXd3RSekUzY2pNMmFXdFpNWEZuWDFOeFIyMHRhMkpoVDBwblQxSnZPVk5sVW5veVlua1NGelF4ZG05aGRtcFFSVGxmVm5KMVJWQjROWEZvTFVGbkdpSkJTRTR3UlRkR1IzZFNiSEpvVUhoWVR5MXVlSGc1YzFWS2JtVllOa2hpU0RSUg",
+        "job_title": "Saudi Arabia Cybersecurity, Threat Intelligence & Fraud Protection Cyber Fraud Analyst Data Analyst",
+        "employer_name": "Group IB",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://group-ib.com&size=128",
+        "employer_website": "https://www.group-ib.com",
+        "job_publisher": "Jobilize",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobilize.com/job/sa-remote-saudi-arabia-cybersecurity-threat-intelligence-fraud-protection",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobilize.com/job/sa-remote-saudi-arabia-cybersecurity-threat-intelligence-fraud-protection",
+            "is_direct": false,
+            "publisher": "Jobilize"
+          }
+        ],
+        "job_description": "← Back to all vacancies Saudi Arabia Cybersecurity, Threat Intelligence & Fraud Protection\nCyber Fraud Analyst (Data Analyst)\nWhat makes the role special\nFounded in 2003 and headquartered in Singapore, Group-IB is a leading creator of cybersecurity technologies to investigate, prevent, and fight digital crime.\nCombating cybercrime is in the company's DNA, shaping its technological capabilities to defend businesses, citizens, and support law enforcement operations.\n\nGroup-IB's Digital Crime Resistance Centers (DCRCs) are located in the Middle East, Europe, Central Asia, and Asia-Pacific to help critically analyze and promptly mitigate regional and country-specific threats.\nThese mission-critical units help Group-IB strengthen its contribution to global cybercrime prevention and continually expand its threat-hunting capabilities.\n\nABOUT THE ROLE\nGroup-IB is a partner of INTERPOL, Europol, and a leading cybersecurity and digital identity protection solutions provider.\n\nWe are protecting the largest organizations and financial institutions worldwide from online fraud, threat actors and scam campaigns.\nOur work helps secure the lives of over 300 million users of online banking, ecommerce and e-government portals.\n\nOur day-to-day routine consists of cyber fraud cases investigations, deep research on fraud activity and constant development of solution capabilities and detection mechanisms.\nWe invite you to fight cybercrime together with us!\nYOUR MISSION\n• Analyze suspicious events and user sessions for fraud behavior\n• Successfully utilize the latest technologies of fraud detection and come up with new methods\n• Participate in the development of a digital identity protection system and fraud detection\n• Prepare fraud activity reports and conduct research of malicious activity\n• Support customers with fraud analysis, investigations, and usage of the Fraud Protection Platform\nWHAT WE ARE LOOKING FOR\n• Good communication and presentation skills, problem-solving, strong analytical skills, and great computer skills\n• Proficiency in python and data analysis frameworks (pandas, NumPy)\n• Experience working with databases\n• Basic knowledge of the web and mobile applications technologies\n• Bachelor degree in cybersecurity, computer science/engineering\nWHAT SETS YOU APART\n• Proficiency in JavaScript\n• Basic knowledge of ML\n• Proficiency in data visualization frameworks/tools (plotly, dash, matplotlib)\n• Experience in banking/ecommerce anti-fraud or background in cybersecurity\nWHY CHOOSE GROUP-IB\nGroup-IB is a global leader in cybersecurity technologies that investigate, predict, prevent, and fight digital crime.\nWe help organizations reduce risk and protect trust.\nTrusted by governments, major industries, and law enforcement, we deliver adversary-focused, predictive threat intelligence and cyber fraud fusion solutions that detect, analyse, and mitigate regional and country-specific digital crimes.\n\n• Work with real stakes.\nGroup-IB investigates active cybercriminal groups, responds to breaches affecting critical infrastructure, and develops technologies used by law enforcement agencies including INTERPOL, Europol, and Afripol across 60+ countries.\nWe\\'ve conducted 1,550+ cybercrime investigations alongside 600+ enterprise customers globally.\nWhen you join Group-IB, your work directly disrupts digital crime.\n\n• Grow your way.\nChoose your own path:\ndeepen your craft as a technical expert, step into leadership, move across to another team, or relocate to one of our Digital Crime Resistance Centers across the Americas, Europe, the Middle East & Africa, Central Asia, and the Asia-Pacific.\nYour growth is our growth - Group-IB\\'s expansion across 60+ active country operations means real career acceleration.\n\n• We fund professional certifications at company expense - whether you\\'re pursuing CEH, CISSP, OSCP, or specialized certifications in forensics and penetration testing.\nYou don\\'t have to choose between doing the job and advancing your credentials.\n\n• Work alongside industry leaders.\nOur Unified Risk Platform - Threat Intelligence, Digital Risk Protection, Attack Surface Management, Managed XDR, and more - is recognized by Gartner, Forrester, KuppingerCole, and Datos Insights.\nFrost & Sullivan named us a 2025 Global Technology Innovation Leader.\nWhen you work here, you\\'re building technologies that set the industry standard.\n\n• Real challenges, real expertise.\nYou\\'ll take on complex, real-world problems alongside adversary-centric researchers and incident response experts spread across six continents.\nWe\\'ve built 21+ years of proprietary telemetry through 1,500+ joint investigations.\nNo two threats look alike - and neither do the skills you\\'ll develop.\n\n• A team that is genuinely international.\nOur people come from different countries, speak different languages, and bring different perspectives.\nWhat connects us is a shared mission:\nfighting cybercrime and making the world safer.\nWe care about your wellbeing and happiness as much as your output.\n\nSimilar vacancies\nSaudi Arabia Cybersecurity, Threat Intelligence & Fraud Protection Manager, Unified Cybersecurity Services Uzbekistan Cybersecurity, Threat Intelligence & Fraud Protection CERT Analyst Brazil Cybersecurity, Threat Intelligence & Fraud Protection Implementation Engineer - Fraud Protection Egypt Cybersecurity, Threat Intelligence & Fraud Protection Cert Analyst Tier 2 Malaysia Cybersecurity, Threat Intelligence & Fraud Protection Cybersecurity Consultant See all vacancies → word word word word word word word word word word word word word word word word word word word word word word word word word word word word w.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobilize",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DHJ1dby4oFCmNgDEgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "HJ1dby4oFCmNgDEgAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

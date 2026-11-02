@@ -1,0 +1,249 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "react developer",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "bf6d5146-81f4-4bef-83b0-22f6e753c655",
+  "parameters": {
+    "query": "react developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "bTRtUWU5YjdvcmxpVVpvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVpxVG5wclNHdHVWSHBtWldwVmJWZHpTbmhyTm5kT1IyTkRVMGxGUkdkblNIWkZNRTVEZHpkNFVXSk5RMk13UkhreFJFeHlSWHBQU3pCeFMxWjNXVU01T0ZBMlNIQjRRM1pqV1cxUVQwbHpjVzlhZFdGcGQzQlphSEpJUkU5S1RsOTZkbWxPY21kTmJVODNWemxNZW01ak5tbG9MVjlUZFUxSlZXWjNiaTFPUldwM2J6WVNGMjh5YW05aGMwdG5RbTh6YTJsTVRWQnNOWFZuWjFGekdpSkJTRTR3UlRkSGFWYzRUalo2UzJWM1ExOUtiM0pwYUV0WldEUndlVlJ2ZFZWbg",
+        "job_title": "React Native Mobile Developer",
+        "employer_name": "Royal Cyber KSA",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGNm6j_qi9gtIyOlQPR3ylIoqcgEgLsu_RDuX&s=0",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/react-native-mobile-developer-5503315/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/react-native-mobile-developer-5503315/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "JOB DESCRIPTION\n\nReact Native Mobile Developer (iOS & Android)\n\nJob Summary\n\nWe are looking for an experienced React Native Mobile Developer to design, develop, test, and maintain high-quality cross-platform mobile applications for iOS and Android. The ideal candidate will have strong expertise in React Native, JavaScript/TypeScript, mobile application architecture, API integration, and performance optimization. The candidate will collaborate with product owners, business analysts, UI/UX designers, backend developers, and QA teams to deliver secure, scalable, and user-friendly mobile applications.\n\nKey Responsibilities\n\n· Design, develop, and maintain cross-platform mobile applications using React Native for iOS and Android.\n\n· Build reusable components and scalable mobile application architectures.\n\n· Translate UI/UX designs and wireframes into responsive, high-quality mobile interfaces.\n\n· Integrate RESTful APIs, backend services, and third-party SDKs.\n\n· Implement secure authentication, authorization, session management, and data storage.\n\n· Optimize application performance, responsiveness, and memory usage.\n\n· Troubleshoot and resolve application defects across iOS and Android platforms.\n\n· Implement push notifications, deep linking, and device-specific functionalities.\n\n· Collaborate with QA teams on unit testing, integration testing, and UAT defect resolution.\n\n· Manage application builds, signing, and deployment to the Apple App Store and Google Play Store.\n\n· Participate in code reviews, technical discussions, sprint planning, and Agile ceremonies.\n\n· Maintain technical documentation and follow coding standards and security best practices.\n\nSkills\n\nRequired Skills and Qualifications\n\n· 6–9 years of mobile application development experience, including at least 3 years of hands-on React Native experience.\n\n· Strong proficiency in JavaScript (ES6+) and TypeScript.\n\n· Good understanding of React concepts, including hooks, state management, and component lifecycle.\n\n· Experience with state management libraries such as Redux Toolkit, Zustand, or Context API.\n\n· Strong experience integrating REST APIs, JSON, and asynchronous operations.\n\n· Familiarity with native iOS and Android development concepts.\n\n· Experience with native modules and third-party SDK integration.\n\n· Knowledge of mobile application security, secure storage, and authentication mechanisms.\n\n· Experience with Git, CI/CD pipelines, and mobile build tools.\n\n· Understanding of mobile application performance optimization and debugging.\n\n· Experience publishing applications to the Apple App Store and Google Play Store.\n\nPreferred Qualifications\n\n· Experience with React Native CLI and Expo.\n\n· Familiarity with Swift, Objective-C, Kotlin, or Java.\n\n· Experience with Firebase services, analytics, and push notifications.\n\n· Knowledge of biometric authentication, device security, and certificate pinning.\n\n· Experience in banking, fintech, or other regulated industries.\n\n· Familiarity with automated testing frameworks such as Jest, Detox, or Appium.\n\n· Experience with Agile/Scrum delivery and Jira.\n\nEducation\n\nBachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent practical experience.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dm4mQe9b7orliUZoXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "m4mQe9b7orliUZoXAAAAAA=="
+      },
+      {
+        "job_id": "MnJoUG1lSGFkMW5ndWFsbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXg2TkdOU2JHYzRSMnBPWVUweWRIUjVlRmMxVFc5amVuQkRVMDgzYmtjdE1WOTRZVTlwZEUxcGRUaEVOVVl0ZFdoRE1tcGhRMjFqZG5OWllWcFJhRkJETlU5MkxUWmlkVnA2TlZsbFEzSklSbDlyYWpCTmVEUkJWM1Y1YTJWT1lrNXJRMDkyYlhSSVZXdFFabUZCY1dOb1FUZFNZemhVZERsR1UwOWhWV3RQVm5kZmJEUVNGMjh5YW05aGMwdG5RbTh6YTJsTVRWQnNOWFZuWjFGekdpSkJTRTR3UlRkRldWTm5VVXg1VVhkWU5GZE5PREpUZVZrNFlsbzJYMDlSUTBWUg",
+        "job_title": "Full Stack Developer (.NET & React) Saudi National",
+        "employer_name": "Astek Middle East",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZKCuvdlOHLyT0r3mCmGFvUsfyw08etBQbQWO&s=0",
+        "employer_website": "https://astek.net",
+        "job_publisher": "Saudi.tanqeeb.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html",
+            "is_direct": false,
+            "publisher": "Saudi.tanqeeb.com"
+          }
+        ],
+        "job_description": "About the Role\n\nAstek Middle East is seeking a Full Stack Developer with strong experience in .NET and React. This full-time role is based in Al Qassim, Saudi Arabia, and requires Saudi nationality. The successful candidate will be responsible for developing, maintaining, and enhancing scalable enterprise applications, working within Agile/Scrum methodologies.\nKey Responsibilities\n• Design, develop, test, and maintain web applications using .NET, **** Core, and React.\n• Build secure, scalable backend services, RESTful APIs, and system integrations.\n• Develop responsive frontend applications using React, JavaScript, and TypeScript.\n• Participate in technical discussions, solution design, and architectural decisions.\n• Write clean, reusable, maintainable, and testable code following software engineering best practices.\n• Collaborate with Product, Business Analysis, QA, DevOps, and other engineering teams.\n• Participate in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, refinement, reviews, and retrospectives.\n• Conduct code reviews and contribute to coding standards and overall software quality.\n• Troubleshoot application issues and support continuous improvement of existing systems.\n• Contribute to CI/CD pipelines, deployment processes, and collaboration with DevOps teams.\nQualifications and Requirements\n• Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field.\n• Typically 5+ years of professional software development experience; candidates with 3+ years may be considered based on technical strength and relevant experience.\n• Saudi nationality is mandatory.\n• Strong hands-on experience with C# and .NET / **** Core.\n• Strong experience with React, JavaScript, and TypeScript.\n• Experience designing and consuming RESTful APIs.\n• Good understanding of SQL and relational databases, preferably SQL Server.\n• Knowledge of software architecture, design patterns, SOLID principles, and clean coding practices.\n• Experience with Git and source-control workflows.\n• Understanding of authentication, authorization, and application security fundamentals.\n• Experience with unit testing and automated testing practices.\n• Practical understanding of Agile/Scrum development environments.\nPreferred Skills\n• Experience with Clean Architecture, microservices, or modular architectures.\n• Familiarity with Azure or AWS.\n• Exposure to Docker, CI/CD pipelines, and DevOps practices.\n• Experience with application monitoring, logging, and performance optimization.\n• Strong analytical, problem-solving, communication, and teamwork skills.\nWork Location\n\nThis position is based on-site in Al Qassim, Saudi Arabia. Preference will be given to candidates currently residing in Al Qassim. Candidates from other locations willing to relocate to Al Qassim are also encouraged to apply.\nApplication Process\n\nIf you possess strong hands-on experience with .NET, React, and Agile development, and are seeking your next opportunity, please submit your updated CV for consideration.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Saudi.tanqeeb.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2rhPmeHad1nguallAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2rhPmeHad1nguallAAAAAA=="
+      },
+      {
+        "job_id": "TktCalJlenp4NjlHNTByN0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVl4U2xONFkxRmpPVkJZWXpKbU9GbEdhREV3V2xabFJXWm5SbVpJUlVaTmNEWmlUVXh4Y3pOV2VIazBVbEpJY0ZZMk1rUjZVREF0VGxWMFVsVmxXV1JrVVRNeFVsQnhlWGxHTkdsUlowODBjamxQYjE5SmNrcERMUzFsWjBObmQwaHZPSFIyZURCcGIxWjNRekJ3UTBjeGVTMVRZMnhUUlY5d1gwZHVVRkpEZFdsbWVsY1NGMjh5YW05aGMwdG5RbTh6YTJsTVRWQnNOWFZuWjFGekdpSkJTRTR3UlRkSWIzVXlURlpoWWtKbVdGSjVaVW8zVkd3NFlsUlNOMmQyZDNwMw",
+        "job_title": "Senior Frontend Developer   React",
+        "employer_name": "Royal Cyber KSA",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/senior-frontend-developer-react-royal-cyber-ksa-riyadh-saudi-arabia--hireejob-548508",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/senior-frontend-developer-react-royal-cyber-ksa-riyadh-saudi-arabia--hireejob-548508",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "We are seeking a Senior Frontend Developer React to build highperformance scalable and userfriendly web applications The ideal candidate will have deep expertise in React js modern frontend architecture and performance optimization with a strong focus on delivering seamless user experiences Key Responsibilities Design and develop responsive scalable web applications using React js Build reusable maintainable UI components and design systems Implement state management solutions Redux Context API Zustand Optimize applications for performance speed and scalability Integrate frontend with REST GraphQL APIs Ensure crossbrowser compatibility and mobile responsiveness Implement modern UI UX best practices and accessibility WCAG standards Write clean testable and welldocumented TypeScript JavaScript code Collaborate with backend UX UI designers and product teams Implement unit integration and endtoend testing Jest React Testing Library Cypress Participate in code reviews architecture discussions and mentoring junior developers Work with CI CD pipelines for frontend deployments Debug and resolve production issues efficiently Skills Key Requirements 6 10 years of experience in frontend development Strong expertise in React js Hooks Functional Components Lifecycle Proficiency in JavaScript ES6 and TypeScript Experience with state management Redux Context API Zustand Strong knowledge of HTML5 CSS3 SCSS Tailwind or Styled Components Experience integrating RESTful APIs GraphQL Familiarity with Next js SSR SSG is a strong plus Experience with frontend build tools Webpack Vite Babel Knowledge of performance optimization techniques lazy loading code splitting memoization Handson experience with testing frameworks Jest RTL Cypress Familiarity with version control systems Git Experience with CI CD tools GitHub Actions Jenkins GitLab CI Understanding of web security best practices XSS CSRF prevention Nice to Have Experience with Micro Frontend architecture Knowledge of design systems Material UI Ant Design Chakra UI Exposure to cloud platforms AWS Azure Experience with Agile Scrum methodologies",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DNKBjRezzx69G50r7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "NKBjRezzx69G50r7AAAAAA=="
+      },
+      {
+        "job_id": "S2x6NGdINU1vX00xbF9ZeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZamxrVTJrMlJEQXdVVEJvYVZkS2NpMWtTMnh4WDBWSWRVMUxaalJsV25kb09IUlVTRXcxUldScFUwTnZVemQ0U1ZjeFJ6TXRSbGt0ZEZwTFVUUmZaMUJRVWtSelIyUlRXSGxUTjJoMWIwaHRVV2RFY3pkV04xODNkRll3VEdZNGVFRkVaUzE1YVc5R1dVZHZWRGxFVG1wcFRIZERZaTFSWVhKUE1VTmtia2RJVFhsVVJHa1NGMjh5YW05aGMwdG5RbTh6YTJsTVRWQnNOWFZuWjFGekdpSkJTRTR3UlRkSFZXVXdjR05yUTNsRlNrcFJVRWhJUTA5M1ZWOW1RMFl6VjFCUg",
+        "job_title": "React Developer",
+        "employer_name": "Confidential",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://confidential.careers&size=128",
+        "employer_website": "https://confidential.careers",
+        "job_publisher": "GetSaudiJobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.getsaudijobs.com/jobs/view/react-developer",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.getsaudijobs.com/jobs/view/react-developer",
+            "is_direct": false,
+            "publisher": "GetSaudiJobs"
+          }
+        ],
+        "job_description": "Are you a React Developer passionate about creating dynamic, responsive, and scalable web applications? We’re looking for a highly skilled professional to join our team remotely and make a significant impact!\n\r\n\n\r\nWhat You'll Do\n\r\n\r\n\r\n• Build and maintain cutting-edge user interfaces with React.js.\n\r\n• Collaborate with backend teams to integrate microservices seamlessly.\n\r\n• Optimize components for maximum performance across devices and browsers.\n\r\n• Ensure responsive designs with cross-browser compatibility.\n\r\n• Debug and resolve issues swiftly, while writing clean and scalable code.\n\r\n• Stay ahead of the curve with emerging front-end technologies and best practices.\n\r\n\r\n\r\n\n\r\nWhat We’re Looking For\n\r\n\r\n\r\n• 5+ years of hands-on React development experience.\n\r\n• Expertise in React.js and state management libraries like Redux or Context API.\n\r\n• Proficiency in TypeScript, JavaScript (ES6+ features), and RESTful APIs.\n\r\n• Solid understanding of UI/UX principles with experience using libraries like Material-UI or Ant Design.\n\r\n• Experience with testing frameworks like Jest, Enzyme, or React Testing Library.\n\r\n\r\n\r\n\n\r\nWhy Join Us?\n\r\n\r\n\r\n• Work remotely from Saudi Arabia.\n\r\n• Be part of a dynamic, fast-paced team transforming user experiences.\n\r\n• A chance to innovate and make a real impact in the tech domain.",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر GetSaudiJobs",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKlz4gH5Mo_M1l_YxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Klz4gH5Mo_M1l_YxAAAAAA=="
+      },
+      {
+        "job_id": "RW9YWF9NUFZ4TFpRX01fSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkZPTmkxQ2ExTnJWbEZQYzFKcFdrTTJTMWhuVDBjNU0zZGlVbUZyVERsT2QwNWxPR3hVZG1rMFkzZGFPWFJYVXpoc2MxWTFSeTFCUW5Gb01YTlBlbWRaZDNGd1UxaFhOalo2TWtaWmJHRTJhMjB0TjFreU5tUmZkRVZuYXpaNU9USlFhMTlNT1hoeVgwb3pTRlZEUTFBM1lqSk1ZekZYVDFVNE5ESlllVEpmWTNocmVsTVNGMjh5YW05aGMwdG5RbTh6YTJsTVRWQnNOWFZuWjFGekdpSkJTRTR3UlRkSWVYVnZabFJzVEZKTGMyeExaMUJFYjJ0ek5UbGFkMHA2WjNGbg",
+        "job_title": "Frontend React Developer",
+        "employer_name": "NEOM Digital Hub",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://getsaudijobs.com&size=128",
+        "employer_website": null,
+        "job_publisher": "GetSaudiJobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.getsaudijobs.com/jobs/view/frontend-react-developer",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.getsaudijobs.com/jobs/view/frontend-react-developer",
+            "is_direct": false,
+            "publisher": "GetSaudiJobs"
+          }
+        ],
+        "job_description": "Responsibilities\n\r\n• Develop responsive web applications using React.js\n\r\n• Optimize UI for performance and scalability\n\r\n• Collaborate with backend teams and designers\n\r\n• Maintain reusable components\n\r\n• Ensure cross-browser compatibility\n\r\nQualifications\n\r\n• 3+ years experience in frontend development\n\r\n• Strong React, JavaScript, HTML, CSS skills\n\r\n• Knowledge of REST APIs\n\r\n• Familiarity with version control (Git)",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر GetSaudiJobs",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DEoXX_MPVxLZQ_M_JAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "EoXX_MPVxLZQ_M_JAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "_meta": {
+    "specialization": "qa_testing",
+    "query": "automation test engineer"
+  },
+  "status": "OK",
+  "request_id": "fd13908a-4dbb-4cf7-849e-ce0c8995eee2",
+  "parameters": {
+    "query": "automation test engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "QldXTTl0SVBSZTBhWU9qU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3haVldaTmRYbFVYMnN0VHpoMFRXZGlWa2t4VTB4WGRWSmlUbTVwV25OQlpURnBSMWROY1dOQ01raGxaMGM0YkVFd2RqWlZTUzFQTFhoMGNtVlpaMjR0UjNwMGFHTjBNalp6UkdsU1lXUTFPVTFLTFY4emVUQm5RalJUUW05MmRWTjBVQzFIT1c5WlFWUnpSR1JIZERsSGJIZzBhbko0YkdsdGEweEJlbVppTXpKelQyVVNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkSFVURkdjMWROUVVodGFHWlliVVkwTVRCcVVrSktTMW8wU0hGUg",
+        "job_title": "Automation Test Engineer",
+        "employer_name": "Confidential Company",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/automation-test-engineer--riyadh--e4b9e1cf55d448367b3c118584646994a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/automation-test-engineer--riyadh--e4b9e1cf55d448367b3c118584646994a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "• Design develop and maintain scalable reusable test automation frameworks\n• Develop and execute automated test scripts for functional regression integration and API testing\n• Integrate automated test suites into CI CD pipelines to enable continuous testing and faster releases\n• Collaborate with developers business analysts and QA teams to understand requirements and define effective test strategies\n• Identify document track and troubleshoot defects throughout the software development lifecycle\n• Perform API testing validate responses and verify data integrity across integrated systems\n• Maintain and enhance existing automation scripts to improve test coverage reliability and execution efficiency\n• 8 + years of experience in testingProven experience developing and maintaining test automation frameworks.Strong expertise in functional, regression and API test automation.Experience integrating automated tests into CI/CD pipelines.Job Location - Riyadh, Saudi Arabia",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DBWWM9tIPRe0aYOjSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "BWWM9tIPRe0aYOjSAAAAAA=="
+      },
+      {
+        "job_id": "V09uNUFBbkR0SW96OHAwZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVnBTU2t4dWVWRk9abGR3VDJoaWEzSlNTWFEwZW1zeWJ6aDRZV0ZYZWtkR2MwOHRiMng2Y2xBemRXNHhUa0ZRZUcxR1R6SlhlRTkwWW1zeWNubzBUamxQTlhkeVdrUmpiRVZNUWxkVGVqQndYMWd4TW5SRUxUSmpNbW96YUZGbFYwMW9TWFZHUTNZMVJUUm5UMmx4U0VwR2FqVnJiRXAxWmtwMmVuWkdWVzlCYVZoUlFYRVNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkSExXbGhZWFpSVURKcFNXbG5hVlpaV1RsWGJuTkRiR0ZSWXpCUg",
+        "job_title": "QA Analyst: Software Testing & Automation",
+        "employer_name": "DXC Technology Morocco",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_e9b9_8_QKjoeRl_-rVIAJiMFcLPEOzYR-yg&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-analyst-software-testing-automation--riyadh--eeb44177a82726b6e08c140ee9356729d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-analyst-software-testing-automation--riyadh--eeb44177a82726b6e08c140ee9356729d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "DXC Technology Morocco is seeking a Software QA Engineer to ensure quality across the development lifecycle in a fast-paced environment. You will analyze requirements, design test cases, and report defects clearly.\n\nYou will perform manual testing, with automation experience a plus, and collaborate with developers in Agile teams. Familiarity with JIRA, API testing tools, and cloud platforms is desirable. Strong communication and teamwork are essential to thrive in this role.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWOn5AAnDtIoz8p0fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WOn5AAnDtIoz8p0fAAAAAA=="
+      },
+      {
+        "job_id": "SDc5alVQLU1US3c0U3dyZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWFJuTW05UmJUVkpOR3RyZFVsTWVqSnhYekZ1WmpWcWNGRlFiR1JNY25oMGNHNVBMVjg1Tm1GQlpFWnNiMjgzYmpKV2NFOXpjbEZhZUdwcWJHWTJjVU5rZG5sQlNFaHdORjlqVFdoblNuRTFhRVphWmtKWGVVVk9OWGxUYVdwc1Z6SjNOa3QwUlRsaFZsUmxURUp6WVdzdGQyaEdaa2xyZW13dE9VdFhUV05RZEdGMU5ETVNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkRmMwaHFWVUpYYXpCR2VUTjRlVlpxYzBOVmVreDBkazVTTmpSMw",
+        "job_title": "QA Engineer – Software Testing (Saudi National)",
+        "employer_name": "Astek Middle East",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3B5nBNmZT0epAmJizmQrBJaK9eOnpTuQBpwOA&s=0",
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/qa-engineer-software-testing-saudi-national-astek-middle-east--fj-2437963265",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/qa-engineer-software-testing-saudi-national-astek-middle-east--fj-2437963265",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "About the Company\n\nAstek Middle East is part of Astek, a global engineering and technology consulting group founded in France in 1988 and now present on five continents.\nThe Middle\n\nEast entity delivers IT and technology services across Saudi Arabia, the UAE, and Jordan, supporting clients in public and government, healthcare, transportation, banking, retail, airlines, and tourism. With 10,000 employees worldwide and revenue of €620 million in 2023, Astek focuses on digital transformation and complex systems engineering for international clients. The group promotes a strong culture of entrepreneurship, innovation, and continuous skills development. More information is available on the Astek Saudi Arabia and UAE country pages, and candidates can reach Astek Middle East at contact-astekme@astek-international.com.\nAbout the Role\n\nWe are looking for a detail-oriented QA Engineer to join our team in Al Qassim, Saudi Arabia. The ideal candidate will have experience in software quality assurance and testing, with a strong understanding of testing methodologies, defect tracking, and software quality standards. This position is open to Saudi Nationals only. Candidates with 1 year or more of relevant experience are encouraged to apply. Preference will be given to candidates currently residing in Al Qassim.\nResponsibilities\n\n• Review business requirements, specifications, and technical design documents to identify potential issues and provide feedback.\n• Plan, prioritize, and coordinate testing activities.\n• Create and execute detailed, comprehensive, and well-structured test cases.\n• Develop and apply testing processes for new and existing software products.\n• Perform functional, regression, integration, system, and user acceptance testing.\n• Identify, document, and track software defects using bug-tracking tools.\n• Conduct API testing and collaborate with development teams to resolve identified issues.\n• Write SQL queries to validate data and verify system functionality.\n• Perform cross-browser and cross-device testing for web applications.\n• Test mobile applications and use debugging tools to investigate issues.\n• Collaborate with automation teams to expand automated test coverage.\n• Monitor testing progress, report issues, and contribute to quality improvement initiatives.\n• Work closely with cross-functional teams in an Agile/Scrum environment.\n\nQualifications\n\n• Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field.\n• 1+ years of experience in Software Quality Assurance (QA) or Software Testing.\n• Saudi National.\n\nRequired Skills\n\n• Understanding of software testing methodologies and the software development life cycle (SDLC).\n• Familiarity with Agile/Scrum development processes.\n• Basic knowledge of API testing tools such as Postman.\n• Knowledge of SQL queries, including SELECT statements and JOINs.\n• Familiarity with web and mobile application testing.\n• Strong analytical, problem-solving, and communication skills.\n\nPreferred Skills\n\n• ISTQB Foundation Level certification is a plus.\n\nLocation & Candidate Preference\n• This position is based on-site in Al Qassim, Saudi Arabia.\n• Candidates currently residing in Al Qassim will be given preference.\n• Candidates from other locations who are willing to relocate to Al Qassim are also welcome to apply.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "منطقة القصيم     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DH79jUP-MTKw4SwrfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "H79jUP-MTKw4SwrfAAAAAA=="
+      },
+      {
+        "job_id": "N0l0UmpHN3VFU3hCcVNhX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTFxYTNaaGRrVldMV04wTVVkT2JYUlVlbVZPWmtwclFuRTFWMnMwVDJ0dE5rcFpUVVF0V2xaalEzcHZjMmhXYm5ka1MyTXlTbVl5UXpCVlpIZFdkbTlKYmxGMmRrOURRakF6ZUZOQ2NFMW5hRjk2WDAxMllUZERiMnhsYjFSVmJYTk1kVWRxVHpoVk5rZFljVVF4WW1WWVQyc3hjRlpoUzNkRlMyRkRWbEJyYW5wdU4wOFNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkSVNXMWZZVWxxT0dScldFb3dVWG8yWW1sWmNERjJkM2RRWWs1bg",
+        "job_title": "Senior Automation Tester",
+        "employer_name": "Leuwint Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-automation-tester--saudi-arabia--e522847187383811f8318cb80a13b7794",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-automation-tester--saudi-arabia--e522847187383811f8318cb80a13b7794",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "We are looking for an experienced Senior Automation Tester with strong expertise in test automation, framework development, and continuous testing.\nKey Responsibilities:\n• Develop and maintain test automation frameworks.\n• Perform functional, regression, integration, and API testing.\n• Integrate automated tests into CI/CD pipelines.\n• Identify defects and collaborate with development teams to resolve issues.\n• Improve test coverage and automation efficiency.\nRequired Skills:\n• 8 - 10+ years of relevant testing experience.\n• Strong experience in automation frameworks and scripting.\n• Hands-on experience with API testing and CI/CD tools.\n• Knowledge of automation tools such as Selenium, Playwright, or Cypress.\n• Strong analytical and communication skills.\n• Strong defect analysis, reporting and communication skills.\n• Banking or financial services testing experience preferred.\n\nLocation: Riyadh, Saudi Arabia",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D7ItRjG7uESxBqSa_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "7ItRjG7uESxBqSa_AAAAAA=="
+      },
+      {
+        "job_id": "WHFQMWRTZW8ya3R0cUI2NkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWE5QY3pFMVMyTldOVVJPYWxnMldIWXdkbGxGVW1VdFV6ZzFaemxIVWpGVE4xUm1WRnAzVUUxNFMyVnRNekl6ZGpVNVJHRXdPVWhJTXpSNGJqZHliRkprTmxoeVpWVnhaMUZrWTFaQ05tNHlUVm8xYkV4RFdsazJUM1JKVTB0SGJHTjBXVEZRVUVSUGFuRlVNWGRrWVhCME56RklSRWw1WXkxZkxVaHVZVEpqUkdsVlEwRVNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkRmRrSjRWRTFLZWtadWRGZHdSVnBCTFhSR1RFOXJhWGcyUWpWbg",
+        "job_title": "Senior Automation Test Engineer - API & CI/CD Excellence",
+        "employer_name": "Confidential Company",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-automation-test-engineer-api-ci-cd-excellence--riyadh--e15630df993788ae1487a3e4e10f71c1c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-automation-test-engineer-api-ci-cd-excellence--riyadh--e15630df993788ae1487a3e4e10f71c1c",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Confidential Company in Riyadh, Saudi Arabia is seeking an experienced Senior QA Automation Engineer to design and maintain scalable test automation frameworks and to develop automated tests for functional, regression, integration, and API testing.\n\nYou will integrate tests into CI/CD pipelines, collaborate with developers, business analysts and QA teams to define test strategies, and continuously improve test coverage and efficiency across the SDLC.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXqP1dSeo2kttqB66AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XqP1dSeo2kttqB66AAAAAA=="
+      },
+      {
+        "job_id": "M3BaS19RNVBqVlg5YjNfNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV0ZHUlVod2FIZG1hek5MVm5GdGJYSTNkSEJOVFRaUFdqbFBiR1ZDWjFsU1lpMDVPR1pITWtOclpUUkxVSFp4YTJSWFRVaFFhbGx4VDFCSWFFbHBhM1Z5YkhKaFltdFVTemgyYnpReFExQXRYMFZWVjJSVFowZEZVUzFJV0doRlZVNUhlbFJOVjFkdGIwVnRUbVphVWtKTVRGTkhiVVZ1TjJRMU5sbHZiSGxOWTNoemVHRVNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkSGIzaFZka0pzVVhnMGRIcGtTWEI0ZFV4WGNsbG5VSGd5VlhKbg",
+        "job_title": "Senior QA & AI Test Automation Engineer",
+        "employer_name": "Apex AI Arabia",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apexaiarabia.com&size=128",
+        "employer_website": "https://apexaiarabia.com",
+        "job_publisher": "Apex AI Arabia",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://apexaiarabia.com/opportunities/HR-OPN-2026-0092",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://apexaiarabia.com/opportunities/HR-OPN-2026-0092",
+            "is_direct": false,
+            "publisher": "Apex AI Arabia"
+          }
+        ],
+        "job_description": "Establish automated functional, integration, regression and AI behavior testing across releases. Deliverables must demonstrate measurable business outcomes, documentation, secure handling of information, and production readiness. Remote contributor opportunity; no guaranteed fixed salary or full-time schedule. Compensation is subject to a separately agreed written arrangement.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٥ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Apex AI Arabia",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D3pZK_Q5PjVX9b3_5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "3pZK_Q5PjVX9b3_5AAAAAA=="
+      },
+      {
+        "job_id": "OUtHMGNMR19UdV9EVnNNZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1JMUWw5d05qTmFTVGh0WlVwNFZXdFVZakZuU0U1dGFFaFdlVmhxYjBKbWRuWTRPR0pQUnpRM1VrTnhOa3hvU0ZKMWIwRjVNSFp1ZFd3eFRUSkhkVGRJZVZOSmExOXhUWGh6T1dobVltMU5PRXhDTFRoUlpuaFJaSE5ZUzJsb05IQXpOR3ROTFdseFNqaFFhRmhSTnpGdGJsRnViMHRwWmpka1kwaE5Xa1JqTFhReVoyY1NGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkR2EzcFhaM2hmY0dSMVkzaDBhR2hHUldoNlFtZFlYME5WUlhwbg",
+        "job_title": "QA Engineer - Hybrid, Fast, Defect-Free Releases",
+        "employer_name": "Mnzil | منزل",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-engineer-hybrid-fast-defect-free-releases--riyadh--ee7af138d6aa74de5ad400a7b80461c21",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-engineer-hybrid-fast-defect-free-releases--riyadh--ee7af138d6aa74de5ad400a7b80461c21",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Mnzil | منزل in Saudi Arabia is seeking a Quality Assurance Engineer to own the quality bar for our web and mobile products, ensuring every release is fast, functional, and defect-free.\n\nYou will design, write, and maintain manual and automated tests, log defects with clear reproduction steps, and collaborate with product managers and engineers from requirements review to production release in a hybrid work setup.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D9KG0cLG_Tu_DVsMfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "9KG0cLG_Tu_DVsMfAAAAAA=="
+      },
+      {
+        "job_id": "aHRaRThqTkNOaFhRb3ozYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEpTUTFGd1ZYcFdiR0ZTWTJGdlJrdzViVXBoZGpaelFXWjVlRkZMU1ZKdlZuaENOVk5KVGtkaVRrVnBaMjVmZW5RMWRqZEpWRFI0VUY5V2VuRlpPRTFxVDBFeFFXSndMUzFpU2xjMlgwbHpSR0ZVT1VSRUxWQmlSbkk0ZWpsd1IyZDVObTg1WVRkdkxWTkpjak4wVWxBd1dVbHlWM3B5UTBOMU4wWTVOWGxMYWs1MGEyY1NGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkSU1URm5NR0pNUWxaa09WZFZabm80ZUVSMVYwVXdVbXRxTFhGUg",
+        "job_title": "QA Lead: Automation, Performance & AI Testing Expert",
+        "employer_name": "Takamol Holding",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://takamolholding.com&size=128",
+        "employer_website": "https://takamolholding.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-lead-automation-performance-ai-testing-expert--riyadh--e34cb862bcde6fb0652652c8a6808341a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-lead-automation-performance-ai-testing-expert--riyadh--e34cb862bcde6fb0652652c8a6808341a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Takamol Holding is seeking a QA Lead Expert to orchestrate quality assurance across multiple products, providing advanced technical testing expertise and aligning QA standards with fast digital delivery in Saudi Arabia.\n\nYou will lead test planning, drive automation and performance testing, mentor QA engineers, and collaborate with security and development teams to ensure traceable, auditable quality metrics and timely releases.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DhtZE8jNCNhXQoz3bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "htZE8jNCNhXQoz3bAAAAAA=="
+      },
+      {
+        "job_id": "c2ZoUC1VdEdMdGZfWkxiZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEZNZGsxSVR6TkVVbU5XWldjeU1HdzBaWFJTWXpGUGJXeElZVm8yZUdOR1Z6bERRVTVwYnpWNE5HUmhNMVJTTUVOVFJVVldTelZyYkdndGNtMU5WMk5rV1U1NlZIQXRYMDVsV1RWck5rcEVOakJrUlU5cGMzSnlielU1VUhCa1ZVOWhMVzgyZVdOVGFXTnpZekZzUVROS1FXWm5XVEpZTkROU0xVODJUV1pQWVMwNVVGVVNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkRmNtUkdMVVZWVDBGTmJubGlTV2RLVUhwdGNtdHRRalZaUlRGUg",
+        "job_title": "SDA SDET (S.Arabia)",
+        "employer_name": "Korrogo",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/5125217249301787640",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/5125217249301787640",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Job Title: online and on site instructor - Software Development Engineer In Test\n\nJob Description:\n\nClarusway is a respected technology education and training provider committed to empowering individuals with the knowledge and skills needed to excel in the software testing and test automation field. We are currently seeking an experienced and dedicated Onsite Instructor to lead a 14-week training program in Saudi Arabia. The ideal candidate will have a strong background in SQL, JDBC, Software Testing Life Cycle (STLC), Selenium WebDriver, Maven, JUnit, TestNG, Cucumber, Selenium Grid, Jenkins, and REST API testing.\nPosition Overview\n\nAs an On-site and online instructor, you will be responsible for delivering comprehensive training and lectures on various software testing and test automation topics. This role is specifically designed for onsite training in Saudi Arabia, and you will play a critical role in ensuring that our students in the region gain a deep understanding of these technologies and can apply them effectively.\nKey Responsibilities\n• Lectures and Workshops: Conduct engaging and informative onsite lectures and workshops on SQL, JDBC, Software Testing Life Cycle (STLC), Selenium WebDriver, Maven, JUnit, TestNG, Cucumber, Selenium Grid, Jenkins, and REST API testing.\n• Curriculum Development: Collaborate with our curriculum development team to create, adapt, and enhance training materials, including presentations, handouts, and assignments to suit the specific needs and cultural context of students in Saudi Arabia.\n• Practical Labs: Lead practical hands-on sessions to help students gain valuable hands-on experience using the mentioned technologies and tools in a Saudi Arabian setting.\n• Individual Support: Provide individualized guidance and support to students, addressing their questions and challenges, and ensuring they are adapting the curriculum effectively for the local context.\n• Assessment and Evaluation: Design and administer assessments and evaluations to measure student progress, and provide constructive feedback, taking into account the unique considerations of students in Saudi Arabia.\n• Stay Updated: Keep up-to-date with the latest trends and advancements in software testing and test automation, tailoring the content to meet the specific demands and preferences of students in Saudi Arabia.\n• Quality Assurance: Ensure that the training program meets the highest standards of quality and effectiveness, considering cultural and professional nuances in Saudi Arabia.\n• Record Keeping: Maintain records of attendance, student performance, and other relevant data in accordance with Saudi Arabian regulations.\n• Collaboration: Collaborate with the management team to ensure that training programs align with industry demands and the needs of students in Saudi Arabia.\nQualifications\n• Bachelor's degree in Computer Science, Software Engineering, or a related field.\n• Proven professional experience in software testing and test automation, with in-depth knowledge of SQL, JDBC, STLC, Selenium WebDriver, Maven, JUnit, TestNG, Cucumber, Selenium Grid, Jenkins, and REST API testing.\n• An English language proficiency level of at least C1.\n• Prior experience as an instructor or trainer, especially in onsite training programs.\n• Exceptional communication and presentation skills, taking into account cultural and language considerations in Saudi Arabia.\n• Passion for teaching and mentoring in a diverse cultural environment.\n• Strong problem-solving and critical thinking skills.\n• Excellent organizational and time management skills.\n• Relevant certifications (e.g., ISTQB, Selenium) are a plus.\n\nWe have an equal opportunity employer, and we welcome candidates of all backgrounds to apply.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DsfhP-UtGLtf_ZLbgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "sfhP-UtGLtf_ZLbgAAAAAA=="
+      },
+      {
+        "job_id": "X0I5MzRWSGkxVllpU09rZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXgyYzJ3NGVHbFpNeTAwZW1KWU1uWmFUSGhGVjBoS2RVVlJaV3BKUldoalh6ZFBkakpVY1ZkRlIxRlFjMDUwZFc1MVpXTXRkR2g1ZUhjeFExcFZaeTFtYVVzMlVXTkNUVmx1U1daYVoyMU1kVFpQYkd0dGFUVnhSWGRmTFZSMmNIcHNSSFU1YlVGb1gxQkpZMDQyUzNZMFkzbzJlRXRzUWs5alRXTTRaRXBsWTFGb2JrSVNGMnN4ZW05aGNWTTJTRnBxT0hBNE5GQmZUaTEwTUVGSkdpSkJTRTR3UlRkRmFITnVPSEpTU0hCd2RHeE1VRTQxYm5CUllVRkdSRFZMYWs1Qg",
+        "job_title": "Qa Analyst: Software Testing & Automation",
+        "employer_name": "DXC Technology Morocco",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_e9b9_8_QKjoeRl_-rVIAJiMFcLPEOzYR-yg&s=0",
+        "employer_website": null,
+        "job_publisher": "The BIG Jobsite",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.thebigjobsite.com/details/4C22975C0906CF9BA7F572C1D3AB27BF/qa-analyst--software-testing---automation",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.thebigjobsite.com/details/4C22975C0906CF9BA7F572C1D3AB27BF/qa-analyst--software-testing---automation",
+            "is_direct": false,
+            "publisher": "The BIG Jobsite"
+          }
+        ],
+        "job_description": "DXC Technology Morocco is seeking a Software QA Engineer to ensure quality across the development lifecycle in a fast-paced environment. You will analyze requirements, design test cases, and report defects clearly.\nYou will perform manual testing, with automation experience a plus, and collaborate with developers in Agile teams. Familiarity with JIRA, API testing tools, and cloud platforms is desirable. Strong communication and teamwork are essential to thrive in this role.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر The BIG Jobsite",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_B934VHi1VYiSOkfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_B934VHi1VYiSOkfAAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlWUxpZXFUaUMxOG1JejZYd19rWGxkZVo1dlhaNmJ2cHdFU1R6dFpIVUg4Rk1UMmlRWmZqV3JGU0pXcm5YQUxZM1R2UWZ1Z0Frb2ltcjNoSEN5SlM1NnVXdjl3R3FNQ0xMSnlMUjlGLTdFWDJWdEs1WlRCQ1gtcU1FVTdRNzlOaGJDUDdKVmVCVXJWQm45RlFHQnFBUUxIWEJvTnZLZGdzaFllWTFtR3Bnc251YURXYTdXZXBzQWRvejVwMGJxdnBFendua1NacEFLXzMwQmgzMTdPMTdQRThwbl9KWTU5c2dGSVUxWllpdld2X1NvdWJIblNLUjFEQ2dULUxJb3lrQUZHdWg0b3RlLTB0VVltQW8walR6TmJEc1FCTTYxQzhCeU5kelFfNVFOek4xeUpMUWduWTVDeEtua3NKYWpDZnVlNFE2a0o3QmFfRlROeU9zZDAyMlhCRkIyQkVHdkY5TVp2WjJhVUk4ZEQ2Tnl2TzFXaEg4T183aFZLSWJzR0hWOWxOYXBsdDVkT2o1ejYwUXJjTXVnZDVrUVhodXNqRUx4dFpHNGZKODFHVk9iQ0pxRjNFU2JiSVBIWUZReWRGbXNJT0M5YlV4S0xpRy1WSTl4c0lGWXB1YWd3UEUwZ29HdmhEU1pSa2t3eXk0V2ZCYzdkRDNiNG5qTjRDYTFSTVJRTl82eG9QVW1XS3lFb0ZySEhYSGtKcXpPYTZHdkJRR29IdUoxYzNJREVZNE1yWWprEhdrMXpvYXFTNkhaajhwODRQX04tdDBBSRoiQUhOMEU3RTNqUzFjUGZYRUVucmJtb3FJUnd0WkhnVXZLZw"
+  }
+}

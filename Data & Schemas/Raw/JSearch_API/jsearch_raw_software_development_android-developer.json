@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "android developer",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "a22c3c2f-9b5b-4c38-8387-a767405d999d",
+  "parameters": {
+    "query": "android developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "ekd3cFRfUDloTU9FLTJtaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1pSVW5sQ1RIUkNaMlpKWkVwM1prOXFkM3BvVGtkT2FXUkVlR1U0U1dNd2JXMVFURU5PV21OVWJrWndOa1JNUVVKSE5qQkdUMDlsZEc1TFZtUmlTa3BGU1RCYU5GQkdjMjUyUVhSRFRsSXdjVzFYZW5wNlNHMDVWbmQ2VmpCSk1HZDJUblkzUkMxNlZrMXFTWEIyTFU5aGNtSnBNekZFTFY5VE4xUkdkSHBwVW1SSU9FZ1NGM0l5YW05aGIyMDJURzlsTVRWT2IxQTNZMjVRYVZGdkdpSkJTRTR3UlRkRlltbzNOM1J3VTBsNVdqYzNkbTR6UVd0R1pqZHJOWEZEUkhCbg",
+        "job_title": "Android Developer (Saudi National)",
+        "employer_name": "Astek Middle East",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://astek.net&size=128",
+        "employer_website": "https://astek.net",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/android-developer-saudi-national--al-qassim-province--ecd3fe4b09c0173f0443780a4e0fa1593",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/android-developer-saudi-national--al-qassim-province--ecd3fe4b09c0173f0443780a4e0fa1593",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Astek Middle East is part of Astek, a global engineering and technology consulting group founded in France in 1988 and now present on five continents. The Middle East entity delivers IT and technology services across Saudi Arabia, the Emirates, and Jordan, supporting clients in public and government, healthcare, transportation, banking, retail, airlines, and tourism. With 10,000 employees worldwide and revenue of €620 million in 2023, Astek focuses on digital transformation and complex systems engineering for international clients. The group promotes a strong culture of entrepreneurship, innovation, and continuous skills development. More information is available on the Astek Saudi Arabia and Emirates country pages, and candidates can reach Astek Middle East at contact-astekme@astek-international.com.\n\nAbout the Role\n\nWe are looking for a skilled Android Developer to join our client's team in Al Qassim. The ideal candidate will have hands‑on experience developing high-quality, scalable, and reliable Android applications development using Kotlin and modern Android technologies.\n\nCandidates with 5+ years of experience are preferred. However, candidates with 3+ years of relevant experience may also be considered if they demonstrate strong technical capabilities and practical Android development experience.\n\nCandidates currently based in Al Qassim will receive priority consideration.\n\nKey Responsibilities\n\n• Design, develop, test, and maintain high-quality Android applications development.\n\n• Develop Android applications using Kotlin and modern Android development frameworks.\n\n• Integrate mobile applications with RESTful APIs and backend services.\n\n• Participate in application architecture and technical design discussions.\n\n• Write clean, maintainable, reusable, and testable code following Android development best practices.\n\n• Collaborate with Product, UX/UI, Business Analysis, QA, DevOps, and other engineering teams.\n\n• Participate in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, refinement, reviews, and retrospectives.\n\n• Conduct code reviews and contribute to development standards and code quality.\n\n• Troubleshoot application crashes, performance issues, and other technical problems.\n\n• Contribute to automated build, testing, and deployment processes for Android applications.\n\nRequired Technical Skills\n\n• Professional experience in Android application development, ideally 5+ years; candidates with 3+ years may be considered based on technical strength.\n\n• Strong hands‑on experience with Kotlin.\n\n• Solid knowledge of the Android SDK and application lifecycle.\n\n• Experience with Jetpack and Jetpack Compose.\n\n• Understanding of MVVM and/or Clean Architecture.\n\n• Experience integrating applications with RESTful APIs.\n\n• Familiarity with dependency injection frameworks such as Hilt or Dagger.\n\n• Experience with Kotlin Coroutines and Flow.\n\n• Understanding of local data storage and caching mechanisms, such as Room.\n\n• Experience with Git and modern source‑control workflows.\n\n• Knowledge of application security, performance optimization, and memory management.\n\n• Experience with unit testing and UI testing.\n\n• Basic practical understanding of DevOps and CI/CD concepts for mobile applications.\n\n• Familiarity with tools such as GitLab CI/CD, GitHub Actions, Azure DevOps, Jenkins, or Fastlane.\n\n• Experience working in Agile/Scrum environments.\n\nPreferred Qualifications\n\n• Experience publishing and maintaining applications on the Google Play Store.\n\n• Familiarity with Firebase services, crash reporting, analytics, and monitoring.\n\n• Exposure to automated mobile testing.\n\n• Understanding of secure mobile development practices.\n\n• Experience working on large‑scale or enterprise mobile applications.\n\n• Strong problem‑solving, communication, and teamwork skills.\n\nAdditional Information\n\n• Saudi nationality is mandatory.\n\n• Candidates currently residing in Al Qassim will be prioritized.\n\n• Candidates residing elsewhere may be considered if they are willing to relocate to Al Qassim.\n\n• Candidates with 3–4 years of experience may be considered if they demonstrate strong hands‑on technical skills.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "منطقة القصيم     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.207825999999997,
+        "job_longitude": 43.483737999999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DzGwpT_P9hMOE-2miAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "zGwpT_P9hMOE-2miAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}
