@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "full stack developer"
+  },
+  "status": "OK",
+  "request_id": "aed78be0-b584-4804-818d-1331b4a84d0f",
+  "parameters": {
+    "query": "full stack developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "M0NyblpRZXNHSHpLd2ZleEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmRJVDNkbWNVcG5VM1pTVFV0VlJqUlFMV3BZWXpaemVYVnNka3M0YVZoUVdVUkVSbUZ6WmtrMFVHZDNlbTl4U1RkR2FrZEVjaTF0U25wTWVEVTNha05PWkRkeldtaHZaRFpIZWpkQk1pMW5SR1JRWVY5NWVFaExPREpwYlVkRVJqWTRha1UxTUc1RFJEQXdPWGRVZEdaWlpVaFlTVWg0YVhaUmJtdFNlRmhZY2tKeFNsVVNGMVJXZG05aGRFaG5UWFZRZDJ0UVNWQnFOR1pSTWtGakdpSkJTRTR3UlRkSFMydFZZak13YUZSR1ZsWjJUMEo2V2twT01sWjZja2swYjJwMw",
+        "job_title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-1458250417433834480",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-1458250417433834480",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Saudi Arabia.\nAs a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.\nAccountabilities\nYou will contribute to the full development lifecycle, from implementing product features to integrating AI services and improving the codebase, working independently while collaborating closely with a small, senior team.\n• Build, maintain, and extend full-stack features for an AI-powered product, primarily using Django and Python.\n\n• Develop lightweight frontend interfaces using HTMX, Alpine.js, and Tailwind CSS.\n\n• Integrate third-party APIs, AI services, and large language model providers, including OpenAI, Anthropic, and OpenRouter.\n\n• Connect marketing data sources and incorporate relevant data into product functionality.\n\n• Write clean, reliable, maintainable Python code and contribute to a well-structured, evolving codebase.\n\n• Apply modern AI-assisted development tools and workflows to accelerate implementation while maintaining strong engineering standards.\n\n• Manage your workload independently, communicate progress clearly, and collaborate effectively with a remote team.\n\n• Contribute technical insights, suggest improvements, and help shape product development decisions.\n\n• Support the continued evolution of the platform by delivering features aligned with its roadmap and user needs.\n\nRequirements\nYou are an experienced full-stack developer who combines strong Python and Django expertise with practical experience building AI-powered applications. You are comfortable working autonomously, using modern development tools, and contributing ideas in a collaborative environment.\n• At least five years of hands-on full-stack development experience, preferably with Django as your primary framework.\n\n• Strong Python programming skills and a proven track record of building and shipping production-ready products.\n\n• Experience developing AI-powered applications using technologies such as LangChain, LangSmith, OpenAI APIs, OpenRouter, or Anthropic APIs.\n\n• Familiarity with Docker and confident use of Git for version control and collaborative development.\n\n• A balanced approach to software development that combines sound engineering fundamentals with modern AI-assisted workflows.\n\n• Practical experience or familiarity with AI development tools such as Cursor, Codex, and Claude Code, with the ability to explain how you use them in your daily work.\n\n• Strong written and spoken English, as English is the primary working language.\n\n• The ability to work independently, manage priorities, communicate clearly, and contribute ideas proactively.\n\n• Experience with Google Cloud Platform (GCP), Azure, CI/CD, or DevOps pipelines is a plus.\n\n• Frontend development skills and a strong eye for UI design and user experience are advantageous.\n\n• German language skills are a plus, particularly for candidates who also communicate fluently in English.\n\n• Application requirement: You must submit both your CV and a two-minute introductory video. The video should explain who you are, why you are interested in the role, and how you use AI tools in your day-to-day work. It can be recorded using Loom, a phone, or another tool; professional production quality is not expected.\n\nBenefits\n• Flexible freelance engagement: Approximately 60 hours per month, equivalent to around 15 hours per week.\n\n• Fully remote work: Work from anywhere in the world.\n\n• Independent contractor arrangement: A freelance engagement offering flexibility and autonomy.\n\n• Meaningful ownership: Take responsibility for the features you build and contribute ideas that influence the product.\n\n• Experienced team: Collaborate with a small, senior team and benefit from short decision-making paths.\n\n• AI product development: Work on a live, evolving AI platform with a clear roadmap and ambitious goals.\n\n• Technical freedom: Bring your experience, explore solutions, and help shape how the product is developed.\n\n• Flexible working style: Manage your workload independently within a collaborative remote environment.\n\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D3CrnZQesGHzKwfexAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "3CrnZQesGHzKwfexAAAAAA=="
+      },
+      {
+        "job_id": "MnJoUG1lSGFkMW5ndWFsbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbGR5TTBKaFF5MXZTR05SUkd3NVRVbDVlSFZDWkY5VlVVb3RhVXRKTTFaSFNYcFlORTlMTUhwbGRHVkphWFpEZFhWV09YRlZWelZmYVZSNmJUZGxaelpLY2tGUFNITmhaekJNTlRaSE9FVTBhV3R2UlVRNFlubE9aVUUzY0RsVFRraHZVbk5EV2tOaVJYbFhPVlJZUkRoVlNEaG9Ta0pYYlRGb1FqbFlObVZJT1hndFlqY1NGMVJXZG05aGRFaG5UWFZRZDJ0UVNWQnFOR1pSTWtGakdpSkJTRTR3UlRkSU1qbERRelZRUWxsblRHdHlXVGhhYUc5TVYwbFlOakI0VGpKUg",
+        "job_title": "Full Stack Developer (.NET & React) Saudi National",
+        "employer_name": "Astek Middle East",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZKCuvdlOHLyT0r3mCmGFvUsfyw08etBQbQWO&s=0",
+        "employer_website": "https://astek.net",
+        "job_publisher": "Saudi.tanqeeb.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html",
+            "is_direct": false,
+            "publisher": "Saudi.tanqeeb.com"
+          }
+        ],
+        "job_description": "About the Role\n\nAstek Middle East is seeking a Full Stack Developer with strong experience in .NET and React. This full-time role is based in Al Qassim, Saudi Arabia, and requires Saudi nationality. The successful candidate will be responsible for developing, maintaining, and enhancing scalable enterprise applications, working within Agile/Scrum methodologies.\nKey Responsibilities\n• Design, develop, test, and maintain web applications using .NET, **** Core, and React.\n• Build secure, scalable backend services, RESTful APIs, and system integrations.\n• Develop responsive frontend applications using React, JavaScript, and TypeScript.\n• Participate in technical discussions, solution design, and architectural decisions.\n• Write clean, reusable, maintainable, and testable code following software engineering best practices.\n• Collaborate with Product, Business Analysis, QA, DevOps, and other engineering teams.\n• Participate in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, refinement, reviews, and retrospectives.\n• Conduct code reviews and contribute to coding standards and overall software quality.\n• Troubleshoot application issues and support continuous improvement of existing systems.\n• Contribute to CI/CD pipelines, deployment processes, and collaboration with DevOps teams.\nQualifications and Requirements\n• Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field.\n• Typically 5+ years of professional software development experience; candidates with 3+ years may be considered based on technical strength and relevant experience.\n• Saudi nationality is mandatory.\n• Strong hands-on experience with C# and .NET / **** Core.\n• Strong experience with React, JavaScript, and TypeScript.\n• Experience designing and consuming RESTful APIs.\n• Good understanding of SQL and relational databases, preferably SQL Server.\n• Knowledge of software architecture, design patterns, SOLID principles, and clean coding practices.\n• Experience with Git and source-control workflows.\n• Understanding of authentication, authorization, and application security fundamentals.\n• Experience with unit testing and automated testing practices.\n• Practical understanding of Agile/Scrum development environments.\nPreferred Skills\n• Experience with Clean Architecture, microservices, or modular architectures.\n• Familiarity with Azure or AWS.\n• Exposure to Docker, CI/CD pipelines, and DevOps practices.\n• Experience with application monitoring, logging, and performance optimization.\n• Strong analytical, problem-solving, communication, and teamwork skills.\nWork Location\n\nThis position is based on-site in Al Qassim, Saudi Arabia. Preference will be given to candidates currently residing in Al Qassim. Candidates from other locations willing to relocate to Al Qassim are also encouraged to apply.\nApplication Process\n\nIf you possess strong hands-on experience with .NET, React, and Agile development, and are seeking your next opportunity, please submit your updated CV for consideration.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Saudi.tanqeeb.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2rhPmeHad1nguallAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2rhPmeHad1nguallAAAAAA=="
+      },
+      {
+        "job_id": "QWlXdFFpand3U1lYUFNLVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV04xU0RkRk9UWXdSVGRPT0VzeFVFOVBja3hYZVZOUldETkRZV0ZrWWpSQlpFOXZTSEJsTXpOTlRVUnJZVU13YURFdE1tVTNTbWRJUmtWNVQyRm9WRkppY2s5emRXbFhZMEZqU1VGTVkxUmtaemhRV214blNIbFhUREJ0UlZodVVIYzBTRU5IVG5BMWNVVndMWGRzYVUxS05FWXpXVEZLUkVoelQxVnpUWGw0Y1U4dE5EVVNGMVJXZG05aGRFaG5UWFZRZDJ0UVNWQnFOR1pSTWtGakdpSkJTRTR3UlRkSFNuWjFNM05HVTFGS2JYVXhWVEZSWTIwMFJWOVZaMUpDVUdoQg",
+        "job_title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/9174520325257463328",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/9174520325257463328",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Saudi Arabia.\nAs a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.\nAccountabilities\nYou will contribute to the full development lifecycle, from implementing product features to integrating AI services and improving the codebase, working independently while collaborating closely with a small, senior team.\n• Build, maintain, and extend full-stack features for an AI-powered product, primarily using Django and Python.\n\n• Develop lightweight frontend interfaces using HTMX, Alpine.js, and Tailwind CSS.\n\n• Integrate third-party APIs, AI services, and large language model providers, including OpenAI, Anthropic, and OpenRouter.\n\n• Connect marketing data sources and incorporate relevant data into product functionality.\n\n• Write clean, reliable, maintainable Python code and contribute to a well-structured, evolving codebase.\n\n• Apply modern AI-assisted development tools and workflows to accelerate implementation while maintaining strong engineering standards.\n\n• Manage your workload independently, communicate progress clearly, and collaborate effectively with a remote team.\n\n• Contribute technical insights, suggest improvements, and help shape product development decisions.\n\n• Support the continued evolution of the platform by delivering features aligned with its roadmap and user needs.\n\nRequirements\nYou are an experienced full-stack developer who combines strong Python and Django expertise with practical experience building AI-powered applications. You are comfortable working autonomously, using modern development tools, and contributing ideas in a collaborative environment.\n• At least five years of hands-on full-stack development experience, preferably with Django as your primary framework.\n\n• Strong Python programming skills and a proven track record of building and shipping production-ready products.\n\n• Experience developing AI-powered applications using technologies such as LangChain, LangSmith, OpenAI APIs, OpenRouter, or Anthropic APIs.\n\n• Familiarity with Docker and confident use of Git for version control and collaborative development.\n\n• A balanced approach to software development that combines sound engineering fundamentals with modern AI-assisted workflows.\n\n• Practical experience or familiarity with AI development tools such as Cursor, Codex, and Claude Code, with the ability to explain how you use them in your daily work.\n\n• Strong written and spoken English, as English is the primary working language.\n\n• The ability to work independently, manage priorities, communicate clearly, and contribute ideas proactively.\n\n• Experience with Google Cloud Platform (GCP), Azure, CI/CD, or DevOps pipelines is a plus.\n\n• Frontend development skills and a strong eye for UI design and user experience are advantageous.\n\n• German language skills are a plus, particularly for candidates who also communicate fluently in English.\n\n• Application requirement: You must submit both your CV and a two-minute introductory video. The video should explain who you are, why you are interested in the role, and how you use AI tools in your day-to-day work. It can be recorded using Loom, a phone, or another tool; professional production quality is not expected.\n\nBenefits\n• Flexible freelance engagement: Approximately 60 hours per month, equivalent to around 15 hours per week.\n\n• Fully remote work: Work from anywhere in the world.\n\n• Independent contractor arrangement: A freelance engagement offering flexibility and autonomy.\n\n• Meaningful ownership: Take responsibility for the features you build and contribute ideas that influence the product.\n\n• Experienced team: Collaborate with a small, senior team and benefit from short decision-making paths.\n\n• AI product development: Work on a live, evolving AI platform with a clear roadmap and ambitious goals.\n\n• Technical freedom: Bring your experience, explore solutions, and help shape how the product is developed.\n\n• Flexible working style: Manage your workload independently within a collaborative remote environment.\n\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الخبر     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الخبر",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2171906,
+        "job_longitude": 50.1971381,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAiWtQijwwSYXPSKUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AiWtQijwwSYXPSKUAAAAAA=="
+      },
+      {
+        "job_id": "eGJmN1FZY0NwVC1XcWpsY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVk4zVW5kSVVUWldUbFZoTTJkaU1WVTJkbUpRYldwR2RscHROMWxFWmw4dGVHUkhaM2szV0dKc1VYaEljblV4TmpKek5tOTViVWxwTlhnMGFXSnNWMFZOYlc5NE4waEpWVmhRWmxSbmNuSktYelEyYTJWRFJWbFhVSEl0WlZSNlRFUnVVamx2YUdGMFlVNWtNSEZuY0dscmJWODRVekZDV1V3MGNYaEhOMVJhUmsxNlowVVNGMVJXZG05aGRFaG5UWFZRZDJ0UVNWQnFOR1pSTWtGakdpSkJTRTR3UlRkSVozaFZiVGc0Y0hFelNYWXdaVnBXVlhKSlprMDFTVVpPVFhWQg",
+        "job_title": "Full Stack Developer (.NET & Angular)- Saudi Arabia",
+        "employer_name": "Diyar United Company",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIzzjBbMS6Y24VQmJPGtI9X2w8Aj8N7Wv3qZc&s=0",
+        "employer_website": "https://www.diyarme.com",
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/full-stack-developer-net-angular-saudi-arabia-5497811/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/full-stack-developer-net-angular-saudi-arabia-5497811/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "Job Title: Full Stack Developer (.NET & Angular)\n\nNationality: Saudi National\n\nExperience: Minimum 1 Year\n\nTechnical Skills: .NET Core, Angular, SQL Server, Cloud Code\n\nRequired Technical Skills\n• Backend Development: Hands-on experience with C#, ASP.NET Core, .NET 6/8+, RESTful APIs, and Entity Framework Core.\n• Frontend Development: Experience with Angular, TypeScript, JavaScript, HTML5, CSS3, and Bootstrap.\n• Database: Good knowledge of Microsoft SQL Server, T-SQL, stored procedures, and database design.\n• Cloud Code: Practical experience using cloud-based development environments and AI-assisted coding tools, such as Claude Code.\n• API Integration: Experience developing and integrating RESTful APIs and third-party services.\n• Version Control: Familiarity with Git, GitHub, or GitLab.\n• Deployment: Basic knowledge of CI/CD pipelines, IIS, and cloud deployment\n\nSkills\n\nQualifications\n• Bachelor's degree in Computer Science, Software Engineering, IT, or a related field.\n• Minimum 1 year of hands-on experience in full-stack development using .NET and Angular.\n• Saudi nationality is mandatory.\n• Good communication, analytical, and problem-solving skills.\n• Ability to work independently and collaboratively within a development team.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٢ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dxbf7QYcCpT-WqjlcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "xbf7QYcCpT-WqjlcAAAAAA=="
+      },
+      {
+        "job_id": "Q194M0djQTJreUhPd1hNOEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEo0UW5WVFJHTklSR0pKVkhoNmVrVlVaelZwT1ZOdlZtdHRUamxFYVZSTVEweDRlbk5ZWlZSeVIxWTVOMVpQYTJRelkyWmpUVU5KVDJOTFdITmtlRWRRVFVSNlpGWXlibXBHY0VaWlNsTk1iMjVCTkRGVWVtWkdZMmxxUTBoclNFVkZla2xFYW5KaE56bHRhVkEwVDFkelkya3pOR2R1V0VkS2R6aGlZamRoYm1oNVh5MFNGMVJXZG05aGRFaG5UWFZRZDJ0UVNWQnFOR1pSTWtGakdpSkJTRTR3UlRkSFMySmpNRkJGYUZWM1JXbE9kblJCVERGM1UyeFdhM0pqU214bg",
+        "job_title": "Riyadh Onsite Senior Full-Stack Engineer (2-Year Contract)",
+        "employer_name": "kbctechnologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kbctechnologies.com&size=128",
+        "employer_website": "https://kbctechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/riyadh-onsite-senior-full-stack-engineer-2-year-contract--saudi-arabia--e48d41df6fdb0259bb220c0c78c589af6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/riyadh-onsite-senior-full-stack-engineer-2-year-contract--saudi-arabia--e48d41df6fdb0259bb220c0c78c589af6",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "kbctechnologies in Riyadh, Saudi Arabia, is seeking a Senior Full Stack Developer for a 24-month onsite contract. This role targets experienced software professionals with 8-12 years of hands-on work building, maintaining, and enhancing enterprise web applications using ASP.NET Core, Angular, Node.js, and Oracle APEX, including Oracle EBS integration.\n\nYou will design REST APIs, engage in SQL/PL/SQL tasks, support deployments and production operations, and contribute to troubleshooting, incident",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DC_x3GcA2kyHOwXM8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "C_x3GcA2kyHOwXM8AAAAAA=="
+      },
+      {
+        "job_id": "MUFZdWFHWXBaQVl5TTVVMUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVjlqTjE5MU5WWlhWbXRMTFU5Vk9FTkNkVFY1U25ZNFUwaFNRVE5hY1dwUVdtcFBVR2QwTjBsTlprMDNVM3BhU1dkM1ZtcElNMmd5TFZoNVZYcE9NbmRDWWxaMmFucG9jMjQzY0haRVREWjJWSFJ0UkZacVRrRkplSFZDUlRJM1JIQllSM0F5YVhJeVFVbDVWVTlqTWxoWlYydDVWbTh3VFV0S05UZHRiRjlZWTJGMmFqY1NGMVJXZG05aGRFaG5UWFZRZDJ0UVNWQnFOR1pSTWtGakdpSkJTRTR3UlRkSVExOXZWVGs0VjNGWlVGUkxkRVJDU2tWcFptTkNNVmxuZFVwUg",
+        "job_title": "Senior FullStack Developer",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/5893860407352754176",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/5893860407352754176",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Full Stack Developer based in Saudi Arabia.\nJoin an innovative Web3 technology environment developing advanced market intelligence solutions and next‑generation decentralized trading infrastructure. As a Senior Full Stack Developer, you will take ownership of architecture and implementation across frontend applications, backend services, and blockchain integrations. You will help build sophisticated trading tools that process hundreds of real‑time data streams, transforming on‑chain activity and market intelligence into actionable insights. Working with a highly experienced engineering team, you will design scalable, secure, and reliable systems while solving complex technical challenges across decentralized ecosystems. This role offers significant autonomy, broad technical responsibility, and the opportunity to influence core product architecture from design through production deployment. It is an ideal opportunity for an experienced engineer who thrives in a fast‑paced startup environment and is passionate about building impactful Web3 products.\nAccountabilities\nLead end‑to‑end full stack development across React‑based user interfaces, Node.js backend services, and Web3 integrations.\nDesign, develop, and scale decentralized applications that integrate blockchain wallets, decentralized finance (DeFi) protocols, and on‑chain data sources.\nIntegrate Web3 libraries, software development kits, third‑party packages, and APIs into robust, secure, and reliable product workflows.\nArchitect and implement systems that meet demanding requirements for performance, scalability, security, and interoperability across decentralized ecosystems.\nDevelop and optimize infrastructure capable of processing high volumes of real‑time market information, blockchain activity, and other data streams.\nTake ownership of the entire software development lifecycle, from technical design and implementation through deployment, monitoring, and production support.\nInvestigate complex production issues, identify root causes, and implement improvements that strengthen system reliability and operational performance.\nCollaborate with experienced engineers on architectural decisions, technical strategy, and research into emerging technologies relevant to Web3 and decentralized markets.\nContribute to the development of advanced trading and market intelligence products, helping transform complex data into intuitive, high‑performance user experiences.\nMaintain high engineering standards through thoughtful technical decisions, quality‑focused implementation, and continuous improvement of development practices.\nRequirements:\nAt least 10 years of professional software development experience, with a strong background in designing, building, and maintaining production‑grade applications.\nA minimum of 3 years of full stack development experience with a substantial focus on Web3 technologies and blockchain‑based applications.\nStrong proficiency in TypeScript, React, and Node.js, with the ability to develop and maintain complex frontend and backend systems.\nDemonstrated experience delivering Web3 applications or integrations to production environments.\nHands‑on experience integrating blockchain wallets, DeFi protocols, on‑chain data sources, and third‑party Web3 libraries, packages, or APIs.\nProven experience designing and scaling data‑intensive systems, particularly those involving real‑time processing and high‑volume information flows.\nStrong architectural judgment and a practical understanding of system performance, security, scalability, and reliability.\nAbility to troubleshoot complex technical issues, make independent engineering decisions, and take responsibility for production outcomes.\nExcellent problem‑solving skills, with the ability to balance rapid delivery against long‑term maintainability and technical quality.\nFluent English communication skills, with the ability to collaborate effectively with experienced engineers in a distributed environment.\nA high degree of autonomy, accountability, and initiative, along with the ability to manage broad responsibilities in a fast‑moving startup.\nComfort working in a demanding, execution‑focused environment where engineers are expected to take ownership and deliver results with limited supervision.\nExperience with multi‑chain development, particularly across Ethereum and Solana, is an advantage.\nFamiliarity with Prisma, Zod, tRPC, and Fastify is considered a plus.\nBenefits:\nFully remote work:\nWork remotely from Poland with flexible working hours.\nCompetitive compensation:\nAnnual salary of up to USD 90,000, depending on experience and qualifications.\nTechnical ownership:\nSignificant autonomy in shaping architecture, making engineering decisions, and delivering core product capabilities.\nExperienced colleagues:\nCollaborate with a highly skilled, senior‑level engineering team in a direct and execution‑focused environment.\nWeb3 innovation:\nContribute to advanced decentralized applications, market intelligence infrastructure, and next‑generation trading technologies.\nEnd‑to‑end responsibility:\nOwn projects from initial design through implementation, deployment, and ongoing production support.\nProfessional growth:\nExpand your expertise in blockchain integrations, real‑time data infrastructure, decentralized finance, and scalable full stack engineering.\nFlexible collaboration:\nBenefit from a remote‑first working model with a focus on meaningful output, technical excellence, and efficient communication.\nWe appreciate your interest and wish you the best!\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D1AYuaGYpZAYyM5U1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "1AYuaGYpZAYyM5U1AAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlWkpEUkI4aE9ubm1CVFNpMUM4WmgzT3doNEpyY2p0NmswVW4zQ0pYRVhTdUVrSldEeDRueG5jblFPcWo5STl5V0lORm10RVRZT3BYampCQ0pwUEdObTd4ODFiOWktczZiWGtKaTVNOW1kU1REM2dyaW9ZYUZVZlNubmZSSDJEWjBTMDB2azBvQlh4REpod2pFeHYwMm9KQXQ5UUl0VVJCZW5FaVg1aDl6NmR2aFNueWhkc2o2MUlTV1I2WnMzYmJiZFhOQS1VWFdDOVZ3RUF1STFkLU1zUDR2WVV1aFZvb0pmQW9aQXd5cjA1LUpxMXNSeHNRbmgwVkM3eUFVWTd5dG5yQkJwdHFhdl9WVEFJTTlBOW1WU1NpME9haTNtbjlEdnZhMnhUV29MQ1A0UlZZZ2c2R2w4bFlydzB6a1ZZWGZldVlpWUowaVJRX0NwVmNNdG0zVS1GLXFoYlhGZUxpUFgzblhIRlFJelJObnlXMDNvTjRMMDUzTlViaDloaVBhZjRlc1RaLWVaaGVSdy1DUTF1dllpOEVaYlFMTDNSZ3p4OXp2eUVUWW41a0ZKOTlVSUhwRTdMT1hqSUFQalhZcnJwUVRycGhtNUNpMzVhMjVmTGNESUlYZ1ZfbHpRQm9GaEloSU5GYW5nS0ljdUJUOE5YUTAyLXZXLXgyNXRDaUZYRG84eldScmNBOE16RFdCUklWQkRWYVNhZjJqWDN3amZ4OWNOa3pkWHdZWjJWSzE0EhdUVnZvYXRIZ011UHdrUElQajRmUTJBYxoiQUhOMEU3SERuejN0cDY2YWRiR3JSOGxudUtVQ0x0bU1GUQ"
+  }
+}

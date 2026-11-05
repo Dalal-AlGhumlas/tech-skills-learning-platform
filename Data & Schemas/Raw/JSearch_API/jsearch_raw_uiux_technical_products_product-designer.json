@@ -1,0 +1,428 @@
+{
+  "_meta": {
+    "specialization": "uiux_technical_products",
+    "query": "product designer"
+  },
+  "status": "OK",
+  "request_id": "8c3dded6-2ed6-4a4c-820e-680e10ed45d1",
+  "parameters": {
+    "query": "product designer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "WTlKZjJEcG02SDE1cUV1d0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbU5NT0V0aFVYTnplR1JyWVdKalpWcGtWbXBJWjNKaU1XbzFSVk5qWDFKaWIwcGxSMnhoYWpKV05FMTFlbkozVEhKNlFWaDZWR1EzUlZNNWRrd3hRMjVQYVZneE0zQlBYelYwYlV4V1ZFRkZUak5qZW1Fd1RGVnBiemxpTldGSVpVaFdVMU5VTWtGTlFsWTNORXRXV1U5WWVuSmthbXcyZG05d05VVmliVU4yU1ZvMFV6Y1NGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkSFduVjNVRU5KY0ZsNlZUTmFSbUZvYTIxb2FUUmhVM1pSVmtWQg",
+        "job_title": "Senior Product Designer, End-to-End Customer Lifecycle",
+        "employer_name": "tabby",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tabby.ai&size=128",
+        "employer_website": "https://tabby.ai",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-product-designer-end-to-end-customer-lifecycle--saudi-arabia--e936e404fbd542eeb487f967615166737",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-product-designer-end-to-end-customer-lifecycle--saudi-arabia--e936e404fbd542eeb487f967615166737",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Tabby in Saudi Arabia is seeking a Senior Product Designer to own the B2C customer journey inside the Tabby app. You will align onboarding, activation, and ongoing value communication across Card, Cash, and BNPL products to feel like one cohesive ecosystem.\n\nCollaborate with product managers, researchers, and engineers to ship high-quality experiences, with a focus on subscription and lifecycle flows that drive first transactions and long-term engagement.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DY9Jf2Dpm6H15qEuwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Y9Jf2Dpm6H15qEuwAAAAAA=="
+      },
+      {
+        "job_id": "VkdzR0UxUG5taVBqcHcwSUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWhHVGxOcVNrZ3RjMnRuUVVsWlluZFVOR0pOT0VSalJHeHpjbUZrYkVGSGVuTlViVVF4WlhkeGR6VklOMEl3UXkxdVZGQnZjSFpITkVGUVVUbG5lV3gxZEZWMVEwbzVPWE5zTUcxRFZFZHJaa1ZRZFhsRk5WZGlNbFpPUld0blVsUXdMVFp5UkRoMlpIZE9WazB6ZVdRMVlucHRPVzVXWW5WRlIwZFBZWFZ4UkdOeVdtZ1NGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkRk9EZHNNRGh5TlZnM05GbHJjVlZRZG5WamQxcHRTVFYzUjNCMw",
+        "job_title": "Product Designer - CAD Prototyping & Market-Driven Concepts",
+        "employer_name": "SynerData",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/1054294556754837504",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/1054294556754837504",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "SynerData in Medina, Saudi Arabia is seeking a creative Product Designer to help conceptualize and design innovative products that meet customer needs. You will work with cross-functional teams to translate requirements into practical designs and prototypes.Responsibilities include market research, creating design briefs, collaborating with engineers and marketers, and using CAD software to produce 2D/3D designs and test prototypes for usability and durability.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر Jobrapido.com",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVGsGE1PnmiPjpw0IAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VGsGE1PnmiPjpw0IAAAAAA=="
+      },
+      {
+        "job_id": "NVNGWHBJUl9QdkJXUkl2S0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVo1TjAxR1IyNTNUbnBwUjNCTlpWVkJXalF6U0RneU4wUm1UMFpYYm1ZMmJuaHJUVVJuVUZaSE56VTJTVVF3VTJweWNGSTBhV1JYYUV4RU5XaFZXV2RwTTFwd1QxZ3RaMVpDVTBWYVpIa3hOa3BDYnpBdE9IVlNSVlJWWld4NlJFbEJNekp4YnpOS1dVWnRhMUphTUU5VFJqaHVRWGd6U0VkalJWWkpkblJFVFZkRVFXVVNGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkSGNVazBlVXhWTUhsc01YaEVXRTEzWW1GMVRIQmlOalJ4TW5Wbg",
+        "job_title": "Senior Product Design Leader: Strategy, Systems & Impact",
+        "employer_name": "Delivery Hero",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXbPQ_ESANQ0lCmi1XArJnTsZBpq2A5vXHSuL&s=0",
+        "employer_website": "https://www.deliveryhero.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-product-design-leader-strategy-systems-impact--riyadh--e53731d5f69f5ad36b8430ab2ad0896cb",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-product-design-leader-strategy-systems-impact--riyadh--e53731d5f69f5ad36b8430ab2ad0896cb",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "HungerStation, part of the Delivery Hero Group, seeks a senior Product Designer to lead product design strategy and craft scalable, customer-centric experiences. You will partner with product, engineering, data, and marketing to shape roadmaps and ensure high-quality design across multiple domains.\n\nYou will lead a design-team, uphold design principles, and advocate for customer-centric decisions, measuring impact on engagement and conversion.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D5SFXpIR_PvBWRIvKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "5SFXpIR_PvBWRIvKAAAAAA=="
+      },
+      {
+        "job_id": "Zmh2MWJOVk9yWlNUT01tMUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3hGVWtKcWIycDRkM2xHY2twQ2NGaFRNbEZETFZGT01VdHRSbmhqTFVGdmFEZ3hXbXQ2Y1d4a2VIVjVjRWRzYTJaV05uUmxNSE5sT1VoTWRsbGpTbFJxVmxFM2RXVkxTVk5yVGxJMVdrVlhWVlZKUmxSalFXMDRWakZJYm5wTlVHMTRUbVp2YUdwR1pHaFlUM0pNUlhwdk1EbEZkRko1ZEdwWk9UbGhTMVJoVVhkc1ZXTVNGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkR2VGVlBhbTVrT1RCeE5YbzBRVTR4TWpGUlpHaERTRlJLUkdkMw",
+        "job_title": "Product Designer (Mid to Senior)",
+        "employer_name": "Socium - Teams Done Differently",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUgaX_DZSEjT-aJGQBggBKHdIc8lMXRih1uErx&s=0",
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/product-designer-mid-to-senior-socium-teams-done-differently--techmap_sa_4473619320",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/product-designer-mid-to-senior-socium-teams-done-differently--techmap_sa_4473619320",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "Location: Riyadh, Saudi Arabia\n\nWork Arrangement: Fully onsite\n\nWho you are:\n\nYou’re a Mid to Senior product designer who is passionate about creating exceptional digital experiences, particularly within financial services and regulated environments.\n\nYou bring a strong understanding of mobile-first UX, an appreciation for the complexities of digital banking, and the ability to turn regulatory constraints into clear, human-centered experiences.\n\nYou have\n\n• 4+ years of UX/UI or Product Design experience, ideally in banking, fintech, or financial services.\n• Strong mobile product design experience, with a portfolio demonstrating customer and business impact.\n• Advanced proficiency in Figma and strong experience with Miro for design, prototyping, workshops, and collaboration.\n• Hands-on experience using Claude Code to prototype, build, test, and iterate digital products.\n• Experience with Jira and Agile methodologies, including Scrum, SAFe, or Kanban.\n• Strong knowledge of iOS/Android UX patterns, responsive design, accessibility, and interaction design.\n• Experience conducting user research and usability testing, particularly within regulated environments.\n• Strong skills in high-fidelity UI, interactive prototyping, design systems, and design specifications.\n• Working knowledge of front-end technologies and how technical constraints influence design and implementation.\n• Strong stakeholder management and communication skills, with the ability to explain and defend design decisions using research and data.\n• Customer-focused, curious, and evidence-driven, with the ability to balance user needs, business goals, technical constraints, and regulatory requirements.\n• Experience working on enterprise-scale products, preferably within banking or other regulated industries.\n• Arabic proficiency (spoken and written) is strongly preferred, particularly for designing culturally relevant experiences for the Saudi market.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dfhv1bNVOrZSTOMm1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "fhv1bNVOrZSTOMm1AAAAAA=="
+      },
+      {
+        "job_id": "dzBJa0dBdjc0S3JLQ1JDbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZamR3WDNSWGFXeHdOMHhZUjNKNE0yeDRhVEpTTWtoQlIzQjFXbXd0Vldwa1JtWk9lbE5HTTNWelJGSk5ZVXRhVXpnMVJqWkphblpKUkhaTGFESllObXQxWkMweVpqWmZWRXhmZDNJemNEaFNaekpRTUhKMGJpMUxkVmROYm1rMFlsSlFMVkJsWlhKc1JubDRXR2hVTjFGaWJEbGpPRVZhYVhkYWQxTklhVlp5VTJ0SE1qTVNGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkSGNGSllZM2d5VFU1eVZtOXJjekYzZDFOSFgzb3RlRE5DUjNaQg",
+        "job_title": "Product Designer — Digital Travel Experience Architect",
+        "employer_name": "Almosafer",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://almosafer.com&size=128",
+        "employer_website": "https://www.almosafer.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/product-designer-digital-travel-experience-architect--riyadh--ef080a1e0c3f236855b954a3abe18b257",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/product-designer-digital-travel-experience-architect--riyadh--ef080a1e0c3f236855b954a3abe18b257",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Almosafer seeks a Product Designer to shape the Digital Consumer Travel experience across web and mobile platforms. You will work with engineers, product managers, and other designers to translate customer needs and business goals into elegant, usable solutions that drive engagement and conversions.\n\nYou will conduct user interviews, usability tests, and surveys, translating insights into prototypes and design system contributions while balancing technical constraints and market trends.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dw0IkGAv74KrKCRClAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "w0IkGAv74KrKCRClAAAAAA=="
+      },
+      {
+        "job_id": "Z193RGJoSkJhT1c5ZzgwdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakZLV1VaQk0yeHJhak5tWmxWVFVFeG1Nbmh1U0VsWVdGZFlUMU10YTA5ZmFHbFdSRW80TFdsME5XcHBURUZNVFdwUFVuaG5ZblJQTjBVeWVXNUVPVXBvYmxsVGEwZE1aMGh3TFdGcVJ6VmFNWGRpYm1GR2NXTnpSRnAwYTNOcVQyWjNVbmx2TmxsVU4xWjZObXBRUm5OVVRrZE9TRXBVVkRkNFJscDFhSGwyUlZkVVFrTVNGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkSVExZGhURkpUU1Rod00wWmtZemwwWmw5ZmNpMWFRM2RMZGpoQg",
+        "job_title": "Voyage UX Designer: Shape Seamless Travel Experiences",
+        "employer_name": "Almosafer",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://almosafer.com&size=128",
+        "employer_website": "https://www.almosafer.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/voyage-ux-designer-shape-seamless-travel-experiences--riyadh--e8b181e733efcb155a4dedfec1287cb8f",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/voyage-ux-designer-shape-seamless-travel-experiences--riyadh--e8b181e733efcb155a4dedfec1287cb8f",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Almosafer is seeking a Product Designer to join our team focusing on the Digital Consumer Travel experience. In this role, you will shape how customers book and manage a diverse range of travel products across web and mobile, collaborating with engineers, product managers, and other designers to turn problems into meaningful experiences.\n\nYou will base designs on customer needs and business goals, conduct research, create concepts and prototypes, and run experiments to validate ideas for elegant",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dg_wDbhJBaOW9g80vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "g_wDbhJBaOW9g80vAAAAAA=="
+      },
+      {
+        "job_id": "UUdFSVZSQTFLYmVzT3JHRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1ZOWm1STloxWXlNRnBuUnpKSVdsaEJjV3BqYldWUlFtZFlhbUpyWTFWYVRGVm9ZVVZzVWxCYVNGQkdlWFZOUkY4d1VqbHBVa2N5V1V4TmRsbGtibnBJVEZkUGRsVmhWM0o1TTBSVllqSkNWa3RGUTBadE5VWTJjRUZ6ZFRGVU0wbGlSRFJSTXpobFZYTnNlSE0wZFVSYVkzVm1aM2RIU2tKNFVtbHFiVFZZTmtkSFFsZ1NGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkSVIzcHJTak4xYUZCSU1qWnJiR3ROUVY5b1lWZDFhSFZDYkhwQg",
+        "job_title": "Senior UI/UX Designer",
+        "employer_name": "Skatch",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sketch.com&size=128",
+        "employer_website": "https://www.sketch.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-ui-ux-designer--jeddah--e54b5eae56209c8134556da7f0c2501df",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-ui-ux-designer--jeddah--e54b5eae56209c8134556da7f0c2501df",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "ABOUT CoorB\n\nWe build full-fledged innovative solutions with a focus on process automation, user experience enhancement, and advanced data analytics. With our extensive industry expertise, we help achieve operational excellence, future-proof your IT investments, and ensure a competitive edge in the ever-evolving finance industry.\nOUR OPPORTUNITY\n\nWe are looking for a Senior UX Designer to work closely with UX/UI Designers, Visual Designers, UX Researchers, Business Analysts, Product Owners, Solution Architects, Developers, and banking stakeholders to design intuitive and scalable digital banking experiences. The Senior UX Designer will play a key role in defining the structure, behaviour, and usability of digital banking journeys across retail and corporate banking channels, including mobile and web applications. The role will translate business and customer requirements into clear information architecture, task flows, wireframes, prototypes, UX content, and build-ready functional specifications. The role requires strong experience designing complex digital products within regulated environments, with the ability to balance customer needs, business objectives, technical constraints, accessibility requirements, and banking regulations.\nYOU WILL\n• Define UX strategy, information architecture, task flows, wireframes, and interactive prototypes.\n• Design complete journeys covering key states, edge cases, errors, exceptions, and recovery paths.\n• Translate research, analytics, and business requirements into clear design decisions.\n• Develop UX microcopy, including labels, instructions, errors, confirmations, and notifications.\n• Produce functional specifications covering behaviour, business rules, validation, and dependencies.\n• Map relevant systems, integrations, hand-offs, and supporting processes.\n• Design with Arabic RTL requirements alongside English LTR experiences.\n• Apply existing enterprise design-system patterns and identify gaps where new solutions are required.\n• Conduct workshops with business, technology, architecture, customer experience, and compliance stakeholders.\n• Support benchmarking, expert reviews, analytics analysis, and usability activities.\n• Collaborate with visual designers and engineering teams through handover and implementation.\n• Review implemented journeys against approved designs and specifications.\n• Maintain design documentation and decision records.\n• Mentor junior designers and contribute to knowledge transfer.\nRequirements\n• TO BE SUCCESSFUL IN THE ROLE YOU NEED\n• 6-10 years of UX design experience, including 3+ years in enterprise, financial services, or regulated environments.\n• Strong expertise in information architecture, interaction design, user flows, wireframing, and prototyping.\n• Advanced Figma skills and experience working with enterprise design systems.\n• Proven ability to translate research and behavioural data into design decisions.\n• Experience creating developer-ready functional specifications.\n• Good understanding of WCAG 2.2 AA and accessible digital experiences.\n• Experience working in Agile/Scrum environments.\n• Strong analytical, communication, and stakeholder-management skills.\n• Excellent written and verbal English.\n• Arabic/RTL design experience is an advantage.\n• Experience with banking platforms such as Backbase, Temenos, or Finastra is an advantage.\n• Banking, fintech, GCC/KSA, or other regulated-industry experience is highly valued.\n• Degree or diploma in Design, HCI, or a related field is preferred.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DQGEIVRA1KbesOrGEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "QGEIVRA1KbesOrGEAAAAAA=="
+      },
+      {
+        "job_id": "QWhhTnR0V21QMjZtRlQybUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV2t0ZEVSb05sQk5TVXBHZVV0cGFWZzFZWEV0U25RMlUyZDZSblYzUkUxSGMwOUpWM2RWUkVJeU16QmhaR2h3U0ZaSmVFbHZNVVJOVUc1VlVWSlFlbGRSZVMxTGVVcDRlRVZyWnpSck4zbGxRMGQ1TTJkM1VVNTJZbWxqUTFkUk5tWjBkRkpIWDFGQloyVlRjVEptZGs0Mk5FOXBZV1pMUkdSNU1sZEZhM1pQUTBORGNUUVNGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkSU5XRlpYMmMxUWpoWmRuQXRSa1p6ZG5WVGNuTlJPVE5IUkV4Ug",
+        "job_title": "Principal Product Design Manager",
+        "employer_name": "Delivery Hero SE",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXbPQ_ESANQ0lCmi1XArJnTsZBpq2A5vXHSuL&s=0",
+        "employer_website": "https://www.deliveryhero.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/principal-product-design-manager--riyadh--e769702551deac7a04d7aa141f246196c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/principal-product-design-manager--riyadh--e769702551deac7a04d7aa141f246196c",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "HungerStation, part of Delivery Hero, seeks a senior Product Designer to lead design strategy across multiple product domains. You will translate complex problems into simple experiences, shape roadmaps with Product and Engineering, and advocate for customer-centric decisions.\n\nYou will own design system evolution, establish design reviews, and mentor a high-performing design team to deliver measurable business impact.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAhaNttWmP26mFT2mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AhaNttWmP26mFT2mAAAAAA=="
+      },
+      {
+        "job_id": "Wkpmb0t1bWFFc2t2VG9BWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVl4Vm10U09XWnROV3BETW5aSUxVNXdablU0YW5sT1MwZDROblp4VldGTE9ESlZaMHBxWkRSTGEyTlZNVnBDVUVkc2QwUnRhV1U1YTAxRVdreEVVWGcxTVVKMGJGVnJNVmRRYVVGT2RXdHNSMDVxYzNGcExUWmZjSGhJWTBKWVpXeFNhVkF3ZWtwbVNrNUllRTlWUzNGUlJVSmhhRWhsTkdabUxUUlphMUIzTjJ3eVJVOFNGMnhHTTI5aGIwZFhRelZwWlhObFRWQnhiM0ZtYVVGUkdpSkJTRTR3UlRkR1ozRjJTWFppTFhScVVFMDJkbU40YjFwVFExZFdXazlxUnpCUg",
+        "job_title": "وظائف مصمم منتجات (Product Designer) لدى شركة المسافر للسياحة والسفر في الرياض",
+        "employer_name": "شركة المسافر للسياحة والسفر",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://wazayif.ween.sa&size=128",
+        "employer_website": null,
+        "job_publisher": "صحيفة وظائف",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://wazayif.ween.sa/11944",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://wazayif.ween.sa/11944",
+            "is_direct": false,
+            "publisher": "صحيفة وظائف"
+          }
+        ],
+        "job_description": "فرصة عمل لمسمى مصمم منتجات (Product Designer) لدى شركة المسافر للسياحة والسفر في الرياض، تتطلب خبرة 3 إلى 5 سنوات في تصميم المنتجات الرقمية الموجهة للمستهلك مع…",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض   (+24 مكان آخر)     •  عبر صحيفة وظائف",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DZJfoKumaEskvToAXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ZJfoKumaEskvToAXAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "machine learning engineer"
+  },
+  "status": "OK",
+  "request_id": "91e69404-e813-48e2-ba86-292fbe81fedd",
+  "parameters": {
+    "query": "machine learning engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "all",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "aS1pLTJqZXJ4c09ibHRwTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbDl3TkdKS05FWmtUV1pQY0haalNrUlJSMXBWT0RKaFlVSmtaemxXTTI4eFJWTkhWMHR2VVhoeE5uTkpRMUpOWTNoeFl6Y3dUM2hMWDNOQ00wVjRXakF6UlRkVGQxQnNaSGhZVEVreE4xVnpXR3BxWkdSdE5VTkVTRVZWU1hCNmJtSk1lRjlsY0RrMFMzUmhibHBKZFdneGRqSlhVRmhUTTAxT1dFWm9hbVZQWVV0d01HWVNGMWt5VUc5aGNtcHZRMlpoTm1oaVNWQnBOM3BUZDFGekdpSkJTRTR3UlRkR2VrVXpVRk5JVVZwT01ubGtVRXB6ZFVKaWJXcFFSMjlRY3pWQg",
+        "job_title": "Junior AI Engineer: Build Real-World ML for Business",
+        "employer_name": "LamdaX",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/junior-ai-engineer-build-real-world-ml-for-business--riyadh--e60ae01dcda2e78298de339b79cfc186d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/junior-ai-engineer-build-real-world-ml-for-business--riyadh--e60ae01dcda2e78298de339b79cfc186d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Lamdax in Riyadh invites a Fresh Graduate AI Engineer to help build practical AI solutions. You will apply academic knowledge to real business problems, collaborate with software engineers, and contribute to data-driven decisions.\n\nThe role focuses on developing and testing ML models, deploying and monitoring AI in production, and preparing datasets. A strong foundation in Python, SQL, .NET, and major ML frameworks is expected, with internships or projects as evidence.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Di-i-2jerxsObltpNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "i-i-2jerxsObltpNAAAAAA=="
+      },
+      {
+        "job_id": "d1QyTGh6TG5MR1ZxRHNUeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXblI2ZDFkMldWcHFjM0o2UkhSNU5VUldXbTU1ZDJwSFEyRnRTME5qTFdOVlNGcEtWM1pYVmxGemFtczJlbkJVTjJObE9Fb3llSEJmVDNaQ2NWRXlkMVZMWkdka01ETjJUVzltYTJSRlF5MDRNMDVtWDBFMFIwSnBUMHR6ZDJOd1MyRjVOa1ZHWVhkUFZuRXRObmwyZG1kS05tRnBWRlF5ZVVOWWJXeHRhWFpWZEhwR1JYRVNGMWt5VUc5aGNtcHZRMlpoTm1oaVNWQnBOM3BUZDFGekdpSkJTRTR3UlRkRmEyZ3lhV0Z3WW0xUFptZGpVRk10TUVJdE4yZE5aREZEYlhOMw",
+        "job_title": "AI Solutions Engineer: Scalable ML & LLM Deployments",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Confidential Government is seeking an AI/ML Engineer to design, deploy, and integrate scalable AI solutions in Riyadh. You will build models, APIs, and MLOps pipelines to automate business processes and support data-driven decisions.\n\nResponsibilities include data preparation, model monitoring, and collaboration with business teams to translate needs into technical solutions while ensuring governance and security standards are upheld.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DwT2LhzLnLGVqDsTxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "wT2LhzLnLGVqDsTxAAAAAA=="
+      },
+      {
+        "job_id": "X0dZWVZRclhtTVVSejFjVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZakJZU1VKTE16UktOa1JCZEhCdk9GOUNkVTlqZW1ndFRYUnZPRlJ2T1dKd1UzRjBkMGhpYkU4Mk4zVmZNWFZLYmkxTlpVWTRVRGRUZVVoVkxVUlRWM2hZVkhWNGEycFVNRlJvUlZod1NGZExWVmxVVjJSM1JHUkdTekkyY2tkQk5XZEVPVTVKV0dwSlNGOHlWWGh3VVU5SmJqZFBhalY1Ym1KMGRtZE1kV1pZYUV4SlNsVVNGMWt5VUc5aGNtcHZRMlpoTm1oaVNWQnBOM3BUZDFGekdpSkJTRTR3UlRkRlVXMW5WSHBvU0dSYWFYUTRla2RQV25KNmJteHJOWGhmUzNwUg",
+        "job_title": "Computational Research Expert (AI Specialist)",
+        "employer_name": "Aramco",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aramco.jobs&size=128",
+        "employer_website": "https://www.aramco.jobs",
+        "job_publisher": "Aramco | Careers",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.aramco.com/expat_uk/job/Computational-Research-Expert-%28AI-Specialist%29/857062223/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.aramco.com/expat_uk/job/Computational-Research-Expert-%28AI-Specialist%29/857062223/",
+            "is_direct": false,
+            "publisher": "Aramco | Careers"
+          }
+        ],
+        "job_description": "Aramco energizes the world economy.\n\nAramco occupies a special position in the global energy industry. We are one of the world’s largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.\n\nWith our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.\n\nHeadquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.\n\nWe are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.\n\nOverview\n\nWe are seeking Computational Research Expert with a strong background in Artificial Intelligence to join our Research & Development Center (R&DC).\n\nR&DC conducts strategic research, development and demonstration programs in support of Aramco’s drive for innovation.\n\nYour primary role is to design, develop, and deploy advance AI and ML solutions to address complex business, scientific, and engineering challenges.\n\nKey Responsibilities\n\nAs the successful candidate you will be required to perform the following:\n• Design, develop, and validate advanced AI/ML models\n• Engage with stakeholders and domain experts to understand challenges, formulate AI-ready problem statements, and identify impactful solutions.\n• Lead end-to-end AI projects, from data acquisition and feature engineering to deployment and performance monitoring.\n• Integrate AI solutions with existing systems, digital twins, and operational workflows.\n• Stay current with AI research and translate emerging methods into practical applications.\n• Collaborate with cross-functional teams and provide technical guidance and mentorship.\n• Contribute to technical documentation, patents, and publications.\n\nMinimum Requirements\n• As a successful candidate you will hold a Bachelor degree AI, Computer Science, Data Science, Engineering, Mathematics, or related fields. A PhD is also required.\n• You should have a minimum of 5 years of experience.\n• You will have a strong foundation in machine learning, statistics, and optimization.\n• You will also have a proven track record of conducting advanced technical projects with an ability to connect basic science research with industrial applications.\n• It is also necessary to have proficiency in Python and experience with large-scale data and computing environments. Coding in PyTorch, TensorFlow, JAX skills are also required.\n\nWork Location and Work Schedule\n\nWork location: Within Saudi Arabia – To be specified in Job offer\n\nWork schedule: Full Time - To be specified in Job offer\n\nJob Posting Duration\n\nJob posting start date: 12/18/2025\n\nJob posting end date: 12/31/2026\n\nWorking environment\n\nOur high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.\n\nAt Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.\n\nWe have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٩ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Aramco | Careers",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_GYYVQrXmMURz1cVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_GYYVQrXmMURz1cVAAAAAA=="
+      },
+      {
+        "job_id": "TDdKblFVMFFpelo0UzZxWkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3BWWHpacFZFdHRlVFZUV0hkRFNGOWtORXhaVVZCWVZubG5OelZFZVRSalIyTmlRVWxHUVMxbFowUkxhRVJZY1UxVFkwVnpRbWRqTkMxNVExQmZSMGM1UWtkRU1VVlJkVjlxWkV4UU9VNTZNV3BSZDA1TVZETTFPWGRQVmt0WE5XVndiMlJFTTBoM1dqQjJlbVpYUjJoR1VHVjZRVEp6VEdGMVNIZE5ia1pUZW1wb09VY1NGMWt5VUc5aGNtcHZRMlpoTm1oaVNWQnBOM3BUZDFGekdpSkJTRTR3UlRkRlZERkhZVWxDWTJWb1MyRXdOM0pXU21SM2NFdEhTVVo0VDIxMw",
+        "job_title": "Machine Learning Scientist",
+        "employer_name": "Silver Edge Arabia",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TMxIjdeIEx-C-7-2AJ7hh26ZGDDvLhC2tlgo&s=0",
+        "employer_website": null,
+        "job_publisher": "Silver-Edge-Arabia.careers-Page.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://silver-edge-arabia.careers-page.com/jobs/c8b8cbd5-1f4d-483b-8a80-ea935dddb5a6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://silver-edge-arabia.careers-page.com/jobs/c8b8cbd5-1f4d-483b-8a80-ea935dddb5a6",
+            "is_direct": false,
+            "publisher": "Silver-Edge-Arabia.careers-Page.com"
+          }
+        ],
+        "job_description": "Machine Learning Scientist / Engineer – Financial Intelligence\n\nLocation: Al Khobar, Saudi Arabia\nPosition Type: 12-Month Contract (Initial term, with high potential to extend)\n\nCritical Requirements:\n\n• Residency: Candidates must be currently resident in Saudi Arabia.\n• Work Authorization: Must possess valid right to work in KSA and/or a transferable Iqama. Applications without this cannot be considered.\n\nAbout the Client & Role\n\nWe are an elite recruitment agency partnering with a forward-thinking organization to find a versatile Machine Learning Scientist / Engineer to design, build, and productionize the algorithms powering their next-generation financial intelligence systems.\n\nIn this hybrid role, you will sit at the perfect intersection of quantitative data science and robust software engineering. You will own the entire lifecycle of predictive models—from mathematically formulating hypotheses and prototyping advanced models to deploying scalable production pipelines. Your primary focus will be applying ML and time series forecasting to automate Cost Variance, Cost Forecasting, Scenario & What-If Analysis, and KPI Variance.\n\nKey Responsibilities\n\n• Advanced Predictive Modeling: Design, train, and validate sophisticated machine learning architectures and classical statistical models tailored for multi-horizon cost forecasting and KPI predictions.\n• Time Series & Sequential Modeling: Leverage advanced time series techniques (e.g., Deep Learning, State-Space models, hierarchical forecasting) to capture complex seasonal patterns, macroeconomic dependencies, and trend shifts in high-dimensional financial data.\n• Scenario & \"What-If\" Simulation: Develop simulation engines (such as Monte Carlo and stress-testing frameworks) that allow financial planners to run interactive \"What-If\" scenarios, modeling the ripple effect of operational and market changes on cost structures.\n• KPI & Cost Variance Analysis: Build automated anomaly detection and diagnostic models to pinpoint the root causes of variance between planned, forecasted, and actual financial KPIs.\n• Production Pipeline & MLOps Engineering: Refactor prototype code into clean, scalable production services. Deploy and containerize models, orchestrate pipelines, and build monitoring systems to detect feature and model drift over time.\n• Financial Translation: Partner with corporate finance teams to translate complex statistical outputs into transparent, interpretable insights and interactive strategic dashboards.\n\nRequired Qualifications & Skills\n\nData Science & Modeling Expertise\n\n• ML & Statistical Foundations: Strong theoretical and practical foundation in supervised/unsupervised learning, probabilistic programming, ensemble methods, and non-linear regression.\n• Deep Time Series Domain: Extensive experience with forecasting frameworks (e.g., Prophet, ARIMA, DeepAR, Temporal Fusion Transformers, or N-BEATS) and handling sparse, noisy, or irregular financial datasets.\n• Simulation & Decision Science: Proven ability to build simulation frameworks, sensitivity analyses, or Bayesian networks for risk and scenario modeling.\n\nSoftware & MLOps Engineering\n\n• Core Tech Stack: Mastery of Python and its scientific/ML stack (Pandas, NumPy, Scikit-Learn, PyTorch/TensorFlow, or JAX).\n• Engineering & Scale: Strong software engineering practices (Git, unit testing, APIs) with experience scaling computations using distributed frameworks (e.g., Spark, Ray) for heavy simulation workloads.\n• Data & Cloud Systems: Proficiency in SQL and cloud data warehouses (e.g., Snowflake, BigQuery) alongside MLOps orchestration tools (e.g., Docker, MLflow, Airflow, or Kubernetes).\n\nExperience & Education\n\n• Education: Master's or Ph.D. in Data Science, Computer Science, Statistics, Quantitative Finance, or a highly quantitative field.\n• Experience: 5+ years of professional experience as a Data Scientist or Machine Learning Engineer.\n• Preferred Experience: A clear history of applying machine learning directly to financial, economic, or operational planning data.\n• Domain Knowledge: A solid grasp of corporate finance principles (budgeting cycles, driver-based planning, cost allocation, and variance attribution) is highly advantageous.\n\nTo Apply\n\nIf you meet the residency and Iqama requirements and are ready to take on this cutting-edge challenge in Al Khobar, please submit your CV and a brief summary of your experience with time-series forecasting frameworks.",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الخبر     •  عبر Silver-Edge-Arabia.careers-Page.com",
+        "job_city": "الخبر",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2171906,
+        "job_longitude": 50.1971381,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DL7JnQU0QizZ4S6qZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "L7JnQU0QizZ4S6qZAAAAAA=="
+      },
+      {
+        "job_id": "Z0JsZ2wzRm5TRUlNYnh3UkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEpzZVZsdk4wSlNVVzVWV2xOeVRIZGpjblI2U0dKcVNUWjJVSFp6ZERFM2RsZFJWWEJtUzFWcVltZERUVmRNYWtkWE5raHlVMEZoY25sSWFsRmpRWFZ3UkRGSGIwaFFOR0Y2TTJodU5XSkJUSEUwUVRCUE5tdFpSRTVOYjJRMmIxQXlkbTFHYlZsbWQzQTVhbXAyVXpSelRFeHNiSEJVWVdkVmRuVXdlR1l4VVVoaGJVY1NGMWt5VUc5aGNtcHZRMlpoTm1oaVNWQnBOM3BUZDFGekdpSkJTRTR3UlRkSGJVZFdYMmRMUkhaVExWbFJVRWs1WW5wbGFqTmpZbXRuWlhCbg",
+        "job_title": "Senior ML Engineer - Email Security",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/2100454350711378359",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/2100454350711378359",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior ML Engineer - Email Security based remotely in Saudi Arabia. The Senior ML Engineer will help develop and deploy advanced machine learning technology to protect email infrastructure against spam, phishing, and other evolving cyber threats. You will work on a production-scale security solution that already filters email across approximately 5,000 hosting servers. The role combines hands-on transformer model training with systems engineering to build lightweight, efficient inference technology that runs on customer CPUs with minimal resource consumption. You will take ownership of the complete detection lifecycle, from dataset preparation and model evaluation to production releases and ongoing quality improvements. Working closely with an experienced engineering partner, you will help modernize the existing filtering pipeline and make releases more reliable and scalable. This remote-first opportunity is ideal for an engineer who enjoys solving challenging security problems and delivering measurable improvements in real-world environments. Accountabilities: You will contribute across the machine learning lifecycle and production engineering stack, ensuring that email detection models are accurate, efficient, and reliable in real-world hosting environments. Your responsibilities will include: - Model Training and Deployment: Train, evaluate, and release spam-detection models, including building and maintaining training corpora, selecting decision thresholds, analyzing precision and recall, and determining whether models are ready for production.\n\n- Production ML Engineering: Develop the production components of a new email-filtering engine in Go, including the inference service, mail-filter integrations, tokenization, and streaming message parsing. - Detection Quality Improvement: Investigate customer-reported spam and phishing incidents, trace detection failures, and implement appropriate fixes through rules, dataset improvements, or model retraining. - Model Performance Optimization: Balance detection rates against false-positive risks, ensuring legitimate messages are not unnecessarily blocked while malicious content is effectively identified. - Training Infrastructure and Data Tooling: Maintain the corpus management tools and training infrastructure required to support reliable experimentation and model releases. - Code and Model Reviews: Review and approve classifier, rule, and model changes to improve quality, share technical knowledge, and ensure releases can proceed without depending on a single engineer. - Technical Collaboration: Help partner engineers understand classification outcomes, explain model scoring behavior, and provide clear technical guidance when questions arise. - Documentation and Knowledge Sharing: Write technical specifications, handbooks, merge-request descriptions, and post-mortems that make decisions understandable and support effective collaboration. - Independent Delivery: Progress toward defined milestones, including independently shipping a rule-model release during the first month, delivering a component of the new engine to staging by month three, and supporting a model release independently by month six. Requirements: The ideal candidate is an experienced machine learning engineer with a strong background in production classification systems, practical transformer expertise, and the engineering skills to deliver reliable security technology. You should be comfortable owning technical decisions, investigating complex detection issues, and communicating your work clearly.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DgBlgl3FnSEIMbxwRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "gBlgl3FnSEIMbxwRAAAAAA=="
+      },
+      {
+        "job_id": "S09oSEFhUnRBaHdQYXZENUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa0ZvWkdscU4xRklRVVZqYmpFMFRrcGhYM0ZUZVVST2VpMHROMUJXVVU5bGRqUk9ZWEZvVVZaalZUQjROMGxQVjA5WlZsbG1aemxCY1d0RWFFYzBZVGhWYjFaNU9XZzFiRkowWlhGMlgyNVRRMHBWYUZWWk1IbFNValZzWlRCVlJUWlpRbmhmZVZaeU9TMWpjSE5PYjJ0WlRHZEpZWFpzYms1NVpuaGtUSEZEWDNKWVVFMFNGMWt5VUc5aGNtcHZRMlpoTm1oaVNWQnBOM3BUZDFGekdpSkJTRTR3UlRkSVNFSm5RMjkyUVRZdGFFVlVZMlp5VDBONE1XSlNSVXB6ZURKUg",
+        "job_title": "AI Engineering Specialist",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Develop, deploy, and integrate scalable AI and machine learning solutions to automate business processes, enhance operational efficiency, and support data-driven decision-making.\n\nKey Responsibilities\n\n• Design, develop, and deploy AI and machine learning models to address business needs.\n\n• Develop and integrate AI solutions, including LLMs and APIs, with existing enterprise systems.\n\n• Build predictive analytics models to support forecasting and business performance.\n\n• Prepare, analyze, and process complex datasets for AI model development.\n\n• Monitor, evaluate, and optimize AI models to ensure accuracy, reliability, and performance.\n\n• Collaborate with business teams to identify AI opportunities and translate requirements into technical solutions.\n\n• Apply MLOps practices to support scalable and secure AI deployment.\n\n• Ensure compliance with data governance, security, and AI ethical standards.\n\nQualification and Experience\n\n• Bachelor's degree in Computer Engineering, Computer Science, or a related field.\n\n• Strong proficiency in Python, machine learning, and Large Language Models (LLMs).\n\n• Experience in API development, AI integration, and MLOps.\n\n• Experience in deploying secure and scalable AI solutions in production environments.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKOhHAaRtAhwPavD5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KOhHAaRtAhwPavD5AAAAAA=="
+      }
+    ],
+    "cursor": "EqIDCuICQUREYldlWlV1c0xLT2pxVkp6RXZJdl9feFJWdWVaNHNXNk40QWFMTWo3aVNuT0JDYUFMelRmc2dqYVhYN25lem1HMlZoMjZSdVlNNWRqQWtCcXhWYk5vczNtM3p6X1pBRmNSejFpa3hJQ0REMlBrZzA2dFZpTklBSEVqbjJ5RkNvX05FeWJiY0hVaE5fZl85UDFfd0tobW9vd2VEeUFPWVduN3pjZ01sSUZsNVRNa2xNWXpaODBkZFpPejV3dFR1OHdRRXRsZDJDbXFvNU56RDNnamlzT1RDc1B1TWNtVFVBOG5UQlJVRnBaZ29XOXhMeFkwd3VJOVdZb0FNRVVfUUdCaHducndYQk82M3JyR2RfQWJ2c3dubXplVnEtZWpYU0tSM2R0S1lEa2oyaktnUXhrUXhkcmNSVlNSRVAzWkZNZVVPamJ3bTF3YUpKeUNpV0E3MW1BZFBJWEJYTGp0NV9REhdZMlBvYXJqb0NmYTZoYklQaTd6U3dRcxoiQUhOMEU3RzVORmc5ZThGaklNeTFLNWx0VzBuVnJWeU11UQ"
+  }
+}

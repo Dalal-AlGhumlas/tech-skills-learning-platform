@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": "python developer"
+  },
+  "status": "OK",
+  "request_id": "25991b0e-c620-4f61-b036-4a4fe7808bab",
+  "parameters": {
+    "query": "python developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "QVhQSmt3d3dzUG5yU1AwZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWG8zWDA5NGNIZFRabGQ1Yms5YWVrVk1hbUl4VEU1emIwNDVWalZGTTBSME9GbEZiRkIyUVVWVk4zUmxUMUJyUVRBMVJ6a3libFJOTVRoRFVWOUJZMjAzYjNSNlRVNUJXa05ZWkd4eFNuRlNOelEwY0V4SVgyaE1aamRzYm14NVZWaDNka2RYUlU1V2RHZElXbkp5WjBRNFpqTXdXRWhtZVU5NFZEUTNNbFpWUlU1RFVGRVNGell5Ukc5aGRtNU9RMDFITVhCMFVWQnNVRmhKTkZGdkdpSkJTRTR3UlRkR1lYbFJTa2RvZFZCbE1UZHBTbk5zZUdVeExUQXlSRzkzTFhobg",
+        "job_title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-453033959243449042",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-453033959243449042",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Saudi Arabia.\nAs a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.\nAccountabilities\nYou will contribute to the full development lifecycle, from implementing product features to integrating AI services and improving the codebase, working independently while collaborating closely with a small, senior team.\n• Build, maintain, and extend full-stack features for an AI-powered product, primarily using Django and Python.\n\n• Develop lightweight frontend interfaces using HTMX, Alpine.js, and Tailwind CSS.\n\n• Integrate third-party APIs, AI services, and large language model providers, including OpenAI, Anthropic, and OpenRouter.\n\n• Connect marketing data sources and incorporate relevant data into product functionality.\n\n• Write clean, reliable, maintainable Python code and contribute to a well-structured, evolving codebase.\n\n• Apply modern AI-assisted development tools and workflows to accelerate implementation while maintaining strong engineering standards.\n\n• Manage your workload independently, communicate progress clearly, and collaborate effectively with a remote team.\n\n• Contribute technical insights, suggest improvements, and help shape product development decisions.\n\n• Support the continued evolution of the platform by delivering features aligned with its roadmap and user needs.\n\nRequirements\nYou are an experienced full-stack developer who combines strong Python and Django expertise with practical experience building AI-powered applications. You are comfortable working autonomously, using modern development tools, and contributing ideas in a collaborative environment.\n• At least five years of hands-on full-stack development experience, preferably with Django as your primary framework.\n\n• Strong Python programming skills and a proven track record of building and shipping production-ready products.\n\n• Experience developing AI-powered applications using technologies such as LangChain, LangSmith, OpenAI APIs, OpenRouter, or Anthropic APIs.\n\n• Familiarity with Docker and confident use of Git for version control and collaborative development.\n\n• A balanced approach to software development that combines sound engineering fundamentals with modern AI-assisted workflows.\n\n• Practical experience or familiarity with AI development tools such as Cursor, Codex, and Claude Code, with the ability to explain how you use them in your daily work.\n\n• Strong written and spoken English, as English is the primary working language.\n\n• The ability to work independently, manage priorities, communicate clearly, and contribute ideas proactively.\n\n• Experience with Google Cloud Platform (GCP), Azure, CI/CD, or DevOps pipelines is a plus.\n\n• Frontend development skills and a strong eye for UI design and user experience are advantageous.\n\n• German language skills are a plus, particularly for candidates who also communicate fluently in English.\n\n• Application requirement: You must submit both your CV and a two-minute introductory video. The video should explain who you are, why you are interested in the role, and how you use AI tools in your day-to-day work. It can be recorded using Loom, a phone, or another tool; professional production quality is not expected.\n\nBenefits\n• Flexible freelance engagement: Approximately 60 hours per month, equivalent to around 15 hours per week.\n\n• Fully remote work: Work from anywhere in the world.\n\n• Independent contractor arrangement: A freelance engagement offering flexibility and autonomy.\n\n• Meaningful ownership: Take responsibility for the features you build and contribute ideas that influence the product.\n\n• Experienced team: Collaborate with a small, senior team and benefit from short decision-making paths.\n\n• AI product development: Work on a live, evolving AI platform with a clear roadmap and ambitious goals.\n\n• Technical freedom: Bring your experience, explore solutions, and help shape how the product is developed.\n\n• Flexible working style: Manage your workload independently within a collaborative remote environment.\n\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جيزان     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "جيزان",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 16.889358599999998,
+        "job_longitude": 42.5705674,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAXPJkwwwsPnrSP0eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AXPJkwwwsPnrSP0eAAAAAA=="
+      },
+      {
+        "job_id": "M0NyblpRZXNHSHpLd2ZleEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblE0YWpCTFZWQnVZWFkzWkdwcGFYbHJYMEpHWWxGTGFISkRNMjlvY0Zwd1YyOTNMVFo0V0cwMmFHbDFZbEZpZFZkc09GVXdTa3BsUWxkSU5tRnpTMmMyT0ZKUkxUVnBXRTUyYVhKT00xTXhOVUZIYmxjM2FHMUJjMEZPTnpKalIycDNWMnRpZW0xNWNYRnVlbUl3UjNvMGFEQlhSWFpqTkRsT2FUTTRlbXByUTJ3emNFY1NGell5Ukc5aGRtNU9RMDFITVhCMFVWQnNVRmhKTkZGdkdpSkJTRTR3UlRkR1ZVWlhORUZQYkhNMVlYRkVjRVZ2Wmt0NmNub3pPVWxJZG01Qg",
+        "job_title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-1458250417433834480",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-1458250417433834480",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration based in Saudi Arabia.\nAs a Freelance Full-Stack Developer, you will contribute to the ongoing development of an evolving AI-powered product at the intersection of artificial intelligence and marketing intelligence. You will build and enhance full-stack features using Python and Django, while integrating large language models and third-party APIs to deliver practical, high-value capabilities. Working with a small, experienced team, you will have meaningful ownership over your work and the opportunity to influence technical decisions and product direction. You will combine strong software engineering fundamentals with modern AI-assisted development practices to build clean, maintainable, and scalable solutions. This fully remote, part-time engagement offers flexibility and autonomy, with approximately 60 hours of work per month. It is an opportunity to contribute directly to a live AI product with an ambitious roadmap and room for new ideas.\nAccountabilities\nYou will contribute to the full development lifecycle, from implementing product features to integrating AI services and improving the codebase, working independently while collaborating closely with a small, senior team.\n• Build, maintain, and extend full-stack features for an AI-powered product, primarily using Django and Python.\n\n• Develop lightweight frontend interfaces using HTMX, Alpine.js, and Tailwind CSS.\n\n• Integrate third-party APIs, AI services, and large language model providers, including OpenAI, Anthropic, and OpenRouter.\n\n• Connect marketing data sources and incorporate relevant data into product functionality.\n\n• Write clean, reliable, maintainable Python code and contribute to a well-structured, evolving codebase.\n\n• Apply modern AI-assisted development tools and workflows to accelerate implementation while maintaining strong engineering standards.\n\n• Manage your workload independently, communicate progress clearly, and collaborate effectively with a remote team.\n\n• Contribute technical insights, suggest improvements, and help shape product development decisions.\n\n• Support the continued evolution of the platform by delivering features aligned with its roadmap and user needs.\n\nRequirements\nYou are an experienced full-stack developer who combines strong Python and Django expertise with practical experience building AI-powered applications. You are comfortable working autonomously, using modern development tools, and contributing ideas in a collaborative environment.\n• At least five years of hands-on full-stack development experience, preferably with Django as your primary framework.\n\n• Strong Python programming skills and a proven track record of building and shipping production-ready products.\n\n• Experience developing AI-powered applications using technologies such as LangChain, LangSmith, OpenAI APIs, OpenRouter, or Anthropic APIs.\n\n• Familiarity with Docker and confident use of Git for version control and collaborative development.\n\n• A balanced approach to software development that combines sound engineering fundamentals with modern AI-assisted workflows.\n\n• Practical experience or familiarity with AI development tools such as Cursor, Codex, and Claude Code, with the ability to explain how you use them in your daily work.\n\n• Strong written and spoken English, as English is the primary working language.\n\n• The ability to work independently, manage priorities, communicate clearly, and contribute ideas proactively.\n\n• Experience with Google Cloud Platform (GCP), Azure, CI/CD, or DevOps pipelines is a plus.\n\n• Frontend development skills and a strong eye for UI design and user experience are advantageous.\n\n• German language skills are a plus, particularly for candidates who also communicate fluently in English.\n\n• Application requirement: You must submit both your CV and a two-minute introductory video. The video should explain who you are, why you are interested in the role, and how you use AI tools in your day-to-day work. It can be recorded using Loom, a phone, or another tool; professional production quality is not expected.\n\nBenefits\n• Flexible freelance engagement: Approximately 60 hours per month, equivalent to around 15 hours per week.\n\n• Fully remote work: Work from anywhere in the world.\n\n• Independent contractor arrangement: A freelance engagement offering flexibility and autonomy.\n\n• Meaningful ownership: Take responsibility for the features you build and contribute ideas that influence the product.\n\n• Experienced team: Collaborate with a small, senior team and benefit from short decision-making paths.\n\n• AI product development: Work on a live, evolving AI platform with a clear roadmap and ambitious goals.\n\n• Technical freedom: Bring your experience, explore solutions, and help shape how the product is developed.\n\n• Flexible working style: Manage your workload independently within a collaborative remote environment.\n\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D3CrnZQesGHzKwfexAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "3CrnZQesGHzKwfexAAAAAA=="
+      },
+      {
+        "job_id": "cXNCbl9mS3lNbFBXTUwyZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVUZmVWpWZmJFZERiSEpPVUZFMVNtTTRSWEZyV0ZKak5IWnFSVVF0WlhkdlVEWjVNbmgzWVVoWFVHUTFkbVpHYVhkeVdXTmtXbll4YURScVVuRlRMWHBhY1hOWmNsaDFPRmR2UVVWblVFeEJja2c0V21aMVZtWTVUbWRKVlMxTWRUaGxTbGxMTWs1cVVtb3dVRmh2VDBnMVMzQmhNSEJsT1Y5d2NscERlVWhCVEUwME5qUVNGell5Ukc5aGRtNU9RMDFITVhCMFVWQnNVRmhKTkZGdkdpSkJTRTR3UlRkSVVrZDBOM1IzVkhGUUxVSkRORTlSUTNkeU4yTmxaMlk1TUdsMw",
+        "job_title": "Senior Python Developer",
+        "employer_name": "Confidential",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://confidential.careers&size=128",
+        "employer_website": "https://confidential.careers",
+        "job_publisher": "HAS — One-Click Apply For Jobs + AI Hiring For Employers",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://has.sa/en/jobs/287?title=senior-python-developer",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://has.sa/en/jobs/287?title=senior-python-developer",
+            "is_direct": false,
+            "publisher": "HAS — One-Click Apply For Jobs + AI Hiring For Employers"
+          }
+        ],
+        "job_description": "We are seeking a talented Senior Python Developer to join our dynamic team in Riyadh. In this role, you will design, develop, and maintain scalable backend systems using Python and modern frameworks like Django and FastAPI. You will collaborate with cross-functional teams to deliver high-quality software solutions that drive business growth.\n\nThe ideal candidate will have strong experience in Python development, database design, and API development. You will be responsible for writing clean, maintainable code, conducting code reviews, and mentoring junior developers. This is an excellent opportunity to work on cutting-edge projects in a fast-paced environment.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٩ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر HAS — One-Click Apply For Jobs + AI Hiring For Employers",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DqsBn_fKyMlPWML2fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "qsBn_fKyMlPWML2fAAAAAA=="
+      },
+      {
+        "job_id": "OVdYdkxTQS1GVHlvUmhLc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbXBzWmtOQ1NGaEhWVWx4ZHpsU1ZuYzVjMDlMVWpsb1VGSnVNRzVCY1c4eVZ6RlNXRUZWWkRGaFlXMUhTbEZUTlVWSlYycEdlWFIwTjBka1RUVnZZMW8yVDB0bE9ITjJSVnBWZVVsd2EyWkRTM2RsUlhCNWRYcEdVV1JyTkRaUk5HNU9jM0JLWlVsd1VGaGtaMXBDZEhkblZuSTRjMmxTYlZaTFQyOWFXbGR1WlcweVRUTVNGell5Ukc5aGRtNU9RMDFITVhCMFVWQnNVRmhKTkZGdkdpSkJTRTR3UlRkR2NFSlFWa3RFVlc5dFNGRllaREV0VmpkUmNISllRMnhrY0RsUg",
+        "job_title": "Backend Developer - Python & Go",
+        "employer_name": "RESC",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ91lUpTAjDQV5d15uI3oHUR7qOvg_-x3OoK-0h&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/backend-developer-python-go--jeddah--ea6eba7e84b8873f7ba4a886fcf338eb4",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/backend-developer-python-go--jeddah--ea6eba7e84b8873f7ba4a886fcf338eb4",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "RESC is a leading technology and engineering company, with a wealth of experience spanning more than 25 years in a wide range of fields, including energy, electronic systems, safety solutions, automation, communications, control, embedded systems, and software.\n\nOur expertise spans renewable energy, electronic systems, smart devices, industrial safety systems, automation, and control, supported by state-of-the-art R&D centers and calibration laboratories to ensure the highest standards of quality and performance.\n\nWith a strong focus on research and development, we deliver cutting-edge solutions that drive efficiency, sustainability, and industrial progress.\n\nRESC is headquartered in Jeddah, Saudi Arabia. We combine local expertise with global innovation to deliver cutting-edge solutions in the Middle East and beyond.\n\nOur state-of-the-art 15,000-square-meter manufacturing facility in Jeddah underscores our commitment to local production, quality control, and the deployment of scalable technology.\n\nWe are looking for an experienced Mid-Level or Senior Backend Developer with strong hands‑on experience in Python and Go.\n\nThe main focus of this role is building reliable, scalable backend systems, APIs, and real‑time services. We are looking for someone with a broad engineering mindset who understands the full software lifecycle, from development and architecture to deployment, monitoring, and optimization.\nResponsibilities include:\n• Design and develop scalable backend services using Python and Go.\n• Build and maintain REST APIs, WebSockets, and real‑time services.\n• Design reliable backend architectures and system workflows.\n• Integrate SQL/NoSQL databases and third-party APIs.\n• Implement authentication and authorization using JWT, OAuth, and similar technologies.\n• Improve application performance, reliability, security, and scalability.\n• Troubleshoot backend, infrastructure, and deployment issues.\n• Build and maintain CI/CD pipelines.\n• Deploy and manage applications on Linux servers using Docker and Nginx.\n• Maintain clean Git workflows and participate in code reviews.\n• Monitor production systems, logs, errors, and performance.\n• Develop and integrate IoT services and real‑time device communication.\n• Collaborate with frontend developers, product teams, and other engineers.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D9WXvLSA-FTyoRhKsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "9WXvLSA-FTyoRhKsAAAAAA=="
+      },
+      {
+        "job_id": "UVBpRllObzhydWtjLWNLM0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGgzU0U1SVIwOWhOMUJTTm5WdWNUTldkVWd6UVMxb2QwWjVabkV6WVMweU5GQkxWR2xZVm1jMmFrSnFNM290Y0hrMVVtVkJOekZ1WVhvNFVURllMWGxVUjNWb04xQjZjVWN5WjFsQ1RIQkZiRXROY3poUU1uUkhWamhIVGxnMFYwVTFNVTF6UlhSclpVZGlSR1ZpU2s1UFRHTmtNbFJzTW5GVllWSnZVVkJWWkRreFVuTVNGell5Ukc5aGRtNU9RMDFITVhCMFVWQnNVRmhKTkZGdkdpSkJTRTR3UlRkR1kwUXlNVUpWT1RsVFFqRnJVMDExVTA5elZGTTBOalpaWWt0Ug",
+        "job_title": "Sr Python Developer مطلوب للعمل في شركة تقنية الحلول",
+        "employer_name": "شركة التوظيف الفوري",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tm.com.sa&size=128",
+        "employer_website": null,
+        "job_publisher": "إدارة الكفاءات",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://tm.com.sa/6265",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://tm.com.sa/6265",
+            "is_direct": false,
+            "publisher": "إدارة الكفاءات"
+          }
+        ],
+        "job_description": "هل تبحث عن فرصة للانضمام إلى فريق عمل مبدع ومتحمس في مجال تطوير البرمجيات؟ هل لديك خبرة في استخدام لغة Python وأطر العمل المرتبطة بها؟ هل ترغب في العمل في بيئة…",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض   (+2 مكان آخر)     •  عبر إدارة الكفاءات",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DQPiFYNo8rukc-cK3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "QPiFYNo8rukc-cK3AAAAAA=="
+      },
+      {
+        "job_id": "UmhRVld2MWY4SXdrZjYtYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTAzYUVkVVJIcEtlRXhrY1VaaVpUWlBWVkpQZUVaSGVIVkpjbGhxTlVWYVRTMDFTVEpLV2prNFZtMDVSMWhDUmkxSGNGWk5kRkphWDB3eVVsbHpaMWhaV1hVMGRuQnlVblprUTA5T1RXWnFielptUzI5TFJrdE9NVzgwWHpkUGMzQk9VV2d3U1VSdVVHaGlYMXBOT0c5RmJVTXlaRWw1T0ZCMk1uZElSMGRJT0MxblEySVNGell5Ukc5aGRtNU9RMDFITVhCMFVWQnNVRmhKTkZGdkdpSkJTRTR3UlRkSVZYaG1hVVozV0ZSWlNrdHFNRWxJZFU5eE4zRm1ZM1J6UTFSQg",
+        "job_title": "Senior Python Developer",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Zero Tax Jobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://zerotaxjobs.com/jobs/senior-python-developer-8hquk2qt",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://zerotaxjobs.com/jobs/senior-python-developer-8hquk2qt",
+            "is_direct": false,
+            "publisher": "Zero Tax Jobs"
+          }
+        ],
+        "job_description": "About the Role\n\nJoin an exciting remote development project focused on building a next-generation mobile application for a professional football team. As a Senior Python Developer, you will contribute to creating innovative digital experiences that strengthen fan engagement, enhance monetization opportunities, and connect supporters with the team both inside and outside the stadium. You will design and develop robust backend services, integrate AI-powered capabilities, and build scalable APIs to support seamless mobile interactions. Working with modern technologies and cloud infrastructure, you will help shape a high-performance, secure, and reliable platform. This role offers the opportunity to make a tangible impact on a digital product in the sports and technology space. You will collaborate with an international team in a remote-first environment, with occasional opportunities to meet in person.\n\nAccountabilities\n\n• Design, develop, and maintain scalable backend services using Python and frameworks such as FastAPI or Flask.\n\n• Build and integrate RESTful APIs to support mobile application features, fan engagement functionalities, and digital service delivery.\n\n• Implement AI-powered features by integrating services and models from providers such as OpenAI, Hugging Face, or similar platforms.\n\n• Develop efficient asynchronous data flows and ensure reliable communication between application components and external services.\n\n• Design, optimize, and maintain SQL and NoSQL databases to support performance, scalability, and data integrity.\n\n• Implement secure authentication and authorization mechanisms, including OAuth2 and JWT, while following data privacy best practices.\n\n• Containerize applications using Docker and support cloud deployment, preferably on Microsoft Azure.\n\n• Contribute to CI/CD pipeline development, deployment automation, testing, and continuous improvement of development workflows.\n\n• Collaborate with cross-functional team members to deliver reliable, user-focused solutions aligned with project objectives.\n\nRequirements\n\n• Proven experience in Python development, ideally in building production-ready backend systems and scalable applications.\n\n• Strong knowledge of FastAPI or Flask and experience designing and implementing RESTful APIs.\n\n• Practical experience integrating AI and machine learning services through APIs, including OpenAI, Hugging Face, or comparable solutions.\n\n• Solid understanding of asynchronous programming, JSON-based data exchange, and efficient data processing.\n\n• Experience designing and working with relational and/or non-relational databases, including SQL and NoSQL technologies.\n\n• Hands-on experience with Docker, cloud deployment, and CI/CD pipelines; familiarity with Microsoft Azure is a strong advantage.\n\n• Good understanding of application security, authentication protocols, authorization, and data protection practices.\n\n• Familiarity with Node.js is an advantage but not essential.\n\n• Strong analytical and problem-solving skills, attention to detail, and the ability to work independently in a remote team.\n\n• Effective communication and collaboration skills, with the flexibility to coordinate across working hours and contribute to an international development environment.\n\n• Willingness to complete a HackerRank technical assessment as part of the recruitment process.\n\nBenefits\n\n• Remote-first flexibility: Work remotely, with occasional in-person team sessions, workshops, or gatherings expected approximately once per quarter, likely in Prague.\n\n• Flexible working hours: Expected collaboration overlap is approximately 9:00–10:00 and 18:00–19:00 CET, with flexibility for a wider overlap appreciated.\n\n• Innovative project: Contribute to a high-impact mobile application designed to transform the football fan experience through technology and AI.\n\n• Modern technology stack: Work with Python, API integrations, AI/ML services, Docker, and cloud infrastructure.\n\n• International collaboration: Work with a distributed team in a collaborative environment focused on delivering a sophisticated digital product.\n\n• Expected start date: As soon as possible.\n\n• Technical assessment: A HackerRank challenge is part of the selection process.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Zero Tax Jobs",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DRhQVWv1f8Iwkf6-bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "RhQVWv1f8Iwkf6-bAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "qa_testing",
+    "query": "qa engineer"
+  },
+  "status": "OK",
+  "request_id": "f9dd788e-97b0-4167-b32d-28a31e69d423",
+  "parameters": {
+    "query": "qa engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "andVSWlpUXEzblZkYVptUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVVZEVHpWMFpuRTFTbWREYVZoNGVWSm5TRGhDUkdSM1RIZE5lREJvUWxoNWMxRlNNbHAwT0ZsU1dXeFVjM1IyUWs5Wk5XSmZkRmxJYm5kVWJWaDNOMHRsVm0xWWJFRlBhMWR0VmtKSE9TMUZNV1oxYjBKRmRHSXpMVWxDZGxScFoyRXRTVlYxVkZaWk1YRjZXa3M0UTFkM2EwMXBkVGRTZEVwM1QyTlFhbEl3ZFVWaVZqQVNGMkpzZW05aGRHbHVSRGcyWmpRdFJWQjVZMlp0ZDFFNEdpSkJTRTR3UlRkSFJtcFdVVGsyYmtkSE9WUlpZV3BYT0RCMlRrRXdPRmxwYVRoUg",
+        "job_title": "Quality Assurance Engineer (Saudi National Only)",
+        "employer_name": "Gathern",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gathern.co&size=128",
+        "employer_website": "https://gathern.co",
+        "job_publisher": "Careers.sa",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.careers.sa/en/jobs/quality-assurance-engineer-saudi-national-only-gathern-80d9848e",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.careers.sa/en/jobs/quality-assurance-engineer-saudi-national-only-gathern-80d9848e",
+            "is_direct": false,
+            "publisher": "Careers.sa"
+          }
+        ],
+        "job_description": "Are you passionate about building high-quality software that users love? Gathern is looking for a Quality Assurance Engineer to support the delivery of reliable, high-performing products. In this role, you’ll collaborate closely with engineers, product managers, and designers to validate features, report issues, and ensure our apps and services meet the highest quality standards.\nYou’ll contribute to our QA activities across manual and automated testing, participate in Agile ceremonies, and help improve how we test and deliver features. If you're detail-oriented, curious, and eager to grow in a fast-paced environment, this role is for you.\nResponsibilities:\nCollaborate with product and engineering teams to test features and report issues clearly and efficiently.\nExecute manual test cases and support the development of automated tests across mobile and backend platforms.\nValidate features during sprints and contribute to regression and exploratory testing cycles.\nDocument bugs and test results in Jira with clarity and context.\nParticipate in sprint planning and backlog grooming to provide a QA perspective.\nSupport QA team initiatives to improve test coverage and reduce bug leakage.\nUse tools like Firebase, Datadog, and Postman to validate backend behavior, error rates, and app stability.\nFollow and contribute to QA processes across the product lifecycle.\n1 - 3 years of experience in software quality assurance or a similar role.\nFamiliarity with Agile software development and testing practices.\nExperience testing mobile applications (iOS and Android) and backend APIs.\nAbility to write clear and concise bug reports and test documentation.\nBasic understanding of test automation tools and CI/CD pipelines.\nStrong attention to detail, problem-solving skills, and a team-first mindset.\nComfortable working in a fast-paced, collaborative environment.\nFluency in Arabic and good command of English.\nNice-to-Have Skills:\nExposure to automation frameworks (e.g., Appium, Postman, Cypress).\nAI-Assisted Testing: Familiarity with AI tools (e.g., ChatGPT, Claude, GitHub Copilot) to support test case generation, exploratory testing, test data creation, and bug analysis.\nInterest in AI-driven QA, automation, and emerging tools that improve testing efficiency and software quality.\nKnowledge of QA metrics and reporting tools.\nFamiliarity with tools like Jira, GitHub, TestRail, or similar.\nWhy Join Gathern?\nBe part of a collaborative and innovative team driving quality excellence.\nWork on cutting-edge products with real-world impact.\nEnjoy opportunities for professional growth and career advancement.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Careers.sa",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DjwUIiiQq3nVdaZmPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "jwUIiiQq3nVdaZmPAAAAAA=="
+      },
+      {
+        "job_id": "TE1lU283VGFFZ2d1UDJEY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWQxZFZCVFQwdG1MV1l5U1Voc2FscFhaRU5EUTNsTVRsbGhSR042VVdKU1pVeHZiV3hzTkV4alkxSlNOVkZIZVd3MVdtSTFVbWd5WVc5MFRqUXdNMlU1TFZSVlJXTk5VRFpvVkVSZlpUQlZZa0pCZURsYVRYSkxOR2cyVUdWalVVVm1ha2xzZDJsTVMzSkhkMFZXUnpsYWFERjZkbEp6WmxSMFkxUTBkVWRwYzFwa2QyY1NGMkpzZW05aGRHbHVSRGcyWmpRdFJWQjVZMlp0ZDFFNEdpSkJTRTR3UlRkSVkwTkZjbGxxVHpSamJHbGtaSG8yYzBoSlpHWnRPVWw2ZG1oMw",
+        "job_title": "Sr. Manufacturing Quality Engineer ( Saudi Nationals)",
+        "employer_name": "Lenovo",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lenovo.com&size=128",
+        "employer_website": "https://www.lenovo.com",
+        "job_publisher": "جوبز هب",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobshub.sd/jobs/sr-manufacturing-quality-engineer-saudi-nationals-lenovo-qurqbufmtkflcjd4skjnx0fbqufbqt09okvzd0jdb3dcuvvsrvlszgxxbwrzvuh",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobshub.sd/jobs/sr-manufacturing-quality-engineer-saudi-nationals-lenovo-qurqbufmtkflcjd4skjnx0fbqufbqt09okvzd0jdb3dcuvvsrvlszgxxbwrzvuh",
+            "is_direct": false,
+            "publisher": "جوبز هب"
+          }
+        ],
+        "job_description": "About Lenovo Lenovo is a global technology company with US$83 billion in revenue, ranked #153 in the Fortune Global 500. The company serves millions of customers across 180 markets, focusing on delivering smarter technology. Lenovo has expanded from its position as a leading PC company to offer a comprehensive portfolio of AI-enabled, AI-ready, and AI-optimized devices, infrastructure, software, solutions, and services. The company invests in innovation to contribute to a more equitable, trustworthy, and smarter future. The Role: Sr. Manufacturing Quality Engineer Lenovo is seeking a Sr. Manufacturing Quality Engineer to join its team in Riyadh, Saudi Arabia. This full-time role is open to Saudi Nationals and requires 5-10 years of relevant experience. The position focuses on leading quality management throughout the product lifecycle, from new product introduction to mass production, ensuring high standards and continuous improvement in manufacturing operations. Key Responsibilities • Lead quality management during the server New Product Introduction (NPI) phase by identifying quality risks and potential issues, and driving cross-functional teams to implement corrective and preventive actions. • Manage manufacturing quality during the mass production phase by proactively identifying quality problems, conducting root cause analysis, and driving effective resolution to ensure continuous quality improvement. • Oversee on-site quality management at the KSA factory. • Ensure quality processes, inspection standards, and manufacturing controls are effectively implemented and maintained across production operations. • Monitor manufacturing quality performance and drive continuous improvement initiatives to enhance product quality and operational excellence. • Collaborate closely with Development, Manufacturing Engineering, MPM, SQE, Test Engineering, and Site Operations teams. • Ensure all factors that may impact product quality are effectively identified, controlled, and continuously monitored. • Drive cross-functional collaboration to resolve quality issues and prevent recurrence through systematic corrective actions. Candidate Requirements • 5-10 years of experience in manufacturing quality engineering or a related field. • Demonstrated ability to lead quality initiatives and drive continuous improvement. • Strong analytical skills for root cause analysis and problem resolution. • Effective communication and collaboration skills for working with cross-functional teams. • This position is open to Saudi Nationals. Employee Benefits and Development Lenovo offers a supportive work environment with various benefits and opportunities for professional growth. Employees have access to an international team with a focus on gender diversity and an Employee Assistance Program for psychological, legal, and financial consultancy. The company prioritizes sustainable solutions, including CO2 Offset, Asset Recovery Services, and the Lenovo Certified Refurbished portfolio. Additionally, employees can benefit from an internal e-learning development platform and a mentorship program for personal development.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر جوبز هب",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLMeSo7TaEgguP2DcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LMeSo7TaEgguP2DcAAAAAA=="
+      },
+      {
+        "job_id": "TG9rb1Z4dGJZUU5hN3Y1TEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbm90T0RKdVp6RlZjSFJMY2paYWIzTTFXbXRpV1RKaE1WVjRjbGhzUlRoelRHWnVla3huYmxOSFNrVjZRVE5zVjJVM2VXTjZhek5pYzI1UFJEbElWbUpSUTBoaWNuZGpSMjVpVG1wWWFXazFPSEZaU1hZd09YSkpkME5qTVV0SWIzcG5TMGRJY214dllqaHlNRkZxU2pZemVETnNlV1pzV2w4d2FEaGZaelJrUlVOWE4wTVNGMkpzZW05aGRHbHVSRGcyWmpRdFJWQjVZMlp0ZDFFNEdpSkJTRTR3UlRkR0xXNXVSMkp3Y2xwNVVuTkliSFJEYVZsS1VFOWhTakJsWTFGbg",
+        "job_title": "Sr. Production Quality Engineer ( Saudi Nationals)",
+        "employer_name": "Lenovo",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVhs9df9G3ZJww0LmwPVds58djzRrL2DDkYkhk&s=0",
+        "employer_website": "https://www.lenovo.com",
+        "job_publisher": "إنديد",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.indeed.com/viewjob?jk=5451ac163124f8cf",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.indeed.com/viewjob?jk=5451ac163124f8cf",
+            "is_direct": false,
+            "publisher": "إنديد"
+          }
+        ],
+        "job_description": "General Information\n\nReq #\n\nWD00106982\n\nCareer area:\n\nEngineering\n\nCountry/Region:\n\nSaudi Arabia\n\nCity:\n\nRiyadh\n\nDate:\n\nFriday, October 30, 2026\n\nWorking time:\n\nFull-time\n\nAdditional Locations:\n\n• Saudi Arabia\n\nWhy Work at Lenovo\n\nWe are Lenovo. We do what we say. We own what we do. We WOW our customers.\n\nLenovo is a US$83 billion revenue global technology powerhouse, ranked #153 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY).\n\nThis transformation together with Lenovo’s world-changing innovation is building a more inclusive, trustworthy, and smarter future for everyone, everywhere. To find out more visit www.lenovo.com, and read about the latest news via our StoryHub.\n\nDescription and Requirements\n\nPlease note: We are actively hiring for this position. However, due to the current regional situation in the Kingdom of Saudi Arabia, our hiring process may take longer than usual. We appreciate your patience and will keep you informed throughout the process.\n\nResponsibilities\n\n• Lead quality management during the server New Product Introduction (NPI) phase by proactively identifying quality risks and potential issues, and driving cross-functional teams to implement corrective and preventive actions.\n\n• Manage manufacturing quality during the mass production phase by proactively identifying quality problems, conducting root cause analysis, and driving effective resolution to ensure continuous quality improvement.\n\n• Responsible for on-site quality management at the KSA factory.\n\n• Ensure quality processes, inspection standards, and manufacturing controls are effectively implemented and maintained across production operations.\n\n• Monitor manufacturing quality performance and drive continuous improvement initiatives to enhance product quality and operational excellence.\n\n• Partner closely with Development, Manufacturing Engineering, MPM, SQE, Test Engineering, and Site Operations teams.\n\n• Ensure all factors that may impact product quality are effectively identified, controlled, and continuously monitored.\n\n• Drive cross-functional collaboration to resolve quality issues and prevent recurrence through systematic corrective actions.\n\nSkills:\n\n• Proactive ownership mindset, able to identify issues independently.\n\n• Strong leadership skills to lead cross-functional teams to resolve problems.\n\n• Excellent communication skills.\n\n• Advanced data analysis capability.\n\n• Strong teamwork skills.\n\nWhat We can offer You:\n\n• An international team with a high focus on Gender Diversity.\n\n• Employee Assistance Program, e.g., for psychological, legal & financial consultancy\n\n• You are joining a company that prioritizes sustainable solutions like CO2 Offset, Asset Recovery Services, and the Lenovo Certified Refurbished portfolio.\n\n• Access to training for personal development - Internal E-learning Development Platform Available for Employees\n\n• Mentorship program\n\nWe are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, national origin, status as a veteran, and basis of disability or any federal, state, or local protected class.\n\nAdditional Locations:\n\n• Saudi Arabia\n\n• Saudi Arabia\n\nAI PROCESSING NOTICE\n\nWe use AI-based tools to support some of our processes (e.g. online interviews recordings and transcripts) in order to achieve better efficiency, accuracy and for our documentation purposes. AI can make mistakes, but we always make sure that the outputs are manually reviewed by a human. You can always opt-out or contact us in case of any question.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر إنديد",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLokoVxtbYQNa7v5LAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LokoVxtbYQNa7v5LAAAAAA=="
+      },
+      {
+        "job_id": "Y2N0RHA2MEJ0NUlMVE81c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEJ2WmpKb2NWb3hYMTlHV2xSU1pFa3paVE4xWXpoa2VqTnRRbU5aWm5OVGFHVkpaRW8xU0MxamMybEViR1p6YkMxMlVESkphRGRGTVZadE5tUndiWFUwZVMxUFMxOXlhVEptTjJOd2VYZzRRek51U0ZsVFpXTmFSREpuYlVsT2FXVkhjM000Tm1KS2VGQmlSRE5uTjJzM1pHWmZXVkk0ZGt0cVlsSXdWR1JyY1c1QlZWRVNGMkpzZW05aGRHbHVSRGcyWmpRdFJWQjVZMlp0ZDFFNEdpSkJTRTR3UlRkRmMydGhZbXAzTURFNVJUQlRSbmxHV0Y5YWRqWjNjV1ZFTkRsMw",
+        "job_title": "QA/QC - Civil Engineer",
+        "employer_name": "BEC Arabia",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4OAYV_szMiHkRdpHS0NGgfLg42KB_b2Ymr0C&s=0",
+        "employer_website": "https://www.becarabia.com",
+        "job_publisher": "BEC Arabia",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.becarabia.com/career/job-000114",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.becarabia.com/career/job-000114",
+            "is_direct": false,
+            "publisher": "BEC Arabia"
+          }
+        ],
+        "job_description": "## About the Role\nBEC Arabia is seeking a highly skilled **QA/QC - Civil Engineer** to join our dynamic team in Riyadh. This role is integral to ensuring the highest standards of quality and compliance across our civil engineering projects, which include government mega-projects, commercial developments, and infrastructure initiatives aligned with Saudi Vision 2030. As part of the QA & QC Department, you will collaborate with multidisciplinary teams to implement and monitor quality assurance and control processes that meet both client and regulatory expectations.\n\nIn this role, you will oversee quality inspections, ensure adherence to project specifications, and maintain compliance with the **Saudi Building Code (SBC)** and other relevant standards. You will also contribute to continuous improvement initiatives, leveraging cutting-edge tools and methodologies to enhance project outcomes. This position offers a unique opportunity to work on some of the Kingdom's most prestigious projects, including NEOM and Red Sea developments, while advancing your career in a supportive and innovative environment.\n\nYour day-to-day activities will include conducting site inspections, preparing quality documentation, coordinating with contractors and consultants, and ensuring compliance with **ISO 9001** standards. This is a career-defining opportunity to make a tangible impact on the quality and sustainability of Saudi Arabia's infrastructure landscape.\n\n## Key Responsibilities\n- **Develop** and implement project-specific QA/QC plans in alignment with client requirements and regulatory standards.\n- **Conduct** regular site inspections to ensure compliance with project specifications, drawings, and applicable codes.\n- **Monitor** construction activities to identify and address quality issues proactively.\n- **Ensure** adherence to the **Saudi Building Code (SBC)** and other relevant standards.\n- **Prepare** and maintain quality documentation, including inspection reports, test plans, and non-conformance reports.\n- **Coordinate** with contractors, consultants, and project stakeholders to resolve quality-related issues.\n- **Review** and approve material submittals, method statements, and shop drawings for compliance.\n- **Implement** and monitor **ISO 9001** quality management systems across assigned projects.\n- **Conduct** root cause analysis and recommend corrective actions for non-conformances.\n- **Train** project teams on quality standards, procedures, and best practices.\n- **Support** internal and external audits, ensuring timely closure of audit findings.\n- **Promote** a culture of quality and continuous improvement across all project phases.\n\n## Required Qualifications\n- **Bachelor of Science in Civil Engineering** or a related field.\n- Minimum of **5 years of experience** in QA/QC roles within the construction or civil engineering industry.\n- Registration with the **Saudi Council of Engineers (SCE)**.\n- In-depth knowledge of **Saudi Building Code (SBC)** and **ISO 9001** standards.\n- Proficiency in quality management tools and software, such as **Primavera P6**, **AutoCAD Civil 3D**, and **MS Office Suite**.\n- Strong understanding of construction materials, methods, and testing procedures.\n- Familiarity with **NEBOSH** or equivalent safety certifications.\n- Excellent communication and problem-solving skills.\n\n## Preferred Qualifications\n- **Master’s degree** in Civil Engineering, Construction Management, or a related field.\n- Certification as a **Certified Quality Engineer (CQE)** or equivalent.\n- Experience working on **Saudi Vision 2030** giga-projects.\n- Knowledge of **LEED**, **Mostadam**, or other green building standards.\n- Proficiency in advanced quality management tools such as **SAP Quality Management Module**.\n\n## Working Conditions\n- Based in **Riyadh**, with frequent site visits to construction locations.\n- Work environment includes both office settings and active construction sites.\n- Personal Protective Equipment (PPE) required during site visits.\n- Exposure to varying weather conditions typical of the Riyadh region.\n- Standard working hours with occasional extended hours to meet project deadlines.\n- Limited regional travel may be required for project coordination.\n\n## What We Offer\n- Competitive salary and benefits package, including health insurance and annual leave.\n- Opportunities for professional development and certification sponsorship.\n- A safety-first culture with a commitment to employee well-being.\n- Exposure to iconic projects that shape Saudi Arabia’s infrastructure landscape.\n- A multicultural and collaborative work environment.\n- Career advancement opportunities within a leading construction and engineering firm.\n- Access to state-of-the-art tools, technologies, and methodologies.\n\n## Suggested Required Skills\n- \"Primavera P6\"\n- \"AutoCAD Civil 3D\"\n- \"ISO 9001\"\n- \"Saudi Building Code (SBC)\"\n- \"Quality Management Systems\"\n- \"Root Cause Analysis\"\n- \"Construction Materials Testing\"\n- \"MS Office Suite\"\n\n## Suggested Preferred Skills\n- \"Certified Quality Engineer (CQE)\"\n- \"LEED or Mostadam Standards\"\n- \"SAP Quality Management Module\"\n- \"NEBOSH Certification\"\n- \"Advanced Quality Auditing Techniques\"\n\n## Suggested Education\n- \"Bachelor of Science in Civil Engineering\"\n\n## Suggested Min Years Experience\n- 5",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BEC Arabia",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DcctDp60Bt5ILTO5sAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "cctDp60Bt5ILTO5sAAAAAA=="
+      },
+      {
+        "job_id": "V09uNUFBbkR0SW96OHAwZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXaloyVG5kVk4ycHhUMGRWZFdGU1JXVXlVMDB3Y1hkc1puWjJaRk5KZVdKbFZWRkRTME0yWkc1WmNpMU9NbTAxWTA1UFoyMUhaV3hLVVdsbVJtTlRVR1poYkRsM1pFODFZMlEyTTFOeWIyVkdTMEZvY25kWk1GOWFVMDFtYUVGcE5XMUxRVWhyVGpGMGQwdzVOazh3UVVGNFJIVnNlVk10UzJRdFRHRXpibVJ4Y3kxYVFYSVNGMkpzZW05aGRHbHVSRGcyWmpRdFJWQjVZMlp0ZDFFNEdpSkJTRTR3UlRkSGVITjJNVVJTVjNaNFNFaDRha2xFV25Ga1lrZ3RWVlZNV0RCMw",
+        "job_title": "QA Analyst: Software Testing & Automation",
+        "employer_name": "DXC Technology Morocco",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_e9b9_8_QKjoeRl_-rVIAJiMFcLPEOzYR-yg&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-analyst-software-testing-automation--riyadh--eeb44177a82726b6e08c140ee9356729d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-analyst-software-testing-automation--riyadh--eeb44177a82726b6e08c140ee9356729d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "DXC Technology Morocco is seeking a Software QA Engineer to ensure quality across the development lifecycle in a fast-paced environment. You will analyze requirements, design test cases, and report defects clearly.\n\nYou will perform manual testing, with automation experience a plus, and collaborate with developers in Agile teams. Familiarity with JIRA, API testing tools, and cloud platforms is desirable. Strong communication and teamwork are essential to thrive in this role.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWOn5AAnDtIoz8p0fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WOn5AAnDtIoz8p0fAAAAAA=="
+      },
+      {
+        "job_id": "UllWYklSTkFFQ2RRVVpGTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVnBaVmpoMk1uaGxRbTk1YWxaclN5MDBOblJvWDJWSWRXdFFTRFo2YVcxWU1EWnRaV0l3WTNOWE1XOVlORU5WT1ZWUVRFNVFlR3RSWHkxS1RtUTNTR1ZLVFRJeFlsQkxPVFoxV2pkdmNEaFZVVm8xV2pCdVRGOUJNVzU1TkY5a05HWmtSSGRVWTBGWVlrTTVSa0ZoVlRCeE9YUmpOMXBaYzBNMFEyUTFhVXRETVRGdlRWa1NGMkpzZW05aGRHbHVSRGcyWmpRdFJWQjVZMlp0ZDFFNEdpSkJTRTR3UlRkSGNHSjBWVEJCWmpWeFlteGlYM0ZPZERNd1p6SklibGhpU0hGUg",
+        "job_title": "Quality Assurance Engineer - Ar Rjum",
+        "employer_name": "Bechtel Corporation",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymCpMjDx_ot-imZVxc7gpUd0CxE5bMfKu8PKO&s=0",
+        "employer_website": "https://www.bechtel.com",
+        "job_publisher": "Bechtel Corporation Jobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://jobs.bechtel.com/us/en/job/BCFBCKUS298976EXTERNALENUS/Quality-Assurance-Engineer-Ar-Rjum",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://jobs.bechtel.com/us/en/job/BCFBCKUS298976EXTERNALENUS/Quality-Assurance-Engineer-Ar-Rjum",
+            "is_direct": false,
+            "publisher": "Bechtel Corporation Jobs"
+          }
+        ],
+        "job_description": "Requisition ID: 298976\n• Relocation Authorized: National - Camp\n• Telework Type: Full-Time Office/Project\n• Work Location: Dhalm\n​​​​​​​\nExtraordinary teams building inspiring projects:\n\r\nSince 1898, we have helped customers complete more than 25,000 projects in 160 countries on all seven continents that have created jobs, grown economies, improved the resiliency of the world's infrastructure, increased access to energy, resources, and vital services, and made the world a safer, cleaner place.\nDifferentiated by the quality of our people and our relentless drive to deliver the most successful outcomes, we align our capabilities to our customers' objectives to create a lasting positive impact. We serve the Infrastructure; Nuclear, Security & Environmental; Energy; Mining & Metals, and the Manufacturing and Technology markets. Our services span from initial planning and investment, through start-up and operations.\nCore to Bechtel is our Vision, Values and Commitments. They are what we believe, what customers can expect, and how we deliver. Learn more about our extraordinary teams building inspiring projects in our Impact Report.\n\nProject Overview:\n\r\nThe Ar Rjum Project comprises a green field gold project with three open pit mining operations with associated waste dumps and ore stockpile, a processing plant, tailings management facilities, and supporting infrastructure including water supply, power supply, maintenance facilities, offices, temporary and permanent accommodation village.\nThe Project is situated within the Central Arabian Gold Region, approximately 200 km north-east of Taif towards Riyadh and about 26 km South of Al Mouwayh, which is a small town situated on the Jeddah - Riyadh highway.\n\nJob Summary:\n\r\nQuality Assurance reports to the Project Quality Manager and verifies implementation of the quality program across one or more functions in engineering, procurement, construction, testing, and commissioning. This role ensures compliance with project and ISO 9001 requirements, supports the development of quality management system tools and metrics for monitoring quality performance, coordinates audits and inspections, manages corrective actions, and provides guidance to project teams on quality matters and improvement.\n\nMajor Responsibilities:\n\r\n• Assist the Quality Manager in implementing and communicating the project quality program/plan requirements to the project team.\n• Lead and support the implementation of People-Based Quality (PBQ), Lessons Learned, Closed Loop Corrective Actions, Continuous Improvement initiatives, and Best Practices, including the collection, evaluation, and documentation of lessons learned in the appropriate registers.\n• Prepare quality audit checklists and coordinate, lead, or support internal and external audits and surveillances of project quality programs, including vendor, contractor, and subcontractor assessments.\n• Maintain liaison with client quality representatives and support the Quality Manager during client or regulatory audits.\n• Support the development, maintenance, and execution of the Project Quality Audit & Surveillance Schedule, ensuring timely follow-up and closure of audit findings and corrective actions.\n• Monitor quality activities across engineering, procurement, and construction to ensure compliance with approved quality plans, procedures, and specifications, and review related documents for inclusion of quality requirements.\n• Review and determine applicable quality and regulatory requirements, report new or revised regulations, and support the development and revision of QA procedures and project-specific quality documentation.\n• Coordinate and perform inspections and surveillances at site and vendor locations, maintain accurate inspection records, and issue Non-Conformance Reports (NCRs) as required.\n• Assist in root cause analysis and closed-loop corrective action processes to ensure timely resolution and closure of findings.\n• Participate in the prequalification of subcontractors and suppliers by evaluating their quality systems, capabilities, and controls, and reviewing their submittals such as quality manuals, procedures, quality plans, ITPs, resumes for quality personnel, test reports, audit reports, and schedules.\n• Provide training and guidance to project personnel on quality requirements and procedures and conduct project QMS orientation and awareness sessions as applicable.\n• Report quality weekly/monthly progress to the project quality manager\n\nEducation and Experience Requirements:\n\r\n• Bachelor’s degree in Engineering (preferably in Electrical Engineering).\n• ISO 9001:2015 Certified Lead Auditor (IRCA approved) – required.\n• Additional certifications in Quality (e.g., Six Sigma, Lean) – preferred.\n• Minimum 10–12 years of relevant experience, including minimum 8 years in a supervisory role in quality.\n• Experience in QA/QC activities across engineering, procurement, and construction phases.\n• Previous experience with National Grid (NG) and Saudi Electricity Co (SEC) specifications and projects.\n\nRequired Knowledge and Skills:\n\r\n• Strong understanding of quality assurance principles and ISO standards.\n• Ability to interpret technical specifications, drawings, and quality plans.\n• Strong analytical skills with practical knowledge of how to identify key performance quality matrices, proficiency in root cause analysis and corrective action systems.\n• Proficiency in providing direction and on the job training to assigned personnel.\n• Proficiency in oral and written communications.\n• Excellent communication and stakeholder management and presentation skills.\n• Proven skills in Microsoft Office, Power BI (High Level Performance).\n• Ability to work collaboratively under the direction of the Quality Manager and lead quality activities effectively.\n• Experience with developing training materials, conducting training especially in soft skills, quality audits/ surveillances.\n\nTotal Rewards/Benefits:\n\r\nFor decades, Bechtel has worked to inspire the next generation of employees and beyond! Because our teams face some of the world's toughest challenges, we offer robust benefits to ensure our people thrive. Whether it is advancing careers, delivering programs to enhance our culture, or providing time to recharge, Bechtel has the benefits to build a legacy of sustainable growth. Learn more at Bechtel Total Rewards\n\nDiverse teams build the extraordinary:\n\r\nAs a global company, Bechtel has long been home to a vibrant multitude of nationalities, cultures, ethnicities, and life experiences. This diversity has made us a more trusted partner, more effective problem solvers and innovators, and a more attractive destination for leading talent.\nWe are committed to being a company where every colleague feels that they belong-where colleagues feel part of \"One Team,\" respected and rewarded for what they bring, supported in pursuing their goals, invested in our values and purpose, and treated equitably. Click here to learn more about the people who power our legacy.\n\nBechtel is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, age, national origin, disability, citizenship status (except as authorized by law), protected veteran status, genetic information, and any other characteristic protected by federal, state or local law. Applicants with a disability, who require a reasonable accommodation for any part of the application or hiring process, may e-mail their request to acesstmt@bechtel.com",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "ظلم     •  عبر Bechtel Corporation Jobs",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DRYVbIRNAECdQUZFNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "RYVbIRNAECdQUZFNAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWkp3V29falFYT2pOTVFxRnRCMVdzYXhIOG5raWtvMXFtZUQ0NWJfU3JTZi1YNUliZzU5SmtOQk1wX0JXZ1hiQjd0cW11cHhIckRnX0ZUN0RlaVhTNWU3eDFCc2VfdzVhRV8wRVhEVk16YlZkVU1VQUxWRTFxUHgzTWZpdDlBOERRblBxVUpNX2pOakF4TmhiejNvREQ2cGZLcHhjZm9xTXk4dXhFRDlfX1hmZmluS0pDanZuenhKdTQxMkZnMXZrNnZVN0w4S0hCczdXZVZiSVVDd2xXcDd0cmdZNGVhU3Y0cFNwc0hWbGN3VnFGZXRrdjduZGl1bThYNlQ0dndJeVIyaXJpWmNaUmNyODN6eVd4UkVtdjdLcGlESTl2ZTVXRkdVaVRWOENnTWkxcHU5UUVKZzU2MHoxT2RXY3NJQUdQMXB5SUZ0ekxTNVJoZFFMa3NOZHQ0QTR1UThZbEJja1EwS0Utc3lhWXo4TENkQWFXZEgwUV9vQzI0RklvZG9Sa2NDdHJMRTJYY1NDZmhoTzR1RllKS043NkJyV25peW5JNDFjTnpVMHc0Q2lTakU1Q3NoVmZMTUh5V1l6QTJscFQtbnh6Q3FvYjRvVGQ0TmxXdUMyc0RBMVBEQWZhVE9YR3VpczRucllLUzRaVWoxSUdPVHk3d2ZRSTd6bHFGVWhadGxqSUdDYldNZldsTVFXT0hoZkZKR3ZhSnJBEhdibHpvYXRpbkQ4NmY0LUVQeWNmbXdROBoiQUhOMEU3SEdFdzl1N1FlRnRtSFpfN3lXX0VMbGExSG92QQ"
+  }
+}

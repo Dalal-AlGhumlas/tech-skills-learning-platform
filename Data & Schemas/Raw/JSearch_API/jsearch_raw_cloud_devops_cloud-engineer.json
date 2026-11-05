@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "specialization": "cloud_devops",
+    "query": "cloud engineer"
+  },
+  "status": "OK",
+  "request_id": "0743cb19-9092-4cd5-903b-63277db1fa82",
+  "parameters": {
+    "query": "cloud engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "bUxfSHlzVXFRYWIxVVlxUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZak5yV1dNNFgyOHhOVkZNVVZKeWMyVnRTR3hJWm1WRFkwaENhRm8zUVU0ek5uUkhSMDlDYWtsTldYRkNRM2xqUjBabk1HdFlRV2xDYjFKNlNHSlpjVVpSUWxWRWNtTTFNRmx3VjBGbk4zUnVUMEo2ZFU5eVpWbHFjM05WVlVRNVUzWm1kVEZQV0dOT1dEQTNOVTFGZG0xWGR6RktXRlJTYld4alVtTXdlRUpXUTFFeFIyb1NGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkRlMwSTNNbUZ2VjBock1qUk9OMEZwYWpVMlRUbEZWVUpqY0Mxbg",
+        "job_title": "Senior Cloud & Infrastructure Engineer - Secure App Hosting",
+        "employer_name": "Master Works",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://master-works.sa&size=128",
+        "employer_website": "https://master-works.sa",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-cloud-infrastructure-engineer-secure-app-hosting--riyadh--e562991f69064f0e359758f9e8feadb06",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-cloud-infrastructure-engineer-secure-app-hosting--riyadh--e562991f69064f0e359758f9e8feadb06",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "SOOR, a subsidiary of Master Works, seeks a Cloud & Infrastructure Engineer to manage enterprise hosting environments with a focus on high availability, performance, and security. You will support IIS, Windows Server, SQL Server, and web apps, ensuring resilient operations across networks and databases.\n\nYou should have at least 5 years of experience in similar projects, strong problem-solving skills, and familiarity with SSL, authentication controls, load balancers, and DR testing.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DmL_HysUqQab1UYqPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "mL_HysUqQab1UYqPAAAAAA=="
+      },
+      {
+        "job_id": "al9xWlozRXVLWDlzcllnLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa2RvWW1ocWFtSjVTVTVIWDJKeU9WcFNURlJRZFUxSFFYRTNOa2hoVFMxMmMyeEpOa0U1VW5ObE5GOTJZa0ZTUWtSdlNHcHdRa296UkZRNFUyaHRSSGREZDJGcU5uWm5SR3g1UTJwRVJqZHdNR3AxVDFSM1ZTMUllVTVJWTFGWFdqWlZNVWQ2Vm1ORFJWVnJOMnBVVmtNeGRURlFkM2d6TUZsQldVZ3lZbXM1YzNKMVIyVVNGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkSFNXOXdaa3czYW1RemVXSmhVbG95YlRaeVEyVlplbmxYWVdobg",
+        "job_title": "Senior Enterprise Implementation Engineer – Cloud & Security",
+        "employer_name": "FileCloud",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filecloud.com&size=128",
+        "employer_website": "https://www.filecloud.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-enterprise-implementation-engineer-cloud-security--riyadh--e303a22c2b340826b51fade6193f93f6d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-enterprise-implementation-engineer-cloud-security--riyadh--e303a22c2b340826b51fade6193f93f6d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "FileCloud is seeking an Implementation Engineer in the KSA region with 6+ years of experience in designing, architecting and implementing IT solutions for enterprise accounts. You will design tailored solutions, install and integrate systems, and support sales with technical questions.\n\nThe role requires strong Linux and Windows knowledge, cloud experience across major providers, and fluency in Arabic and English.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dj_qZZ3EuKX9srYg-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "j_qZZ3EuKX9srYg-AAAAAA=="
+      },
+      {
+        "job_id": "OVBUQ2Q5b0dHX3ZkMlpWWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGRFYmtOblNWQlhaMUIwYVRaNk5sZzRNMkpTY0hWUlFtRm9Ra1ExTVhaNVRUVnJiRm8wYlZkZldWQjNTRGxZU0ZSU1JGaGlhbWxYTkc1eVIwOW9NbkppZVdObmFsaHdZblYxWjFSSGVtVklkVnBPVm1Wc1JYWjNkRmRvWVhsVlRXZFhkakZPTWxCc2FrSm5VbDgzVVdnMlNWZGphVkprWDNKeGNIRldOR1J4VlhoNlZ6WVNGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkR1JuSkNWMWgzUVRoNmN6TlpUMkpqZVY5eFltMWhkalJ4TW5CUg",
+        "job_title": "Remote IT Systems Administrator - Cloud & Security",
+        "employer_name": "Mavins Saudi Arabia",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mavins-sa.com&size=128",
+        "employer_website": "https://www.mavins-sa.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/3021436307603169404",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/3021436307603169404",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Mavins Saudi Arabia is seeking an IT Systems Administrator to manage and maintain the firm's IT infrastructure, ensuring reliability, security and efficiency.\n\nYou will manage servers, networks, cloud platforms (AWS/Azure), and on-premise systems, provide support, monitor performance, and implement security measures. The role offers remote work with opportunities for professional growth.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D9PTCd9oGG_vd2ZVXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "9PTCd9oGG_vd2ZVXAAAAAA=="
+      },
+      {
+        "job_id": "MHl4VDQ1d2t0eHpLblJzWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWc1WWt4eWVGQTRSRU5rZGpGamVtVXRTRjlxY0U5Wk1GUmtjSE5rWVZOV09FNTZWSE52TFV0MVVrbFFkemRGVDI1UlUxVXdObWxHYUVkUlpqbFdUMWRDVkd0VU0zcG1TVmhqYldaWWFrOU1YMTlpYUhKT1lrSnJjakZyUzJOUVZqRlljVGxKYm5WSWJuVnRSVXB3YUdnMGJVVkVTMVYyTjJKYVp6RllUMmhGWVcwNE1GVVNGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkSE5IWTVkWGRwZGpWbExWZzNaWEl6VkRGc09FbElUR3htWTFObg",
+        "job_title": "Senior Technical Lead - Cloud Engineering",
+        "employer_name": "SITE سايت",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-technical-lead-cloud-engineering--riyadh--e8b1332c755963d5cf44890ec8000c884",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-technical-lead-cloud-engineering--riyadh--e8b1332c755963d5cf44890ec8000c884",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Lead the technical delivery of cloud projects and ensure successful implementation for clients onboarding.\n\nThe role requires strong technical knowledge across cloud platforms, IT infrastructure, operating systems, networking, and migration technologies, along with the ability to coordinate with customers and internal teams.\n\nThe Senior Technical Lead will be responsible for delivering cloud services such as customer onboarding, workload migration, disaster recovery (DR), backup, email services, and other enterprise IT solutions.\n\nKey Responsibilities\n• Lead the technical delivery of cloud projects from planning and implementation to customer acceptance and handover.\n• Review the Scope of Work (SoW) and ensure all technical requirements and deliverables are clearly defined.\n• Act as the main technical point of contact for assigned customers.\n• Conduct technical discovery and assessments of customer infrastructure, applications, and dependencies.\n• Prepare and review technical designs, implementation plans, and migration strategies.\n• Coordinate with internal teams, vendors, and customers to ensure successful project delivery.\n• Deliver cloud onboarding activities, including resource provisioning, networking, connectivity, and service configuration.\n• Plan and execute workload migrations from on-premises environments or other cloud platforms.\n• Implement backup and disaster recovery solutions, including DR testing, failover, and failback.\n• Support the deployment and integration of enterprise services such as Active Directory, DNS, email, databases, and application hosting.\n• Troubleshoot complex technical issues and resolve delivery challenges.\n• Identify technical risks, dependencies, and scope gaps that may impact project delivery.\n• Ensure technical documentation, knowledge transfer, and operational handover are completed.\n• Support technical discussions, solution assessments, and delivery planning.\n• Improve delivery processes through automation, standardization, and knowledge sharing.\n\nRequirements\n• Bachelor's degree in Computer Science, Computer Engineering, Information Technology, or a related field.\n• Minimum 6 years of experience in cloud engineering, IT infrastructure, or technical project delivery.\n• Proven experience leading technical projects and working directly with enterprise customers.\n• Strong knowledge of cloud platforms, including private, public, and hybrid cloud environments.\n• Hands-on experience with virtualization, compute, storage, and backup technologies.\n• Strong experience with Windows Server and Linux administration and troubleshooting.\n• Good understanding of networking, including routing, firewalls, VPN, NAT, DNS, and load balancing.\n• Experience with cloud migrations, customer onboarding, and disaster recovery implementation.\n• Broad knowledge of enterprise IT services, including Active Directory, email, databases, and application infrastructure.\n• Understanding of IT security, access management, and infrastructure best practices.\n• Familiarity with automation and scripting tools such as PowerShell, Bash, Ansible, or Terraform.\n• Strong communication, problem-solving, documentation, and customer management skills.\n• Ability to manage multiple projects, coordinate technical teams, and work under pressure.\n\nPreferred Qualifications\n• Experience working with a cloud service provider, system integrator, or IT consulting company.\n• Professional certifications in cloud or infrastructure technologies, such as AWS, Azure, Google Cloud, VMware, Red Hat, or Cisco.\n• Experience with Kubernetes, OpenShift, or other container platforms is an advantage.\n• Experience delivering enterprise-scale migration and disaster recovery projects.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D0yxT45wktxzKnRsXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "0yxT45wktxzKnRsXAAAAAA=="
+      },
+      {
+        "job_id": "YW9HcGhBTE9VQl9ZLXgyQ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTVUZFhwcFVWTmpkVlowZVVOV1J5MW9jMGQ1YzNGeWNYWTBURkZpWkRoVmRUWnVhbXBzTlhsc1pYZENTRFJDZDNsaFRuSnBhVXBZUmt0algwSXhiR1ZhZUZoa1NrczNOa04zV1VsUUxXVlBSV28yTkVscE5WTkpRMXBwYlhvdE9UWnRNV0V5VmpjemVrcFVka1pvU1RSNmR6azJlalowZWt0UlgyUk1iMjVMUVZwSlgwY1NGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkSFJsOXhjazAzYWxOMVNHWjVjWGQ2VTBkdk9IcHBOR1JVUTFaQg",
+        "job_title": "Remote IT Systems Administrator - Cloud & Security",
+        "employer_name": "Mavins Saudi Arabia",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mavins-sa.com&size=128",
+        "employer_website": "https://www.mavins-sa.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-387876752083461572",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-387876752083461572",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Mavins Saudi Arabia is seeking an IT Systems Administrator to manage and maintain the firm's IT infrastructure, ensuring reliability, security and efficiency.\n\nYou will manage servers, networks, cloud platforms (AWS/Azure), and on-premise systems, provide support, monitor performance, and implement security measures. The role offers remote work with opportunities for professional growth.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الدمام     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DaoGphALOUB_Y-x2CAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "aoGphALOUB_Y-x2CAAAAAA=="
+      },
+      {
+        "job_id": "RGVLc0htM095MG1TOEtxVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblZOWXpKQ2EwTklkblJRY1ZaaWVGSlRVbGxmYnpBdFdWbGlkeTF5VlVkNVZqaDJjV2hhTVVaalVFaERZamx5WDNwU2JYcGZhMUZ4VlRadVlUVTBlWGhNUmxSWFZsWkZPRzFRVldaaVlVVjNlRkZXVmt4VlJqVjJiMjlrVEVJd1NFZ3labTlITWxSVGJ6TkdOalp2ZGs1VlNVd3lXRzFvTXpObVpEZGhSekJxV1VWak9Ga1NGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkSVZXbHRTa1pEZVdGeFRsVlBXSGRNT1MxZldFVkVkRzVsTm5GMw",
+        "job_title": "Senior Infrastructure Engineer: Cloud, Virtualization & HA",
+        "employer_name": "DeepSource Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-infrastructure-engineer-cloud-virtualization-ha--riyadh--eeaf670d7c9a73599134e7416adff8f50",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-infrastructure-engineer-cloud-virtualization-ha--riyadh--eeaf670d7c9a73599134e7416adff8f50",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "DeepSource Technologies in Riyadh is seeking a Senior Infrastructure Engineer to design, implement, and optimize enterprise IT infrastructure across servers, storage, networking, and security. You will manage Windows/Linux systems, virtualizations (VMware vSphere/ESXi, Hyper‑V), and hybrid-cloud environments with Azure and AWS.\n\nResponsibilities include DR planning, automation with PowerShell/Bash/Python, and collaboration with cybersecurity, network, and application teams.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DDeKsHm3Oy0mS8KqUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "DeKsHm3Oy0mS8KqUAAAAAA=="
+      },
+      {
+        "job_id": "dUZodjdlTWtvWTR3ZGxEVEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZamMzVlRSWmVFVkVaM0pJWDBwT1pWbGpUME56ZG1Gd2RFUldOSEF6YTBnMGNtdHpaRjh3VVVZME5XMVNkVTE1WTBaM2NFbElTa2hzYnpVMU1YUk1kRTlFVlVKdE1VZFlWbGxMYm0xeVZXTXlSekpsWkhwMVYyVTFkRVF6Y0RVd1JrRk9kVTl1YkVWWlNWSTFaVXh2WjB0S1RHOXhRVVZ0VmpOelJFVmpWVVJUTUVJemVIWVNGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkSWExVnpaRVZYZGtoak5FMW5SVlE1VEZKNE1HSjFWRUUwTTNGMw",
+        "job_title": "Senior Cloud Engineer – Alibaba Cloud",
+        "employer_name": "TestCrew | شركة متخصصة في اختبار البرمجيات في مستوى الجودة والأداء",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTve2-4TL3LbC31rVHdoq_TXjAVHY0pN3sKY6B6&s=0",
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/senior-cloud-engineer-alibaba-cloud-testcrew-riyadh--fj-2425979909",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/senior-cloud-engineer-alibaba-cloud-testcrew-riyadh--fj-2425979909",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "Job Title: Senior Cloud Engineer – Alibaba Cloud (Professional Services & Managed Services)\n\nLocation: Riyadh, Saudi Arabia\n\nExperience: 3–7 Years\n\nJob SummaryWe are looking for a Senior Cloud Engineer with hands-on experience in AWS, Azure, Alibaba Cloud, or other public cloud platforms. Candidates must have strong cloud infrastructure fundamentals and senior-level expertise in at least one specialization: VMware VCF & Networking or DevOps, Kubernetes & Automation. Prior Alibaba Cloud experience is not mandatory.\n\nKey Responsibilities\n• Design, deploy, and manage secure cloud infrastructure and landing zones.\n• Execute cloud migrations, backup, disaster recovery, and recovery testing.\n• Manage cloud networking, security, monitoring, and access controls.\n• Automate infrastructure provisioning and deployments or manage VMware environments.\n• Handle incidents, changes, troubleshooting, and root cause analysis.\n• Maintain technical documentation and support customer environments.\nMandatory Requirements\n• 3–7 years of relevant experience in cloud, infrastructure, DevOps, or virtualization.\n• Hands-on production experience with at least one public cloud platform.\n• Practical experience with cloud deployment, configuration, migration, and disaster recovery.\n• Strong Linux administration, Windows Server knowledge, and scripting skills.\n• Expertise in at least one of the following:\nOption A – VMware VCF & Networking\n• VMware VCF, vSphere, vCenter, vSAN, and NSX.\n• Enterprise networking, hybrid connectivity, and VM migration.\n• VMware-based disaster recovery solutions.\nOption B – DevOps & Automation\n• Terraform and Infrastructure as Code (IaC).\n• Kubernetes (EKS/AKS/ACK), Docker, and CI/CD pipelines.\n• Automation using Ansible, Helm, or GitOps tools.\nCertifications\n• Alibaba Cloud ACA Cloud Computing within 60 days of joining.\n• Alibaba Cloud ACP Cloud Computing within 6 months of joining.\n• AWS, Azure, VMware, Kubernetes, or Terraform certifications are preferred.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٢ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DuFhv7eMkoY4wdlDTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "uFhv7eMkoY4wdlDTAAAAAA=="
+      },
+      {
+        "job_id": "N3FxUEI1OERTVVJtbGUta0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1pzZDFscWFrSTRPVFYwUVVabGVYZFlZMUUwVGxscllUWm9jbk0yTUhNNGVXSkRPWGR6UldSc1JYQXpNVUZ4ZVRGalkxUmpXVXg1UlRKVFZVazJOR1ptUkZvNGMzVmpYMUpvYmpsTlVsTnFNMTgyTlRoYVRGcGthMXBhY1ZCd2IzVlVhak4wTjNKSVVVNTFUMnRwTm1SeWNYZEJhMDVFWkVWTlRHbHdSbmcxV0hkUlluSVNGMlJXZG05aGNGUm1UR05VWkRWUFZWQTNTV1ZyTkZGRkdpSkJTRTR3UlRkRlNtTnBTMmg1VlVKVVQwTjJTMkZJWmpVelR6UjFaMkZVTURabg",
+        "job_title": "Remote IT Systems Administrator - Cloud & Security",
+        "employer_name": "Mavins Saudi Arabia",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mavins-sa.com&size=128",
+        "employer_website": "https://www.mavins-sa.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/3359312719026582",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/3359312719026582",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Mavins Saudi Arabia is seeking an IT Systems Administrator to manage and maintain the firm's IT infrastructure, ensuring reliability, security and efficiency.\n\nYou will manage servers, networks, cloud platforms (AWS/Azure), and on-premise systems, provide support, monitor performance, and implement security measures. The role offers remote work with opportunities for professional growth.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D7qqPB58DSURmle-kAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "7qqPB58DSURmle-kAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWWVsSVJTa1lPdkUyYkpkRDFOWmlib3JMVXR5ZDdRR0RNWVFjblNjaHo3bGtucDRkUGN5eHo2a1dFRjNSa0ZhaTZFVDF1WEpOamk2V3NRNDhMaEtBR19QcG1TSkR4T3RwRnVFSzB3VG1hbklyYnpQQks1OU0zMkpYZUZmSk1OQzQwc3ZlYjZWVlduS1M0VHNYalAyNTZFRTNubTVFejdwcEJwT3RvQzBsN1dPSW5CVHVXUWlRX05BLTh6NDhQMlQ3aGtIeXBnU3J2M2wxaFhsaGZsU1hMUnhJTk5OX0ZKWVVQMVVkQWhVazJEQ3g4T0lYQ0Vla3d0RHE3S3E4eUJmZDFZdWhIMU1wVFNTMC1qV0ZKY1AyaGlLM0ZKYnFfVkt2SXpDU3lzN1hBVG84NWZxQlZwNm9KcmtxYk5RV0pZQVk3UDVSemZSWHF3dXlYYlVXN3FVWWgyOENrZ2RQOFRYQWFYVjBrRlo3WHdMOFowdjdUN0FTb3hHQlpjVzFrR0ZyVjJHak5GUllCaFhQYTRmaEZwc3FJTjZKUzZWVE1DeklZYjVoY092TEhZdTRMY1RjeWhOd1A3dVhzX2J0eDFWLTZoZTBmUnczNzV6b1ZtNV81UGZ5bWJDWmM4a3FnZTg5UkF0Rkd4blZWWnlCSldKNktrVldoVk5pRUxEeEZlM2s1NHZ1bmxmWWpHMmRLaGxLSFJjbVk4cm5xYWdnEhdkVnZvYXBUZkxjVGQ1T1VQN0llazRRRRoiQUhOMEU3RVZPTWk2WU13cndNNEdVNUl1NVdyOWxXZEs1UQ"
+  }
+}

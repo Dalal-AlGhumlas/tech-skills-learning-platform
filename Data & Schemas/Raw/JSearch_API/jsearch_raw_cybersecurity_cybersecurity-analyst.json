@@ -1,0 +1,428 @@
+{
+  "_meta": {
+    "specialization": "cybersecurity",
+    "query": "cybersecurity analyst"
+  },
+  "status": "OK",
+  "request_id": "0600f1d9-8f16-4a37-b32e-0847ef829394",
+  "parameters": {
+    "query": "cybersecurity analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "eHhTeXczMUIzTy16eWZPbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWHBLWm5kdVREazRXRzVGZWtOcWNrUjJXVmRaUzBKc2MycDVlUzB6TFRkYU9VaFFPWFJpWmxWRmJFOURhRTlmTmtjMU9VMU1Ra1Z5VUhoMmVqRkZhVmhuYldOQlMydFhiWEJOWDNGTE9WWmpkVTB5WDBjMWQwWlVNakpXUTJWWVZXMUxhVFJMUzFSMWMycHBSM0I1Y1dkc1dXRjZVRVpJYlRWTVdFVndlbFF0U1hOamNXY1NGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkSVZESXdPSHB3VGxCdVJsWnJYMDl6UW01cU5VSkpNVXRYU1hsQg",
+        "job_title": "Cybersecurity GRC Specialist",
+        "employer_name": "ES Consulting",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esconsult.net&size=128",
+        "employer_website": "https://esconsult.net",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/cybersecurity-grc-specialist-es-consulting-saudi-arabia-69645224",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/cybersecurity-grc-specialist-es-consulting-saudi-arabia-69645224",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "We're Hiring | Cybersecurity GRC Specialist — 2 Openings (Saudi Nationals Only)\n\nWe are looking for two GRC Specialists to join our resident cybersecurity team supporting a leading government entity in Riyadh (on-site).\n\nWhat you'll do:\n\n- Develop and maintain cybersecurity policies, standards, and procedures\n\n- Run cybersecurity risk assessments across assets, systems, projects, and third parties\n\n- Manage the risk register and remediation plans end-to-end\n\n- Conduct compliance and gap assessments against NCA controls, ISO 27001, and related frameworks\n\n- Support internal/external audits and deliver executive dashboards and reports\n\nWhat we're looking for:\n\n- Saudi nationals\n\n- Bachelor's degree in Computer Science, Information Security, or related field\n\n- 6+ years of experience in cybersecurity governance, risk, and compliance\n\n- Hands-on experience with eGRC tools and third-party risk management\n\n- Strong knowledge of national (NCA) and international cybersecurity frameworks\n\n- Certifications preferred: CISSP, CISM, CRISC, or ISO 27001 Lead Implementer\n\nApply directly through LinkedIn.\n\n#Hiring #Cybersecurity #GRC #Riyadh #SaudiArabia #InfoSec",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DxxSyw31B3O-zyfOnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "xxSyw31B3O-zyfOnAAAAAA=="
+      },
+      {
+        "job_id": "dUZKazhRQkZQcXROWG1FSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTkxTVVWRk0xWlpXR0pwYlVGamJUQkpNM2htVlRGNWJ6bGFTMXBKZVhaVmF6SnBZa0Z4ZGpSZlQzbHlVWFk0UkZRd1FqVTFNVzV5Vm14d04xVXRPR1JQUVhvemJXSk1PVkJ5YTFjMFJFeHhTRzlIVUZKMFNsVnBjSGwxYVhGdWEzVnVaVGRJYVRSNWIyWkVNemhCYVdVeVZVY3pXbEZQWms1dVRtaHpUV0Z3WmxoSFF6VVNGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkSVRrb3RkV2RCY0V4eFQxQnBhazQ0V25WbVZqUnFOSFpoUVU5Mw",
+        "job_title": "Security Analyst: Threat Defender in Jeddah",
+        "employer_name": "Flyper",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://flyper.co&size=128",
+        "employer_website": "https://www.flyper.co",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/security-analyst-threat-defender-in-jeddah--jeddah--e3da663e56c1e5ded24d02b1acc7c9b1e",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/security-analyst-threat-defender-in-jeddah--jeddah--e3da663e56c1e5ded24d02b1acc7c9b1e",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Flyper in Jeddah, Saudi Arabia is seeking a Security Analyst to protect our networks, systems, and data. You will analyze threats, perform vulnerability assessments, and work with IT teams to implement security measures.\n\nThe role requires a Bachelor's in CS/IT, experience as a security analyst, knowledge of security best practices, and familiarity with Nessus/Nmap. CISSP or CEH are a plus. This is a full-time position requiring a valid Saudi work visa.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DuFJk8QBFPqtNXmEJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "uFJk8QBFPqtNXmEJAAAAAA=="
+      },
+      {
+        "job_id": "RUdCbUt4OW4tdGdCMEVUYUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEZJZDFsdFFrdFdiVE5CV0dOelJXWjVObEppUW05b1FrdzVMVkJETVVoc1Z5MXVTVE53VFVkbVZteGpkRjlDVDNWUFJFUlpkVFJzWjE5dVdTMU5MVVEwV205dE1FRnRWalEzVHpRMmVuUmpiM1poTUhCTlZUVm1XVlpZYkVVMlNUTnpPVmQxY0RoaFdERlllR1ZRTTBwTlVWUkpiRVZ4UzB4V2RsaDZVelpNTmw5aFVHMFNGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkSFpIcFRSell5WlRkRU9GUlJWRlJNTjI5dU1EVjZiR2x0UjJsMw",
+        "job_title": "Cybersecurity Security Analyst – Jeddah (visa Sponsorship)",
+        "employer_name": "Jing Hau",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/3364018842014580736",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/3364018842014580736",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Jing Hau in Jeddah, Saudi Arabia is seeking a Security Analyst to help protect our systems and data. The role focuses on audits, threat monitoring, policy implementation, and incident response. Candidates should have a bachelor's in CS/IT, at least 3 years of experience, strong knowledge of firewalls and IDS/IPS, familiarity with ISO 27001 or NIST CSF, and excellent English communication. The position is full-time on-site with visa sponsorship.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "مكة المكرمة     •  عبر Jobrapido.com",
+        "job_city": "مكة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.424096799999997,
+        "job_longitude": 39.817336399999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DEGBmKx9n-tgB0ETaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "EGBmKx9n-tgB0ETaAAAAAA=="
+      },
+      {
+        "job_id": "c2w2Zk5fN3FvazRTS2FpZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXhtTmpCcWNVWnZjbmN3V1hnNVZTMDRXV0ZUUTFKSGExVlpURXAwWkZWQ1RIcExhREUyV2toamFUVklWRXhDY2sxR1Nsa3pURmxrVUhRM1lVMVRWa2RhVjFOVFVIZFhiVTlzTlRjd1NIZFBhbUZxY0U5bWRrMXlOV0oxZDA1dlNqVktWMFZwWjJnMk9USkVNMjlVUlV0R1RXcG5aSHBZWjFKMll6aDJORkZXTWs4dGFtc1NGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkSWNtSjViR3RZTkZoTFRYWm1jVlZHYUhWd2VtUXdPVXBOZEZoUg",
+        "job_title": "Cybersecurity Engineer | Firewall & Threat Monitoring",
+        "employer_name": "Taj HR",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://taj-hr.com&size=128",
+        "employer_website": "https://taj-hr.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/cybersecurity-engineer-firewall-threat-monitoring--riyadh--ee0501e039f10c17cec6cf3cdf38be12b",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/cybersecurity-engineer-firewall-threat-monitoring--riyadh--ee0501e039f10c17cec6cf3cdf38be12b",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Taj HR is seeking a skilled Cybersecurity Engineer to monitor and protect network infrastructure, manage firewall configurations, investigate security incidents, and identify potential vulnerabilities in Riyadh, Saudi Arabia.\n\nThe role requires hands-on firewall management experience, strong knowledge of security monitoring, and excellent English communication. Join a dynamic security team focused on reducing risk and improving defenses.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dsl6fN_7qok4SKaigAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "sl6fN_7qok4SKaigAAAAAA=="
+      },
+      {
+        "job_id": "X2lyMXZVYUhyN2pEZUJEYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE5tZEdsUWFreExabGs0TkU1Sk5EQXpNMHh3VjFSRGNHTjRjR1pMUlVaR1dFTXhWMVpOWTE5a1VuTnFWemx1TlVNNVRTMUplR3QyVkhGak9IUlBhRlJVVVdadk5EY3RZbmxVYURCUU4ydHZTVEJJYmxKeVkzSTRVR3RNYUVONk5tUnlZbEJGWW1kcFQydG1ka1IyZEd4WFYwdFBZMEo0ZEMxbVJuUm1NVkpxYzE5NVZsZ1NGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkR1pHVndVMUJzV0RNMFdUSkRUbVZ2V2pSRVdGOVpUM1YzYVY5Mw",
+        "job_title": "Part-time Security Analyst – Safeguard Data In Jeddah",
+        "employer_name": "Workato",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://workato.com&size=128",
+        "employer_website": "https://www.workato.com",
+        "job_publisher": "The BIG Jobsite",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.thebigjobsite.com/details/0BBECA7BCB5F8DE6A2B9B3CFA62F6024/part-time-security-analyst---safeguard-data-in-jeddah",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.thebigjobsite.com/details/0BBECA7BCB5F8DE6A2B9B3CFA62F6024/part-time-security-analyst---safeguard-data-in-jeddah",
+            "is_direct": false,
+            "publisher": "The BIG Jobsite"
+          }
+        ],
+        "job_description": "Security analyst vacancy in Jeddah Saudi Arabia Entry Level Security AnalystWe are seeking an Entry Level Security Analyst to join our team in Jeddah. As a Security Analyst, you will be responsible for monitoring and analyzing security systems, identifying potential threats, and implementing security measures to protect our company's data and assets. This is a full-time position with a salary of 1400$ per month. We welcome applications from freshers or those without prior experience in the field. Fluency in English is required for this role. Accommodation will be provided for the successful candidate. If you are passionate about cybersecurity and have strong analytical skills, this could be the perfect job for you! This job has no reviews yet. You can be the first! The most in-demand professions in Jeddah: Users also frequently search in these cities:: More professions from the category Security - Security - Power structures: Subscribe to our telegram channel@layboard_in WAREHOUSE WORKER | Without work experience | for all foreign citizens WAREHOUSE WORKERLocation: Bratislava, Slovakia. We invite men, women, and couples up to 55 years of age to apply. Salary: 5 euro/hour. Work schedule: Full-time, shift-based schedule;8–10 hours per day;5–6 days per week; Shift schedule... POSTAL WAREHOUSE WORKER | Without work experience | for all foreign citizens Poland POSTAL WAREHOUSE WORKERLocation: Sochaczew (37 km from Warsaw, Poland)This position is open for men, women, and couples Job description: Men: loading and unloading parcels, sorting shipments, working with a scanner, order picking. Women: working with a scanner, packing parcels, order... Production Worker | Poland | Lodz | for all foreign citizens 1500 $ Poland Job Vacancy: Production Worker About the Position A Polish temporary employment agency is seeking production workers for a manufacturing company based in Łódź. This is a temporary employment contract for a fixed term. Work Schedule Full-time (1/1 FTE), shift system:1st... #J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر The BIG Jobsite",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_ir1vUaHr7jDeBDbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_ir1vUaHr7jDeBDbAAAAAA=="
+      },
+      {
+        "job_id": "RkxVMTJKMk1GVEJTcHhnWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkpMZDA1a2JsQlNkMVptVkVKcFNFeExkM2N0WjJWWGF6WkNNRmRVV0ZKMWNXSndPRGRMY1ZBNE5IcHBZVXhMU1ZJemJ6QmFSVGRyYld0c01XSmthelEyVjNOSlVsQkpZMWt0UkdKS1J6Rm1TMWhUTW1adFNDMHRSazFtUTBoZmRWUjRkWEJvVVhGWE5tRmFVVE5RT0dock5uSkNUa3BUWjAxUVltcFlkbXBwV25ONFdHSVNGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkRk9USkVNRUkxTldGalVXOXJibXRoWkU1b1JHOWFUMmRVU25Obg",
+        "job_title": "Cybersecurity Assurance Specialist: Penetration Testing",
+        "employer_name": "ES Consulting",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://esconsult.net&size=128",
+        "employer_website": "https://esconsult.net",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/cybersecurity-assurance-specialist-penetration-testing-es-consulting-saudi-arabia-69645229",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/cybersecurity-assurance-specialist-penetration-testing-es-consulting-saudi-arabia-69645229",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "We're Hiring | Penetration Testing Specialist — Cybersecurity Assurance, 2 Openings (Saudi Nationals Only)\n\nWe are looking for two Penetration Testing Specialists to join our resident cybersecurity team supporting a leading government entity in Riyadh (on-site).\n\nWhat you'll do:\n\n- Plan and execute penetration tests across networks, applications, and cloud environments\n\n- Simulate realistic attack scenarios, including privilege escalation and lateral movement\n\n- Classify findings by risk severity and business impact\n\n- Deliver detailed technical and executive-level reports and present them to stakeholders\n\n- Conduct retesting to verify remediation effectiveness\n\nWhat we're looking for:\n\n- Saudi national\n\n- Bachelor's degree in Computer Science, Information Security, or related field\n\n- 7+ years of experience in penetration testing / ethical hacking\n\n- Strong knowledge of attack surfaces across networks, applications, and cloud\n\n- Solid command of OWASP testing methodologies and MITRE ATT&CK\n\n- Certifications preferred: OSCP, OSEP, or CEH\n\nApply directly through LinkedIn.\n\n#Hiring #Cybersecurity #PenetrationTesting #RedTeam #OffensiveSecurity #Riyadh #SaudiArabia",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DFLU12J2MFTBSpxgXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "FLU12J2MFTBSpxgXAAAAAA=="
+      },
+      {
+        "job_id": "emw0SmtiUWVQLW9Gd2s3cEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVUV0WlhwdmVUbFBjRmd6Ulc1alVXcEdTWEZMUVcxSWNWWk1jblJTYkhGa09VNVZVRTlVTUhGNFFuWTJWVzlWWDFoc05FcENRVmxxVWtGU1ZITkxVbE5RUzBGa1oxSmFZbkpMYzNWVVUzTjZhVTEzY1VwUWJEbHZXVXhTVEVoSFdEVlNUM05mTVVwVlEzaFFTSFJmU25JeFNFNXJTa0k1WVVwWFduWm9RbU5mVm1ocVRuWVNGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkSFdtWldWM2xUYkVsdFVqWmljVTltT1Rnd05FeExabFIwVjNKQg",
+        "job_title": "Cybersecurity & Network Defense Analyst — Jeddah",
+        "employer_name": "Jing Hau",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/cybersecurity-network-defense-analyst-jeddah--jeddah--e7adfa5d3d41495592cff901d48e74a0d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/cybersecurity-network-defense-analyst-jeddah--jeddah--e7adfa5d3d41495592cff901d48e74a0d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Security analyst vacancy in Jeddah Saudi Arabia\n\nSecurity Analyst for Cybersecurity and Network Defense\n\nAs a Security Analyst for Cybersecurity and Network Defense, you will be responsible for protecting our organization's systems and networks from cyber threats. You will work closely with the IT team to identify vulnerabilities and implement security measures to prevent attacks. Your duties will also include monitoring network traffic, analyzing security logs, and conducting regular security audits.\n\nTo be successful in this role, you should have a deep understanding of cybersecurity principles and techniques, as well as experience with network defense tools such as firewalls and intrusion detection systems. You should also possess strong analytical skills and the ability to think strategically in order to anticipate potential threats.\n\nKey Responsibilities:\n- Conduct regular security assessments to identify vulnerabilities\n- Implement security measures to protect against cyber attacks\n- Monitor network traffic for any suspicious activity\n- Analyze security logs to identify potential threats\n- Work with the IT team to develop incident response plans\n- Conduct regular security audits and recommend improvements\n- Stay up-to-date with the latest cybersecurity trends and techniques\n\nRequirements:\n- Bachelor's degree in Computer Science, Information Technology, or a related field\n- Minimum of 2 years experience in cybersecurity or network defense\n- Knowledge of common attack methods such as phishing, malware, and social engineering\n- Experience with network defense tools such as firewalls, intrusion detection systems, and SIEMs\n- Understanding of risk assessment methodologies\n- Strong analytical skills with the ability to think critically under pressure\n- Excellent communication skills in English (both written and verbal)\n- Indian nationality preferred but not required\n\nSalary: $900 per month (negotiable based on experience)\n\nLocation: Jeddah, Saudi Arabia (accommodation provided)\n\nThis job has no reviews yet. You can be the first!\n\nThe most in-demand professions in Jeddah:\n\nMore professions from the category Security - Security - Power structures:\n\nSubscribe to our telegram channel @layboard_in\n\nWe are seeking a motivated Sales Representative to join our team in Jeddah. As a Sales Representative, you will be responsible for promoting and selling our products to potential customers. Your main duties will include developing sales strategies, building relationships with clients, and meeting ...\n\nWe are a rapidly expanding retail company seeking a motivated Sales Representative to join our team in Jeddah. The ideal candidate will have a passion for sales and excellent communication skills in English. In this role, you will be responsible for promoting our products and services to potential...\n\nConstruction - Renovation - Architecture\n\n1500 $\n\nWe are seeking a skilled Plumber to join our team in Jeddah. As a Plumber, you will be responsible for installing, repairing, and maintaining plumbing systems in residential and commercial buildings. The ideal candidate should have experience in a similar role and possess a biometric passport.R...",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dzl4JkbQeP-oFwk7pAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "zl4JkbQeP-oFwk7pAAAAAA=="
+      },
+      {
+        "job_id": "MVdWUi1RUUF3ZHhOdWFpMkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFl5VFROdVMzWndNVWxYTFZwNmFsUk5OR3BSWVVzM1IyWXpOMDFGTW5WVFdWUm5VMHRVYmtveFVrcHBRbnBtWjJkcGMycGtRbkZtYVVScWRWVkdjbU5qUjFkbWRVUjZibVpYUWxCcUxWVnJkbFphTkRGVlpWVmlNbXRmVUVsM2NYWndNak5rY1ZWblVFRTJUVVJQVm01elRWQXpRbEpWTjA1c1l6UlpiVk5LV2xSemNsTVNGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkSUxVaGxjVWRtUkhKNU4xcEdVRlZMTkRsRWFXMW1iRk5oYjAxUg",
+        "job_title": "Resident Cyber Threat & Compliance Lead",
+        "employer_name": "Cipher | سايڤر",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://cipher.com&size=128",
+        "employer_website": "https://www.cipher.com",
+        "job_publisher": "The BIG Jobsite",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.thebigjobsite.com/details/D332DBA0A65C1FAF19855E97029B278D/resident-cyber-threat---compliance-lead",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.thebigjobsite.com/details/D332DBA0A65C1FAF19855E97029B278D/resident-cyber-threat---compliance-lead",
+            "is_direct": false,
+            "publisher": "The BIG Jobsite"
+          }
+        ],
+        "job_description": "Cipher | سايڤر is seeking an experienced cybersecurity professional in Riyadh to ensure IT and security operations align with internal policies and standards. The role involves assessing controls, tracking remediation, and coordinating incidents with the SOC provider to drive improvements.\nCandidates should have at least five years of cybersecurity experience, relevant certifications, and fluency in Arabic and English.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر The BIG Jobsite",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D1WVR-QQAwdxNuai2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "1WVR-QQAwdxNuai2AAAAAA=="
+      },
+      {
+        "job_id": "ZjdPaVNjOEpwVUZIZjNzOEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVEl4T0ZwNFFsWXdWM2Q0VldoT1JEUXlTVTlrT1RZNWFURmlNbTlOYkdJemNGZzROV1poTTNodWJqVlBaak15WjNsU1pEVnFhVGRqYmxCM01tVnZUMDA1T0dKak1FczRObTVRWlRVMGIzUlBPWHBKWDBaMVRsRm5iek4xZWpkT1pGcExkRUpxWTNOd2JrUklZbFZmUlV4WldqZENXazVuU1dsUGRtaEJVV3B4WkdOUk1qSVNGM0pzZG05aGNUZEZTamR0WkROaWIxQnZYMlV6YzBGUkdpSkJTRTR3UlRkSVVVbFZaekpDTm01VmVqaFZOa013WjBzemJXTXdaakphUmw5Mw",
+        "job_title": "Senior Cyber Security Analyst",
+        "employer_name": "Saudi Fransi Capital",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVA1JbsBOcTFoXTHvyOIsGmiz1_1Dgyoy1f94&s=0",
+        "employer_website": null,
+        "job_publisher": "Edarabia",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.edarabia.com/senior-cyber-security-analyst-saudi-fransi-capital-riyadh-saudi-arabia/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.edarabia.com/senior-cyber-security-analyst-saudi-fransi-capital-riyadh-saudi-arabia/",
+            "is_direct": false,
+            "publisher": "Edarabia"
+          }
+        ],
+        "job_description": "Job Summary\n\r\n\r\nSkills\r\n\r\n• IT Governance\n\r\n• Cybersecurity\n\r\n• Business Continuity Planning\n\r\n\r\nLevel of Education\n\r\n\r\nBachelor's Degree\r\n\r\nSeniority Level\n\r\n\r\nMid-Senior level\r\n\r\nIndustry\n\r\n\r\nFinancial Services\r\n\r\nEmployment Type\n\r\n\r\nFull-time\r\n\r\nJob Functions\n\r\n\r\nInformation Technology\r\n\r\nThe Senior Cybersecurity Analyst will assist the Head of Information Technology in day-to-day activities and operations of the team. The analyst should have complete understanding of networking, applications, operating systems, coding, penetration testing, exploit development, and threat modeling. The successful candidate will be a highly technical, passionate, and self-driven individual who loves to learn, solve problems, and contribute to the advancement of the team.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Edarabia",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Df7OiSc8JpUFHf3s8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "f7OiSc8JpUFHf3s8AAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlYXdXUzNYaGpEWEdTM3lhc3BfY19QQldiU0w2M2J5c1FwR0ZlamlKTmdFYk54SWoxWTNCNXNSYmhVTVJUYUZYSEF1LUVWclZWWVZyUFJjRkl1UjVsZ19CQ2R6SmNQQ2dpSnFvN3UxVzV1VnI2UXNwajYtekFzeWRlSUxlRmlxUzg3Y2ExNWtuenU5b3JITnpIRlZMRmI2MEJFdTNLd1lPOXVPaXhhYkpheE1za3VNOEZzSll4bjg0ZV9BdnRwemlubWVlaGNnb0lDOC1XejlscUFVc0RrMDNaamd1ZmYyUnduSlV5LW1IOHV3R2RLRHZtUTdkNDdiZWlmZHdIMmlmZG9Nc0VOdUFKNERKNURLcXlxMWRHQmhtX1VnamliV2JxTy03d3RUdlY5WFZDVmxZV1cydXk1YklMdXdiVkhOQ0ttZjBNNU5vOTNWSUNLVl91WDJYQ2tzc0E3WWRBdzBIdGUwSk9DakVTcVNXRkEtQmZxMGxabHVNSVlsQVU3NjE1QmM3X1luNFRsMjd1MV9CSVEzYmNqUHd2RmdOQmIwR1dtR3hNSlVQUnNxOEd0WjRRcFdXMXVOSGEyc0lRamhPWmlVbzJiWXdJRG8zMG8wR0VMSlExTGkwUEkydEZHRUVNeUoxQlNPYTZtLW5wdnpTdVdRaTJxU3JtUG1MaEQxQkdSU2tXSzZ3ZzlBM2lES0hka2N3djVpbGhYa3ZjUEp0UjJPWmh3b09UUE4xckJIQm1JEhdybHZvYXE3RUo3bWQzYm9Qb19lM3NBURoiQUhOMEU3R2h4RTBqWFgtYmVCbVBRTklqWGxGZnQwQ3ZEdw"
+  }
+}

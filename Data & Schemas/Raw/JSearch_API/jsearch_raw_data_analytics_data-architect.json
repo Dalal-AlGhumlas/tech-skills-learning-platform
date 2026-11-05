@@ -1,0 +1,429 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "data architect",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "3d1730b8-1b96-4f22-99d1-5fa65e614d2e",
+  "parameters": {
+    "query": "data architect in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "WHR5SllqaWNORnZzNW9fU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalJUZGxaR1oybDRlWEF5TUhwVmFFczRSblJoUlhkTFQwTnpPVWN6T0hCVWRGOU1YMlU0UWxSak1scGhhMWxZU0V4a2NIZHhUbU41YkZWcWVXUTRlbHAwZEhSbVpXNU9PRGwwVEd0VmJuVkZTa1ZXY3pVMlVYb3pha2wwZEdwRmVuVkpTMkoyTTBRdFNISkdlbkZSUXpCRVZGVjBUek5KTkMwdE4yWmFWSHBTUzFKT2Jtd1NGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkRlJYaFRNV3RuT0ZGaVVFSlhPRVpYUlhnd2FIRkZlUzFSYVU1Mw",
+        "job_title": "Senior Data Governance & Architecture Specialist",
+        "employer_name": "Saudi Aramco (ASC)",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-governance-architecture-specialist--medina--eddbc63d984d4faf8a9d5a47cf9afafb4",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-governance-architecture-specialist--medina--eddbc63d984d4faf8a9d5a47cf9afafb4",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Overview\n\nWe are seeking a Senior Data Governance amp Architecture Specialist to join our Corporate Data Office to strengthen Corporate-wide data governance capabilities and enable trusted well-architected high-quality data The Corporate Data Office is responsible for establishing and executing world-class Corporate-wide data governance to ensure all data assets are proactively and efficiently governed and managed across Saudi Aramco to foster a data driven organization and promote data value realization in line with its strategic goals as well to adequately comply with national and international data regulations Your primary role will be to translate governance policies and standards into practical operating processes data architecture deliverables measurable data quality controls and effective use of corporate data governance platforms This role partners with business data owners data stewards technology teams and other stakeholders to improve accountability discoverability consistency and reliability of critical data assets\nKey Responsibilities\nData Governance\n• Implement and continuously improve corporate data governance policies standards procedures and stewardship practices\n• Define and maintain data ownership stewardship responsibilities critical data elements business glossaries and governance workflows\n• Support governance forums issue escalation compliance assessments adoption metrics and remediation tracking\nData Architecture\n• Develop and maintain conceptual and logical data models data definitions domain mappings and architecture standards in collaboration with solution architects\n• Document data flows system-of-record relationships data integration patterns and end-to-end lineage for priority data domains\n• Review solution designs for alignment with data standards interoperability reuse and governance requirements\nData Quality\n• Establish data quality dimensions business rules profiling methods thresholds and monitoring controls for critical data\n• Coordinate data quality assessments root-cause analysis remediation plans and issue management with business and technical owners\n• Define scorecards KPIs and reporting to measure and communicate improvements in data quality\nData Governance Platform\n• Support selection configuration deployment integration and ongoing enhancement of corporate data governance platforms\n• Configure and administer metadata catalogs business glossaries lineage stewardship workflows data quality capabilities and role-based access as applicable\n• Drive platform onboarding metadata ingestion user acceptance testing training adoption and operational support in partnership with IT and vendors\n\nYou must have a Bachelor Degree in Computer Science, Information Systems, Data Science, Engineering, or a related discipline. You should have a minimum of 10 years relevant experience across data governance, data architecture, data quality, metadata management, or corporate data platforms, including hands-on delivery responsibilities. You should have a demonstration experience implementing governance frameworks, stewardship models, business glossaries, metadata catalogs, and data quality processes. Practical knowledge of data modeling, data integration, metadata, lineage, SQL, and data quality profiling and monitoring is also essential. You should have hands-on experience with at least one corporate data governance or catalog platform (e.g., Collibra, Informatica, Microsoft Purview, or equivalent). Working knowledge of DAMA-DMBOK principles and applicable data privacy, security, and regulatory requirements is required. You must also be able to demonstrate strong stakeholder engagement, analytical problem-solving, communication, and cross-functional delivery skills.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXtyJYjicNFvs5o_SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XtyJYjicNFvs5o_SAAAAAA=="
+      },
+      {
+        "job_id": "SVREbFZuRENJbjNqQ0JvT0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFU1VGpNelIybEdkME5ZZURoT1RuRmtSMEkzTmpOSFdWaEpkamhUUTA5MFdsZHFWbmszV1VSQ2VYVXpNa3BYWm05RVExWm9aRk5oZGtKb05uTkJMVlk1ZUZGS2MyWlVaR0pRVFVoMk9EQnBOMnQ2Y0dwSVowMVZXR3BHVDBOUFVGRjRlbmt5ZGs5bVpXRlNiamsyWldoWmRsSnZPRmxpV1RsSGEzWTBNR2hZVDFSMVluVVNGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkRmNuVndXWHBaWkROblp6YzBPSFpWV1hWM1FYcHJiMXBxUm1Kbg",
+        "job_title": "Strategic Solution Architect - Data & AI Authority Project (Consultant)",
+        "employer_name": "FuntoNetwork Consulting",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/strategic-solution-architect-data-ai-authority-project-consultant--riyadh--e863f2be1f2002b417f6b5038c8f1a00f",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/strategic-solution-architect-data-ai-authority-project-consultant--riyadh--e863f2be1f2002b417f6b5038c8f1a00f",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "FuntoNetwork Consulting is seeking a Solution Architect for an upcoming SDAIA project in Riyadh. This individual consultant role focuses on shaping technical requirements and architectural approaches for data & AI initiatives.\n\nSubmit your resume, exemplars of relevant work, and any required credentials by the stated deadline. Expect an hourly rate range and project-based engagement, with travel as needed.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DITDlVnDCIn3jCBoOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ITDlVnDCIn3jCBoOAAAAAA=="
+      },
+      {
+        "job_id": "MnFTaW1OZEF1bEJUMldycUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbk5VT1ZKTE56aDJUMGhPTjBocGJFcGFkbk5pWlRKb2NWSldhbWx2VkU1cVEyRnJkMnR3WWpWdlRtbFhRbEZYY2xsblJHWkNPVnBZVEhnNWNtVndlR3hoVlVWelNYSTNNVlpTUmpsMU9HNURRaTFVY2toQ2RqUjVRMjR4WTFoRGJETjBZbEUwZWxkSk9XWjFMVGc0V1U5TE1WRnllbDk2UTNWc1JVNUtaRlYwWm5KU1VYTVNGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkSGIxRk9XRWxIWDJocldqRmxlVTUzWlhNNFJVVkZTak54TlhsUg",
+        "job_title": "ARCHITECT, DATA",
+        "employer_name": "Alfanar Group",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alfanarprojects.com&size=128",
+        "employer_website": "https://alfanarprojects.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/7784010780575268864",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/7784010780575268864",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Job description:\nJob Purpose\n\nTo design and govern the enterprise data architecture, ensuring data is structured, integrated, secure, and high-quality to support business operations, analytics, and regulatory compliance.\nKey Accountability Areas\n\nData Architecture Design:\n• Design and maintain the enterprise data architecture across the organization.\n• Develop conceptual, logical, and physical data models to support business and technical requirements.\n• Define data standards, architecture principles, and integration patterns.\n\nData Integration & Management:\n• Design and oversee data integration solutions across multiple systems and platforms.\n• Define ETL/ELT processes and ensure reliable data flow between source and target systems.\n• Address data redundancy, inconsistency, and fragmentation issues.\n\nData Quality & Governance:\n• Establish and enforce data quality standards and controls.\n• Contribute to data governance frameworks, policies, and procedures.\n• Ensure proper metadata management and data lineage tracking.\n\nSecurity & Compliance Support:\n• Collaborate with cybersecurity and privacy teams to ensure secure data architecture.\n• Support compliance with data protection regulations such as PDPL and GDPR where applicable.\n• Implement data classification and access control standards.\n\nTechnology & Infrastructure:\n• Evaluate and recommend data architecture tools, technologies, and platforms.\n• Support database design (relational and non-relational systems).\n• Optimize data systems for performance, scalability, and reliability.\nRole Accountability\n\nHR Proficiency:\n• Ability to obtain updated soft and technical skills related to the job.\n\nDelivery:\n• Perform the planned activities to meet the operational and development targets as per delivery schedules.\n• Utilize resources effectively to achieve objectives within efficient cost and time.\n• Provide a periodic report formatted by detailing the deviation and execution of planned tasks.\n\nProblem-Solving:\n• Solve any related problems arise and escalate any complex operational issues.\n\nQuality:\n• Ensure quality requirements to develop effective quality control and processes including specifications for products or processes or related activities.\n\nBusiness Process Improvements:\n• Coordinate well-defined written systems, policies, procedures, and seek automations opportunities as much as possible.\n\nCompliance:\n• Comply to related policy and procedures and work instructions.\n\nHealth, Safety and Environment:\n• Ensure compliance of relevant safety, quality, and environmental management procedures and controls within defined area of work activity to guarantee safety, legislative compliance, and delivery of high-quality products/services.\nAcademic Qualification Bachelor Degree in Information Technology or Any relevant fieldWork Experience 6 to 10 YearsTechnical / Functional Competencies Data AnalysisData CollectionData CleansingData Lifecycle ManagementData MigrationData PlanningData Quality Assurance\nProfile description:\n\nAlfanar is a Saudi company with an international presence, primarily engaged in the manufacturing and trading of a wide variety of low, medium, and high voltage electrical products, in addition to its portfolio of conventional and renewable energy solutions, oil and gas, water treatment, infrastructure, technical services, and digital solutions.\n\nThe hub of alfanar's manufacturing operations is Medinet alfanar Alsinaiya, a 700,000 square-meter complex located in Riyadh. The complex houses an array of ultra-modern manufacturing facilities and laboratories equipped with state-of-the-art technologies and staffed with highly skilled professionals.\n\nalfanar derives its success from its commitment to providing the highest quality standards to its customers, and the continuous development of its human capital, who alfanar considers its most valuable asset. With this in mind, alfanar promotes a proactive work environment where its employees are always valued, nurtured, and empowered to fuel their pride in being part of alfanar.\n\nFor more information about alfanar, please visit alfanar.com",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobrapido.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2qSimNdAulBT2WrqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2qSimNdAulBT2WrqAAAAAA=="
+      },
+      {
+        "job_id": "UXNwLVRncnhUTVRUb193NkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0Z1ZFcxVVlXZEVZa2REWkhaYU16RlZkbVp1T0Vkc1MyUldNa3h5V1hWbGVFaElVRE5RZURWUVJsaDZZMEV6WTBoclgyeFRSSFUyU2xGV1h6ZFhNVVIzVG5SMlVYVktia2RWYkc1WFMxSlNkMmN0YlV0Uk9HdEhiazlCWlRsamVEUTFOMmxsVjI1cFREQm5ja0ZsUTFsRFVVdEpPRkZ1UmxneVF6WXRMVmR5U1MxSlJGQVNGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkR1dqYzRhMko2WjJreGVUVlNWRlJvWjNaUE5IUXlSVmhuWWt4Qg",
+        "job_title": "Principal OT Data Engineer & ETL Architect",
+        "employer_name": "Maaden",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKcPZ50fbWBU57LdoB75QDWjkz9abKdvY35CA&s=0",
+        "employer_website": "https://maaden.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/principal-ot-data-engineer-etl-architect--saudi-arabia--e936ea4a8e9e5dd4a246500e10e9ac7c2",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/principal-ot-data-engineer-etl-architect--saudi-arabia--e936ea4a8e9e5dd4a246500e10e9ac7c2",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Maaden seeks a Principal Specialist, Engineering and ETL (OT) to lead OT data engineering strategy and architecture. You will define enterprise standards, ensure reliable data pipelines, and drive governance across multiple sites to enable analytics and AI initiatives.\n\nYou will bridge OT environments with enterprise data platforms, advancing data quality, security, and scalability while aligning with regulatory and risk requirements. This role reports to senior data leadership.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DQsp-TgrxTMTTo_w6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Qsp-TgrxTMTTo_w6AAAAAA=="
+      },
+      {
+        "job_id": "ZWNyb3ZpLUduRzJUVXhuN0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGRDWkY5SlJGUkdkVlExT0V0dlZFeGpUVkYwV2pSTFZ6Vk1kRUZ6TjNkTmJHRk1lRkpzYkZCTFdFZHlOMDlKYWtsdVZFOHRja00yVGtKQ2JEUnBkams1VEhSS2FrcDVlSGxWVWw5TmJXbHNNa3hKZGtNNVEwRnNRa3ByZDFBNFIzZEpRME5DZVdoVVdqZHliVlJQVWpScWRuaEJRMVZpUjA1Mlp6WlZUMnRMUlROdGRXZ1NGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkSU5WcExYemgxYkRrNFQyazBWVEp2TkVkcFJUaHlWM2MwYmpaUg",
+        "job_title": "Senior Data Governance & Architecture Lead",
+        "employer_name": "Saudi Aramco (ASC)",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-governance-architecture-lead--medina--e10656a867b1d5122d33483ab73212d8b",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-governance-architecture-lead--medina--e10656a867b1d5122d33483ab73212d8b",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Saudi Aramco (ASC) seeks a Senior Data Governance & Architecture Specialist to strengthen corporate-wide data governance capabilities and enable trusted, well-architected, high-quality data across the organization.\n\nYou will translate governance policies into practical operating processes, data architecture deliverables, and data quality controls while collaborating with data owners, stewards, technology teams and stakeholders to improve accountability, discoverability, and reliability of",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Decrovi-GnG2TUxn7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ecrovi-GnG2TUxn7AAAAAA=="
+      },
+      {
+        "job_id": "SDQxeWZfaUNDZk8xOUhDT0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXaTFEVTFKSVZuazRORnA0VGs4eWVVdHZXVE0wVTJKblFXOXNhV05SUldKd05rRjZWR0ZFYkZCbk5YbGFkR1JKUlZvM04xWkJkWHBsVVZSbWNsaG1ka1pTYVhCZlJuUnNNRVZLY1ZSTVJGVkJhVzlMV0UxQmNEZDBaa040UlRSaGFtNXJORE5VWVVoeVVXZzBkRmMwV0UxZlFsSmlRalJyTWt4cVJGcHJVM05ZU0VSMGRtb1NGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkSE1tOTZlRlozVjFwRGVreFZkMmhDTlc4eGRWQTVZVzFmUWxOUg",
+        "job_title": "Sr. HCM Techno-Functional and Solution Architect Consultant",
+        "employer_name": "Confidential",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://confidential.careers&size=128",
+        "employer_website": "https://confidential.careers",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/sr-hcm-techno-functional-and-solution-architect-consultant-confidential-saudi-arabia-69585981",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/sr-hcm-techno-functional-and-solution-architect-consultant-confidential-saudi-arabia-69585981",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "ROLE PURPOSE:\n\nThe Senior HCM Techno-Functional and Solution Architect Consultant is responsible to support Company. and it's lines of business to provide digital transformation services for Corporate HR Department in accordance with the established policies, guidelines, directives, regulatory and Company. Requirements, and overall direction of the Company Strategy.\n\nReporting to the application manager is providing Oracle fusion HCMS Project Delivery to meet business needs of the company.\n\nESSENTIAL DUTIES & RESPONSIBILITES\n• Providing support to the Oracle fusion HCM function: Developing the Corporate HR Department's requirements and ideas and developing the oversees solutions for any shortcomings and ensuring the HCM Bundle runs as smoothly, and efficiency as required by the corporate of HR Department and Payroll Department.\n• Responsible for ensuring all demands are met in Oracle Fusion HCMS Modules, Oracle fusion HCMS activities and manages the deliverables around the rollout of the annual performance review/ Salary review processes ETC. ensures involved core oracle fusion HCMS:\n• Self-Services\n• Absence Management\n• OTL\n• Payroll\n• Benefit interface\n• Workflow\n• Approval Management\n• Talent Management\n• ORC\n• Learning\n\n3 Responsible to define system requirements, design the purpose solutions, configure the software to generate the new reports, formulas, functions and reports as need it.\n\n4 Develop and deliver requirements specifications, Gap analysis, technical designs, software mapping documents, and process flows for application configuration, interface and conversion.\n\n5 Make sure the development/ integration/ implementation process goes smoothly from start to finish and successful and timely implementation. Also ensure that efficiency of integration between HR and finance related to cost factors have successfully completed and any other integration with Payroll module like time attendance working with the proper way.\n\n6 Make sure that all testing process of the software is not difficult to analyze any errors, correction and easy to modify.\n\n7 Responsible for performing day-to- day maintenance in the system, as well as installing new upgrades and testing bugs.\n\n8 Responsible for optimizing the system for easy use, and training employees in its functions, organize training programs to educate employees as efficiency and possible.\n\nQualification, Knowledge, Skills & Experience\n• Bachelor's or master's degree in computer science or Management Information System.\n• Minimum 6 Years Experience in HCMS Oracle fusion Bundall.\n\nLanguage:\n\nArabic and English is a must\n\nTechnical Skills:\n• Strong knowledge of ERP Concepts, Core HR, Payroll, Talent Management, ORC.\n• Proper software analysis, Develop design specifications for programs and present plan of action to management.\n• Expert in techno function and have experience about the formula writing.\n\nDeliver end user & Key user training, CRP and UAT.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DH41yf_iCCfO19HCOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "H41yf_iCCfO19HCOAAAAAA=="
+      },
+      {
+        "job_id": "aExwQ3pZcjdVaE9sNW90cUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa1pXZUZremMwaE9ORE5KYmpWbUxUSllSV1Z1V0RjeE5XSjRkalJzZW1GNU1uTktSa2xvZFZONmEyaFBURU5PVEdsb1VsbFVaVkU1U1dGNFZEWTFNeTFWWlMxTVpWZEJXR2hDWmw4eU9IRmZjMWREY0VKUGVWRkRjemhWVDBZMGNrRlljbE5zYlVsWk4weE1SMDVwVDNaellrSnNVeTFWTUhNNFJsRnpiamRPWlVweWVqZ1NGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkR1MyWnhNMFJIVjFWUFNqQmtTRGh6TFZOcU1VSXhWamhFVmpOMw",
+        "job_title": "Senior Splunk Architect – On-Site Riyadh",
+        "employer_name": "DWT Technology",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-splunk-architect-on-site-riyadh--riyadh--e011e6bfd9b859d76dc61d49462408662",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-splunk-architect-on-site-riyadh--riyadh--e011e6bfd9b859d76dc61d49462408662",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "DWT Technology in Riyadh, Saudi Arabia seeks a Senior Splunk Consultant and Engineer for an urgent 12-month on-site project. You will lead Splunk design, heavy forwarder maintenance, indexer and search head clusters, and dashboard development to deliver real-time visibility and threat detection.\n\nThe ideal candidate has 7+ years of hands-on Splunk experience, strong knowledge of data ingestion, SPL, and collaboration with SOC and IT teams.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DhLpCzYr7UhOl5otqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "hLpCzYr7UhOl5otqAAAAAA=="
+      },
+      {
+        "job_id": "UzIzV3k4Q1lSdU5qNk9yX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVEZCU1hCVlIydHJValJoUTB4dk5ETk1jVGxuZUVSV04xTkpaMW93VFVWc1JGVXpPV2RoTlVWQmRqQXRiMUJSUVc0NVpXOWtPVzlTVG5RNE0wMWxPRkJJWlV0QmRuWnBSVmxMWkZObE1WcHhNV3hJUVdWd1RIVnBZblJaZVMxTFVFdEdUakp3YUhadlJqRkRTVzF3V1hGTmFWcG1jMGcwWlhVMlUwTTFURnBHYUROU2MyZ1NGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkR1JYaHphMnRKYWpJMlRtWk9ZV0ZUUzFFd1RVcEhUa0ZVUWtwMw",
+        "job_title": "Lead Specialist, Platform Architect Operational",
+        "employer_name": "Ma'aden Aluminium Company (MAC)",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://naukrigulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Naukrigulf",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.naukrigulf.com/lead-specialist-platform-architect-operational-jobs-in-al-madina-al-munawarah-saudi-arabia-in-ma-aden-aluminium-company-8-to-12-years-n-cd-10002084-jid-191026500305",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.naukrigulf.com/lead-specialist-platform-architect-operational-jobs-in-al-madina-al-munawarah-saudi-arabia-in-ma-aden-aluminium-company-8-to-12-years-n-cd-10002084-jid-191026500305",
+            "is_direct": false,
+            "publisher": "Naukrigulf"
+          }
+        ],
+        "job_description": "Why This Role MattersThis role supports the design and governance of OT and control platform architecture by translating enterprise architecture standards into practical platform guidance. It helps ensure OT, control systems, data, AI, and core technology platforms are interoperable, scalable, secure, and aligned with enterprise architecture direction across complex industrial and asset-intensive environments.What You Will DeliverEnterprise Architecture DirectionContribute to the development and maintenance of enterprise architecture principles, platform standards, and reference architectures for OT and control platforms. Translate enterprise architecture vision and roadmaps into actionable guidance for domain, platform, and solution architecture teams. Support alignment of architectural designs across OT, data, AI, integration, cloud, and core systems with enterprise standards. Provide practical architecture guidance that balances enterprise consistency with operational technology realities. Architecture Alignment & GovernanceParticipate in architecture reviews and support design assurance for OT, control platform, and cross-domain technology solutions. Identify risks related to fragmentation, duplication, unmanaged technical debt, and non-compliance with architecture standards. Support governance decisions by documenting design options, trade-offs, constraints, risks, and recommended architecture patterns. Escalate architecture risks and deviations where platform designs may impact scalability, resilience, security, or interoperability. Cross-Domain Integration & InteroperabilityApply defined integration patterns and reference architectures across OT, control platforms, data platforms, AI solutions, and enterprise systems. Support end-to-end interoperability across IT, OT, data, digital, and industrial control environments. Collaborate with integration, data, platform, cybersecurity, infrastructure, and engineering teams to enable scalable and reusable solutions. Promote reusable architecture patterns that reduce duplication and improve consistency across platforms and sites. Domain and Platform Team PartnershipWork closely with domain architects, platform architects, solution architects, engineering teams, and delivery teams to support solution design. Act as a coordination point between delivery teams and enterprise architecture governance for OT and control platform matters. Support platform architecture decisions by clarifying requirements, dependencies, operational constraints, and implementation considerations. Ensure solution designs are practical, technically coherent, and aligned with architecture standards and operating environment needs. Architecture Documentation & CommunicationDevelop and maintain architecture artifacts, diagrams, reference patterns, standards, and design guidelines for OT and control platforms. Document architectural decisions, dependencies, risks, constraints, and reusable design patterns for platform and solution teams. Communicate architectural guidance, trade-offs, and constraints to technical and non-technical stakeholders in a clear and practical manner. Support architecture knowledge sharing to improve consistency, adoption, and design quality across delivery teams. What Success Looks LikeOT and control platform designs are aligned with enterprise architecture principles, standards, and reference architectures. Architecture risks, duplications, unmanaged technical debt, and fragmentation are identified and escalated in a timely manner. Reusable integration patterns improve interoperability across IT, OT, data, AI, and digital environments. Architecture artifacts, diagrams, standards, and design decisions are maintained and communicated clearly. Platform and solution teams receive practical guidance that supports scalable, secure, and reusable technology solutions. Skills That MatterEnterprise, platform, and solution architecture fundamentals across IT, OT, data, and digital domains OT and control platform architecture, industrial systems, SCADA/DCS, historians, and automation environments Architecture governance, standards enforcement, design assurance, and technical debt identification Integration patterns, interoperability, reference architecture, and reusable solution design Systems thinking and ability to assess cross-domain impacts across platforms and operations Architecture documentation, diagrams, design guidelines, standards, and decision records Collaboration with domain architects, platform architects, engineers, cybersecurity, data, and delivery teams Clear communication of architecture decisions, trade-offs, constraints, and risks to technical and non-technical stakeholders Bachelor s Degree in Engineering, Computer Science, Information Technology, Industrial Systems, Automation, Control Systems, or a related discipline. Master s Degree is preferred. ExperienceMinimum 8 12 years of experience in solution, domain, platform, or enterprise architecture roles within large-scale technology environments. Experience supporting architecture design, governance, integration, and interoperability across OT, control systems, data platforms, cloud, and enterprise systems. Exposure to industrial, mining, manufacturing, utilities, or asset-intensive environments is preferred.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٤ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Naukrigulf",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DS23Wy8CYRuNj6Or_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "S23Wy8CYRuNj6Or_AAAAAA=="
+      },
+      {
+        "job_id": "Y1l6c2dRLU13UUNVWjZ5VkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEptUmt0d1V6SkpibVZvVlV4TldtOUlTVGw0T0ZweVVWRnphWFk0TVhGWVRsZFJYMlpIU204MlpURm1iVkY0U21SdVlsOTVPVE51TXkxRWNXcERaRVZmVW5wNVJGQk1kbWczY0RGRVoxQjJjVE13VFRocmNqUlRPRFkxVFVGSFpEZGtPV015Y1hSSFZFZDFhVFpYUjJnM1JWaGxZamszU0VOSFZETTJUMDVGVUVaNmJYSVNGMnh0YW05aGIxQjJTM1pNWlRWT2IxQTJXblV4Y1VGVkdpSkJTRTR3UlRkRmJtRk5URFZJVDJabVRFcGxlRTFZY0hrMVQySldVWEpsZVY5Ug",
+        "job_title": "Enterprise Data Modeling & Architecture Lead",
+        "employer_name": "Maaden",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKcPZ50fbWBU57LdoB75QDWjkz9abKdvY35CA&s=0",
+        "employer_website": "https://maaden.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/enterprise-data-modeling-architecture-lead--saudi-arabia--e4709e1075984f8dd9bf8cb0f8b552b69",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/enterprise-data-modeling-architecture-lead--saudi-arabia--e4709e1075984f8dd9bf8cb0f8b552b69",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Maaden seeks a senior data architect to lead enterprise data modeling, standards, and governance across domains. The role designs canonical models, conformed dimensions, and data product schemas for analytics, AI, and trusted consumption.\n\nYou will drive scalable, audit-ready patterns and mentor delivery teams to ensure architecture quality. The candidate will partner with data governance and engineering to embed metadata, lineage, and data quality into modeling and integration patterns, enabling",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٣ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DcYzsgQ-MwQCUZ6yVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "cYzsgQ-MwQCUZ6yVAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlYUFxQjRaNWw4MFgtbjVFWnVLUllQTTlHbWtiampmeTBUVjdzVzdUbUNkd0hwc3A0V1JZSlBVOHk4SEJTNTM4WmZVeVlrU1RMSlVvMm8tZlN5VlBIbk5HTDhzLUJUU2h2dVU3b0cyY2ZDSVVSeEZJZDBjSW9McEh0WDNLSTRBTDZHaG5ReF9RVTZrMjZnWXVvMnlwN2hlV1hZMzVxUmhjTGNVOUtiaU9VWC1jdWVXakx2aEZGYVk2Wmx0WTduUHJQVkVxWXBxZDRfV0owQ1FzcGZWY09NcFVpc2lmNXNNRklXTnI1RF9idnhVekF5MXhmSk1KVTFZMEpqYkhZTjFJRlJfR1pBNmNILUlBbjZQSmtEWlphemp0SmIxbGFTeWJBNHNJTmVlZ0xYZnR5ODV1Y1gySjUtWmU2dkkzcm1pRHpXUGtMdkUydjFnXzc3YXI2OGhtMW5GZTk0WEVTRnl4MDRCT2U1eVV6Smd3TkFtMXoxeWZfYmFmb2tpbmJpU19EMTdyME5IbDNadUhlZ2Z5RGZmajVhU0NTeHo3b21OZGd6Mk1NMTJKSTNzQldDSXVBRFQ5WkZVVVFVVzljRUV0bWxzNzBQVHlWSlBiVWw1Wk5OdGZ3NExWNzFOdU9rY0JtTWhLNTJiSDFXczJpaXZrTmJkN0twM2k0Q0dBT2VQaS01SERWdnhZaGp3R2dDX2FiMUtNLUxQTDRwbUp3EhdsbWpvYW9Qdkt2TGU1Tm9QNlp1MXFBVRoiQUhOMEU3RW1ONk94dEdDcS1YUUNlRGM2TEZxakUtYVJkdw"
+  }
+}

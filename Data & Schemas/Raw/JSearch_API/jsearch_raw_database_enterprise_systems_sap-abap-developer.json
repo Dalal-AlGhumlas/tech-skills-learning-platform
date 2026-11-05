@@ -1,0 +1,384 @@
+{
+  "_meta": {
+    "specialization": "database_enterprise_systems",
+    "query": "sap abap developer",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "5d30029b-5818-4fae-bddc-78ffb9993d95",
+  "parameters": {
+    "query": "sap abap developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "bTdpUkpiY0JwV05ONHpITUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1IxZUhoYWQwMWxlVXRJWTFWR1FXUnNhRkJYYUhaRU9IRlNjWGRhU0RoUE1FbFFNMVprWTJ4Q1pFeDRZazVHVVZKcGNWZHdUV1JPVldsZlIwdFFkeTFIZURaMWFrc3pUMGRQTkVNdExWbG5iREl5Y1doMlVHTTRaakF3WlRCS1IwaFhMV1pTUmtzelRtMVBXbWN4WlRkaVFrWnNZWHBMVFZSclpWRXlVRmRGUlVFMlRFRVNGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkSFVrcGtNM0ZwUW5BM1lTMVZZWGQ2Y0RNeWNVTlpTbkJKVVVSQg",
+        "job_title": "Riyadh Onsite SAP ABAP Debug & Fix Specialist (2-Month)",
+        "employer_name": "Glimmora International",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/riyadh-onsite-sap-abap-debug-fix-specialist-2-month--riyadh--e4737ac2c32073e875708720ab843e4f1",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/riyadh-onsite-sap-abap-debug-fix-specialist-2-month--riyadh--e4737ac2c32073e875708720ab843e4f1",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Glimmora International seeks an experienced SAP ABAP Consultant for a 2-month onsite assignment in Riyadh, Saudi Arabia. The role focuses on identifying, analyzing, and fixing ABAP bugs reported during testing to ensure smooth function of SAP modules.\n\nYou'll debug, perform root cause analysis, modify ABAP programs, reports, enhancements, and forms, and coordinate with SAP functional and testing teams to resolve defects.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dm7iRJbcBpWNN4zHMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "m7iRJbcBpWNN4zHMAAAAAA=="
+      },
+      {
+        "job_id": "MkpvMUlfeERlQTJ6d0VlUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWE51YW05QlUzZFpNelZmVXpZMWFVeFBZbnBmTFRSWE0wZEtjbEZQU2xOTVoyMDFTMHh0UVdVNWNFSlhjV2x0Y25sNU5YQklRa2czYWs1ZlRFNXBUbWc1ZUcwMWVISlJTMGxDUWtoM1dsSlNVSFF0UW5aM01DMXdibGRYTVRoQ2RtazNjMHg0VkhwdllWZEdOMlZWYjFOMFNFWXdNbVJ0ZG0xQmNXMVJjbkJGWVc1ZmFqVVNGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkSU9HMUhaV3R4ZEZSa1QwODNjUzEzZDBZeFVubGlUVGc0YTFaQg",
+        "job_title": "Freelance SAP S/4HANA ABAP Consultant for Saudi Projects",
+        "employer_name": "ktriox consulting Pvt Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/freelance-sap-s-4hana-abap-consultant-for-saudi-projects--saudi-arabia--e2c94035391274f55852b8cce6798a757",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/freelance-sap-s-4hana-abap-consultant-for-saudi-projects--saudi-arabia--e2c94035391274f55852b8cce6798a757",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "ktriox consulting Pvt Ltd is seeking an experienced SAP S/4HANA ABAP Consultant for a freelance project in Saudi Arabia. Strong hands-on ABAP skills, plus SAP BTP expertise, are required. Cross-functional exposure to core modules such as MM, SD, FI/CO, PP, and EWM is expected.\n\nSaudi Arabia project delivery experience is mandatory and highly valued. The ideal candidate will demonstrate practical SAP architecture knowledge, be able to work independently on a Saudi-based assignment, and handle",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2Jo1I_xDeA2zwEeRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2Jo1I_xDeA2zwEeRAAAAAA=="
+      },
+      {
+        "job_id": "S2JtS0ZsY3ZoME9CNWpWNkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEZxZWxNMFNGTlBSazVvTVhWWGJuZGpaM3B2UzNoSlUyRkROblJIU0RoSVltWTVZbFpKVFRaQ2RIQkpVVTlhY1ZGd2Eya3RkRjluVkhWaFZtRm9OMkl3VlVSWWVqRmhWWGd0VEhoVlYyeFlXR1JETW5kSVIwcFZjMTl2WDNwUk9WWjJYMmt4ZERaSVV6aFlWelJ4UTAxbVoxYzBhVWxaZVVocGFuSkJjMVYzWDJ0d09Xd1NGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkSGNVYzVjRlk1WW1adlpVdFhiRWhRTkd0cFJHSjRTbWRHWmxkMw",
+        "job_title": "Freelance SAP S/4HANA ABAP Consultant",
+        "employer_name": "ktriox consulting Pvt Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/freelance-sap-s-4hana-abap-consultant--saudi-arabia--e7783e9af9b8895fa175795dc417fc036",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/freelance-sap-s-4hana-abap-consultant--saudi-arabia--e7783e9af9b8895fa175795dc417fc036",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "We are looking for an experienced SAP S/4HANA ABAP Consultant for a freelance project. Required Skills:- Strong hands-on experience in SAP S/4HANA ABAP- Practical experience in SAP BTP- Experience in at least one additional SAP module (MM, SD, FI/CO, PP, EWM, etc.) Saudi Arabia project experience is mandatory.\n\nSAP S/4HANA ABAP SAP BTP MM SD FI/CO PP EWM\n• Ktriox Consulting wants strong hands-on SAP S/4HANA ABAP and BTP experience for a Saudi Arabia project.\n• Candidates must have cross-functional exposure to core modules like MM, SD, FICO, PP, or EWM.\n• Previous project delivery experience within Saudi Arabia is strictly required.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKbmKFlcvh0OB5jV6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KbmKFlcvh0OB5jV6AAAAAA=="
+      },
+      {
+        "job_id": "RDlVTVp1R1J3Yl9NNVBQeUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1ZzTFVGdFYyMVdSVjlIVld0WFMxUlpkVUZDZUU0eWRGZG5jbkowZDJkaGJYa3lNRXMyTnpCRFYwdzNRalJzY1c0dFZHRlFNR0ppTUZablJEbHRXVzFIWjNCUFgzUlFjVEpCUlU1SFJUSk1SbGxRYjJ0TU16VmhWM2x3YWxGeWJFRmZjbTAwWjB0eE1HeEVTR2R3YzNWT1YwcG5SVkJKYTJ4NFRFeHlVR2RaTWxVelRGSVNGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkSVptUTFSMmhTV1U5VVowWkpNemRJVG5SUVp6Um9hVGR1TmpkUg",
+        "job_title": "Senior SAP ABAP & Integration Consultant (S/4HANA)",
+        "employer_name": "Systems Arabia",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-sap-abap-integration-consultant-s-4hana--riyadh--eaff74738e07ce8931ab1409ab7c2ea3c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-sap-abap-integration-consultant-s-4hana--riyadh--eaff74738e07ce8931ab1409ab7c2ea3c",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Systems Arabia is seeking an experienced SAP ABAP and Integration Consultant in Riyadh to design and maintain SAP S/4HANA custom solutions and manage complex integrations. You will troubleshoot issues, develop ABAP programs, CDS views, and Fiori back-end components, and support OpenText content management and SAP PO interfaces.\n\nThe role requires 5+ years of hands-on SAP ABAP development, S/4HANA expertise, and strong Arabic and English language skills.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DD9UMZuGRwb_M5PPyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "D9UMZuGRwb_M5PPyAAAAAA=="
+      },
+      {
+        "job_id": "XzZLMGlzS2FxX3d2NGEtR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbmxSVGpKalJGWkZZVlV5WW1SS2JtdDJaMUpZUzJOWU0zbGlRV3RHUTFodVdqVlBWazUxUTJSS2RISlNSbE53YzFNeVRWRk9lRWhuYzB4SVNtMXlNMUpmTFd0d2F5MUJSRWxGUm01TFVIRkhaVk5SY1ZGT2QxZHRXblpmVkZOMmRFVTNhRTFUT1dSTmVGZERjSEY2U0hOS2NsZGpSbU53WXkxUVJWaG1aVVU0TVV4cVZ6UVNGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkRlJtbG9kMFZtTW5GcmRFaHpSV1pyWVZGdGVHUXRMV0ZoZDA5Qg",
+        "job_title": "Senior ABAP & SAP BTP Specialist for Fiori",
+        "employer_name": "Müller`s Solutions",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-abap-sap-btp-specialist-for-fiori--jeddah--e183227a2f884532bbe7260f04e01ccb2",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-abap-sap-btp-specialist-for-fiori--jeddah--e183227a2f884532bbe7260f04e01ccb2",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Müller's Solutions is seeking an experienced SAP ABAP Consultant – BTP in Jeddah to develop, extend, and support SAP solutions using ABAP and SAP Business Technology Platform. The role focuses on ABAP on HANA, CDS Views, RAP, and BTP integration/development services, with preferred automotive industry exposure.\n\nThe candidate will design and implement integrations, contribute to S/4HANA extensions, and ensure cloud‑friendly development practices while collaborating with functional teams and",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_6K0isKaq_wv4a-GAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_6K0isKaq_wv4a-GAAAAAA=="
+      },
+      {
+        "job_id": "OExHM3dKWVRkZ2ZtUGFyZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEI1VVdKbFFucExaaTEzYTFWVVNqSmlablpmUVhacVZFdGZaek5RYTNSS1ZFUm5Ua3hSUnpsUE4xTXpRbEpOVjNGR1VVNXdhV3BVTmtweU4xb3lOMDlZV21wc09VczVXV05MZUMxM1YyMWpWVjlNVG1KemJXbzFMVkpTU0ZKZlNHaG9XVGRKTmt0UVlYZFVORkpQZERsUmRUWjFWbmw1UkZweVNISlpSV2hqZURKRGNHNFNGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkSGREQlZVR1V6YVRWdk5HbFNkMnRrTjNaWWNXdDRhbFpZVGpaUg",
+        "job_title": "Hiring For SAP ABAP/CPI Consultant -Riyadh, KSA -onsite/3 month only",
+        "employer_name": "Royal Cyber Inc.",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://royalcyber.com&size=128",
+        "employer_website": "https://www.royalcyber.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/hiring-for-sap-abap-cpi-consultant-riyadh-ksa-onsite-3-month-only--saudi-arabia--e863a0d48e06a7c9245280514fb73eb45",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/hiring-for-sap-abap-cpi-consultant-riyadh-ksa-onsite-3-month-only--saudi-arabia--e863a0d48e06a7c9245280514fb73eb45",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Greetings!\n\nRole: SAP ABAP/CPI Consultant -Riyadh, KSA -onsite/3 month only /Contract\n\nLocation: Any where in India\n\nExperience:6+ years\n\n03 months engagement only\n\nJD :\n\n• The selected developer will be responsible for the development, configuration, integration, and testing of SAP interfaces between the Asset Performance Management platform and the Customer SAP environment.\n\n• Development of SAP objects, including RFCs, BAPIs, IDocs, and custom ABAP developments.\n\n• Configuration and development activities within SAP S/4HANA, SAP PO, and SAP CPI (SAP Integration Suite).\n\n• Development of outbound interfaces from SAP to external applications using SAP CPI.\n\n• Collaboration with the Customer SAP team to ensure compliance with Customer standards, procedures, and governance requirements.\n\n• Participation in integration testing, troubleshooting, and deployment activities.\n\n• The scope includes approximately 67 interfaces, covering the following functional areas:\n\n• Equipment\n\n• Functional Locations\n\n• Notifications\n\n• Work Orders\n\n• FRACAS\n\n• Task Groups\n\nThanks & Regards,\n\nRajesh R\n\nRoyal Cyber Inc",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D8LG3wJYTdgfmPareAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "8LG3wJYTdgfmPareAAAAAA=="
+      },
+      {
+        "job_id": "TmM0b29oZ3czOU9QNUdibkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZakY2WTJsYUxVVmhaakZwU25CV1lrcG1YekpJTlVGalRrdHFka1ZQY0ZFeWRtY3lNM1ppV2tvNE1UbHRiMDFCZFZBMlRHMDFXa0paYTJjelYwaDVSV3hHZUc1RFkyNWpOemxXYmw5RVZteFBMVTA0UzNkVFR6RXhhWHBxYTFkMFVGRjZaUzFCWTFkTlpESjVaVWxUWjIxUlZUZEhSbXQwVUVWMFNuZE1aeTFxVEZWamMxb1NGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkSFR6bDZaV05KVUhoV1FYUkxXazF4VlZCZldIcDZlRzVqYUhSQg",
+        "job_title": "SAP ABAP/CPI Integration Consultant - 3-Month Onsite",
+        "employer_name": "Royal Cyber Inc.",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://royalcyber.com&size=128",
+        "employer_website": "https://www.royalcyber.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/sap-abap-cpi-integration-consultant-3-month-onsite--medina--e21069a499e6ce7051c05b585dfa4eee8",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/sap-abap-cpi-integration-consultant-3-month-onsite--medina--e21069a499e6ce7051c05b585dfa4eee8",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Royal Cyber Inc. is seeking an SAP ABAP CPI Consultant for an onsite 3-month engagement in India. The role focuses on developing and configuring SAP interfaces between Asset Performance Management and customer SAP environments.\n\nResponsibilities include ABAP object development (RFCs, IDocs), CPI integration work across S/4HANA and PO, and testing and deployment activities in collaboration with the customer SAP team.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٨ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DNc4oohgw39OP5GbnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Nc4oohgw39OP5GbnAAAAAA=="
+      },
+      {
+        "job_id": "ZF9idVV2cGdiZ2NTcUNUSUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUp1Tm5kRlkzQTNVbTh6Y21sTk5XVmpRMHB5TjNweWFsRlFUM0prV0ZaR2EwTTNhVkYwT1ZGUFEwWnVXakJUVjFOSVUzTk5XWFJUTTFVdGJuRjZjM1ZwYVhVMVJqbDVXRjl3TUhadFNVNTVPVzR6VTAxcExXSnlPV04wT1d3M1NFbzFNR3hFUzI1elVEUTVWVFZDVURSSE1UUldRVE4yTW1SMVpuZGpiWEZIYUZOemRXRVNGMGxYYm05aGNGZ3RRbU5RWDNBNE5GQjNTeTFuT0ZGekdpSkJTRTR3UlRkSGVpMU1hekZtYVd4RWVVOTNVV3hqUlY5TU1tOW5TVWRUVGpOMw",
+        "job_title": "SAP Expert",
+        "employer_name": "LanceSoft Middle East",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/sap-expert-lancesoft-middle-east-saudi-arabia-69644040",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/sap-expert-lancesoft-middle-east-saudi-arabia-69644040",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "We have an immediate opportunity for SAP Expert. Please let me know if you're interested kindly send me your CV to [HIDDEN TEXT]\n\nTitle: SAP Expert\n\nLocation : Riyadh - onsite\n\nDuration : 6 Months\n\nNotice Period: Immediate joiner or up to 30 days\n\nKey Requirements\n\nThe ideal candidate should possess strong hands-on experience in:\n\nSAP CPI (SAP Integration Suite)\n\nABAP development\n\nSAP S/4HANA\n\nSAP PO / PI\n\nRFC, BAPI, and IDoc development\n\nREST APIs and SOAP web services\n\nSAP PM integration\n\nEnterprise Asset Management integrations\n\nExperience in large-scale industrial or utility environments such as Aramco or SE is highly desirable.\n\nInterested candidates send me your CV with below details.\n\nExpected salary:\n\nNotice Period:\n\nCurrent Location:\n\nCitizen / Visa Status / Work Permit:",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dd_buUvpgbgcSqCTIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "d_buUvpgbgcSqCTIAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWnBTRkxMMENuaXNMbkhfYmFQZWc1VmhDMklESmdwZmxqRDBzUm5FZGdKZU1XSnNTTVFQaVhlbXNTbEdIT0NLODBnYi1yN3QwYXJIdVJJallsZVQ4MnAzNW0zWTFROGJ6bEprRkJDcndkYkgwZzR3ZENWQVdMLUZoME9xanpxVGwzNmdXS1VnbGpnZUNZVVEzNUlFZ193WTcwdEJfVVhvdk9TNzhTS0FyTjdLWndRUGJIZDZGTXJuWWowWTdzbnhaaGxpdU5pNjlpS0d3N0hkaDRoa0hwQ1hTS2xKZ1U4TGw1c1JMYmRFNnlldmI2OFVMMjBDeEp4NFBUWEhQcFRZMC1SQ3lVM3plVG1HclQxRlFZbV9ZVE9TVzhtWHZqMG1mR1RXankzZEZlYkpJVkplLTBrT083a0owSDZwUG1iaDZnb1hPeHdoTVhHTENOWmtKMjFkT0ludTVXTVlGQVBKcjJjeXBPTUtCMlg5NllmeFUzaHF2Y2VfZlBsd01KbWhwTXl4WlIwbnVteFplYWtTbWJHYzFaaU9QUnFzTWZ5S0hZZkllQjZINzBYNXlEYURNdGt3ZjQ4ck1RNFp0TzVEWUthbmtfeTF6Q1NKUjB2OUNaOGhDMmtQSTdmUnQzS1diQWFPWXgybldHU3hnWGVEdGQ3MDVsOXZUdlBsWmV2YXBqaWI2Qlp5a3pyd3ZmLWV1cVdldnc2elVEcEN3EhdJV25vYXBYLUJjUF9wODRQd0stZzhRcxoiQUhOMEU3RmoyMXNZcjEwRm80Yklsa0VabDV3Wi10VGZ3Zw"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "mlops engineer"
+  },
+  "status": "OK",
+  "request_id": "be71724c-e313-452f-981e-036f4ec86317",
+  "parameters": {
+    "query": "mlops engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "TFZ3Z3RrUmdxT1N3WE45NEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkZKZG5aME16azJVV3BHT0ZSa1pXcHZUa0puV0VaS1pVNDVNamx4UzBOU01rNXZjblpSTms5QmFGbHpRMHhsZWtkdWJHMUJUSG96YzFaWGNVdEtZbWxLYlZneVh6UmtaemhEYzA4eGRsODRSbDloUjBKNFVYUlVlSE5LYlhRNWRUQlFkRUZMTjFOaVRWRnhZbWQ0WldZdGRGQjZibU4wVERGRlRVVmpWWFpNYTJzMGVVTVNGelF4Y205aGRGaHNSbkJtWkRWUFZWQnhTbnBZYjBGckdpSkJTRTR3UlRkSFFrUXpWV3hQUVY5eE1WbEhXVEJTZDFsdk1GOVhhVTFMWjE5Ug",
+        "job_title": "Senior MLOps & AI Platform Engineer",
+        "employer_name": "Fathom.io",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-mlops-ai-platform-engineer--dhahran-compound--eb0425538ddff147173d6c38a2cd75bae",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-mlops-ai-platform-engineer--dhahran-compound--eb0425538ddff147173d6c38a2cd75bae",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Fathom.io in Dhahran, Saudi Arabia seeks a mid-to-senior MLOps engineer to build the intelligence layer of our AI platform. You’ll shape infrastructure for model deployment, training, notebooks, and RAG pipelines, with a focus on self-service, reliability, and scalable workflows.\n\nYou’ll collaborate with backend, product, and AI teams to turn complex systems into approachable platform features, while optimizing GPU deployments and ensuring multi-tenant security.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٨ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر JobLeads",
+        "job_city": "الظهران",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2361248,
+        "job_longitude": 50.039301699999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLVwgtkRgqOSwXN94AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LVwgtkRgqOSwXN94AAAAAA=="
+      },
+      {
+        "job_id": "d1QyTGh6TG5MR1ZxRHNUeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGRXYURSZlpVWk5aekpZUjBaRWMzRm5OakJoV0VOeU1EbFhNVTg1Ums1RExYcHZjaTF6VmtFeVpFTkVYeTFhUWpKV1RXeFZTRll3VUVJM2VteG1hbkY1VVdGdFVIRkZUR2xRZFdOdk1FdEtiMWhFY1dwZmVYQlVZbU5DVlcxVlIxSkNkMnRTVjB0bVRYVXlSWGxTVlZabWExOXhRMXBmZVV0TGFtTldURlJGUVZaVlRUVVNGelF4Y205aGRGaHNSbkJtWkRWUFZWQnhTbnBZYjBGckdpSkJTRTR3UlRkR1lrSlRRbXRrTkZkemRYTm9UV0V4TTNsd1EzVXpiVGN3YkZCbg",
+        "job_title": "AI Solutions Engineer: Scalable ML & LLM Deployments",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Confidential Government is seeking an AI/ML Engineer to design, deploy, and integrate scalable AI solutions in Riyadh. You will build models, APIs, and MLOps pipelines to automate business processes and support data-driven decisions.\n\nResponsibilities include data preparation, model monitoring, and collaboration with business teams to translate needs into technical solutions while ensuring governance and security standards are upheld.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DwT2LhzLnLGVqDsTxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "wT2LhzLnLGVqDsTxAAAAAA=="
+      },
+      {
+        "job_id": "S09oSEFhUnRBaHdQYXZENUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1YzY1hkMFNHUlNRbTlaTkY5UFoxOVFZa2MyZGs4eU4xaFhZMk5sVWtsWlVFZGlVVmh0ZDJGV2RYTm1ja0pYYTFSVGR6SkJaMGx5WkZGNGNqRlJPVGhZTVZkaFRFWmpiMGRUT1VST09IcGZNbEowUkdST1YwVlZOakphUlcxQlFXOURabkpsTkVSVldHbHdhMEpFT0ZOc1VVTm9NMEZ4YWtOWlRsOWtWMTlPV0haRFZ6QVNGelF4Y205aGRGaHNSbkJtWkRWUFZWQnhTbnBZYjBGckdpSkJTRTR3UlRkSVMxUmZVRlpwVEdreVVqWndZMlIzZERkR1NHOW1VV3cyUm1sbg",
+        "job_title": "AI Engineering Specialist",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Develop, deploy, and integrate scalable AI and machine learning solutions to automate business processes, enhance operational efficiency, and support data-driven decision-making.\n\nKey Responsibilities\n\n• Design, develop, and deploy AI and machine learning models to address business needs.\n\n• Develop and integrate AI solutions, including LLMs and APIs, with existing enterprise systems.\n\n• Build predictive analytics models to support forecasting and business performance.\n\n• Prepare, analyze, and process complex datasets for AI model development.\n\n• Monitor, evaluate, and optimize AI models to ensure accuracy, reliability, and performance.\n\n• Collaborate with business teams to identify AI opportunities and translate requirements into technical solutions.\n\n• Apply MLOps practices to support scalable and secure AI deployment.\n\n• Ensure compliance with data governance, security, and AI ethical standards.\n\nQualification and Experience\n\n• Bachelor's degree in Computer Engineering, Computer Science, or a related field.\n\n• Strong proficiency in Python, machine learning, and Large Language Models (LLMs).\n\n• Experience in API development, AI integration, and MLOps.\n\n• Experience in deploying secure and scalable AI solutions in production environments.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKOhHAaRtAhwPavD5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KOhHAaRtAhwPavD5AAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "product analyst"
+  },
+  "status": "OK",
+  "request_id": "e306a401-88f0-4f85-85d1-9cce5ccd22cb",
+  "parameters": {
+    "query": "product analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "cmVjSW9zWkhZSFhyUC11SEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalpNY1RaRExUSmZPVUZyUzAxYWVsRkNaV0V0YWtGcWFrWnpkRVJmWjJkWlVGaE1iRUp1TW5kMVFsRk1kRXR3YVdKUU5saFlUMGx6UWs5a1EyVXdXRWxyYWpGQmRWUkViMGMxUkVReExVWlpRM1IyV2pGc1FuTTRaMEZvUlRoNU4wNTFURVpOWTFJMFVHZDBVVVUyT1dkQk9FbDRkR0pUVjFOV1FteEhXWFJ1U1V4NlMwNFNGMFV4ZG05aGRISk5VRTV5VEhBNE5GQmZTM0Y0YlZFNEdpSkJTRTR3UlRkSFdXSXlWWE5CUldWeWQzWnBlR0pJVjBaRmNHbHpaM2xJUm5sQg",
+        "job_title": "Senior Product Analyst: Turn Data into Product Decisions",
+        "employer_name": "Lucidya",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hAKCCs6KMUV-18RqLUC7ir3eL-zUZyFJDHYU&s=0",
+        "employer_website": "https://www.lucidya.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/7775403027497372650",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/7775403027497372650",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Lucidya invites a Senior Product Analyst to help embed data-driven decision-making into every facet of product development. You will work closely with Product Managers and cross-functional teams to transform raw data into actionable insights, guiding strategy from discovery through delivery.\n\nThe role emphasizes close collaboration with leadership to connect product signals to business outcomes, building self-service analytics, and raising data literacy across the Product organization.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جيزان     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DrecIosZHYHXrP-uHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "recIosZHYHXrP-uHAAAAAA=="
+      },
+      {
+        "job_id": "QTVXdUV2akZJOV9UbTJmSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWFV3YTFKUlUxRnRkV2h1TmtWcVRGVnFla1l0VlZGVWN6VlBkVmgxUW5SNFdqVmpNRTVsWjJGdWQwRkdRM0ZMVDNBMWFHZGpZVlpOVDJadFgwY3lWRkJqWW5JNFEyZDVOVVoxWWxKVWVqTk1NbVEyV0dRNVVtbFplbVJ0VVY5bFNubG5ZbE5SYkcxQmEyUXhhbm8yYTBaNlJtOVBVRnBUVERGamVHcGFia1JsV2twTVJXa1NGMFV4ZG05aGRISk5VRTV5VEhBNE5GQmZTM0Y0YlZFNEdpSkJTRTR3UlRkSFkycFNVa3hyVlhZd1UyMDNkVmxGYkRkb1VGTk5MVGRZV2s1Ug",
+        "job_title": "Senior Product Analyst: Turn Data into Product Decisions",
+        "employer_name": "Lucidya",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hAKCCs6KMUV-18RqLUC7ir3eL-zUZyFJDHYU&s=0",
+        "employer_website": "https://www.lucidya.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-8919234954680654975",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-8919234954680654975",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Lucidya invites a Senior Product Analyst to help embed data-driven decision-making into every facet of product development. You will work closely with Product Managers and cross-functional teams to transform raw data into actionable insights, guiding strategy from discovery through delivery.\n\nThe role emphasizes close collaboration with leadership to connect product signals to business outcomes, building self-service analytics, and raising data literacy across the Product organization.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DA5WuEvjFI9_Tm2fHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "A5WuEvjFI9_Tm2fHAAAAAA=="
+      },
+      {
+        "job_id": "UkFSRG5ibzloTjlDUmpZaEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGxDT1RGSmIwUXRXbVE1UjAxWVduWkxNbmhXZVRGNE5qZG5RazlDWjJ4YWVFZFBhbVpSWDIxQ1NUWkNPV1IxWkVkMFN6WkdSRjlWUkcwME1GbFBiRVl6YWpRMGFuTnRUVTFJY0c5SldIb3ROMEpEVTBORGFGVldWVzVmWlcwM1JUUm9WR2gxYTFCNWRuUjNPVzVzVUc1cFdUQTVTVWx0VTI1MFNsaERSbGh3Ylc1RU5VSVNGMFV4ZG05aGRISk5VRTV5VEhBNE5GQmZTM0Y0YlZFNEdpSkJTRTR3UlRkR2RXaHZVRkY1TFRGS1JXRXpNM3B3Wkc1elRVbE9aMGMyTlVKbg",
+        "job_title": "Analyst - Data & AI Product Owner",
+        "employer_name": "Qiddiya Investment Company",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://qiddiya.com&size=128",
+        "employer_website": "https://qiddiya.com",
+        "job_publisher": "GlobalScope",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.globalscope.careers/job/analyst-data-ai-product-owner-qiddiya-investment-company-08fff3a78a9852f0",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.globalscope.careers/job/analyst-data-ai-product-owner-qiddiya-investment-company-08fff3a78a9852f0",
+            "is_direct": false,
+            "publisher": "GlobalScope"
+          }
+        ],
+        "job_description": "Job Purpose Support the successful delivery, adoption, and continuous improvement of Data & AI products by acting as the bridge between business stakeholders, delivery teams, and technology partners. Manage product requirements, backlog execution, user acceptance activities...",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٤ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر GlobalScope",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DRARDnbo9hN9CRjYhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "RARDnbo9hN9CRjYhAAAAAA=="
+      },
+      {
+        "job_id": "Wjk1cUhpWU9nNS05dmdFTUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVTlxWW1WcVNUQnBkaTFJVlhWWE9WRmlkRmcyU210UGNUSlhWbTlSVVUxNmVuaEVWRlEzWmpaV1MyWk9WV2hZVlRsV2NWcHdRVXRVWm5wNGFIQmZTMDluYVZOMldUQkpPR1E1YnpkWk0xcEtaMloyYm1KSVJGbG1ZbmRPZVRCbGN6bHRXakprVFU4M1NIUkpOV0ZWWmtGWk9EWXRaemRDUTB4cVduTXRVRzFZWkZWR1pXSVNGMFV4ZG05aGRISk5VRTV5VEhBNE5GQmZTM0Y0YlZFNEdpSkJTRTR3UlRkR1p6aFlabll3YTFOUFRVcG9jbXMyTVc5eGFHNHdWVlZtTmpCMw",
+        "job_title": "Business Coordination Analyst",
+        "employer_name": "Tenaris",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxMvm5mUNxEm6o8Nbu_z7HZSF3zu_VEz-bK9_m&s=0",
+        "employer_website": "https://www.tenaris.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/business-coordination-analyst--eastern-province--e4e916b2390148b1d795419d1d16da4c0",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/business-coordination-analyst--eastern-province--e4e916b2390148b1d795419d1d16da4c0",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Carries out preliminary strategic analysis for a RFQ and launches several processes such as delivery allocation product and logistics costs technical product analysis contractual terms and conditions tax implications HSE related issues and credit queries to several Tenaris departments and if applicable quotation requests to suppliers Analyses the info received by other departments and together with CFE proposes a pricing strategy to address the inquiry Prepares a ready to print offer for submission to customer in accordance with RFQ requirements including all technical and contractual deviations and any additional information and documents as requested Registers offers in TS transactional systems Dynamics and manages updates during the different stages of business Upon reception of an order performs Contract Review process and solves inconsistencies Is accountable for Order Acceptance process Requests authorizations according to Authorization Manual for offers previsions and variation orders during the complete development of the offers and execution phase of the contracts The scope is focused on a group of accounts with similarities in terms of business culture practices and competitive environment Engineering Bachelor Degree or Business Administration.\n• Less than 2y experience in any similar positon, or PM.\n• Excellent communication skills.\n• Excellent reasoning skills.\n• Competitive and goal oriented profile.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المنطقة الشرقية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DZ95qHiYOg5-9vgEMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Z95qHiYOg5-9vgEMAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

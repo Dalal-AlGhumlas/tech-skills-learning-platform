@@ -1,0 +1,473 @@
+{
+  "_meta": {
+    "specialization": "cloud_devops",
+    "query": "devops engineer"
+  },
+  "status": "OK",
+  "request_id": "53fd3ff9-9249-49b6-b8b6-32921e3fa906",
+  "parameters": {
+    "query": "devops engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "UGpGcnZLUDgxLWRtZnVsdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZamwxUTBOdWNUbHBXRTFoTFZSUU4zZDRjVTFDTkY5c2QyeHNXVGw0ZG14QmEyRmxabE41UjFGMldVSXdhM0UyVG5oWVMxbFdSeTFDV0hCc1FXY3RURmRNYVU1NkxXMUhUWGR5T1dselprOVBWVGRqUmkxTVpVTndTVlE0UkVSdGNuaFVabXREWDFCalprRktTM1pQVmxkWWFrWkphM0ZPTW5aaE0xTmtPSGR5ZVZwdU5uTVNGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkRllubzNVUzFyVFU1blNFdDZUVjlEVjFOR1JHRmFjalpZWVhaQg",
+        "job_title": "Senior DevOps Engineer - CI/CD, Java Apps & Infra",
+        "employer_name": "SITA",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-ci-cd-java-apps-infra--riyadh--ea3e1bd7be788f39ae8f59353d771e9e6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-ci-cd-java-apps-infra--riyadh--ea3e1bd7be788f39ae8f59353d771e9e6",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "SITA in Riyadh is seeking an experienced DevOps Engineer to bridge development and operations, focusing on CI/CD automation and infrastructure as code. You will support Java applications, administer Linux systems and manage middleware integrations across production environments to ensure reliability and scalability.\n\nIdeal candidates have hands-on experience with IBM MQ, WebSphere, JMS, XML/REST/SOAP, and strong incident management skills, working closely with cross-functional teams to",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DPjFrvKP81-dmfulvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "PjFrvKP81-dmfulvAAAAAA=="
+      },
+      {
+        "job_id": "R04tNFJFZS1rbWdlbGV2UEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVTlWTW1WUFJFTmZla2xKYUVkWFR6UjNUV1pQTUZKeFoySmxRbDlQWjJKM01GOXdlSGxSTUdoaVRFWnNlbWhYVVRNMVJVUjZielV5Wmtob1ZWcHBOMFpXYjFsc1V6SmhVMUJ1T0dKRmJqRmxaV2Q1VjNaWFlYRjNYMjlXZDNocWQyWlJMWEZIVUVOTk1VNDJiVjlxVVVWWlZXTm5lR2hGV1dweE5sbGFjbFJ5Wlc5d1pqUVNGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkR01UWlRZVXh2TldGelIwbzJObGhYVGpZM1RXMXZPWE5TTUdKQg",
+        "job_title": "Senior DevOps Engineer – AI Infra, IaC & CI/CD (Makkah)",
+        "employer_name": "Qanoniah قانونية",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-ai-infra-iac-ci-cd-makkah--makkah-region--ee5f5581a3e64eb19f57ee0fd949a9adf",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-ai-infra-iac-ci-cd-makkah--makkah-region--ee5f5581a3e64eb19f57ee0fd949a9adf",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Qanoniah قانونية is seeking a Senior DevOps Engineer to own and evolve the platform supporting our AI Legal Assistant. You will design, automate, and secure scalable infrastructure for Saudi enterprises and government entities, driving DevSecOps practices across the engineering organization.\n\nYou will manage IaC, CI/CD pipelines, and cloud-native runtimes, collaborating with developers, product, and leadership to translate business needs into reliable infrastructure while meeting strict security",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "مكة     •  عبر JobLeads",
+        "job_city": "مكة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.424096799999997,
+        "job_longitude": 39.817336399999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DGN-4REe-kmgelevPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "GN-4REe-kmgelevPAAAAAA=="
+      },
+      {
+        "job_id": "V3dDaFo2eDhLdGZ6Tk4zb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWFZrYkZSTWRVTnBka3RSVjNneFgyNTVka1pZYVVkWVlVOVZjM2wwYWxOVFkxZGFPV0ZTTVhKQ1dEaFhRV3RPT1RSYVlYUkVSa3BNUW5SVk9WUkVObTFLT1hKRmVGSmxURGhLTldaMVdrbFBXVFkyVVROU1JWb3hWRWhzYkhKTFEyOUNORlJOWWxkUmRHbGxTV0pRVGpWWVZWQlhlR2g0VEdRNVdWSlJlREZRT1hwV1ZFa1NGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkR01qbGlMVWxZWDE5elJFUXhaVE5ZV1dwZldIZzRWVUZHVW1SUg",
+        "job_title": "Senior DevOps Engineer – Onsite Riyadh | Kubernetes & CI/CD",
+        "employer_name": "Globant",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://globant.com&size=128",
+        "employer_website": "https://www.globant.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-onsite-riyadh-kubernetes-ci-cd--riyadh--e4b1b84f83e8716baa91808c91ace701b",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-onsite-riyadh-kubernetes-ci-cd--riyadh--e4b1b84f83e8716baa91808c91ace701b",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Globant in Riyadh, KSA, is seeking a Senior DevOps Engineer to join onsite. You will design and optimize scalable, secure infrastructure and CI/CD pipelines, focusing on performance, availability, and operational excellence to empower product teams.\n\nHands-on Kubernetes work, GitOps, Vault or equivalent secrets management, ELK observability, and OCI experience are required. You will own monitoring, alerting, and incident response while balancing multiple tasks in a fast-paced environment.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWwChZ6x8KtfzNN3oAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WwChZ6x8KtfzNN3oAAAAAA=="
+      },
+      {
+        "job_id": "YVVxc0RoYzRfVi1Ca2Zua0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3BQZUhreGVXRmFja1JaWms1Sk9WUk9SM1JVWjFnemVYUnpSVmhxWVhNNU5rSkdjRFJWUVRsdVNVdFRlWEkwUWxwclgwRXpkakl4U0c5c1RrRjVkWGhYTWt4blUwWnVPSFJZWkhSaVVURkpWMDQ1TTBZNGVrMTZha1ZKZG10NVJHWk1TV3hWYzJnNWQwSm9iMWhzVEhkcVdsQkdTRjlWUWtGbmVYVmFXa2hDT0V4aWJqQVNGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkSU5WYzRaVlIxWWtwZmIyVnRVR2xHWkVWMlVHaHlSVTg0YjI5Mw",
+        "job_title": "Senior Devops Engineer",
+        "employer_name": "Qanoniah قانونية",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/2666828414446469120",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/2666828414446469120",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "About Qanoniah\nQanoniah is Saudi Arabia's leading AI Legal Tech Startup. Our AI Legal Assistant is the trusted daily partner for major enterprises and government entities across the Kingdom, helping them navigate complex legal landscapes with speed and precision.\nThe Role\nWe're scaling our infrastructure to support the next generation of our AI Legal Assistant, and we're looking for a Senior Dev Ops Engineer to own the platform our engineers and AI systems run on. You'll design, automate, and harden the infrastructure that serves top-tier Saudi enterprises and government entities — building reliable, secure, and compliant systems for one of the most demanding industries in the Kingdom.\nKey Responsibilities Design, build, and maintain the cloud infrastructure powering Qanoniah's internal and external applications.\nOwn and evolve Infrastructure-as-Code (Terraform, Pulumi, or equivalent) across all environments.\nBuild and maintain robust CI/CD pipelines that ship code safely and quickly to production.\nTranslate business and product requirements into scalable infrastructure decisions, in close collaboration with developers, product, and leadership.\nEnsure the security, compliance, and auditability of the infrastructure (SDAIA, NCA, PDPL, ISO 27001, SOC 2, and similar standards relevant to KSA).\nDrive observability, monitoring, alerting, and incident response across services.\nOptimize for cost, performance, latency, and reliability — including AI/LLM workloads (GPU infra, model serving, vector DBs).\nChampion Dev Ops and Dev Sec Ops culture across the engineering organization. What We're Looking For 5+ years in Dev Ops, SRE, Platform, or Infrastructure Engineering, with at least 2 years at a senior level.\nProven track record running production infrastructure — not just lab or POC environments.\nStrong hands‑on experience with Ia C (Terraform, Pulumi, or Cloud Formation) and configuration management.\nDeep expertise in CI/CD tooling (Git Hub Actions, Git Lab CI, Jenkins, Argo CD, etc.).\nSolid experience with cloud providers (AWS, Azure, or GCP) and Kubernetes in production.\nStrong scripting and automation skills (Python, Bash, Go).\nKnowledge of security best practices, secrets management, IAM, networking, and compliance frameworks.\nComfortable working cross‑functionally with developers, product, and management to turn business needs into reliable infrastructure.\nFluent in Arabic and English.\nBased in or willing to relocate to Makkah. Nice to Have:\nExperience supporting AI/ML workloads (GPU clusters, model serving, vector DBs), familiarity with KSA compliance standards (SDAIA, NCA ECC, PDPL), service mesh (Istio, Linkerd), and Fin Ops practices.\nWhat We Offer Build the platform behind AI used daily by Saudi's top enterprises and government entities\nStartup ownership, fast iteration, and real impact\nPrime office in Makkah near Al-Haram\nWork in one of the region's most exciting AI startups Ready to build the infrastructure powering the future of Legal Tech in KSA?\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "حائل     •  عبر Jobrapido.com",
+        "job_city": "حائل",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 27.5114102,
+        "job_longitude": 41.7208243,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DaUqsDhc4_V-BkfnkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "aUqsDhc4_V-BkfnkAAAAAA=="
+      },
+      {
+        "job_id": "Um0xSDFFMzlFSHpMWGtfVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEJyYkZoV1NFVmFTV2QwY3pJMlYyMWthSGs0ZURkUk9YaEhZVFpUTkhSNVJWSm1hMlprV2w5V1UydHhjbVpqYzNKV2NTMUpNV1prVURGb05HOHdhMHh1TUhGWk5Ia3pjVkZSYWtod1pWUmphRUV0UjBVMU9URk5XVGwxYVVNdFJVSnJRMWh4Vkd0V1JHbDNWemxLYUROYWJGUTNSak5NVlZoM2FreDJTWEE0WTI5SlYyY1NGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkR2NFMXhWblJ2UWpORFZsUlJiR3BwWTBobU1GZElla1pZUkdsbg",
+        "job_title": "Senior DevOps Engineer, CI/CD & Kubernetes Automation",
+        "employer_name": "Scarab Dev",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-t9aBIOanCaC7HjZ-jLJqcXHciUBF5Xz4NXu&s=0",
+        "employer_website": "https://www.scarabdev.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-ci-cd-kubernetes-automation--saudi-arabia--e96e39cd58e1fd5fddf5994f11536eabb",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-devops-engineer-ci-cd-kubernetes-automation--saudi-arabia--e96e39cd58e1fd5fddf5994f11536eabb",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Scarab Dev in Saudi Arabia seeks a senior DevOps/CI-CD Engineer to design and manage robust pipelines.\n\nYou will work with Jenkins, GitHub Actions, GitLab, and Kubernetes/OpenShift to enable rapid, reliable software delivery while collaborating with development and infrastructure teams on enterprise projects. Fluency in Arabic and English is required; immediate or short-notice availability is preferred.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DRm1H1E39EHzLXk_UAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Rm1H1E39EHzLXk_UAAAAAA=="
+      },
+      {
+        "job_id": "cmxWY0haSm91UXlDTVQ1bkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1ZTZVZKcmNtVlFSSG81UkZONU9FOUViVGM1TUhGbVpsTndibWxOU2tKb1MxaHJjRzFFUTBKVFdESjVkRW80T0RFd2QwWkVYMmxtTlZOWVIzbFNTVmhEWVcxVVVFOWpOazlEYzI1d1ZXeE5jM05wTFdaQ1VGOHlTVlE0Tm1WWE5GVm5kVmxpTVdGSldHZHdXRWxXTW5nNWIweHhXVUZ5YzNCVmMxQlVOREpJYnkxTmQxOFNGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkSE5raGZaelJpVEVsdVowOVBjMDAxTTBSRFNYQXRUblJyWDBOMw",
+        "job_title": "DevOps Engineer – GCP and OCI Jobs in Riyadh, Saudi Arabia",
+        "employer_name": "marc-ellis",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marc-ellis.com&size=128",
+        "employer_website": "https://www.marc-ellis.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/devops-engineer-gcp-and-oci-jobs-in-riyadh-saudi-arabia--saudi-arabia--e08f948c5421a1a7269b92d157392d311",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/devops-engineer-gcp-and-oci-jobs-in-riyadh-saudi-arabia--saudi-arabia--e08f948c5421a1a7269b92d157392d311",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Location: Riyadh, Saudi Arabia\nJob Category: Information Technology / Cloud Engineering / DevOps\nJob Title: DevOps Engineer - GCP and OCI\nExperience Required: 5-10 years\nContract Duration: 12 months, extendable\nJoining Preference: Immediate joiners preferred\nLanguage Requirement: Arabic speakers only\n\nJob Overview\n\nAn urgent hiring opportunity is available for an experienced DevOps Engineer specializing in Google Cloud Platform (GCP) and Oracle Cloud Infrastructure (OCI) in Riyadh, Saudi Arabia. The position is offered on a 12-month extendable contract, with the potential for a longer-term engagement.\n\nThe ideal candidate will have 5-10 years of experience working in cloud environments, with strong hands-on expertise in CI/CD pipelines, GitLab, Terraform, Infrastructure as Code (IaC), Ansible automation, and Kubernetes cluster management.\n\nApplicants should also understand cloud networking, containerization, microservices architecture, service discovery, and monitoring solutions. Arabic-speaking candidates who can join immediately are preferred.\n\nKey Responsibilities\n\n• Implement and maintain CI/CD pipelines using GitLab.\n\n• Manage cloud infrastructure across GCP and OCI environments.\n\n• Automate infrastructure provisioning and configuration using Terraform and Infrastructure as Code practices.\n\n• Use Ansible for automation, including Kubernetes package management.\n\n• Manage and troubleshoot Kubernetes clusters, particularly Google Kubernetes Engine (GKE).\n\n• Work with Nacos for service registry and configuration management.\n\n• Support cloud networking, containerization, and microservices-based environments.\n\n• Monitor cloud infrastructure and applications using tools such as Prometheus, Grafana, or Google Cloud Operations Suite.\n\n• Troubleshoot technical issues and contribute to reliable cloud operations.\n\n• Collaborate with technical teams to improve automation, deployment processes, and infrastructure reliability.\n\nMandatory Technical Skills\n\n• 5-10 years of relevant professional experience.\n\n• Proven experience as a DevOps Engineer in cloud environments, preferably GCP and OCI.\n\n• Strong knowledge of GitLab, CI/CD, Terraform, and IaC practices.\n\n• Proficiency in Ansible automation.\n\n• Experience managing and troubleshooting Kubernetes, particularly GKE.\n\n• Familiarity with Nacos for service registry and configuration.\n\n• Solid understanding of cloud networking, containerization, and microservices architecture.\n\n• Excellent problem-solving, communication, and collaboration skills.\n\nPreferred Qualifications\n\n• GCP professional certifications, such as GCP Professional Cloud DevOps Engineer or GCP Professional Cloud Architect.\n\n• Experience with Prometheus, Grafana, or Google Cloud Operations Suite.\n\n• Bachelor's degree in Computer Science, Engineering, or a related field.\n\nCandidate Eligibility\n\n• Arabic speakers only.\n\n• Immediate joiners preferred.\n\n• Candidates should have the required cloud engineering and DevOps experience.\n\nContract Details\n\nLocation: Riyadh, Saudi Arabia\nDuration: 12 months, extendable, with a potential long-term opportunity.\n\nSalary, benefits, working arrangements, and visa or relocation provisions have not been specified in the supplied announcement. Candidates should confirm these details with the recruiter.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DrlVcHZJouQyCMT5nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "rlVcHZJouQyCMT5nAAAAAA=="
+      },
+      {
+        "job_id": "QjZzSU5YRWdTb3V4d1A0NUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUZHYUVKRFlYZFdhRlZ3VkV0WGIzVnhiR1pwVVVSRWFEZzRjemcyU2xGblVHOXFNMk4xV2s1QmEwRmtaa2RhZFhoWFdYUjJRemx0V2pjMlRVZE5RblJ5WjE5TVdVSTFUME52VUd0WlMyWnJPVVYxVFhWdVIwWlBjRTlOT0hGNVpUZFZXRGxCZFRObVkwSXRTbTlxUmxjdFpuSm5aSEpQTTNkMVVEa3lSVGhqVlRkTWRUUVNGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkR1NFZGhXRzVmV0RSMFFWOUlSRGRqYlVsRGFYUXplWEpqU1ZCMw",
+        "job_title": "DevOps Engineer: Kubernetes & CI/CD Specialist",
+        "employer_name": "Lucidya | لوسيديا",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hAKCCs6KMUV-18RqLUC7ir3eL-zUZyFJDHYU&s=0",
+        "employer_website": "https://www.lucidya.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/devops-engineer-kubernetes-ci-cd-specialist--riyadh--e50d4449dc0751ef3b8a75f576872b9a3",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/devops-engineer-kubernetes-ci-cd-specialist--riyadh--e50d4449dc0751ef3b8a75f576872b9a3",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Lucidya is seeking a DevOps Engineer to design, build, and optimize scalable CI/CD pipelines and automation for cloud-native services. You will deploy containerized applications with Docker and Kubernetes, and manage infrastructure using Terraform across AWS or GCP.\n\nYou will collaborate with product and engineering teams to improve reliability, observability, and security of deployments, while supporting rapid iteration and incident response in a SaaS environment.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DB6sINXEgSouxwP45AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "B6sINXEgSouxwP45AAAAAA=="
+      },
+      {
+        "job_id": "MllDTFFQVVR5cGVzYlBzeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbnBGZFdOallWcE1SMTlmVlZodVRWWnNZMTlJV1hNeU9HSXdjRGRSWkRoeUxVdG1aVWRFVlZoMlVUbGZlbUZsVG1SV2RFeEJZMGhvVGpGTVEzTTRNRUpIUlZSUk5tNU9hRVZwVERFNGIxaDNZVjlGYjFORk1GSXphRWhTVXpob2QxbFZaVWRyUzBoUFYwazRNbmd5VFdwVmRtbExXVE5DY0VFMlkzSkJla3QwWkhKRE5Ya1NGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkSFJVOTBjalZKYlRoa1NHSXdjVzFwYlMxdFJXSlZaMHRSWnpWUg",
+        "job_title": "Senior DevOps Engineer, CI/CD & Kubernetes Automation",
+        "employer_name": "Scarab Dev",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://scarabdev.com&size=128",
+        "employer_website": "https://www.scarabdev.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/8343971364817862656",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/8343971364817862656",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Scarab Dev in Saudi Arabia seeks a senior DevOps/CI-CD Engineer to design and manage robust pipelines.\nYou will work with Jenkins, GitHub Actions, GitLab, and Kubernetes/OpenShift to enable rapid, reliable software delivery while collaborating with development and infrastructure teams on enterprise projects. Fluency in Arabic and English is required; immediate or short-notice availability is preferred.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٦ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جيزان     •  عبر Jobrapido.com",
+        "job_city": "جيزان",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 16.889358599999998,
+        "job_longitude": 42.5705674,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2YCLQPUTypesbPsxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2YCLQPUTypesbPsxAAAAAA=="
+      },
+      {
+        "job_id": "MnZzdXBzYjB5cjhsVjlUc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa3RQV0RoVk5WWlBOR1l4WVVWb2JGQjZRak5KYlhaZmMwWjNSR1ZJT1hSa2VrUm5jbkZ6TkVaNFRuWnpaWGhxYlVScFZGRnFObUZ0YjJGWVkwdHJNMUpDVkdaVFExSlBNV2xtVTJKSVozbEtObk5RZEdodE9GcEtkRXRHZEZKWmVGWkdUbE5aVVhGSFNYSnBYMnhsYjB4R1NsRldURGxHUWtsNU1YcFNZamt3TVVZdFJEQVNGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkSU1tMDBTMHQzYWpKR1EySlFjREJtVGt0UVpVWTRVVE5IU2pCMw",
+        "job_title": "Senior DevOps Engineer",
+        "employer_name": "Flyadeal",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMJZ_zWQxqJgq-ElFS3QiJ298D4NZThIxxpGs&s=0",
+        "employer_website": "https://www.flyadeal.com",
+        "job_publisher": "TalentHub - AeroSelect",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://talenthub.aeroselect.io/jobs/senior-devops-engineer-jeddah-YJSQZI",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://talenthub.aeroselect.io/jobs/senior-devops-engineer-jeddah-YJSQZI",
+            "is_direct": false,
+            "publisher": "TalentHub - AeroSelect"
+          }
+        ],
+        "job_description": "This role is responsible for involving and combining software development (Dev) and IT operations (Ops) principles and practices to streamline and automate the software delivery and infrastructure management processes within an organization.\n\nKey Responsibilities:\nDevelop and maintain automation scripts and tools for tasks such as code deployment, configuration management, and infrastructure provisioning.\nSet up and manage CI/CD pipelines to automate the building, testing, and deployment of applications.\nWork with containerization technologies like Docker and container orchestration platforms to manage and scale containerized applications.\nIntegrate security practices into the DevOps process, including vulnerability scanning, access control, and compliance automation.\nCollaborate with development, operations, and other teams to facilitate communication and alignment between different parts of the company.\nMaintain detailed documentation of configurations, processes, and procedures to ensure knowledge sharing and onboarding of team members.\n\nBachelor's degree in a relevant field such as Computer Science, Information Technology.\nAWS Certified DevOps Engineer.\nDocker Certified Associate, Certified Kubernetes Administrator.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٧ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر TalentHub - AeroSelect",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2vsupsb0yr8lV9TsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2vsupsb0yr8lV9TsAAAAAA=="
+      },
+      {
+        "job_id": "U3hHVVo2Vy1BWnBRMzd2TEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVYxWmpaTmJGbGtTVXBtVkhreFZIRldaVVUxWlZOd1JHZG1MV2w2VDI5eFVIcHpiMEZQZERkV0xYbG9VbXBUU0dGa2MyaFNSVEpMTUVWeGFUSjNTMnA1U0dKd1J6Um5VRkZaVkZkNWRsVkVjWEoyV0RGdWJISXRVVFJPUlRkSmVVOUNSVkZaY3psb2JHWkZTR2xKWDJaaFJGOTVZVTFZTW1sc2MyeDVWbWMzZG5aSldWUVNGMk5HZG05aGNIa3pUamR1Y3pWT2IxQjJOVzFqTmxGakdpSkJTRTR3UlRkSVRXOUNaV3RpYUd0MFJqRndNMFZMYW5GNGVrOUxSa3Q2VDNoQg",
+        "job_title": "GCP & OCI DevOps Engineer — Riyadh, Terraform",
+        "employer_name": "marc-ellis",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://marc-ellis.com&size=128",
+        "employer_website": "https://www.marc-ellis.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/gcp-oci-devops-engineer-riyadh-terraform--saudi-arabia--e9cf1ba5fa0646ffa1d9dfbb7e748b41e",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/gcp-oci-devops-engineer-riyadh-terraform--saudi-arabia--e9cf1ba5fa0646ffa1d9dfbb7e748b41e",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "marc-ellis is urgently hiring a DevOps Engineer in Riyadh, Saudi Arabia, focusing on GCP and OCI. The role requires 5-10 years of cloud experience, strong hands-on expertise in CI/CD pipelines, Terraform, Ansible automation, and Kubernetes cluster management.\n\nImmediate joiners are preferred, with Arabic language requirement. The candidate will implement and maintain CI/CD pipelines, manage multi-cloud infrastructure, and drive automation across cloud environments, networking, and monitoring.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٨ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DSxGUZ6W-AZpQ37vLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "SxGUZ6W-AZpQ37vLAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWlhBUk5ydlJDdlJaQm9NMVgxR2FjSnBRUlB1QUFwVVFSQUNkRHpiN0lLcmNERTJfcjNlUi1MN09BNHdGbGU3ajlTVm9tOGZocW5tc2JCS3VzcDNfemZCSndPT25mWnluNXFTMjNEYlVyOFdkc3QtZWU3bzJxN3lQNHcwOHJYMWRKTHQ5b1o0czQxdUxTMF9YVTg2ZlZ1d2RNT3hXeTFCdDFLYzdnbXB3M25WUlNzQ2tCcVFUQ04zOWZVcjZJQUk3MEpJXzBqbkh5TDhLei1ycHhBVzNwUVRWVEs1US1NcmlIWFZzN2VpMFByemhmM3VMcFBJUjZfcVlha3ZQc0VWaXpsdmVsbERQSHh4WGVNa3FhWmJteXNwZURyLTloZWNQT2ctdElha2gwaHNqQk5FX0RrUm9tSi1fR1l5Rlc0a0hhNkszb25kWlRVRjBsd0NwU1c2VC1OSnkxTXRXaEpMMm1yMGw2dEJqdDVwQ1hfXzR5M0ExV09UbUdxV0ducGRfUTQ5LU8xSFYzaE5pNWxtd1MyMWMtM3RLejhFMFE1Umt5a2FxY1BtS215UDVDM3JxSFRHVTFwSkpfcUNLbTBvWFltN25lNmZJMkplc2F1dWExWDRpeHpLbFlvSjNVX2dzMmJZckVlNTdLOEtVSW5JVndBQ2hXWkZuZVZ6Qlh0SDg4YkgzVjM5UVZBRkZUSldRd0F0U2xXVDNqS2FnEhdjRnZvYXB5M043bnM1Tm9QdjVtYzZRYxoiQUhOMEU3R1FHYjdIY1lqVFhDYU16QkNkNF90NUtTYmdoZw"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "specialization": "uiux_technical_products",
+    "query": "product owner"
+  },
+  "status": "OK",
+  "request_id": "eb6a074c-3c1e-4119-990a-843c760d09d3",
+  "parameters": {
+    "query": "product owner in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "U1JvWVMzdVhxbnFUSWxQdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVjlrVWt0NmMyeE1hM0pyYldSbE1FRktOR040WmtOSFZVVTRTMHAwYUVwMVYwRk5RMUpZYlZsclEzbHdVa1U0TURReGFTMTNVWFJqT1dKeWMzUk1ibEJRYldoM2RURnVZa0ZtWVVaaFdUZFVNa1J5ZWtwclNUUlpWVVpMV1dSTmJuRjZVakJIY1UxWlVWaFlOblI2VWxvNFpFdFZTRGxmZFVGblNtaDRlVGt6ZVRGVWNUZ1NGM1V5U0c5aGJ6SkVRaTExZERCUVJWQnNjVWgxT0ZFd0dpSkJTRTR3UlRkSFoyZEdXRE5OUlhWeGMybGFWSFEyU3pWNVRsTjNUVkIzUTJWUg",
+        "job_title": "Product Owner in KSA",
+        "employer_name": "Inspirejo",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://inspirejo.com&size=128",
+        "employer_website": "https://inspirejo.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-6518955494115533817",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-6518955494115533817",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "We are looking for an experienced Product Owner to join our team inRiyadh.The ideal candidate will have a strong background in the banking sector,particularly in Credit Card products, and will be responsible for drivingproduct initiatives that deliver value to both customers and the business.\n\nAs a Product Owner, you will work closely with stakeholders and Agile teamsto define product requirements, prioritize backlogs, and ensure thesuccessful delivery of high-quality solutions.\nKey Requirements:\n• 4+ years of experience as a Product Owner or in a similar role\n• Previous experience within the banking industry\n• Hands-on experience with Credit Card products and services\n• Strong understanding of Agile methodologies and product lifecyclemanagement\n• Excellent stakeholder management and communication skills\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DSRoYS3uXqnqTIlPvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "SRoYS3uXqnqTIlPvAAAAAA=="
+      },
+      {
+        "job_id": "cDdvVGotak1OT2JiRzFfZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3N4Y1VwVlkzWXRTRVJYVkRkck1sZ3RTR0owY1dacFVVeHNkbU5RYmpsTVZXNVhURmd6TTFSb1pHbEdTVWxZYW5Gb2EyTmZNMDUxVDB3NWMwTlVWbnBZY1hCVFlsRlBkVzVGVVVkcU1VbFlhR041VFhGZk9VZDNaVk5KTlhobE1HY3pjMGhuYUhBeGEyMXVjR1pRVm1oR1pFaHpSblJtZFc0elFubElielJTWW5KVWRsWVNGM1V5U0c5aGJ6SkVRaTExZERCUVJWQnNjVWgxT0ZFd0dpSkJTRTR3UlRkR00xRkJWRmcxUzBzMloyaFVWRmhZYzBGdVRscEtWbkl3TVV4Qg",
+        "job_title": "Product Owner - Matchmaking (Remote, Activation & Growth)",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-6135021174798522174",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-6135021174798522174",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Jobgether, in collaboration with a partner company, is seeking a Product Owner (Matchmaking) based in Saudi Arabia. You will own post-purchase journeys, optimize activation and recommendations, and work across product, data, engineering, and design to deliver value for paying users.\n\nThis remote-first role emphasizes experimentation, segmentation, and personalization to drive meaningful connections. You will translate insights into hypotheses, run A/B tests, and coordinate cross-functional\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dp7oTj-jMNObbG1_eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "p7oTj-jMNObbG1_eAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "power bi developer"
+  },
+  "status": "OK",
+  "request_id": "5dc84030-dda7-41a2-91f5-f7e07c32ed64",
+  "parameters": {
+    "query": "power bi developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "bWVwTTVkODZmb2pKdXh3UUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXBaYjNWeU1YRkxSbkYzYVU5V1IwVm5Xa3hVTjFvMVpuRjZXRU0xZVV0dFYwWkhibXhCVW1SWU1uZzFZbXhFWjJScFV6TkhPVXRIU1ZSUFpreG1jSHB5Y1ZoR2IwRmpjSFpETTBsUmJWb3RiMGhyUjFFeWJUQmhOVmhhYzJaRWVrMHdaSGhQZVZWdk9VRlBNMmhQWnpZeVRIbFdVbGwwVjFsSFpIbGhObVZsYW5oSE9Ea1NGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkRldHRkhUR0UyU0U5YWMwVm9NRnAyY0dsUFdqbFlZbk5vU0dGQg",
+        "job_title": "Power BI Developer - PBIRS & Enterprise Dashboards",
+        "employer_name": "Datamatics-Global-Services-Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamatics.com&size=128",
+        "employer_website": "https://www.datamatics.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/power-bi-developer-pbirs-enterprise-dashboards--riyadh--e570e3981e5851a95b1f1b696b4679c5a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/power-bi-developer-pbirs-enterprise-dashboards--riyadh--e570e3981e5851a95b1f1b696b4679c5a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Datamatics Global Services Ltd in Saudi Arabia is seeking a Power BI Developer to design, build, and optimize enterprise dashboards and reports. The candidate will manage end-to-end report development, preferably in an on-prem PBIRS environment, and collaborate with business units to deliver scalable analytics.\n\nThe role requires strong skills in Power BI development, DAX, data modeling, query optimization, and governance.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DmepM5d86fojJuxwQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "mepM5d86fojJuxwQAAAAAA=="
+      },
+      {
+        "job_id": "V1dzUURhTXI4NFZTMmhPSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbk5IVG5OelZYTmlVM3BuVWpObmRGYzVjMkZpWjFOZmFGVmZORmRwVjA5ZlpscEZOMHRrUW14UlpFWldabDh0VjBodGVVTXpjVk5xWDE5cGFVWlNOazlIZUROTE1FRlJNazU0ZG5aNGVscFBVWG8yTTJjelpHeE1aVlJWZUZZMU1IUmpTRTVhZDFSME0zSnBhRjlJZDJkQ01HSkJjelpCVWw5MmRuSkxNMVY0UVhjNGQyTVNGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkSVVWOURkelF5VFZwMVpFcHRVVXBQTWs0d1ZTMDRiMUpNVDFWbg",
+        "job_title": "Senior Data & BI Engineer (ETL, DW, SQL, Power BI)",
+        "employer_name": "MASTER-WORKS",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-bi-engineer-etl-dw-sql-power-bi--riyadh--ea98a5a13f489e0fd8abd29054b2c4da2",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-bi-engineer-etl-dw-sql-power-bi--riyadh--ea98a5a13f489e0fd8abd29054b2c4da2",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Master Works is seeking a Data Senior Engineer in Saudi Arabia to design and maintain data integration, data warehousing, and BI solutions. You will work on ETL processes, SQL optimization, and dashboards to support data-driven decisions.\n\nYou will collaborate with stakeholders to translate business requirements into technical specifications, ensuring scalable architectures and adherence to enterprise standards. A MIS/CS/IT degree and 3+ years of experience are expected.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DWWsQDaMr84VS2hOHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "WWsQDaMr84VS2hOHAAAAAA=="
+      },
+      {
+        "job_id": "emN2TERCc3VLOUZRTUlnUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFZKTVdWTFoyWkxRVTEzUldGQ1RrTkNjUzFwV21GS1FqTnRTWHBJUkVKd2JWSnhiV3gwT1dOUFExWllVWGd3ZVZCV05VODRObUV4VDBsaGNsbDZWa3BQYUdoalRrNUZhblJsYnpWclIwTTRkMnhPVXpKYVZTMUNZVGR3UzJ4NFl6VnZTR0o1U1RrM1FsUkRUamMxT1cxMlRXaEZhbmMyYUZKbFJVa3plRTFMYjFock5qY1NGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkSU1VOXJRVzlyYkVsVkxYUnlSWFJCVDFNelpGOW9jMEp1VDJ0bg",
+        "job_title": "BI Developer/Consultant",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "Naukrigulf",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.naukrigulf.com/bi-developer-consultant-jobs-in-dammam-khobar-eastern-province-saudi-arabia-in-datamatics-technologies-4-to-6-years-n-cd-40004121-jid-051026500886",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.naukrigulf.com/bi-developer-consultant-jobs-in-dammam-khobar-eastern-province-saudi-arabia-in-datamatics-technologies-4-to-6-years-n-cd-40004121-jid-051026500886",
+            "is_direct": false,
+            "publisher": "Naukrigulf"
+          }
+        ],
+        "job_description": "BI Developer/Consultant Location: KSA (On-site) Experience: 4-6 years ARABIC SPEAKING IS A MUST HAVE. MUST HAVE 4 6+ years building BI solutions end-to-end (data modeling visualization deployment) Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) expert-level in at least one Strong SQL (query optimization, stored procedures, complex joins) Data modeling experience (star schema, dimensional modeling) ETL/ELT experience building and troubleshooting data pipelines feeding BI layers Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the \"consultant\" half not just a report-builder) DAX or equivalent calculation-language proficiency (if Power BI-centric) GOOD TO HAVE Experience with Microsoft Fabric or similar unified analytics platforms Exposure to Python or R for advanced analytics feeding into BI layers Experience presenting to executive/C-level audiences Domain experience in operations/logistics/parking/municipal data Arabic language skills Familiarity with data governance/row-level security implementation Prior consulting background (used to client-facing engagements, scoping, and stakeholder management) Share ARABIC SPEAKING IS A MUST HAVE. MUST HAVE 4 6+ years building BI solutions end-to-end (data modeling visualization deployment) Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) expert-level in at least one Strong SQL (query optimization, stored procedures, complex joins) Data modeling experience (star schema, dimensional modeling) ETL/ELT experience building and troubleshooting data pipelines feeding BI layers Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the \"consultant\" half not just a report-builder) DAX or equivalent calculation-language proficiency (if Power BI-centric)",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Naukrigulf",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DzcvLDBsuK9FQMIgRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "zcvLDBsuK9FQMIgRAAAAAA=="
+      },
+      {
+        "job_id": "WDB0T3R5RXZ0bFNUMGJqLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZUzFwVkdWdlgyNXlkMmhhVERaQ05UUnVMVVYwUmkxUFNXTnNWRXB6UW1WdWRHVlRORzU2V25scVRWa3lNREkzUldoSVlubzRjV00xZVZWWFJIbzNUa0ppWXpnd0xVbHpNWEpHZGxsU2NUZzVSMHQyT0ZaNFdVNDRTR2xvUVRaMVlVTjNkMkZsWkVSTFIzaHphWFJtYWxCTFFrSTFVMlF6VDBKWE1WbFJRMk5hUzBKS2NISVNGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkRmFFTXpORU41T1cxaFFrTk1jRXQ1UW5oVlgzSkdhVEJ5WDFkQg",
+        "job_title": "Senior Power BI Architect - Finance & Data Mart - Remote",
+        "employer_name": "Penta Consulting Ltd",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_04W-mXXxgtK-EOqCREXgoMK9f3aSCbNKkpi&s=0",
+        "employer_website": "https://www.pentaconsulting.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-power-bi-architect-finance-data-mart-remote--riyadh--eb4fa9b737d83da2590e265a39c9ffab3",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-power-bi-architect-finance-data-mart-remote--riyadh--eb4fa9b737d83da2590e265a39c9ffab3",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Penta Consulting Ltd seeks a Power BI Developer for a contract role based in Riyadh, Saudi Arabia. The position involves remote work for a leading client and requires deep expertise in Power BI dashboard and report development, data modeling, and SQL in Teradata environments.\n\nThe ideal candidate will design BI schemas, identify proper data relationships, and contribute to semantic layer and data mart efforts within financial services.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٨ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DX0tOtyEvtlST0bj-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "X0tOtyEvtlST0bj-AAAAAA=="
+      },
+      {
+        "job_id": "TFoyc2VFRHFJTVJ6eGc1M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEptTlVkNU9YSXlkelJsT0ZGcU1qTjRSRzFaYWxneFJFdHpNazV3YlZSeGFVdHFlVXhMUVZndGVFTjBkMEZJTkRjM01XdDRSREkyWWxsa1VXa3RSWEJhVDBZeFNVUTRNbUphVW0xQmIwUXlUMjFFTmpKbFZWWm5kWFZsVkRGS1VVVkNWVXgyYkZvM1RqUmtkR3AzTnpkd1RVRnpUazU1Y2pWMWVVUkxWMFZVV0ZkMFEzUVNGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkSWEwcHBWRVJJVVd3eE5GbHNha0kxVFhoQmNrcExiMVp5ZWt0Qg",
+        "job_title": "BI Developer/Consultant",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/bi-developer-consultant--riyadh-region--e53dcd2fd648442c597acc0e4cebb7013",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/bi-developer-consultant--riyadh-region--e53dcd2fd648442c597acc0e4cebb7013",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "BI Developer/Consultant\n\nLocation: KSA (On-site)\n\nExperience: 4-6 years\n\nARABIC SPEAKING IS A MUST HAVE.\n\nMUST HAVE\n\n• 4-6+ years building BI solutions end-to-end (data modeling - visualization - deployment)\n\n• Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) — expert-level in at least one\n\n• Strong SQL (query optimization, stored procedures, complex joins)\n\n• Data modeling experience (star schema, dimensional modeling)\n\n• ETL/ELT experience — building and troubleshooting data pipelines feeding BI layers\n\n• Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the “consultant” half — not just a report-builder)\n\n• DAX or equivalent calculation-language proficiency (if Power BI-centric)\n\nGOOD TO HAVE\n\n• Experience with Microsoft Fabric or similar unified analytics platforms\n\n• Exposure to Python or R for advanced analytics feeding into BI layers\n\n• Experience presenting to executive/C-level audiences\n\n• Domain experience in operations/logistics/parking/municipal data\n\n• Arabic language skills\n\n• Familiarity with data governance/row-level security implementation\n\n• Prior consulting background (used to client-facing engagements, scoping, and stakeholder management)",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLZ2seEDqIMRzxg53AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LZ2seEDqIMRzxg53AAAAAA=="
+      },
+      {
+        "job_id": "YmIzQ2dudnpwSWZ6S0RBSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV055Y0doQ2JYTklRa3BzTFMwMU5ESnhhQzFoU0U1clowcFZVVlJIU3pBeFZGUTNSbEpSVlhabFJUQnRPWEpqUjAwM1RtWnJNMVpaVTFCR2NGUlBiMGRrWVhsbE1XdFhZalZqVmxkU1VtVTJUbFJwTmt4dFoxUXpXV3hMZEVWVmNHZFRiWEJrVTNWRWNrVTVhWEo0VURGeFp5MXVUV3BoVTNkd1VtaFFPVFIxUTFSWE1rd1NGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkSVRVWnFjRGRxY1hWWk5GSnRNRFpsUjJKeU0wdFlVMEo0TkZwUg",
+        "job_title": "BI Consultant",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/532603608188768149",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/532603608188768149",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "BI Developer/Consultant\n\nLocation: KSA (On-site)\nExperience: 4-6 years\n\nARABIC SPEAKING IS A MUST HAVE.\nMUST HAVE\n• 4–6+ years building BI solutions end-to-end (data modeling → visualization → deployment)\n• Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) — expert-level in at least one\n• Strong SQL (query optimization, stored procedures, complex joins)\n• Data modeling experience (star schema, dimensional modeling)\n• ETL/ELT experience — building and troubleshooting data pipelines feeding BI layers\n• Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the \"consultant\" half — not just a report-builder)\n• DAX or equivalent calculation-language proficiency (if Power BI-centric)\nGOOD TO HAVE\n• Experience with Microsoft Fabric or similar unified analytics platforms\n• Exposure to Python or R for advanced analytics feeding into BI layers\n• Experience presenting to executive/C-level audiences\n• Domain experience in operations/logistics/parking/municipal data\n• Arabic language skills\n• Familiarity with data governance/row-level security implementation\n• Prior consulting background (used to client-facing engagements, scoping, and stakeholder management)",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٤ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dbb3CgnvzpIfzKDAJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "bb3CgnvzpIfzKDAJAAAAAA=="
+      },
+      {
+        "job_id": "Y0luRG01U1I4VUlEVnh0MkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamRGU0RSaGIwYzNYMTkzYVhkblZ6bElVVVl5WkhOUFdtOVVSVkkzTnkwNGIwWnZSbll6YXpGNmMzWmxOekU1ZUhGRFdISTBZbVZwUjJWdlFreENhRTlsYzE5aGRsQTNhRFJSWmxsUloxOU9XVTUyTkY5Wk1tSTJRbE0zTTNSdFJEQlJOR1JsWjNOYWJHYzBMV3RIUmpsMFMxbzRibEZSYjNweGJEZGxRblY0WmxaSFNXZ1NGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkRlNWVnpVek5hWlhJdGFuRlJXSFpzV1RsSGJuVkVZbXBDT1dkQg",
+        "job_title": "BI Consultant",
+        "employer_name": "Datamatics-Global-Services-Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamatics.com&size=128",
+        "employer_website": "https://www.datamatics.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/bi-consultant--al-jubayl--ea034a7d557e68c830d3702c223f4d7d6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/bi-consultant--al-jubayl--ea034a7d557e68c830d3702c223f4d7d6",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "BI Developer/Consultant\n\nLocation: KSA (On-site)\n\nExperience: 4-6 years\n\nARABIC SPEAKING IS A MUST HAVE.\nMUST HAVE\n• 4-6+ years building BI solutions end-to-end (data modeling -> visualization -> deployment)\n• Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) - expert-level in at least one\n• Strong SQL (query optimization, stored procedures, complex joins)\n• Data modeling experience (star schema, dimensional modeling)\n• ETL/ELT experience - building and troubleshooting data pipelines feeding BI layers\n• Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the \"consultant\" half - not just a report-builder)\n• DAX or equivalent calculation-language proficiency (if Power BI-centric)\nGOOD TO HAVE\n• Experience with Microsoft Fabric or similar unified analytics platforms\n• Exposure to Python or R for advanced analytics feeding into BI layers\n• Experience presenting to executive/C-level audiences\n• Domain experience in operations/logistics/parking/municipal data\n• Arabic language skills\n• Familiarity with data governance/row-level security implementation\n• Prior consulting background (used to client-facing engagements, scoping, and stakeholder management)",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر JobLeads",
+        "job_city": "الجبيل",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.9597709,
+        "job_longitude": 49.568741599999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DcInDm5SR8UIDVxt2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "cInDm5SR8UIDVxt2AAAAAA=="
+      },
+      {
+        "job_id": "ZHFKdjhzcFhvNS1LZzkzTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2RFVm5WUE1WZFlTME5YTTBkQlQxUTRabFp5Wm5KQlZtTjZiamxvVjNkcmIyWklUbXh6VW1SMlMxUkNObGRUU1ZaV1RHOUVURE4xU1dGMk0xZEdTMUpMYVMxQmFGWndRbWRaTUc5QlpUSTFkWE5FU2xvdFMweHVURkJYWTFoaWRUTTJUMk5UUW5OWlVqaElTRWw0VGxwTFIwdExOV0pKYW5NM1R6azVPV0ZwYjJKdlJuQVNGM2x0Ukc5aGN6ZFhSa3R1VXpGelVWQjRYeTB3TkVGUkdpSkJTRTR3UlRkRlFsQkZhbGd6VFVrMlRXSjNRMmRyTUhNM05GVlFZMmhLUjJsQg",
+        "job_title": "Data & Reporting, Analyst",
+        "employer_name": "Master-Works",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/data-reporting-analyst--riyadh--e5f5b1e91e94e8effdf0731b2ba6e02f0",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/data-reporting-analyst--riyadh--e5f5b1e91e94e8effdf0731b2ba6e02f0",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Master Works is seeking a Data & Reporting Analyst to collect, analyze, and visualize data to support business decision-making. The role is responsible for developing and maintaining Power BI dashboards, reports, and web-based analytics solutions, working with business stakeholders to understand requirements, ensuring data quality, and providing actionable insights and performance monitoring.\nKey Responsibilities\n• Collect, analyze, and visualize data to support business decision-making.\n• Develop and maintain Power BI dashboards and reports.\n• Develop and maintain web-based analytics solutions.\n• Work with business stakeholders to understand requirements.\n• Ensure data quality.\n• Provide actionable insights and performance monitoring.\n• Apply Power BI capabilities including Data Modeling, DAX, and Power Query.\n• Perform SQL and database querying.\n• Apply data analysis and visualization techniques.\n• Develop and maintain data models.\n• Work with web reporting technologies, including Fabric Apps.\n• Use HTML, CSS, and JavaScript for web-based reporting.\n• Bachelor’s degree in a related field.\n• 3 years of relevant work experience.\n• Experience and knowledge of Power BI (Data Modeling, DAX, Power Query).\n• Strong knowledge of SQL and database querying.\n• Knowledge of data analysis and visualization.\n• Knowledge of data modeling.\n• Experience with web reporting technologies (Fabric Apps).\n• Knowledge of HTML, CSS, and JavaScript for web-based reporting.\n• English language skills.\n• Strong ability to support business decision-making through data analysis, reporting, visualization, and performance monitoring.\n\nJob Location: Client Site",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DdqJv8spXo5-Kg93NAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "dqJv8spXo5-Kg93NAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

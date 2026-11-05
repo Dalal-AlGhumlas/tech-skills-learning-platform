@@ -1,0 +1,145 @@
+﻿job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
+eXVfU2RkWHpIRHVDRHZFaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmt6TVZZM2VrUkZYelk1UWpOUVVVVnZXVEV5UzAxSFJEWkVVRkpSVFdvdE4wNW9hV0pIUjFGcU5TMVpUSFZIV1VrMGNHeHBSVWRQZG1kaGRXSlZORzVZUXpsRFpYUXdRVUZWVTBOeE0yaDFVWFpoV2s1allsaE5kbXhVWnpKclkwVnJSRlpHUW5WWlZEWnZTME0wWkVKRFgzTjBVM3BKVFRkYVZGa3pPRWQwTVhSRWEyc1NGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkR1h6UkRRbWRmUTI1VlMxSXpSVEpyWmprelRGcHJXbU5YYmtSUg,Security Analyst,Jobmaze FZ LLC,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",,Foundit,دوام كامل,FULLTIME,https://www.founditgulf.com/job/security-analyst-jobmaze-fz-llc-saudi-arabia-69668581,False,"[{""apply_link"": ""https://www.founditgulf.com/job/security-analyst-jobmaze-fz-llc-saudi-arabia-69668581"", ""is_direct"": false, ""publisher"": ""Foundit""}]","We are hiring an experienced Security Analyst for our client in Khobar, Saudi Arabia to monitor, investigate, and respond to security alerts across a complex enterprise security environment.
+
+The role will work closely with a third-party SOC, validating and actioning escalated security incidents while monitoring security tools and technologies that are not yet fully integrated into the SIEM.
+
+Key Responsibilities:
+
+• Review and action security alerts escalated by the third-party SOC through Gurucul SIEM
+• Monitor CrowdStrike EDR and SentinelOne consoles and investigate potential threats
+• Analyze Vectra AI NDR alerts and identify suspicious network activity
+• Review BeyondTrust PAM session logs and recordings for anomalous privileged access
+• Monitor Cisco Duo for suspicious authentication activity involving internal and remote users
+• Review Proofpoint email security alerts and phishing simulation results
+• Monitor Cloudflare WAF/DDoS security events
+• Review and prioritize vulnerabilities identified through CrowdStrike Spotlight and coordinate remediation
+• Monitor security technologies including Forescout NAC and Nexthink
+• Periodically review existing security solutions and policies and recommend improvements
+
+Required Technical Skills:
+
+• EDR investigation and threat triage using CrowdStrike and/or SentinelOne
+• NDR alert analysis using Vectra AI or equivalent platforms
+• Familiarity with Forescout NAC
+• PAM session monitoring using BeyondTrust
+• MFA platforms such as Cisco Duo and Okta
+• Email security operations using Proofpoint
+• WAF/CDN security event monitoring using Cloudflare
+• Familiarity with F5 technologies
+• Strong understanding of incident response fundamentals
+• Knowledge of the MITRE ATT&CK framework
+
+Candidates with hands-on experience across SOC operations, EDR, NDR, PAM, NAC, email security, and incident response are encouraged to apply.
+
+Only shortlisted candidates will be contacted.",False,قبل يومين,,,السعودية     •  عبر Foundit,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dyu_SddXzHDuCDvEiAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,yu_SddXzHDuCDvEiAAAAAA==
+eTZPRDE0TTd2VXFickZIQ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0pJZHpsZmNXTjJNRlZTYlhsdlVFSnVPRFI0VUc1U2FYaHlWamhKWkRFMVkzTTRVbFJMVFZOQlFtRkRSVEUzZGxvdE5DMXlRbE15ZWtkYVZWTlVkMGRqUW05WGFHUk5WWGxrT0hCd2JtTnRNblZaZDJkSFRVZHpTRWxxVkU1WFprMTJRV2h1VVZGU1ZtMDBSRXBmTFZkbVJYa3RVVEIxU1ZBM1VWTnVlbFpEWWtGd2MxZ1NGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkR1IyOUJXbHB3V0ZOMWRIQnJjRXB4Y1RWbk5WaE9aRzl4TUU1bg,SOC Information Security Engineer – Incident Response,تابي,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/soc-information-security-engineer-incident-response--saudi-arabia--e569c02908c6a81ea082511e76a0a51eb,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/soc-information-security-engineer-incident-response--saudi-arabia--e569c02908c6a81ea082511e76a0a51eb"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Tabby is seeking an Information Security Engineer (SOC) to monitor and defend our fintech infrastructure and cloud environments. You will lead incident response, develop detection rules, and collaborate with IT, DevOps, Risk, and Compliance teams to strengthen our security posture.
+
+You will work in a fast-paced fintech setting, prioritizing threat detection, incident containment, and proactive security improvements across on-premise and cloud assets.",False,قبل ٦ أيام,,,السعودية     •  عبر JobLeads,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dy6OD14M7vUqbrFHCAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,y6OD14M7vUqbrFHCAAAAAA==
+bHBBR0NEYThJa1lYY0FFMEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbW93ZGsxWVZHOXpjVkJrVjBKek5ETmlSRXBTV0hNeVpqUkNiV1F6U1ZkV1RtWmtkRU5mZVVWZlNVUk5Va2RuZWtGcVZqTkZWRll0UkdJNGRVc3hWamQ0WWpscVNXczVORTlwYVVWYVpIVk9aa2hHVUZwdWJDMXBNbGRTY201c2FWcEdkRE5xYm5wWkxXSmZXbUpTTkRsSWMxYzNkR2xuYVV4WWJFdElRVmwyWTBoRlVtSVNGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkSGJWZ3hWR0ZHZWsxVGVVVmhSRE5TYjFkYVdXcGZNV0oxY0hoUg,SOC Analyst (Junior to Senior),Socium - Teams Done Differently,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDXThvCfn026lWeiL4ewpcfAmareFoa9-0ZQ0&s=0,,BeBee,دوام كامل,FULLTIME,https://bebee.com/sa/jobs/soc-analyst-junior-to-senior-socium-teams-done-differently--techmap_sa_4481080796,False,"[{""apply_link"": ""https://bebee.com/sa/jobs/soc-analyst-junior-to-senior-socium-teams-done-differently--techmap_sa_4481080796"", ""is_direct"": false, ""publisher"": ""BeBee""}]","Location: Riyadh, Saudi Arabia (Onsite)
+
+Contract: Initial 12 month contract, extendable
+
+• Must be comfortable working under a contract/independent contractor setup
+• Immediate joiners or candidates with up to 15 days' notice preferred
+
+We are hiring SOC Analysts across both Junior and Senior levels to support a large-scale Security Operations Center (SOC) environment. Successful candidates will be responsible for monitoring, detecting, investigating, and responding to cybersecurity threats while supporting the organization's security operations and incident response function.
+
+Key Responsibilities
+
+• Monitor and analyze security events and alerts through SIEM platforms
+• Investigate suspicious activities and security incidents
+• Perform alert triage, escalation, and incident management activities
+• Support threat detection, incident response, and security monitoring processes
+• Create and maintain incident documentation and reports
+• Collaborate with internal security teams and stakeholders
+• Support continuous improvement of SOC use cases, processes, and playbooks
+
+Junior SOC Analyst Requirements
+
+• 2-3 years of Cyber Security or SOC experience
+• Experience with Microsoft Sentinel and/or Securonix
+• Understanding of security monitoring, alert triage, and incident escalation
+• Familiarity with common cyber threats, attack techniques, and security concepts
+• Strong analytical and problem-solving skills
+
+Senior SOC Analyst Requirements
+
+• 4-7 years of SOC or Security Operations experience
+• Strong hands-on experience with Microsoft Sentinel and/or Securonix
+• Experience managing P3/P4 incidents and supporting P1/P2 investigations
+• Experience in threat hunting, incident response, and root cause analysis
+• Ability to mentor junior analysts and support operational improvements
+• Strong understanding of SIEM operations, detection engineering, and security best practices
+
+Preferred Skills
+
+• Experience within enterprise SOC environments
+• Knowledge of MITRE ATT&CK, threat intelligence, and incident response methodologies
+• Relevant security certifications are advantageous",False,قبل ٨ أيام,,,الرياض     •  عبر BeBee,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DlpAGCDa8IkYXcAE0AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,lpAGCDa8IkYXcAE0AAAAAA==
+Z2gyNUJWajNUVUU3aVFUZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbGRQTlVWSWIyVjRVRTgwYlUxVk1FVm1Ta3RxTFZkalVrTjFVVFpZYXpWMVVEWlhZbTUzVEVNdE1rdHlhM041VVRGclYwbHpSR3BSVFRBek5sRkZUMnQzWjAxaldqRmpVRXh3WVdnNGVtcExZa290YW5kT1VEQlhUWEkzVFZsaE0yODVWVWRSUldsWFdXdFJXRUYwZUU5SkxYQjJaa3hSVkVwVmFtTjRWRXhpVkVaTVJ6RVNGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkR2JYTkVla2RCY1V4a2JuVm9ObFJ2T1ZGMVZXUkRZVkZQWWpCQg,Senior SIEM Engineer - FinTech SOC & Threat Detection,Tweeq,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-siem-engineer-fintech-soc-threat-detection--riyadh--e18dd785f4e22a29fb32892c0c7bc5a99,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-siem-engineer-fintech-soc-threat-detection--riyadh--e18dd785f4e22a29fb32892c0c7bc5a99"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Tweeq in Saudi Arabia seeks a Senior Engineer, Information Security (SOC) to own and evolve our Elastic SIEM deployment, build advanced detections, and drive threat intelligence integration.
+
+This hands-on role mentors analysts, collaborates with stakeholders, and ensures incident response meets regulatory requirements in a fintech environment. A strong background in SOC, SIEM, and CTI is required.",False,قبل ٣ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dgh25BVj3TUE7iQTgAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,gh25BVj3TUE7iQTgAAAAAA==
+b0kzd2JrXy1zb0Q3X2dOakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGhCVGxvd1FqQnBOWFJFWVd0dVkzQTVURVZmTldkVlZqRjBSelpVTVdSWmNIbDZjUzFtZUdsbUxXbzFjekZFTkVVd2RVbFpiMHN5TTBoelpHZGFaMkprVmtOYU9GWlRVMUIwVTNKd1RsUlpkWGhYUW5CRGFucDVOblJCTjJ0MFNXNWFPVGRxUzNKaVFWUkhSbXh6Y21Ga1MwWjBaakl0ZUZGRlNqSnRiRWRCUVVvNFVrMFNGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkSVZVMHpOVzQzVlVoTFMzTndTV1ZuZEhWVk1qRkRXbk5zU0hkMw,Dynamic SOC Analyst: Real-Time Incident Response & Containment,Accenture PLC,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtCGwzQoKqjLwBvxqn8cxSZtbPQ2zzLhNILV9&s=0,https://www.accenture.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/dynamic-soc-analyst-real-time-incident-response-containment--riyadh--e4c30982ff7a160d17dfa9edf9264bd3a,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/dynamic-soc-analyst-real-time-incident-response-containment--riyadh--e4c30982ff7a160d17dfa9edf9264bd3a"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Accenture PLC is seeking a Security Operations Center (SOC) professional to join a global delivery team on a 24x7 operation. You will triage, investigate, and respond to incidents, ensuring rapid containment and remediation for enterprise clients.
+
+You will work with SIEM/SOAR platforms, endpoints, and firewalls while maintaining clear documentation and stakeholder communication. A strong cybersecurity foundation and incident response mindset are essential for success.",False,قبل ١٩ يومًا,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoI3wbk_-soD7_gNjAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,oI3wbk_-soD7_gNjAAAAAA==
+Y3NZMlBPbTJvVTB6YkNoZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakZ3U0hwa1pqbE1OVFpwZGxsT2VsZHBlR0V0YVhoUk1qRmFjWE4xYlZoclUxZEtaWHBNVjFVeWFEaEtSMWxMWkhacVVVVk1UWE42YjB4d1h6ZzFWbEZxV0ZwbFNXaFJNM2hFVm5kd2EwWlRTak5XYjJsWk16SmpjMGRITkV4eGFsSkNjMk5wZG1sNlNrWjRNWFZRZWpaYVlVbzJNbWRHVms1T1FYVkdRV3RqVHpKR1dGb1NGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkRmNGWmxZMWt0ZUU1TVYwMDBNVEpSWVVweWRUVktWRlJNYUhGbg,Security Operations Center Analyst,Accenture,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj3v8Z4GmwGtIS3FDSrgVWKmRykNbdSJO_gfw-&s=0,https://www.accenture.com,Edarabia,دوام كامل,FULLTIME,https://www.edarabia.com/security-operations-center-analyst-accenture-riyadh-saudi-arabia/,False,"[{""apply_link"": ""https://www.edarabia.com/security-operations-center-analyst-accenture-riyadh-saudi-arabia/"", ""is_direct"": false, ""publisher"": ""Edarabia""}]","Job Summary
+
+
+• Possess 1-3 years of experience in the Information Security domain specifically in security operations center and, demonstrable experience and knowledge of operating platforms (windows, Linux)
+
+• Have a strong fundamental understanding of TCP/IP and OSI. They also have an experience performing packet capture and analysis or knowledge of security technologies like firewalls, IDS/IPS, Pcap tools, etc.
+
+• Responsible for monitoring multiple security technologies.
+
+• Develop professional working relationship with fellow analysts.
+
+• Analyze cybersecurity alerts and data for false positive/true positive outcomes.
+
+• Independently follow established procedures to investigate malicious activity.
+
+• Provide Tier 1 response to security incidents.
+
+• Escalate events to senior analysts and engineers as needed on 24/7 rotating basis.
+
+• Proficiency in SIEM tools (Splunk & ArcSight), IDS/IPS systems, endpoint detection and response tools, and the Microsoft suite.
+
+• Follow all the standard established process and procedures for all people process and technology areas.
+
+• Create and follow up on tickets.
+
+• Able to effectively communicate in English, verbally, and written.
+
+• Arabic speaking is must
+
+
+Why join us?
+
+
+• We offer a transparent, fast paced approach career progression, with a focus on your strengths and continuous coaching from senior colleagues
+
+• You will benefit from working alongside Accenture experts who are solving some of the biggest industry challenges with innovative thinking and pioneering tools
+
+• Flexible work arrangements and a range of benefits including competitive rewards
+
+• You will have access to state-of-the-art technology that will give you the opportunity to deepen your existing skills even as you help create the latest business trends
+
+• You will also have opportunities to make a difference to the communities in which we work and live
+
+
+Qualification
+
+
+• 1-3 years of relevant experience.
+
+• Excellent communication (written and oral) and interpersonal skills Bachelor’s degree or equivalent.
+
+• Ready to work in 24/7 shift timings.
+
+• Saudi nationals are preferred in line with vision Saudi 2030.",False,قبل يومين,,,الرياض     •  عبر Edarabia,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DcsY2POm2oU0zbCheAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,csY2POm2oU0zbCheAAAAAA==
+RG5NVFZJbUd6YTJuZmhoOUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXblJ4WldoM1JYSkhkMVF5ZFhBNU1WRjVaM3BwWjJ4UGQyRTBlSGhSY0RjelVERlJkRkJaWVU5UFdtSmpZVGhVVGxORWVXRkNlalJXV21kdVQyaGlZMlpVU1VoNVVEbFhOVGxZWlhKNU9YVnJNR2xyZURKQmNWcHJSbEZTVUhFMlJrUjJSR3RMTldKblVFWnlZV3B2VVcxTGJHZDNXRWR4VTBSM1JERnZVWEV5VlRKaWJYSVNGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkRmNWQkJRVmxXVlZsSE5sbHhjRTR4YWxOdlRUWldiR05ZVDJSQg,"Security Operations Engineer III — Remote, Equity & Generous PTO",Jobgether,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",https://jobgether.com,Jobs In Saudi Arabia - Jooble,دوام كامل,FULLTIME,https://sa.jooble.org/jdp/8306760726315333515,False,"[{""apply_link"": ""https://sa.jooble.org/jdp/8306760726315333515"", ""is_direct"": false, ""publisher"": ""Jobs In Saudi Arabia - Jooble""}]","Jobgether partner is seeking a Security Engineer III for Security Operations based in Saudi Arabia. You will own detection and response capabilities, building and optimizing SIEM detections, and automating responses with Python and no-code tools.
+
+You will work across Elastic SIEM, AWS, Terraform, and incident response processes, collaborating with a distributed team to reduce operational risk and improve security maturity. Remote options and a strong learning culture are offered.
+#J-18808-Ljbffr",False,قبل ٦ أيام,,,السعودية     •  عبر Jobs In Saudi Arabia - Jooble,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DDnMTVImGza2nfhh9AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,DnMTVImGza2nfhh9AAAAAA==
+MVdWUi1RUUF3ZHhOdWFpMkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamxLTTBSWlNuUm9SSFJEZGxSaFJrZEhNRFZrZWtWYWNHdE5VMjU0VjBwc2JFaGFXWEZyVUdZMWJqRllUV2hXTVdjd1kwZFlSVkpPYmtwa016SjFVVTlvWWsxT1ZWUmlMV3B3VUhkeFowTk1hbk5VVDJWZlVtdDFNVUpZYjNnM1VYZFhaMmRUWjB4cGFqWmFOekJVYTFsVFF6SkRWbTV2UkZabFRYZERXbTlhU1VsUlVrOFNGM2RXZG05aGNYbDZRM0poVG5WeU9GQnpTVWd4TUVGSkdpSkJTRTR3UlRkSU9VUjVkR05VUzNOTU5tMHlja0p2UVZsc2RYZHBNSFF4VTFOMw,Resident Cyber Threat & Compliance Lead,Cipher | سايڤر,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://cipher.com&size=128",https://www.cipher.com,The BIG Jobsite,دوام كامل,FULLTIME,https://sa.thebigjobsite.com/details/D332DBA0A65C1FAF19855E97029B278D/resident-cyber-threat---compliance-lead,False,"[{""apply_link"": ""https://sa.thebigjobsite.com/details/D332DBA0A65C1FAF19855E97029B278D/resident-cyber-threat---compliance-lead"", ""is_direct"": false, ""publisher"": ""The BIG Jobsite""}]","Cipher | سايڤر is seeking an experienced cybersecurity professional in Riyadh to ensure IT and security operations align with internal policies and standards. The role involves assessing controls, tracking remediation, and coordinating incidents with the SOC provider to drive improvements.
+Candidates should have at least five years of cybersecurity experience, relevant certifications, and fluency in Arabic and English.
+#J-18808-Ljbffr",False,قبل ٣ أيام,,,الرياض     •  عبر The BIG Jobsite,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D1WVR-QQAwdxNuai2AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,1WVR-QQAwdxNuai2AAAAAA==

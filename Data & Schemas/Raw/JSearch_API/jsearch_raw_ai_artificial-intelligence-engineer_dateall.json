@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "artificial intelligence engineer"
+  },
+  "status": "OK",
+  "request_id": "f96fc068-3997-4bb7-995b-7092db2e66b7",
+  "parameters": {
+    "query": "artificial intelligence engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "all",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "dFk3Rko3RkduTnpOdGhHZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWR6Y1VaMGMzTlpSblF6VXpWalkydzRjRkpCUkdzME1tbzRObGxrU1VRMWFuQnFjSFZPT0V0eWJ6WndObXAzZDJsUGJURjRka3RYVDNGTVMxRnFibnByV1VoMU15MXJORXRSVTFoTFVUVnVXbFZNUW5sQ1RIcEtRM05vWm1sblFrOUpPRkY2YVZoTWJGZG5SRTVoVURJNFZqbHRaRWhhYUY5TE1XSXlRMTlaVmtkSlVGQVNGMkp0VUc5aGNHcFdTamxRVG10UVNWQnVObnA2YlZGckdpSkJTRTR3UlRkSFEyVlRVVmxzZVZONGFVZGFjRU5ZZHpVeFZtb3pSakZ2ZDBGbg",
+        "job_title": "AI Presales Engineer",
+        "employer_name": "First Point Group",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVBAeqn0rTqj-sw2RvLbMHKX7_QfWf4u1Hm2e&s=0",
+        "employer_website": "https://www.firstpointgroup.com",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/ai-presales-engineer-first-point-group-saudi-arabia-69669268",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/ai-presales-engineer-first-point-group-saudi-arabia-69669268",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "AI Presales Engineer l Riyadh or Jeddah, KSA\n\nWe are working with a leading global technology and digital infrastructure organisation that is expanding its enterprise AI capabilities across the region.\n\nThis is an exciting opportunity to join a business at the forefront of global connectivity, cloud, digital transformation and enterprise technology, helping organisations transform the way they operate through intelligent, AI-powered solutions.\n\nAs an AI Presales Engineer, you will play a key role in bringing these solutions to life - working directly with enterprise customers, understanding their business challenges and designing innovative AI architectures that deliver measurable value.\n\nYou'll combine hands-on technical expertise with customer engagement, solution design and commercial presales, taking AI opportunities from initial discovery through to demonstrations, proof of concepts and technical proposals.\n\nThe Role:\n\n• Engage with enterprise customers to understand business challenges and identify opportunities for AI adoption.\n• Lead technical discovery sessions and translate business requirements into AI solutions.\n• Design enterprise AI architectures using LLMs, Generative AI, RAG and agentic workflows.\n• Develop and deliver technical demonstrations, prototypes and proof of concepts.\n• Work alongside sales and account management teams to develop customer opportunities.\n• Lead technical responses to RFPs and RFQs, including solution proposals, BOQs, BOMs and project estimates.\n• Present solution architectures and recommendations to technical and senior business stakeholders.\n• Advise customers on AI integration, scalability, security, data privacy and cloud infrastructure.\n\nTechnical Experience & Qualifications:\n\n• 5+ years experience in AI Presales, Solutions Engineering, Solution Architecture or a similar customer-facing technical role.\n• Strong practical experience with Python, LLMs, Generative AI and Machine Learning.\n• Hands-on experience designing and architecting enterprise AI solutions using RAG, AI agents and workflow orchestration.\n• Experience with at least one AI orchestration platform, such as Microsoft Copilot Studio, Azure AI Foundry, LangChain, LangGraph, CrewAI, AutoGen, Google Vertex AI Agent Builder or Amazon Bedrock Agents.\n• Proven experience delivering technical demonstrations, prototypes and Proofs of Concept (PoCs).\n• Experience managing customer-facing presales activities, including technical discovery, solution design, RFPs/RFQs, BOQs/BOMs and technical proposals.\n• Strong communication and presentation skills, with the ability to translate complex technical concepts into business value.\n• Bachelor's degree in Computer Science, Artificial Intelligence, Engineering, Data Science or a related discipline.\n\nWhy Consider This Opportunity\n\n• Join a major global technology organisation with an established enterprise customer base.\n• Work at the forefront of Generative AI, LLMs and emerging agentic AI technologies.\n• Engage with enterprise customers and help shape their AI transformation strategies.\n• Combine technical architecture, innovation and commercial exposure.\n• Play an important role in developing and delivering next-generation AI solutions across the region.\n\nLocation: Riyadh or Jeddah, KSA\n\n[HIDDEN TEXT]",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DtY7FJ7FGnNzNthGfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "tY7FJ7FGnNzNthGfAAAAAA=="
+      },
+      {
+        "job_id": "UzA5R2xwQzBzTjBJTUNxTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZXYVdJeWJuaExZbXh1UzFwb1pGQkxUa1JmV0c5dmVYVnpVVGx4V1doSFpEQlZlRXR1VDBwb1VtcFBZVzVpVG5nd1lXbFJZMWd5TmtNelJuVjRVak15ZW5oNGJWbExYMVp0TXkxVVkyMXlZakk1U25FeUxYbEJkbXd3TlZkTWF6SmtNbXBrU1VGSmVVdHJaMWRZWkVoSGNGVjBOMWRLUlhORllYTlpRMjFJYjB0U01qZ1NGMkp0VUc5aGNHcFdTamxRVG10UVNWQnVObnA2YlZGckdpSkJTRTR3UlRkSWRsbGpPR3RXYzNGbllUUlRSM2RHZURsUVUwWjFlbW94Tmtobg",
+        "job_title": "AI/LLM Engineer (Saudi Arabia)",
+        "employer_name": "Eram Talent",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://eramtalent.com&size=128",
+        "employer_website": "https://eramtalent.com",
+        "job_publisher": "Workable Jobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://apply.workable.com/eramtalent-1/j/03815EAEE0/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://apply.workable.com/eramtalent-1/j/03815EAEE0/",
+            "is_direct": false,
+            "publisher": "Workable Jobs"
+          }
+        ],
+        "job_description": "This position is for building, deploying and evaluating Client's Arabic AI tutor for mathematics and computer science: preparing Arabic training data, fine-tuning, aligning and evaluating LLMs on Shaheen III and Ibex, and integrating the tutor into the learning platform for a pilot in at least 10 Saudi schools.\n\nThe position is part of the RDIA-funded project 5870, “An AI-Powered Arabic Tutoring Platform for STEM Education in the Kingdom.” Two engineers will be hired into this role.\nKey Responsibilities\n• Prepare Arabic training datasets from educational materials and consented platform interactions.\n• Fine-tune, align, and evaluate commercial and open-source LLMs using Shaheen III and Ibex computing platforms.\n• Develop Arabic STEM benchmarks, preference-training methods, and student-safety guardrails.\n• Integrate AI tutoring capabilities into the learning platform, including Arabic right-to-left interfaces.\n• Deploy and optimize models for reliable, low-latency real-time interactions.\n• Support school pilot implementation, evaluation, and teacher feedback collection.\n• Ensure student data privacy and compliance with Saudi data protection requirements.\n• Contribute to research publications, technical reports, and project deliverables.\nQualifications & Experience\n• MSc in Computer Science, Artificial Intelligence, or a related field; alternatively, a BSc with at least one year of relevant experience.\n• Hands-on experience in LLM fine-tuning, evaluation, and AI application deployment.\n• Professional proficiency in Arabic and English.\n• Experience with RLHF/DPO, educational technology, or mathematics/programming education is preferred.\nTechnical Skills\n• Advanced Python and PyTorch.\n• Hugging Face Transformers, PEFT, and TRL.\n• Distributed GPU training using DeepSpeed or FSDP.\n• LLM evaluation, reward modeling, and preference optimization.\n• Arabic NLP, data pipelines, and OCR.\n• Model serving and inference optimization using tools such as vLLM.\n• APIs, Docker, Git, CI/CD, and production deployment.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٠ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "ثول     •  عبر Workable Jobs",
+        "job_city": "ثول",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 22.2756562,
+        "job_longitude": 39.113275699999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DS09GlpC0sN0IMCqLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "S09GlpC0sN0IMCqLAAAAAA=="
+      },
+      {
+        "job_id": "S09oSEFhUnRBaHdQYXZENUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFV4WnpkQmRIQjFVSFkxVERoV1pubzRNakZXVDNBdFQyaHlWazR5VFZkVmFHeGxTVXh1TlZSUVUwTnllbWR1ZGxKNWVHcEJOa2syTFZack5GcHVWRmsyYUZRNVRGSlJXRk5OZUVGNmJIRkhTV0ZoVlRORFJWOUJSSFo0YkRaek0wMWlUMDB0VlVScFVsQXdVMlU1WlVoeWRrZEtOV3BVTWxKWFZsTkhhMmxSZFZSaVZVWVNGMkp0VUc5aGNHcFdTamxRVG10UVNWQnVObnA2YlZGckdpSkJTRTR3UlRkSVpuTk9kVFl0ZVRkM01YbE1ObWgzTURVeVMyUnFZak16VDJabg",
+        "job_title": "AI Engineering Specialist",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Develop, deploy, and integrate scalable AI and machine learning solutions to automate business processes, enhance operational efficiency, and support data-driven decision-making.\n\nKey Responsibilities\n\n• Design, develop, and deploy AI and machine learning models to address business needs.\n\n• Develop and integrate AI solutions, including LLMs and APIs, with existing enterprise systems.\n\n• Build predictive analytics models to support forecasting and business performance.\n\n• Prepare, analyze, and process complex datasets for AI model development.\n\n• Monitor, evaluate, and optimize AI models to ensure accuracy, reliability, and performance.\n\n• Collaborate with business teams to identify AI opportunities and translate requirements into technical solutions.\n\n• Apply MLOps practices to support scalable and secure AI deployment.\n\n• Ensure compliance with data governance, security, and AI ethical standards.\n\nQualification and Experience\n\n• Bachelor's degree in Computer Engineering, Computer Science, or a related field.\n\n• Strong proficiency in Python, machine learning, and Large Language Models (LLMs).\n\n• Experience in API development, AI integration, and MLOps.\n\n• Experience in deploying secure and scalable AI solutions in production environments.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKOhHAaRtAhwPavD5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KOhHAaRtAhwPavD5AAAAAA=="
+      },
+      {
+        "job_id": "X0dZWVZRclhtTVVSejFjVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVE5vUjFOU1IxTlNZWGxJZFRGQ1NIQTJOMnRRVTNjMlZqVjJTRGcxV2pOR0xVSnBWMWs0YVZGVU5USTRlblJvV0RKSGNETjFaa3BXWjNoWVYxSlplV3RYTTFkV1YwOUNaVVpTWTI5UGMwVnBVVjg1WTBkMFZEVktTVlJGYkRrNWFGUmhabTlHVFVocGJGTjNabXc0Y0hORllWVnhWRTAyTjIwelYzVTBOMWt6T0VGaVgyUVNGMkp0VUc5aGNHcFdTamxRVG10UVNWQnVObnA2YlZGckdpSkJTRTR3UlRkR2EzWjJPVVpvT0RKd2RreFJlR2REVXpoUGVteHVhV2huYTFkUg",
+        "job_title": "Computational Research Expert (AI Specialist)",
+        "employer_name": "Aramco",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aramco.jobs&size=128",
+        "employer_website": "https://www.aramco.jobs",
+        "job_publisher": "Aramco | Careers",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.aramco.com/expat_uk/job/Computational-Research-Expert-%28AI-Specialist%29/857062223/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.aramco.com/expat_uk/job/Computational-Research-Expert-%28AI-Specialist%29/857062223/",
+            "is_direct": false,
+            "publisher": "Aramco | Careers"
+          }
+        ],
+        "job_description": "Aramco energizes the world economy.\n\nAramco occupies a special position in the global energy industry. We are one of the world’s largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.\n\nWith our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.\n\nHeadquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.\n\nWe are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.\n\nOverview\n\nWe are seeking Computational Research Expert with a strong background in Artificial Intelligence to join our Research & Development Center (R&DC).\n\nR&DC conducts strategic research, development and demonstration programs in support of Aramco’s drive for innovation.\n\nYour primary role is to design, develop, and deploy advance AI and ML solutions to address complex business, scientific, and engineering challenges.\n\nKey Responsibilities\n\nAs the successful candidate you will be required to perform the following:\n• Design, develop, and validate advanced AI/ML models\n• Engage with stakeholders and domain experts to understand challenges, formulate AI-ready problem statements, and identify impactful solutions.\n• Lead end-to-end AI projects, from data acquisition and feature engineering to deployment and performance monitoring.\n• Integrate AI solutions with existing systems, digital twins, and operational workflows.\n• Stay current with AI research and translate emerging methods into practical applications.\n• Collaborate with cross-functional teams and provide technical guidance and mentorship.\n• Contribute to technical documentation, patents, and publications.\n\nMinimum Requirements\n• As a successful candidate you will hold a Bachelor degree AI, Computer Science, Data Science, Engineering, Mathematics, or related fields. A PhD is also required.\n• You should have a minimum of 5 years of experience.\n• You will have a strong foundation in machine learning, statistics, and optimization.\n• You will also have a proven track record of conducting advanced technical projects with an ability to connect basic science research with industrial applications.\n• It is also necessary to have proficiency in Python and experience with large-scale data and computing environments. Coding in PyTorch, TensorFlow, JAX skills are also required.\n\nWork Location and Work Schedule\n\nWork location: Within Saudi Arabia – To be specified in Job offer\n\nWork schedule: Full Time - To be specified in Job offer\n\nJob Posting Duration\n\nJob posting start date: 12/18/2025\n\nJob posting end date: 12/31/2026\n\nWorking environment\n\nOur high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.\n\nAt Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.\n\nWe have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٩ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Aramco | Careers",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_GYYVQrXmMURz1cVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_GYYVQrXmMURz1cVAAAAAA=="
+      },
+      {
+        "job_id": "aS1pLTJqZXJ4c09ibHRwTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFJFY1VNeFpuaE5WMWhTUmtWeVNXSm5SRXN6TjBkSGNVOXZkekZ4T0VWelYxUkJaRzlJVEUwNGNXZEJYMUpLV2pkS2EzaEVWMDVtWW5aSVkwMTJZWEEyZFdaNlEyaDBZV2RVUTNkUGNIQnNMWE5oZVRsQmNtaEdVa00wVDFsd05XWm1OblZmTmxsS1pGTkxTR3cyYkdrMmRWVnpaVFpVVTBZeWIwWkJObUZqVlRoa1VFSVNGMkp0VUc5aGNHcFdTamxRVG10UVNWQnVObnA2YlZGckdpSkJTRTR3UlRkSVV6SnZlbmczTTJoak56WXROMVZxUlUxQlZHZG9UemxQTkdsMw",
+        "job_title": "Junior AI Engineer: Build Real-World ML for Business",
+        "employer_name": "LamdaX",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/junior-ai-engineer-build-real-world-ml-for-business--riyadh--e60ae01dcda2e78298de339b79cfc186d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/junior-ai-engineer-build-real-world-ml-for-business--riyadh--e60ae01dcda2e78298de339b79cfc186d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Lamdax in Riyadh invites a Fresh Graduate AI Engineer to help build practical AI solutions. You will apply academic knowledge to real business problems, collaborate with software engineers, and contribute to data-driven decisions.\n\nThe role focuses on developing and testing ML models, deploying and monitoring AI in production, and preparing datasets. A strong foundation in Python, SQL, .NET, and major ML frameworks is expected, with internships or projects as evidence.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Di-i-2jerxsObltpNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "i-i-2jerxsObltpNAAAAAA=="
+      },
+      {
+        "job_id": "NS1fd1JJLUE2a0JFaFJaNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWG80VG5WWlJUaFpPRlUxUmxSaFlqaDBSbk5XYzA1emEyaHZXblp6UjBSR1kwd3RNVXRJZGxCUVMyZzBNbFYzVmxKYVNtUlhja1J4YkdkcWRUQk9jakl3TFVSRWMyOW1hRU40VUVKcGF6VmlaRGRxVjNORGMxOU9iek5xYjNWNGVtNTRNMTlxWkhWdVJ6WTNPRGszVWxGM09ITjFYMGc0Y1djNGIxWllXa053UjJSZlpGSVNGMkp0VUc5aGNHcFdTamxRVG10UVNWQnVObnA2YlZGckdpSkJTRTR3UlRkR2NVSXRTVWt0YzBjemRYcEhRMms1YVdseVJUQklielV6ZEVSUg",
+        "job_title": "Lead Specialist, Data Science & Artificial Intelligence",
+        "employer_name": "Ma'aden Legal Employer",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.maaden.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Maaden",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.maaden.com/gb/en/job/9279/Lead-Specialist-Data-Science-Artificial-Intelligence",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.maaden.com/gb/en/job/9279/Lead-Specialist-Data-Science-Artificial-Intelligence",
+            "is_direct": false,
+            "publisher": "Maaden"
+          }
+        ],
+        "job_description": "Maaden, established in 1997, is one of the fastest-growing mining companies in the world and the largest multi-commodity mining and metals company in the Middle East. We are leading the development of the mining industry to become the third pillar of Saudi Arabia’s economy by building a world-class, unique, and fully integrated mining value chain.\n\nWe are pleased to share an exciting opportunity for the below mentioned position. This role offers a chance to contribute to our ambitious growth and play a key part in shaping the future of mining in the Kingdom.\n\nWhy This Role Matters\n\nThis role leads advanced data science and analytics initiatives within the Agentic AI department, translating business problems into scalable analytical solutions, AI-enabled insights, predictive models, and decision intelligence products. It helps build enterprise capabilities that use trusted data, machine learning, automation, and agentic AI concepts to improve productivity, operational performance, and business decision-making.\n\nWhat You Will Deliver\n\nLead Data Science and Analytics Solutions\n\nTranslate business priorities, operational challenges, and use cases into clear data science problem statements, analytical approaches, and measurable outcomes.\n\nDesign and deliver predictive, prescriptive, diagnostic, and exploratory analytics solutions that support decision-making across business and operational domains.\n\nDevelop machine learning models, statistical analyses, simulations, optimization approaches, and advanced analytics products using enterprise data assets.\n\nEnsure analytical outputs are interpretable, actionable, repeatable, and aligned with business value, adoption needs, and governance requirements.\n\nEnable Agentic AI and Intelligent Analytics\n\nSupport the development of agentic AI use cases by defining data, model, workflow, evaluation, and decision-support requirements.\n\nCollaborate with AI engineers, platform teams, data engineers, and business stakeholders to embed analytics and machine learning into autonomous or semi-autonomous workflows.\n\nDefine evaluation approaches for AI-enabled insights, model performance, business impact, human oversight, and continuous improvement.\n\nPromote responsible use of agentic AI by ensuring transparency, explainability, control, auditability, and fit-for-purpose model deployment.\n\nAdvance Data Products and Decision Intelligence\n\nCreate reusable analytical assets, data science patterns, feature logic, model components, and decision intelligence products that can scale across business domains.\n\nPartner with data platform, governance, and architecture teams to ensure data products are trusted, well-documented, reusable, and operationally maintainable.\n\nIntegrate analytics into dashboards, workflows, applications, copilots, and AI agents where decision support can improve speed, quality, and productivity.\n\nMaintain clear documentation covering assumptions, data sources, model logic, limitations, controls, and expected business usage.\n\nEnsure Model Quality, Governance and Value Realization\n\nApply appropriate data science governance practices for model validation, performance monitoring, bias checks, versioning, deployment readiness, and lifecycle management.\n\nDefine success measures, impact metrics, adoption criteria, and benefit tracking approaches for analytics and AI-enabled solutions.\n\nMonitor solution performance after deployment and recommend improvements based on usage, feedback, model drift, data quality, and business impact.\n\nEnsure data science and analytics solutions remain compliant with data governance, cybersecurity, privacy, and responsible AI expectations.\n\nProvide Technical Leadership and Stakeholder Advisory\n\nProvide expert guidance to analysts, data scientists, engineers, and business teams on analytical methods, model design, evaluation, and adoption.\n\nAdvise stakeholders on what analytics or AI can realistically solve, required data readiness, implementation complexity, and expected value.\n\nReview analytical designs, model outputs, assumptions, and recommendations to ensure technical quality and business relevance.\n\nCommunicate insights, risks, limitations, and recommended actions clearly to technical, operational, and executive stakeholders.\n\nWhat Success Looks Like\n\nBusiness problems are translated into clear data science use cases, analytical approaches, and measurable value outcomes.\n\nPredictive, prescriptive, and decision intelligence solutions are delivered with strong technical quality and practical business relevance.\n\nAgentic AI use cases are supported with trusted data, robust models, evaluation methods, controls, and human oversight where required.\n\nAnalytics and AI products are reusable, documented, governed, monitored, and aligned with responsible AI expectations.\n\nStakeholders receive clear insights, recommendations, and decision support that improve productivity, performance, and adoption.\n\nMinimum Qualifications\n\nBachelor’s Degree in Data Science, Computer Science, Artificial Intelligence, Statistics, Mathematics, Engineering, Information Systems, or a related discipline. Master’s Degree is preferred.\n\nExperience\n\nMinimum 10 years of experience in data science, advanced analytics, machine learning, AI solution delivery, decision intelligence, or data product development.\n\nStrong experience translating business requirements into analytical solutions, developing models, evaluating performance, and deploying analytics into operational workflows.\n\nExperience with agentic AI, generative AI, MLOps, responsible AI, cloud data platforms, or enterprise analytics environments is preferred.\n\nSkills That Matter\n\nAdvanced data science, machine learning, statistical modeling, optimization, simulation, and predictive analytics\n\nAgentic AI concepts, generative AI, decision intelligence, AI workflow design, and model evaluation\n\nPython, SQL, analytics platforms, notebooks, visualization tools, cloud data platforms, and MLOps practices\n\nData preparation, feature engineering, model validation, performance monitoring, drift detection, and lifecycle management\n\nResponsible AI, explainability, transparency, bias awareness, human oversight, and governance controls\n\nData product thinking, reusable analytical assets, documentation, scalability, and operationalization\n\nBusiness problem framing, stakeholder advisory, insight storytelling, and value realization tracking\n\nAbility to coach teams, review analytical work, manage ambiguity, and communicate with technical and executive audiences\n\nBenefits\n\n1. Career Growth\n\n2. Competitive Salaries\n\n3. Comprehensive Package\n\n4. Inclusive Work Environment\n\n5. Work-Life Balance\n\n6. Employee wellness",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Maaden",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D5-_wRI-A6kBEhRZ5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "5-_wRI-A6kBEhRZ5AAAAAA=="
+      }
+    ],
+    "cursor": "ErcDCvcCQUREYldlYXNWMHJCTEZuTGhtSV9ESjFmZEg1TnRPdXNJNm5wVVJBR2x1cUxSVTNING1MT3NjWEpTUmpodGtLa0NNMVJZVWdaMVVyZ09ReFh0cTRWSUI1NU5SSVdjTExCNVdqSG1oMXRLZkx5T1JfTmhtOWotWnRnbTBJRGY4M0diNTVEcjAyUXBkcDB0Z1NXQ2tPUzB6UzV6ajBnRm4xZG1ZMHIwaUxlSnNIRmVRUnM3NjlvRTUwVVVxX2tacXFDV0V4LUg5cDBJdU9PLVhPSndpWHNkdFZuQXBWS3hyYXJOSFh4NHNyTGtpclkydWtsZ25zWGRiMW1EQUN0Nl9DX0Y4TXExX2JCanlLRDhHNVpDTEdMX01QNFVlTkFXWVJ6TDduN084aVFOWUphNHh3RE5qQ2VKYnhlekpOamhGWWpEblU3ZVNqUGZQY0xfMWJfMmVDTnNZQnlYZFZGbk9iRmZCRDVfalFuUWFlaUdXQUxvTHN1Y1pZEhdibVBvYXBqVko5UE5rUElQbjZ6em1RaxoiQUhOMEU3SHRGTE1LaWFUZzRRYzZrSU1seUtySnczTkdjdw"
+  }
+}

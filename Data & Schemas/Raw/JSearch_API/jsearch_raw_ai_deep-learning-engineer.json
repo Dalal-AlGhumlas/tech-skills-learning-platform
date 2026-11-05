@@ -1,0 +1,428 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "deep learning engineer"
+  },
+  "status": "OK",
+  "request_id": "a35e845d-f50a-4285-af79-c62e541fbc57",
+  "parameters": {
+    "query": "deep learning engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "aS1pLTJqZXJ4c09ibHRwTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEpSVkc1RExWWjJNVU14YUVVNVZuRlhaVTV3YVZOcU9IZEtkVnByZEVkVk9TMWFjbmRITXpObVQwVmZWekJPVkVvMmExSkdlbGxUWlhoTGVFVmxNbUY0VkdkYVRXcE9aV2RPWDFKaFptUlliMmRVTUVFeFJsTldlRVZ0UTNOVlREWjZSa1psTlhNMk0zZElhV2hYYkVaa2IydFdja1F6V1VwWWQxQlFTaTFQUTBNek5WSVNGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkSFRtNWhXbWxHVVhKbFJXbEhkMHRRY2tOVWRWQlhWMDkzYms1bg",
+        "job_title": "Junior AI Engineer: Build Real-World ML for Business",
+        "employer_name": "LamdaX",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/junior-ai-engineer-build-real-world-ml-for-business--riyadh--e60ae01dcda2e78298de339b79cfc186d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/junior-ai-engineer-build-real-world-ml-for-business--riyadh--e60ae01dcda2e78298de339b79cfc186d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Lamdax in Riyadh invites a Fresh Graduate AI Engineer to help build practical AI solutions. You will apply academic knowledge to real business problems, collaborate with software engineers, and contribute to data-driven decisions.\n\nThe role focuses on developing and testing ML models, deploying and monitoring AI in production, and preparing datasets. A strong foundation in Python, SQL, .NET, and major ML frameworks is expected, with internships or projects as evidence.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Di-i-2jerxsObltpNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "i-i-2jerxsObltpNAAAAAA=="
+      },
+      {
+        "job_id": "S09oSEFhUnRBaHdQYXZENUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUZHVG1wVFkwVXliRXhmYWtObWFtMUpYMlI2ZVVobldsaFNiakZUU1hsU01XdFVTemxuUzE5Qk5URjRkVnByZHpZeGVVWm5kRFptU1RKM01tWndOM3A0V2t0Zk9YSnZWVE5NTkRGWk0ybDZWRVJDZEdGc05uVnZjMGx3Um5ZdFQyMDJSMFpUTUZabFQxZHBRMDFHU2xaNWJUbFdYMkZYUm10T1ZXTTJVMVJzT1dGalYwTVNGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkR05YY3liRkppYlZjNVZDMHdVbVpPUlVsa1FVNVFSa2t4TW5wUg",
+        "job_title": "AI Engineering Specialist",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-engineering-specialist--riyadh--e54d2196234919c1be2350be908fda6cf",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Develop, deploy, and integrate scalable AI and machine learning solutions to automate business processes, enhance operational efficiency, and support data-driven decision-making.\n\nKey Responsibilities\n\n• Design, develop, and deploy AI and machine learning models to address business needs.\n\n• Develop and integrate AI solutions, including LLMs and APIs, with existing enterprise systems.\n\n• Build predictive analytics models to support forecasting and business performance.\n\n• Prepare, analyze, and process complex datasets for AI model development.\n\n• Monitor, evaluate, and optimize AI models to ensure accuracy, reliability, and performance.\n\n• Collaborate with business teams to identify AI opportunities and translate requirements into technical solutions.\n\n• Apply MLOps practices to support scalable and secure AI deployment.\n\n• Ensure compliance with data governance, security, and AI ethical standards.\n\nQualification and Experience\n\n• Bachelor's degree in Computer Engineering, Computer Science, or a related field.\n\n• Strong proficiency in Python, machine learning, and Large Language Models (LLMs).\n\n• Experience in API development, AI integration, and MLOps.\n\n• Experience in deploying secure and scalable AI solutions in production environments.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKOhHAaRtAhwPavD5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KOhHAaRtAhwPavD5AAAAAA=="
+      },
+      {
+        "job_id": "QVNhZ0JCYTJVUXY3SndNbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVJqVlUxRk5rSjFlWGhpYVhWbmFFTkJjbFZ0WW1Sc1RUWjZaSGc0ZGpSNWRIQTJWbFZ1WmxoWWJHczRWWEZ5UTBSRVpGWlhaR3h6WnpkRGJVVlFRWGx5TjBKbk0wNUVRMWd0WmpnNFEySmpNRkpQWkVwbGQxOTJUMDl2V0VoTGRqVmFSMTlqYVVSeFkyZDViekY0V0V0TWFEZG9NVEJKVFhOVWFWVnBZM05hVFhCVFRITVNGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkSVMzTndXa2RRVTBkR1gwTmlaMDVsYlMxamNXaG9ZMkpsWVdaQg",
+        "job_title": "Manager - FWA AI Engineer",
+        "employer_name": "Bupa Arabia",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9-YvZ3j_GHCRrQIh1d6SI7i-WrpfaVB6hDEh&s=0",
+        "employer_website": "https://www.bupa.com.sa",
+        "job_publisher": "كاريرز",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.careers.sa/jobs/manager-fwa-ai-engineer-bupa-arabia-c5e43f1c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.careers.sa/jobs/manager-fwa-ai-engineer-bupa-arabia-c5e43f1c",
+            "is_direct": false,
+            "publisher": "كاريرز"
+          }
+        ],
+        "job_description": "Role Purpose:\n\nThe FWA AI Engineer is responsible for designing, building, testing, and deploying AI solutions that support Fraud, Waste & Abuse (FWA) detection and investigation. The role translates approved business requirements and data science models into scalable production solutions, integrating AI capabilities into operational workflows while ensuring reliability, performance, and business value. Working closely with the FWA Lead, FWA Data Scientist, investigators, and business stakeholders, the role drives the successful implementation and continuous enhancement of FWA AI use cases.\n\nKey Accountabilities:\n\n1- FWA Solution Design & Feasibility Assessment;\n\nAssess technical feasibility of approved FWA use cases.\n\nEvaluate data availability, technical requirements, and implementation complexity.\n\nDefine solution approaches for AI-driven FWA detection.\n\nDevelop technical requirements and implementation plans.\n\nRecommend optimal AI techniques and technologies for delivery.\n\n2- AI Solution Development & Engineering;\n\nBuild and optimize AI solutions supporting FWA detection and investigation activities.\n\nTranslate models and analytical logic into scalable cloud-native solutions on GCP.\n\nImplement machine learning, anomaly detection, graph analytics, and document intelligence solutions.\n\nDevelop APIs, scoring services, and integration components required for operational deployment.\n\nEnsure solutions are scalable, maintainable, and aligned with technical standards.\n\nCollaborate with the FWA Data Scientist to operationalize validated models.\n\n3- Production Deployment & Integration;\n\nDeploy AI solutions into operational environments.\n\nIntegrate AI outputs with internal systems and workflows.\n\nCoordinate with Data Engineering and TIDES (IT) teams to enable production deployment.\n\nSupport release planning and deployment activities.\n\nEnsure successful transition from development to production.\n\n4- Testing & Quality Assurance;\n\nConduct technical testing of AI solutions.\n\nSupport user acceptance testing with business stakeholders.\n\nValidate output accuracy, reliability, and performance.\n\nIdentify and resolve implementation issues.\n\nEnsure solutions meet defined business and technical requirements.\n\n5- Solution Maintenance & Continuous Improvement;\n\nSupport ongoing enhancement of deployed FWA AI solutions.\n\nImplement model improvements identified by the Data Science team.\n\nAddress technical issues and optimize solution performance.\n\nIncorporate new fraud detection capabilities and business requirements.\n\nMaintain technical documentation and solution knowledge assets.\n\nSkills\n\nPython\n\nSQL\n\nGoogle Cloud Platform (GCP)\n\nVertex AI\n\nMachine Learning Implementation\n\nAI Solution Development\n\nAPI & System Integration\n\nNLP & LLM Applications\n\nDocument Intelligence & OCR\n\nSoftware Development Best Practices\n\nTesting & Quality Assurance\n\nProblem Solving\n\nStakeholder Management\n\nCommunication & Presentation Skills\n\nCross-Functional Collaboration\n\nExperience delivering AI/ML solutions into production environments.\n\nExperience with Google Cloud Platform (GCP) is preferred.\n\nExperience in health insurance, claims, FWA, risk analytics, or financial crime analytics is preferred.\n\nKnowledge of healthcare claims, provider, and pre-authorization processes is advantageous.\n\nKnowledge of SAS is advantageous.\n\nEducation\n\nBachelor's Degree in Computer Science, Software Engineering, Artificial Intelligence, Data Science\n\nJob Location\n\nJeddah , Saudi Arabia\n\nJob Role\n\nInformation Technology\n\nEmployment Status\n\nFull time\n\nEmployment Type\n\nEmployee\n\nPreferred Candidate\n\nCareer Level / Band\n\nJunior Management\n\nYears of Experience\n\nMin: 4 Max: 6\n\nResidence Location\n\nSaudi Arabia\n\nNationality\n\nOther\n\nMinimum Degree\n\nBachelor's degree\n\nBupa Arabia\n\nInsurance\n\nJeddah , Saudi Arabia\n\n500 employees or more\n\n+966.9.200.00456\n\nhttps://www.bupa.com.sa\n\nBupa Arabia is a healthcare insurance company based in the Kingdom of Saudi Arabia. We are an associate business of Bupa Group, which is a global healthcare company with an international reach that extends across multiple business operations, practices, and resources.\n\nFounded in October 1997, Bupa Arabia was initially established through a partnership between Bupa Global International and Nazer Group, with the key focus to provide health insurance services with high quality and competitive prices, while ensuring a distinctive experience for customers. Bupa Arabia has since evolved into a fully Saudi-owned and operated company. Our transformation from a joint venture into a publicly traded company on the Saudi Stock Exchange occurred in 2008, as we made 40% of our shares available to the public during our Initial Public Offering (IPO).\n\nAs a subsidiary of the global Bupa Group, we draw upon international expertise while maintaining a profound understanding of local healthcare requirements and regulations. This allows us to offer comprehensive healthcare insurance solutions tailored to the unique needs of the Saudi Arabian market.\n\nBupa Arabia prides itself on its commitment to the wellbeing and development of its employees, providing them with the same standard of care, support, and professionalism that it expects to be delivered to its customers.\n\nOur core values shape every aspect of our work and culture:\n\nCommit – Own it with accountability and urgency.\n\nCollaborate – Win together through cross-functional synergy.\n\nCare – Put people first, both employees and customers.\n\nSimilar Jobs\n\nSee All\n\nThis website uses cookies to ensure you get the best experience on our website.\n• الشركة: Bupa Arabia (بوبا العربية للتأمين التعاوني)\n• الموقع: جدة\n• المستوى: قيادي / مدير\n\nالمهارات المطلوبة: Stakeholder Management، Python، Quality Assurance، Technical Documentation، SQL، System Integration، Machine Learning، Fraud Detection، Feasibility Assessment، Release Planning، Data Engineering، NLP\n\nالتقديم يتم عبر رابط الشركة الرسمي، والقائمة محدثة يومياً على كاريرز من المصادر الرسمية.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٢ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر كاريرز",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DASagBBa2UQv7JwMmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ASagBBa2UQv7JwMmAAAAAA=="
+      },
+      {
+        "job_id": "d1QyTGh6TG5MR1ZxRHNUeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWE15YVdzMGRsVlNRVEZhY1ZCU1JFcFphVVp6Y21oUmRsbEtZbVpMUldKTlNrTjVUR3d6YzFwdFJUbFlTSFJCVFVsWVNVRkhhWGxxY0ZaZldEQmxVRVpLTjFjemVqUkxPRWhsTUVKcmVVWmhSa2x3WkZjdFdYbE5SRWxMUkRFelowWnRTV1F5U1hKMVN6Rm9NVlF6ZDBSNVRXOWFkV1pNTmt4dGJEQTFTSE5OTTNCcFYyOFNGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkSWNVVlpjemRQWkdWbFppMVJaR3RLZW1oVVkzSkZiRmt6TW5aQg",
+        "job_title": "AI Solutions Engineer: Scalable ML & LLM Deployments",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Confidential Government is seeking an AI/ML Engineer to design, deploy, and integrate scalable AI solutions in Riyadh. You will build models, APIs, and MLOps pipelines to automate business processes and support data-driven decisions.\n\nResponsibilities include data preparation, model monitoring, and collaboration with business teams to translate needs into technical solutions while ensuring governance and security standards are upheld.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DwT2LhzLnLGVqDsTxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "wT2LhzLnLGVqDsTxAAAAAA=="
+      },
+      {
+        "job_id": "VEhlMXlhMmdiN1V3a0VQMEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2RuUzJscGRtMUtTaTA0VFMxNVZtdG5aVGw0YWtWdFZVNTVZVWRuTW5Oc1gzUXdZbTFNTWpRdFowTmhhVEJqVTFkSVFVOXVjVUpPVlhwdllrcERiR3cwTUhOTE5tcFhURkIxUWtGNlNIUk9ZbEJCWDNaUWJWRnBURTE1Tm5vNWFrSlZUV2h1VVZvd1lYbGxWRlJsZUUxQlNFWTJTM3BoY1hSU01FTjFXV3hQV25kUlUzUVNGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkSGJXTkpiM2RpTUhBeGRrNHhiSGRhU21wWlRuSXhPRFpFYm5wbg",
+        "job_title": "AI / ML Engineer",
+        "employer_name": "Secure Tech",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MPXRFVnaFZAoJC-39DHeK9sO7rEjzvR_WizG&s=0",
+        "employer_website": "https://securetechnyc.com",
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/ai-ml-engineer-secure-tech--techmap_sa_4476017215",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/ai-ml-engineer-secure-tech--techmap_sa_4476017215",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "About Secure Tech Secure Tech is a system integration company in Riyadh, Saudi Arabia, specializing in security systems and technical solutions. Our commitment is to provide the best service and equipment in the technological and security fields, adhering to international standards. Our team of qualified professionals strives for development and improvement for a better future in Saudi Arabia.\n\nJob Summary Builds AI capability: the Joule knowledge assistant, AI search and personalization, predictive models, and the AI Lab that tests new ideas safely.\n\nResponsibilities\n• Build the Joule knowledge assistant on IT and SAP documentation\n• Build search relevance and recommendation models with the Commerce team\n• Build predictive models: PROCEED fleet maintenance and inventory health\n• Assess AI requests and build pilots with clear kill criteria\n• Deploy, monitor and retrain models; control cost and accuracy\n• Apply AI governance: privacy, bias checks and human oversight\n\nMust Have\n• Bachelor’s or Master’s degree in Computer Science, Data Science or Artificial Intelligence.\n• 3 years building machine-learning or generative-AI solutions in production.\n• SAP AI Core / Joule; Google Cloud Professional ML Engineer.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DTHe1ya2gb7UwkEP0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "THe1ya2gb7UwkEP0AAAAAA=="
+      },
+      {
+        "job_id": "TFZ3Z3RrUmdxT1N3WE45NEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbTVVYlhRM1NIY3dRV1JGVEZoeWJUVk5OV3BJWlRJMlNtTTVYek5sUWw5bmRYZFdZM1ZEY1ZWU1VXeE5hblJZYjBORVNXUlVjMk5OTjJodVZ6SXdhSE5XWHpWcE1ERnBOWHBtTVVSemJYbFFjbGxaTjA1S2NHTjNjekpXYnpCaWNrNU1lWEpKY25OamFEVkJVRkJOZERsSFJISjNjMDFNUTNKeFpGaDZTRWwzWVVKNlJUZ1NGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkSVlWbE9iV0o0YkU1clQyRjJXSFZGUW05bk5XbFlZbVJSWjJkQg",
+        "job_title": "Senior MLOps & AI Platform Engineer",
+        "employer_name": "Fathom.io",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-mlops-ai-platform-engineer--dhahran-compound--eb0425538ddff147173d6c38a2cd75bae",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-mlops-ai-platform-engineer--dhahran-compound--eb0425538ddff147173d6c38a2cd75bae",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Fathom.io in Dhahran, Saudi Arabia seeks a mid-to-senior MLOps engineer to build the intelligence layer of our AI platform. You’ll shape infrastructure for model deployment, training, notebooks, and RAG pipelines, with a focus on self-service, reliability, and scalable workflows.\n\nYou’ll collaborate with backend, product, and AI teams to turn complex systems into approachable platform features, while optimizing GPU deployments and ensuring multi-tenant security.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٨ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر JobLeads",
+        "job_city": "الظهران",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2361248,
+        "job_longitude": 50.039301699999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DLVwgtkRgqOSwXN94AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "LVwgtkRgqOSwXN94AAAAAA=="
+      },
+      {
+        "job_id": "XzNSZzhaZ3l2SXkzT05HVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGhDUmxKYWJtaHNiWFZTT1hWbExYbzRia1JxVGw5bGQxVmFRalI2TTA5TVlWZDZVVVZ5Tm1SbU9FbEhaM3BGVFVsSVVYZEZSWGhVY0cxWmRuRXRibWhsVVdGb2RWUlNlR1JwYVZoV2JVNHpOQzFqWTA5cWQwRTBhMlY2VjFSaGJXWk1SakZaVGw4d1pHVk5TVzh4VVc5UmNsazBURTV5T0ZOT09FUXlTSEZRZWxkNk9Hd1NGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkRmVFRkVaR2wxVW1OdmJYcEVabWxOZWt4SVYwZzBObnAwYzBsUg",
+        "job_title": "AI Engineering Specialist",
+        "employer_name": "confidential government",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/2333395191131537408",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/2333395191131537408",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Job Purpose\n\nDevelop, deploy, and integrate scalable AI and machine learning solutions to automate business processes, enhance operational efficiency, and support data-driven decision-making.\n\nKey Responsibilities\n• Design, develop, and deploy AI and machine learning models to address business needs.\n• Develop and integrate AI solutions, including LLMs and APIs, with existing enterprise systems.\n• Build predictive analytics models to support forecasting and business performance.\n• Prepare, analyze, and process complex datasets for AI model development.\n• Monitor, evaluate, and optimize AI models to ensure accuracy, reliability, and performance.\n• Collaborate with business teams to identify AI opportunities and translate requirements into technical solutions.\n• Apply MLOps practices to support scalable and secure AI deployment.\n• Ensure compliance with data governance, security, and AI ethical standards.\n\nQualification and Experience\n• Bachelor's degree in Computer Engineering, Computer Science, or a related field.\n• Strong proficiency in Python, machine learning, and Large Language Models (LLMs).\n• Experience in API development, AI integration, and MLOps.\n• Experience in deploying secure and scalable AI solutions in production environments.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobrapido.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_3Rg8ZgyvIy3ONGVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_3Rg8ZgyvIy3ONGVAAAAAA=="
+      },
+      {
+        "job_id": "NzktVFhDMjkyakFkMFhFZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVWwzUlU4M0xWQXdSbUZCWVd4SlFVb3hPSGxNZDI0NU9IRmpZalYxTlhoUFRscExURGhxTTNCMWIzcGxWMHBCVUhsNlN6VnJaVGwyVHpJd1RpMVdOMnA2TWs5c01FWlBiVlp5ZERkWlNsaHpWMFl4Y25wMWQzWm5jMXB5UzJGaVVEWkNRa2RVTnpOclUwcFhVRWh6ZEc1eVkwRkRUbmhJWjFnM2FuRlpRMVE0YURGemFWY1NGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkR2JqVnZjRzB4TUdGMVR6TkRhMFowUkRNeE0xZHdSVE5PYkdobg",
+        "job_title": "Remote AI/ML Engineer for Global Social Impact",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/remote-ai-ml-engineer-for-global-social-impact--saudi-arabia--e652f705c8696ba407ce3d07c5ab5dacc",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/remote-ai-ml-engineer-for-global-social-impact--saudi-arabia--e652f705c8696ba407ce3d07c5ab5dacc",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Jobgether is seeking an AI/ML Engineer for a fully remote role with partner organizations in Saudi Arabia and beyond. You will design, build, and deploy production AI systems for real-world challenges in healthcare, agriculture, education, and development, collaborating with researchers and embedded engineers.\n\nResponsibilities include evaluating AI systems, contributing to open‑source tools, and mentoring partner staff while delivering measurable improvements and responsible AI practices.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D79-TXC292jAd0XEdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "79-TXC292jAd0XEdAAAAAA=="
+      },
+      {
+        "job_id": "a0tLWUt4NUZoZ0ZXdm9TQUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWhaU0V0WVgwVkZORUZWUkdGTWRGQnlOV0ozYkRaUVFXVllRV3hPU0ZsVVNqbDNMV2xLVld4RmQwaFhYMGR0T1RKWE9WaDVkekZuWVhwNGVHSjVTRXg2Y0RRMFRUSklhV2RVUm5WcFIyWTVWRGxNVlZkcFVrSkpXbVZPWW01VmRHWlhRM0JtUkZob1lVNTNUSE5HYXkwMFVGQlhYMU5WV0hCNE1FbGlTVVJMTm0xSlNTMFNGM0ZXY205aGRrd3RSMk5VTjI1elJWQTJkVjlGTFVGRkdpSkJTRTR3UlRkR1RYWm1kalZITTBSa05uZDJUR05aU1hObVUzbDJOa0p6YlhKMw",
+        "job_title": "Algorithm Engineer",
+        "employer_name": "Client of AIQU",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/algorithm-engineer-client-of-aiqu-al-madina-al-munawarah--techmap_sa_141026500903",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/algorithm-engineer-client-of-aiqu-al-madina-al-munawarah--techmap_sa_141026500903",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "Job Description\n\nRoles & Responsibilities\n\nAbout the Role:\n\nWe are seeking a talented Algorithm Engineer to join our R&D team in Riyadh. In this role, you will design and implement advanced algorithms in AI and computer vision to solve real-world problems. You will collaborate with cross-functional teams to drive research initiatives, prototype new solutions, and optimize performance for deployment.\n\nResponsibilities:\n\n• Design, develop, and optimize algorithms for computer vision and AI applications\n• Collaborate with R&D and product teams to define project requirements and success metrics\n• Conduct literature reviews and stay current with the latest advances in algorithms and machine learning\n• Prototype and validate solutions through experiments and performance benchmarks\n• Integrate algorithms into software systems and work with engineers to ensure scalability and robustness\n• Document methodologies, results, and best practices for internal and external dissemination\nPreferred Qualifications:\n• Experience with TensorFlow, PyTorch, or other deep learning frameworks\n• Published research papers or patents in relevant fields\n• Familiarity with embedded systems or edge deployment of vision algorithms\n• Knowledge of cloud computing platforms (AWS, Azure, or GCP)\n• Experience with real-time image and video processing pipelines\nPosition Details • Position Title: Algorithm Engineer\n• Location: Riyadh, Saudi Arabia\n• Industry: Information Technology (IT) / Software\n• Experience Required: 3 years\nDesired Candidate Profile\n• 3 7 years of experience in algorithm development, AI, or computer vision\n• Strong programming skills in Python and C\n• Solid understanding of data structures, linear algebra, probability, and optimization\n• Experience applying machine learning and deep learning techniques to computer vision tasks\n• Proven track record of designing and implementing R&D projects from concept through delivery\n• Bachelor s or Master s degree in Computer Science, Electrical Engineering, or a related field",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٩ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DkKKYKx5FhgFWvoSAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "kKKYKx5FhgFWvoSAAAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlWThFa0RCcUpnMkFKajNOa0ZnVHFLUi1DaXhSb2wtRzEwa3JsTnN3NFlyWmQyelRxRkppN2Z6M0RZWkFJSGw4UmU2YWpyamJBMGRDdm1heGNSamlUNDV1a2FIdmFxa1h6bS1LNmhsUFVsSUlYMDkxWW55eTVnNjROU0trZ0xhbkJENHFkNXVEZnNDN1ZpS016dU8zbi00US1tbklQVUR4WUdoemR6LUZORDFKNGs3RWQ2V1RrTl9vZnhvZF9kVUZFSnNDWmZDcTVZNHlWWjMtOXljN3FiOGNMSGVtUlJBaGV5SERiVHdKQlFkZzBWWXQ5V0FYeUZHUjdjMnVUY0FXTERTenR1VUpmX2NpUnZSZHBRdy1OTl9QbzdHLTlpVHRGeHRPakVtODJ6WElHMkFBTEpTZ09kU3dEUDM2UzZSWHRJSWc5OHlQemxPUW9UNFRveDBWU3ZNbGh3WWJTaXByRWVGeEdXdVJZWUR1azJQTkZCY0Y5Q0NpWTRnd2RrZmFucnF3bWJ2WjJOZjgtZGtPRXJhM3dNbEl2SzdRYlZaRy1ZdklKbElUXzZoc01PWU5JY2VmYUFlbjVhbTVxVEpIMDB1Z0daNjVrSDhRdl9VTzJwdndmNTJUWDdadDIxUmFxclVPbmp1V0NTdVI5R0pyZkRjS05ydGpuLThTN0RFNWd4YklnRU1aMnZRaF9lcDV0NFBMbUlwOW1MeWJIaXBfeVdzajRVREtGRkFSaENpa1ZZEhdxVnJvYXZMLUdjVDduc0VQNnVfRS1BRRoiQUhOMEU3R1BQamQwVUtaUmU2SjZYd2Y1cy14SXJCQzZLZw"
+  }
+}

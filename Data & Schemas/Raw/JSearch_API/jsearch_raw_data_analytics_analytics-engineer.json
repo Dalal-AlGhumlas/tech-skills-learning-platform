@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "analytics engineer"
+  },
+  "status": "OK",
+  "request_id": "6599fd51-5899-4874-99ce-9500d2597122",
+  "parameters": {
+    "query": "analytics engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "T0FmZmk4OUNCQ0RHZ3hYV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbTVyZUUxbloyMUxVR1pUWmxCMVdDMHdWSGRLUVZoMGVteG9NMjVsZFdGVlNsVmtaWEpqYldKdFdWcHJSblJTTVRWcllUQldUVFZxYTJkemFqRmljREpaZEVSbmFrd3RRWEZxVTFod1ZraHVSVFkyUW04NVNtUklhV1pPTjJNd05FbExZa010Y1VGMVZVaHhjRVJGUW5WcmJsRjVjMkkzTFdSMlVVcHBaRjgxUms1b2FEY1NGMFJHZG05aGRXbHBRblpQTnpRdFJWQXhVRzF6TWxGakdpSkJTRTR3UlRkRmJUUjVUWEp1TURKMU1FRkNhVlZIVDNJNVVsaFhielZqZW5aMw",
+        "job_title": "Data Engineering Specialist",
+        "employer_name": "Aramco",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aramco.jobs&size=128",
+        "employer_website": "https://www.aramco.jobs",
+        "job_publisher": "Aramco | Careers",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.aramco.com/expat_us/job/Data-Engineering-Specialist/857087823/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.aramco.com/expat_us/job/Data-Engineering-Specialist/857087823/",
+            "is_direct": false,
+            "publisher": "Aramco | Careers"
+          }
+        ],
+        "job_description": "Aramco energizes the world economy.\n\nAramco occupies a special position in the global energy industry. We are one of the world’s largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.\n\nWith our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.\n\nHeadquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.\n\nWe are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.\n\nOverview\n\nWe are seeking a Data Engineering Specialist to join Downstream Global Optimizer (GO) team.\n\nThe Downstream Global Optimizer team drives commercial optimization across Saudi Aramco’s integrated downstream value chain, including domestic and international refining assets. The GO team identifies and captures optimization opportunities to enhance system netback and deliver shareholder value. By building robust data infrastructure, automating pipelines, and enabling real-time analytics, the team supports agile decision-making in dynamic market conditions.\n\nYour primary role is to design, develop, and maintain scalable data platforms that power the iGO (intelligent Global Optimizer) ecosystem. Your work will ensure seamless integration of structured/unstructured data, enable high-performance analytics, and provide reliable foundations for optimization models, machine learning pipelines, and enterprise reporting. You will focus on building and maintaining the data infrastructure that supports our data scientists. This role will involve designing and implementing scalable data pipelines, ensuring data quality, and managing data storage solutions. The specialist will work closely with data scientists and other teams to provide the necessary data infrastructure for advanced analytics and machine learning models.\n\nKey Responsibilities\n\nAs the successful candidate you will be required to perform the following:\n• Design and implement data architectures and efficient ETL (Extract, Transform, Load) processes to move and transform data from various sources into a format suitable for analysis.\n• Ensure the accuracy, completeness, and consistency of data by implementing data validation and cleansing processes.\n• Architect and manage data storage solutions, including data lakes and warehouses, to meet the needs of the organization.\n• Work with data scientists and other stakeholders to understand data requirements and provide appropriate data solutions.\n• Optimize data pipelines and architectures for scalability and performance, ensuring they can handle large volumes of data efficiently.\n• Maintain thorough documentation of data systems, pipelines, and processes for clarity and continuity.\n• Proficiency in languages such as Python, SQL, and Java or Scala.\n• Experience with big data technologies like Apache Spark, Hadoop, Kafka, and Airflow.\n• Knowledge of cloud services such as AWS, Azure, or GCP, including their data storage and processing services.\n• Understanding of data warehousing concepts and experience with tools like Databricks, Microsoft data fabric and Cloudera.\n• Familiarity with ETL tools and processes for data transformation and migration.\n• Experience with CI/CD pipelines and version control systems like Git.\n\nMinimum Requirements\n• You will hold a Bachelor’s degree in Computer Science, Data Engineering, Software Engineering, or a related field from a recognized institution. A Master’s or advanced degree is preferred.\n• You will have at least 10 years of experience in data engineering, data architecture, or enterprise data platform development, including 5+ years in designing and managing enterprise-grade data pipelines.\n• Strong technical expertise in programming languages: Python, SQL, Scala, and experience with data engineering frameworks (Apache Spark, Kafka, Airflow, Flink).\n• Proven experience building data lakes, data warehouses, and ETL/ELT pipelines for large-scale, heterogeneous datasets.\n• In-depth knowledge of cloud platforms (AWS, GCP, Azure) and distributed data processing tools (e.g., Databricks, Cloudera, Snowflake).\n• Hands-on experience with data governance, metadata management, and data quality frameworks.\n• Ability to work in complex, cross-functional environments, translating business needs into scalable data architectures.\n• Strong communication skills to articulate technical designs to stakeholders and mentor junior engineers.\n• Familiarity with industrial/energy sector data ecosystems (e.g., OT/IT systems, SCADA, ERP, market data) is preferred.\n• Certifications in cloud platforms (AWS/GCP/Azure), data engineering (e.g., Google Professional Data Engineer, AWS Big Data Specialty) are a plus.\n\nWork Location and Work Schedule\n\nWork Location: Within Saudi Arabia – To be specified in Job offer\n\nWork Schedule: Full Time - To be specified in Job offer\n\nJob Post Duration\n\nJob posting start date: 2/5/2026\n\nJob posting end date: 12/30/2026\n\nWorking environment\n\nOur high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.\n\nAt Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.\n\nWe have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Aramco | Careers",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DOAffi89CBCDGgxXWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "OAffi89CBCDGgxXWAAAAAA=="
+      },
+      {
+        "job_id": "X0xyUEhsMXd5VlVtQWFUZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV2x6T0hKdWVVVnZWR2xLWkZscGFVeE9kV1JNVkZSRk5qUTNRVFpmYUY5dmJFdFNlazlxYkdGdWJsYzBUMlJQUzNkR2ExTjNOR3AxVkhoa09HbHpVVWRITVZKR1UzZzRXa3RCVlY5YVYwaG1NMU16TW0xUk9XUm5lRzU2UjJKV1RtMTZWSEpTU0hSclNXaG9TMWhsT0ZkRVdtNU5abTEwWVV4YWQydzJia0pRTUV0WVUzY1NGMFJHZG05aGRXbHBRblpQTnpRdFJWQXhVRzF6TWxGakdpSkJTRTR3UlRkSGRHcGpUMHBLVldkVVZVMTJWRTgwV0RNdGIwSlNNa2hOVERSbg",
+        "job_title": "Data Warehouse Engineer - Scale Analytics & Pipelines",
+        "employer_name": "Ninja",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sharkninja.com&size=128",
+        "employer_website": "https://www.sharkninja.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/data-warehouse-engineer-scale-analytics-pipelines--saudi-arabia--e227b99855f6163c64b67c7648845f7ec",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/data-warehouse-engineer-scale-analytics-pipelines--saudi-arabia--e227b99855f6163c64b67c7648845f7ec",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Ninja is seeking an experienced Data Warehouse Engineer to join their Data Team in Saudi Arabia. In this role, you will design and build data solutions that empower business teams with reliable data and insights.\n\nThe ideal candidate will have over 2 years of experience in Data Engineering, a Bachelor’s degree, and strong skills in SQL and Python. You'll enjoy a collaborative environment while tackling complex data challenges.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_LrPHl1wyVUmAaTeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_LrPHl1wyVUmAaTeAAAAAA=="
+      },
+      {
+        "job_id": "bVcwWWFacm1QMm11ZXNyQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkpGU2podFMxazNNSFpGVVhSd00wdHRORU5SU1ZCVGVtUmxWVWhYU0ZwcVlYaGlkWEpOU2swMlQxWnZaRkpOYldoNVRrbHpNMVJqU1d0MFprZzNjbnBRT0Y5dGFUWndlbmxvVkVGckxYTjRRMDFCZEd3MVdscHFOWEZyV2s0NGR6ZHlPSFJFZEhkbGJXcEpOelZzYjJwRlRGUlRSVWxaWjJaNlQwVndiMnBUYWs5T2NHVVNGMFJHZG05aGRXbHBRblpQTnpRdFJWQXhVRzF6TWxGakdpSkJTRTR3UlRkSFZTMDVkMjlMY2xWa2FGOWpjRWhJUkZRd2JrNUhNek13V2xOMw",
+        "job_title": "Lead Data Engineer: ETL, Quality & Governance",
+        "employer_name": "Maaden",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKcPZ50fbWBU57LdoB75QDWjkz9abKdvY35CA&s=0",
+        "employer_website": "https://maaden.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/lead-data-engineer-etl-quality-governance--saudi-arabia--ef9afdb679db875fedb24c21de462ef15",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/lead-data-engineer-etl-quality-governance--saudi-arabia--ef9afdb679db875fedb24c21de462ef15",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Maaden is seeking a Lead Specialist, Engineering and ETL II to design, build, and optimize scalable data pipelines that transform raw data into high-quality information assets. This role ensures governance, operational resilience, and performance standards to support business intelligence and analytics.\n\nThe position requires technical leadership to improve engineering consistency and platform sustainability while collaborating with governance, modelers, and stakeholders to enable data-driven",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DmW0YaZrmP2muesrBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "mW0YaZrmP2muesrBAAAAAA=="
+      },
+      {
+        "job_id": "VWluUHRldG9JVVhucWtiZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFpUV1d4elNGRjVUbFUyWkV0VU1qWktNMDA1WHpacVVUQm1URXd5WjFkaU5uSTJSMHRmVnpVMmFGZG1SazFDWWs5dGVFZFBVRFJSTWtReVJIY3dOVGhhTlhVemNFTlZiMmRsUlZCTmJURjRkRFZ1VUZCNVVGRkliMlJDYTNkR1gzTkZUelpCYVZkUU1qbE5hRVF6Um5GVlNGVTNkbDgzZG05SllsZE1VWFpXWDJoTmFuTVNGMFJHZG05aGRXbHBRblpQTnpRdFJWQXhVRzF6TWxGakdpSkJTRTR3UlRkR2IxOTFaa0pxWmw5ZlVXRm1XbTh3V0VRd1VWVnRlbFJsUzBGQg",
+        "job_title": "Senior Data Infrastructure Engineer (Scraping & Scale)",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/senior-data-infrastructure-engineer-scraping-scale-jobgether--techmap_sa_4477504453",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/senior-data-infrastructure-engineer-scraping-scale-jobgether--techmap_sa_4477504453",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Data Infrastructure Engineer (Scraping & Scale) based in Saudi Arabia.\n\nWe are seeking a Senior Data Infrastructure Engineer to design and scale high-performance web scraping and data ingestion systems. In this fully remote role, you will build the core infrastructure responsible for collecting millions of social media profiles, posts, and video records daily. You will tackle complex anti-bot challenges, develop resilient distributed pipelines, and ensure reliable data delivery at scale.\n\nWorking at the intersection of data engineering, automation, and AI infrastructure, you will support large-scale analytical and machine learning workflows. This opportunity is ideal for an engineer who combines deep technical expertise with a strong focus on performance, reliability, and continuous improvement.\n\nAccountabilities The Senior Data Infrastructure Engineer will lead the development and maintenance of scalable data collection systems, ensuring reliable ingestion, efficient orchestration, and high-quality data availability for downstream applications.\n\n• Design and manage web scraping infrastructure using residential proxy networks, TLS fingerprinting, browser automation, and session rotation.\n\n• Build fault-tolerant, high-throughput scraping pipelines to collect data from Instagram, TikTok, YouTube, X, and other web sources.\n\n• Develop distributed queues and workflow orchestration systems using technologies such as Temporal, Ray, Apache Kafka, and Celery.\n\n• Architect storage environments for structured and unstructured data using Parquet, Apache Iceberg, Snowflake, and Amazon S3.\n\n• Implement monitoring, automated alerts, and recovery mechanisms to identify platform changes, blocking patterns, and proxy failures.\n\n• Maintain reliable data ingestion at scale while minimizing downtime and supporting daily processing of millions of records.\n\n• Enable downstream AI and analytics workflows through robust, well-structured data infrastructure.\n\nRequirements The ideal candidate brings substantial experience in web scraping, data engineering, or reverse engineering, along with strong programming skills and expertise in distributed systems and data storage technologies.\n\n• At least 4 years of experience in high-volume web scraping, data engineering, or reverse engineering.\n\n• Strong experience handling advanced anti-bot systems, including Cloudflare, Akamai, and PerimeterX, using TLS impersonation, browser automation, and proxy management.\n\n• Advanced proficiency in Python or Go.\n\n• Extensive experience with browser automation and scraping frameworks such as Playwright, Puppeteer, Scrapy, or Selenium.\n\n• Practical knowledge of distributed systems and task queues, including Temporal, Ray, Kafka, and Redis.\n\n• Strong SQL skills and experience with modern analytical data lakes and data warehouses.\n\n• Ability to design scalable, fault-tolerant systems and troubleshoot complex data ingestion challenges.\n\nPreferred Qualifications\n\n• Experience extracting short-form video content and user metadata from TikTok, Instagram, and YouTube.\n\n• Experience integrating scraping outputs with vector databases and real-time AI processing queues.\n\nBenefits\n\n• Fully remote work arrangement.\n\n• Full-time employment.\n\n• Salary, healthcare coverage, paid leave, and additional benefits are not specified in the provided job description.\n\nHow Jobgether Works\n\nWe use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.\n\nWe appreciate your interest and wish you the best!\n\nWhy Apply Through Jobgether?\n\nData Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DUinPtetoIUXnqkbdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "UinPtetoIUXnqkbdAAAAAA=="
+      },
+      {
+        "job_id": "RGlPNWFuYWowV3h0OFNzbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGhJVVVkbWJ6SnZWM0p5ZEc5VU9Gb3dlRFJmZFUxVFNERk9hMnhFY1VJek9FUjNhbUZ5UlVkcFRUWnJSa05hVEY5U1MxaHFTVVkzZFROd1ZWTlFjQzB0TVRoR1MzTkViVEV5U25aSFNVUjBNbmMyY0cxb2VGVXhlVEl0UzNSSWJVMTRjR1Y1TkdSUldUTk1aVU15UWtKcFFrVTBVV1F6VGxkNFltWkxjVzFJYjFRMlZWVVNGMFJHZG05aGRXbHBRblpQTnpRdFJWQXhVRzF6TWxGakdpSkJTRTR3UlRkSFVGaGFNMTg0WmpOeldYVkpRVUUwVVhwaWNVUndRMVYzUjJOQg",
+        "job_title": "Senior Data Science & AI Solutions Lead",
+        "employer_name": "Ma'aden Aluminium Company (MAC)",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-science-ai-solutions-lead--medina--ecdbbd69659b8a6d4c65489c5f4bdc83d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-science-ai-solutions-lead--medina--ecdbbd69659b8a6d4c65489c5f4bdc83d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Ma'aden Aluminium Company in Medina seeks a lead Data Science & Analytics professional in the Agentic AI domain to translate business problems into scalable analytical solutions, develop AI-enabled insights, predictive models, and decision intelligence products.\n\nYou will collaborate with AI engineers, data engineers, and business stakeholders to embed analytics into autonomous workflows while ensuring transparency, governance, and measurable business impact.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DDiO5anaj0Wxt8SslAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "DiO5anaj0Wxt8SslAAAAAA=="
+      },
+      {
+        "job_id": "Vll0MjRXR2JrSFlMdDg4eEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3Q0UXpGQ2RGWkpWbEl6UVRsUlgwRm9OR2RyTVZkbVkwd3liWGRoYzNCME0wb3laVzlrTVd0TGJXaGxiRU5KZEdOTWIwRmpRMGRvY0doUWFWTlJObUp2UlVkRGJqaFJSRWMzUzJGSlpXZHpSMUpJWDJGV1EwUjZiRlZhTmxacU4zVktNbEV5Vm5GelRVbHlWVmxqZWtoWFFsaGhWMXBSV0dGRVUzTlpjbUZVY0c5amVGSVNGMFJHZG05aGRXbHBRblpQTnpRdFJWQXhVRzF6TWxGakdpSkJTRTR3UlRkSFRWUTJhMk5VT0ZKNk1YbzJlVEJrTVRReGNGcHJkR0pWZEc5Qg",
+        "job_title": "Semantic Layer / Data Mart",
+        "employer_name": "Penta Consulting Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pentaconsulting.com&size=128",
+        "employer_website": "https://www.pentaconsulting.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-6028526110609621988",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-6028526110609621988",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "**Teradata Data Mart & Semantic Layer Developer****Location:** Saudi Arabia (REMOTE)**Contract Type:** Contract**Industry:** Banking / Financial Services**Overview**We are seeking an experienced Teradata Data Mart & Semantic Layer Developer to join a large-scale banking and financial services programme. The successful candidate will play a key role in designing, developing, and enhancing semantic layer and data mart solutions within a Teradata environment, supporting critical reporting, analytics, and business intelligence initiatives.**Key Responsibilities*** Design, develop, and maintain Semantic Layer and Data Mart solutions within Teradata environments.* Translate business and functional requirements into scalable data models and reporting structures.* Develop, optimise, and troubleshoot complex SQL queries and Teradata BTEQ scripts.* Collaborate with business stakeholders to understand data requirements and deliver effective data solutions.* Support the development and enhancement of core banking and financial reporting data models.* Ensure data quality, consistency, and adherence to enterprise data governance standards.* Work closely with cross-functional teams including Data Engineering, BI, Analytics, and Business teams.**Required Skills & Experience*** Minimum 4+ years' experience in Semantic Layer and Data Mart development within Teradata projects.* Strong understanding of Core Banking Data Models and Financial Services Data Models (FSDM).* Advanced expertise in SQL development and Teradata/BTEQ scripting.* Proven ability to analyse, interpret, and translate complex business requirements into technical solutions.* Strong understanding of business processes and data requirements within the financial services and banking sector.* Experience working in enterprise-scale data warehouse and analytics environments.* Excellent communication and stakeholder management skills.**Preferred Experience*** Previous experience delivering data solutions for banking or financial institutions.* Exposure to enterprise data warehousing, reporting, and business intelligence platforms.* Experience working in Agile delivery environments.If you are an experienced Teradata professional with strong banking domain knowledge and a passion for delivering high-quality data solutions, we would love to hear from you.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٥ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "مكة     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "مكة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.424096799999997,
+        "job_longitude": 39.817336399999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVYt24WGbkHYLt88xAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VYt24WGbkHYLt88xAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "applied scientist",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "7a9fd028-7740-4c2c-8861-cca0100c8820",
+  "parameters": {
+    "query": "applied scientist in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "QVlCYmotLWEzNTN0Sml6cUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUZvY2swMWRGcHFWbTlXZFU0NFNGZG1kVW93YVdZM04ydHlTVzVGWDJOd2RHUjNieTFQWlZaa2FIWjJTazVRWTI5b1pWWkJhVTlGWWkxSGNVbDZXR281WmpkR1VFcE1lV1phV205dVlYVlBjSHBPUmxobFMyNHhXVmQ0ZFhGdWVWQmxPSE5vV25kc01IRXpibGxWY2w5U2VFNUphbE5hV1hkTlprUk9Uak5GWmtOdmRGRVNGMm95YW05aGRFZHZTbU5MV0doMlkxQjZURkI2Y1VGdkdpSkJTRTR3UlRkR1MwSnVkRTFHVG5rMVEyeFVNSFkxY1VaeVFteFljV3B4YjFobg",
+        "job_title": "Research Scientist - Applied Research Center for Environment & Marine Studies - RI",
+        "employer_name": "King Fahd University of Petroleum and Minerals",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKB32rSbjlTuT0RWLgpbQ0yzGOpgTUNtg8MRt&s=0",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/research-scientist-applied-research-center-for-environment-marine-studies-ri-74065319/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/research-scientist-applied-research-center-for-environment-marine-studies-ri-74065319/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "The Center for Environment & Marine Studies at\nKFUPM\nis seeking qualified researchers to fill a research scientist position. The potential candidate must hold a Ph.D. degree in Chemistry with experience in Analytical and Environmental Chemistry. Besides, they must utilize that experiment in the environmental monitoring and in the determination of hazardous contaminants such as\nTPH\n(Total Petroleum Hydrocarbon),\nPAH\n(Polycyclic Aromatic Hydrocarbon), polychlorinated, and\nBTEX\n(benzene, ethylbenzene, and toluene) in water, sediment and biota samples using different analytical instruments such as GC-MS,\nHPLC\nand LC-MS.\nJob Responsibility:\n· Perform samples analysis for quantification of different environmental pollutants using the most common analytical techniques GC-\nFID\n, GC-MS,\nHPLC\nand LC-MS.\n· Train joiner chemists on the advanced analytical techniques.\n· Conduct basic and applied research related to water treatment, analytical method development and environmental monitoring.\n· Publish findings in reputable peer reviewed journals.\n· Write research proposals.\nCompensation & Benefits:\nCompetitive salary based on qualifications and experience. The appointment includes the following benefits according to the university policy.\n1. Tax free salary.\n2. Free furnished air-conditioned on-campus housing unit with free essential utilities and maintenance.\n3. Air ticket/s to Dhahran on appointment for family members up to four persons.\n4. Final repatriation air ticket/s for family members up to four persons.\n5. 30 days of paid vacation.\n6. Assistance with local tuition fees for school-aged dependent children.\n7. Transportation allowance\n8. Medical insurance\n9. End-of-service gratuity after two (2) years of continuous service.\nThe\nKFUPM\ncampus has a range of facilities including a medical and dental clinic, health club with swimming pool, an extensive library, computing, research\nQualifications:\n· PhD degree in Analytical Chemistry.\n· Has an experience in a research centers similar to the Center for Environment & Marine Studies whose working in the environmental monitoring and in the determination of hazardous contaminants such as\nTPH\n(Total Petroleum Hydrocarbon),\nPAH\n(Polycyclic Aromatic Hydrocarbon), polychlorinated, and\nBTEX\n(benzene, ethylbenzene, and toluene) in water, sediment and biota samples.\n· Experience in Analytical instruments such as GC-MS,\nHPLC\nand LC-MS.\n· Published a good number of articles in reputable journals\n· Ability to work with interdisciplinary research groups.\nSpecial Instructions to Applicants:\n1. Applications are invited for faculty positions as soon as possible at King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.\n2. Applicants must be fluent in English as it is the medium of instruction in the University.\n3. A good track record of research and of handling projects independently.",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DAYBbj--a353tJizqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "AYBbj--a353tJizqAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

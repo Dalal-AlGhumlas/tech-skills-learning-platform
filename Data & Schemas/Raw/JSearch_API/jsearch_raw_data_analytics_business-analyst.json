@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "business analyst"
+  },
+  "status": "OK",
+  "request_id": "469c731e-3938-40a9-8523-ac8db88b7c86",
+  "parameters": {
+    "query": "business analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "dTBfdGNoQzRZYkpFb1M3S0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUZYU0dReVRFeDFUVW81YlRGTGNERjBRalZzVVd4Q05sVTVUVVYwYmxoU1pqaHNWVFJaY1V4c2JtVjVVMkowV1ZKd2RuQXRPRmRwYTJGV1JISlRObmt6YVVGTmFVRTFTVVpaVmtsWkxYY3lVV1ZYY0dwQlJqazBjRkJ6WTAwdFF6YzJjRWgxU1ZaMlFrZE1jbDlXZDI1d2NEaEpRbG8zU1RORk1WSllVbVJpZFRoZllsQVNGemhzY205aGMxOUZTWEpIWW5ObFRWQnNZazlWTmtGbkdpSkJTRTR3UlRkSWFFcEJORXMxUVU5SFZHUlRZMWxEV0RkcWJVbFlXVEYwY2twQg",
+        "job_title": "Senior Business Analyst (SAUDI NATIONAL)",
+        "employer_name": "Dar AlBalad",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://addar-bs.com&size=128",
+        "employer_website": "https://addar-bs.com",
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/senior-business-analyst-saudi-national-75343131/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/senior-business-analyst-saudi-national-75343131/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "Senior Business Analyst – SAUDI NATIONAL ONLY\n\nLocation: Riyadh, Saudi Arabia\n\nMandatory Requirements\n\n• Bachelor’s degree in Information Systems, IT, Computer Science, Business, Engineering, or a related field.\n\n• At least 7 years of business analysis experience on digital platform or software projects.\n\n• At least 3 years of experience with Saudi government digital services, such as e-services, licensing and permits, grant or subsidy programs, or payments.\n\n• Experience delivering at least two workflow-heavy platforms from requirements through UAT to go-live. At least one must have integrated with government services such as Nafath, Absher, SADAD, or ZATCA.\n\n• Experience preparing client-approved BRDs and FRDs, along with agile user stories and acceptance criteria.\n\n• Strong BPMN 2.0 modeling and business-rules documentation skills.\n\n• Experience defining financial flows, including fees, payments, payouts, and reconciliation.\n\n• Fluency in spoken and written Arabic and English, including leading workshops with senior officials.\n\nPreferred Qualifications\n\n• Experience with grant or incentive programs, licensing regulators, marketplaces, or CRM and service-desk projects.\n\n• SAFe experience or certification such as IIBA CCBA/CBAP, IREB CPRE, or SAFe POPM.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٢ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Du0_tchC4YbJEoS7KAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "u0_tchC4YbJEoS7KAAAAAA=="
+      },
+      {
+        "job_id": "S1p6RXd5cngtTFJHWm84MUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbU5sY0d0cFMwMWtWVWRmUWtWZk9GaHNNMTlZV2pJME9UQnRNSEkxY3pKcFdURkNhRGMzYzFaR1Z6TjZiakEwZEVKWk5HVlJabTR6VVRoUlNGRnVRbEF6YUhOaGRVMUdjazFsU0MxalRqbFdVbHB1Vm1aVmJVTjZZMnBJWWtaNFNGSnVVVXN5TFVoQmFqZEpkMDVIZDNKc1JFOTBURE00ZG5OalN6ZEpjM0p4WDBWUlVua1NGemhzY205aGMxOUZTWEpIWW5ObFRWQnNZazlWTmtGbkdpSkJTRTR3UlRkRk1IQTJTVkUwZDJnNGNXbE9NbGN0T1VRelJqZG9UM0UyTFRWbg",
+        "job_title": "Technical Business Analyst - 12 months contract",
+        "employer_name": "Quantum Talent Group",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://quantumtalent.io&size=128",
+        "employer_website": "https://www.quantumtalent.io",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/technical-business-analyst-12-months-contract-quantum-talent-group-saudi-arabia-69666688",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/technical-business-analyst-12-months-contract-quantum-talent-group-saudi-arabia-69666688",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "Our client is looking for an experienced Technical Business Analyst with strong expertise in Card Management Systems and the Cards & Payments industry. The successful candidate will work closely with business and technical teams to support the implementation, integration and enhancement of a Commercial Cards platform.\n\nKey Responsibilities\n• Gather business requirements and translate them into detailed technical specifications.\n• Prepare BRDs, FRDs, TRDs and system integration documentation.\n• Work closely with product, development and operations teams to ensure successful delivery.\n• Support production issues, system troubleshooting and performance improvements.\n• Assist with card platform configuration, integration and corporate customer onboarding.\n• Ensure solutions align with business requirements and industry standards.\n\nRequirements\n• 10+ years of experience as a Business Analyst in Banking, Cards & Payments.\n• Hands-on experience with Card Management Systems such as FIS Cortex, Network International, TSYS or similar platforms.\n• Strong knowledge of Commercial Cards, including Corporate Cards, Virtual Cards, Travel Cards and Central Travel Accounts (CTA).\n• Experience in card issuing, processing, payment systems and API integrations.\n• Strong technical documentation skills, including BRDs, FRDs, TRDs and system specifications.\n• Experience with Visa/Mastercard payment schemes and production support.\n• Excellent communication, analytical and stakeholder management skills.\n\nPreference will be given to candidates currently based in Saudi Arabia, ideally with a transferable Iqama. Immediate joiners or candidates with a short notice period are highly preferred.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKZzEwyrx-LRGZo81AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KZzEwyrx-LRGZo81AAAAAA=="
+      },
+      {
+        "job_id": "UWFSaHpPNk1mSlFaamo0M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1Z4T1cxVVpGVjNRemhrWjA1RVUwZHdiMFpEVlZoaFkyMW1NbGhRYUhab2NHaHlheTE0TVZWeU1FWnhjM0oxVWpoTGJuWnhNSEJJVldseFVWZFNTVTQzY0hCdlRWbExialYwYzJsRlVGOVZia0ZwTXkxdkxVeENXa2x0Y0ZGZlMwSTBPVzk0Y1U1TU9DMVdlak5mZGxsVU1sUkNhV2RJU1hKblFXTmFiVEU1YTJOUWNVZ1NGemhzY205aGMxOUZTWEpIWW5ObFRWQnNZazlWTmtGbkdpSkJTRTR3UlRkR1J6TkNabFF0V0hjd2NIbFRYM3BtYjFvMmVHNUZjbk13WXpaMw",
+        "job_title": "Enterprise Platforms Analyst",
+        "employer_name": "Saudi Air Navigation Services",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fa-esti-saasfaprod1.fa.ocs.oraclecloud.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Fa-Esti-Saasfaprod1.Fa.ocs.oraclecloud.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://fa-esti-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1962?utm_medium=search+engine&utm_source=google",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://fa-esti-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1962?utm_medium=search+engine&utm_source=google",
+            "is_direct": false,
+            "publisher": "Fa-Esti-Saasfaprod1.Fa.ocs.oraclecloud.com"
+          }
+        ],
+        "job_description": "Role Purpose\n\nOwn and operate assigned enterprise platforms, ensuring they are reliable, secure, and business-aligned while translating strategy into delivery and operations , Act as the accountable owner bridging strategy, operations, integration, and stakeholder engagement to maximize platform value.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Fa-Esti-Saasfaprod1.Fa.ocs.oraclecloud.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DQaRhzO6MfJQZjj43AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "QaRhzO6MfJQZjj43AAAAAA=="
+      },
+      {
+        "job_id": "cF83THJMLXRZQUh3QUhHUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1pPVUUxQlZqQk9WamRpTVVwelMyVjVXa2hvTjJGek9XVjFiamhZT1hOcmFsaFlaR3RyYnkxd2FXbzRaemMxTFUxUFRrSlpaMVJtTkhjelVGVnlOMlZ3Um1OcVVUWkdVVVZxVjA5RWVrVnJZME5MY0VkelVGZHhkRk4yZFcxbGVsWmpjVzB5U1ZSUVpYQllWMmhRWW5JNFp6SnRWamMxVlhwMVFsQlJSalZHVW1KTmVYTVNGemhzY205aGMxOUZTWEpIWW5ObFRWQnNZazlWTmtGbkdpSkJTRTR3UlRkRlNUQjNMWHBUU25ZemRFZE1XbXRGV1ZWblFXSnlSMlYzVTFaQg",
+        "job_title": "Lead Business System Analyst",
+        "employer_name": "Aramco",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aramco.jobs&size=128",
+        "employer_website": "https://www.aramco.jobs",
+        "job_publisher": "Aramco | Careers",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.aramco.com/expat_us/job/Lead-Business-System-Analyst/857366523/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.aramco.com/expat_us/job/Lead-Business-System-Analyst/857366523/",
+            "is_direct": false,
+            "publisher": "Aramco | Careers"
+          }
+        ],
+        "job_description": "Aramco energizes the world economy.\n\nAramco occupies a special position in the global energy industry. We are one of the world’s largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.\n\nWith our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.\n\nHeadquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.\n\nWe are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.\n\nOverview\n\nWe are seeking an experienced SAP Central Finance Specialist to join the Digital Finance Transformation Division within the Digital Finance Department. Your primary role, is to play a pivotal part in driving our digital finance transformation initiatives and implementing cutting-edge solutions for Saudi Aramco.\n\nThe Digital Finance Department (DFD) is responsible for coordinating, developing, and managing information systems used in financial accounting, financial planning and forecasting, performance management, treasury, and the full suite of digital solutions for the Finance service line. Our team comprises multidisciplinary professionals with strong functional experience in financial applications and robust IT technical backgrounds.\n\nThe Digital Finance Transformation Division (DFTD) provides program management services for the design, development, testing, and rollout of group finance solutions.\n\nDuties and Responsibilities:\n\nYou will be required to perform the following:\n• Partner with business stakeholders to scope, design, develop, test, and roll out group financial solutions using SAP Central Finance, Group Reporting, performance management, and related business and analytical solutions.\n• Assess SAP Central Finance and Reporting requirements, including financial system landscape assessments, and drive implementation activities.\n• Provide solution architecture expertise and guidance to facilitate the design and implementation of crucial data mappings, process harmonization, and configuration of CFIN and Group Reporting functionality.\n• Provide expertise and support for the design and oversight of Finance master data objects through the implementation of SAP Master Data Governance (MDG).\n• Coordinate the CFIN data migration strategy with data replication and data reconciliation using Application Interface Framework (AIF) and relevant analysis tools.\n• Coordinate with affiliate organizations to ensure infrastructure readiness, address integration requirements, troubleshoot issues, and enable data exchange within the group ecosystem.\n• Provide expertise and support for the design and implementation of performance reporting and financial analytics, specifically, to drive Actual/Plan/Forecast alignment.\n• Analyze and resolve complex system issues, collaborating with the IT team for technical escalation when needed.\n• Communicate concepts, artifacts, and findings effectively to technical and business audience.\n• Document processes and maintain user guides for efficient knowledge transfer within the team.\n• Design comprehensive reports and consolidated financial statements according to IFRS standards or GAAP, if required.\n• Participate in system upgrades, providing expertise and ensuring smooth transitions.\n• Provide ongoing support and troubleshooting for SAP Central Finance and Group Reporting solutions to ensure smooth transaction processing, data accuracy, and continuous improvements.\n• Obtain necessary technology certifications to stay current with industry trends and best practices.\n\nMinimum Requirements\n\nAs the successful candidate, you will hold a Bachelor’s degree in Accounting, Finance, MIS, Information Technology, or a related field from a recognized and approved program. Possession of an advanced business degree, such as an MBA, and/or relevant professional financial certifications (e.g., CMA, CFA, CPA) is preferred, but not required. Any attained professional SAP certifications, such as SAP Certified Consultant in Financial Applications, SAP Central Finance, SAP Group Reporting, and related areas, are highly valuable and will strengthen your application.\n\nYou will have up to ten years of experience in the implementation of SAP-based financial solutions, with at least four years of specific experience in solutions related to SAP Central Finance and Group Reporting. Additionally, you will have demonstrated experience, preferably across multiple companies, in implementing complex financial systems.\n\nMoreover, you will be able to demonstrate a thorough understanding of the various aspects of implementing financial systems, including the articulation and measurement of benefits, evaluation of design and execution options, identification of critical success factors, and assessment of project risks.\n\nWork Location and Work Schedule\n\nWork Location: Within Saudi Arabia – To be specified in Job offer\n\nWork Schedule: Full Time - To be specified in Job offer\n\nJob Posting Duration\n\nJob posting start date: 09/06/2026\n\nJob posting end date: 12/31/2026\n\nWorking environment\n\nOur high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.\n\nAt Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.\n\nWe have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Aramco | Careers",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dp_7LrL-tYAHwAHGRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "p_7LrL-tYAHwAHGRAAAAAA=="
+      },
+      {
+        "job_id": "T09BZzAySGNLLVU0WmFCZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamRHTVVsTFZEWnNla1pHYWxSV1pVcEVTbHBzYW5CcFgyTmpTMkYyZEZsSmNXNVpVekF0VTIxeVJFOU9ZVlpFYmxaRlZpMXBhRkUyVTFkMFRtSlZTRzlMY2s5bGMzcE1PVEZLYkhWbU1VaG9NVXBKTTBoelpIYzFSVGRFYUdkMFFWUk1RMU41UVRkcFJVcHlkelV4VkU1U0xXVnBRbnBXZVRGV1ZHMWpObEp6ZG1KblVFRVNGemhzY205aGMxOUZTWEpIWW5ObFRWQnNZazlWTmtGbkdpSkJTRTR3UlRkSWEwTTBSMTl3UkhFelJHeHdZbVV3UzNocGVuRllaa0Z2UW1GQg",
+        "job_title": "Graduate Business Analyst | Mentorship & Training (GCC)",
+        "employer_name": "Consulting, Inc.",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fticonsulting.com&size=128",
+        "employer_website": "https://www.fticonsulting.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/graduate-business-analyst-mentorship-training-gcc--riyadh--ecb08ead5eaa20d333814d5a875a61957",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/graduate-business-analyst-mentorship-training-gcc--riyadh--ecb08ead5eaa20d333814d5a875a61957",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "FTI Consulting is seeking a proactive graduate for its Business Analyst - Graduate Program in Saudi Arabia. You will work within the Strategy & Transformation team, gaining exposure to high-impact recommendations and hands-on client work from day one.\n\nYou will be mentored by experienced consultants, performing in-depth analyses, preparing presentations, and collaborating across small teams to deliver practical solutions and measurable client value.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DOOAg02HcK-U4ZaBeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "OOAg02HcK-U4ZaBeAAAAAA=="
+      },
+      {
+        "job_id": "RmVCYWRYVk5rcDdXd0hZZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXblJZTFRNeVNuUjBkMjh5TW1VMVJFMVBiV0ZSUmt0c1IwTlRXV0pLVm1sZmRtNDRNMlZwVjNsRWVWcElURk5LU0dsa1ZYRnliVFZGUmw5QlNEaDJjWHB6ZFcxVWRuaFJObXRYVlhwb1UxbFFkMnh2UW5Cbk9DMW1hVTFMTVVSQk9YbG5SamhJUW5rM2VFRllOVzFEWlZkS1NFTlNOM3AzTVZKSU4wcG5kRkpYVXpOVmVVZ1NGemhzY205aGMxOUZTWEpIWW5ObFRWQnNZazlWTmtGbkdpSkJTRTR3UlRkRlIxbEhRa2d4Y1VreVgyYzJVazF2UkhObFZWWjVlRWRrYTNsQg",
+        "job_title": "Business Analyst",
+        "employer_name": "Eram Talent",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://eramtalent.com&size=128",
+        "employer_website": "https://eramtalent.com",
+        "job_publisher": "Workable Jobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://apply.workable.com/eramtalent-1/j/3EAD0A0082/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://apply.workable.com/eramtalent-1/j/3EAD0A0082/",
+            "is_direct": false,
+            "publisher": "Workable Jobs"
+          }
+        ],
+        "job_description": "We are seeking a Business Analyst with experience in Procurement, Supply Chain, or Contract Administration to join a leading organization in Saudi Arabia.\n\nWe are seeking a Business Analyst with experience in Procurement, Supply Chain, or Contract Administration to join a leading organization in Saudi Arabia.\nKey Responsibilities\n\n• Manage procurement activities from Purchase Requisition to PO closure\n• Coordinate with internal stakeholders and suppliers\n• Source, evaluate, and coordinate with vendors\n• Prepare procurement compliance documents, including SSJ & SEF\n• Coordinate supplier registration and required documentation\n• Maintain centralized PO records and tracking\n• Prepare weekly/monthly reports\n• Follow up on POs from issuance through closure\n• Support continuous improvement of procurement workflows and procedures\n\n• Bachelor’s degree in Business Administration or a related field\n• Minimum 2 years of experience in Procurement, Supply Chain, or Contract Administration\n• Experience with PRs, POs, supplier coordination and procurement processes\n• Strong stakeholder management and communication skills\n• Excellent organization, time management, and attention to detail\n• Proficiency in MS Office and procurement systems\n• Strong problem-solving skills and ability to work under pressure",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٦ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "ثول     •  عبر Workable Jobs",
+        "job_city": "ثول",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 22.2756562,
+        "job_longitude": 39.113275699999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DFeBadXVNkp7WwHYgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "FeBadXVNkp7WwHYgAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlWXJrX2ZGbVdvVk5iZHdZVkNOY2JyUlo2V09SWl9mYjlZc1l1M2E2X0ktbWxNaHZSSFBiVUdOZ05SMnJSUllhZVotMWVEcFRKTDZLV3hyQ2VZOVoxU0tRejREVnJjc0RDcTIzOE9ZZk5ER09hd0VCM0g4N25PMHVGNks5aW5CN1RydG8xT29YOUNENG8xQVl6a2wzSlRMeVJ0ZlZrQ1lFT3hoTnI1VG1IZFlsZXN2TGwxVU0zVFFuUUtBRVVEM0RsNHVSSE1Ea0ZFZi1Fd0xNY21qbU1DTU9ZNkRvYWNOOW9fNXFjVDk4b3M4RFFPZWFsaFplWEtveF84c2U4d3Fyem1vT1VIbkx6aGRVR3NKZ3B4QlRXTXFKbGdENVN2SmYzdGk3T3FpclItS1hKckkwUUtjcGNuRUk2U2dzYVc1NEozNTQ3OEo2RHYxQWQxNUxlRU5CVUtuTUhLelhIXzJVdzcwaW9Db1E3ZGFhMHVHZlIzR0RVd2t4QVhkOXpFUDdlSVUxZEZleTVpNWxaWlhGMlhTTEhBLXBFbVAxWHQ3anhYOWN2c1FMZkp0bVB3c2tROGo3SEgwYVFnaU5hTkdHU1VZUkQ1elZiZFZDcXM1WFEyM1VDcEg3aVRxMDBhaFdFMzZ1dDA5QndobmcwOG12UEkyVjdITnpxaGtWRlIyRWtZclVSTjhDM1lOQ3ExSEU5U3NudXQyUlpLQkV3Ehc4bHJvYXNfRUlyR2JzZU1QbGJPVTZBZxoiQUhOMEU3RlRUTzM3OVMxUzBCNHhzTEw3eXpkWUhITEFzQQ"
+  }
+}

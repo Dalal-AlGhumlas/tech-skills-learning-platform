@@ -1,0 +1,428 @@
+{
+  "_meta": {
+    "specialization": "uiux_technical_products",
+    "query": "interaction designer"
+  },
+  "status": "OK",
+  "request_id": "955d6f65-0e0a-4dce-b66b-6de85a967cfb",
+  "parameters": {
+    "query": "interaction designer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "TVd3WTVlQmNNb05hZTB1RUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazlJVjJWWGNrdFBjVU51Ym5wdmVURnlibFpxYUVJd1RXOXVSMVozTVZScE4yMWhaVlZyYW01WldWWkNMVVZuUlUxVmExZDRSbFppTkdSVlJteFpYMVUxWkZOR1JUQTJORXA0VGkwM1IwaHZUSE5vVW1sblRFUjNOR2x5UVMxSWREWnpWME5qZDNFdFkyMVBiMHhtZGxkcGNXNXFNR2RmZFMxQldrOU5VRXh1Y0U5cmFHSVNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkSVZFdFNiMmxJYjBScVgwbEZXbFkxZVRORmVrWmFTVUZMVTNKUg",
+        "job_title": "AI Solutions UI/UX Designer - Onsite in Saudi Arabia",
+        "employer_name": "Skatch",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sketch.com&size=128",
+        "employer_website": "https://www.sketch.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-6806697488888426214",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-6806697488888426214",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Skatch in Saudi Arabia is seeking an experienced UX/UI designer for on-site work, focusing on AI-driven solutions. You will conduct user research, design information architecture, and create intuitive interfaces that scale across devices.\n\nJoin a collaborative team to build wireframes and high-fidelity prototypes, contribute to design systems, and craft visuals that align with brand goals. Portfolio required for consideration.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DMWwY5eBcMoNae0uEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "MWwY5eBcMoNae0uEAAAAAA=="
+      },
+      {
+        "job_id": "d29JVjUybUFnN29hc3djdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlJPUm1Fek1XMU9aR1UyVXpScmRtTm9ZV3hWT0dWTVJraENibEJSVERsdWFHUnpNbkpTV2pGQ2REWjNUVFJxVUhGU056QnRWVmxqTlVNMVpERkliMlExY1c1dVYwcElNWEoxV1ZaeFZGcGZjMUkwYzJGUVdtcEdWbG81UWxsT1duVkhWRVJQVmxOMlFuRXhPVlJRTXpOWlVYZGZTSE5WVFhKNlZFaEpWMGxqT0dKRmJFWVNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkSFZIUmhiR0YwVWxaMmFIaGFhMHAxVkdGRFZsUjVOMDUzTjB4bg",
+        "job_title": "AI Solutions UI/UX Designer - Onsite in Saudi Arabia",
+        "employer_name": "Skatch",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sketch.com&size=128",
+        "employer_website": "https://www.sketch.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/3342483807272960000",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/3342483807272960000",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Skatch in Saudi Arabia is seeking an experienced UX/UI designer for on-site work, focusing on AI-driven solutions. You will conduct user research, design information architecture, and create intuitive interfaces that scale across devices.\nJoin a collaborative team to build wireframes and high-fidelity prototypes, contribute to design systems, and craft visuals that align with brand goals. Portfolio required for consideration.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DwoIV52mAg7oaswcvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "woIV52mAg7oaswcvAAAAAA=="
+      },
+      {
+        "job_id": "Z193RGJoSkJhT1c5ZzgwdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVZOWjBOeGNreHlUM2x5YjFONWRtMW9SRzFmZVZGUFVqVnpNRjgyVkdOZllsOXRWRmx0VjFkTlpGWjJkVWN0VmtGRVYwMVJUMUYyVWxsTk5qUXlWVkZWVHpWdldFdGFNbEptTmtKRlVuTnVaMmRsV2xCcmRsTnRkRmhNUjFjNVZrMVlVMHByVWxCdVZrdHBSMXBNYWtOUlMzQnJVR2wzZDFkRllsQm5VMnN3VGxaUVEyZ1NGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkSUxYVjBTWGxrZFU5RldWZFBjbkJIV1RJNVNqWnpUVFpXY205Mw",
+        "job_title": "Voyage UX Designer: Shape Seamless Travel Experiences",
+        "employer_name": "Almosafer",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://almosafer.com&size=128",
+        "employer_website": "https://www.almosafer.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/voyage-ux-designer-shape-seamless-travel-experiences--riyadh--e8b181e733efcb155a4dedfec1287cb8f",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/voyage-ux-designer-shape-seamless-travel-experiences--riyadh--e8b181e733efcb155a4dedfec1287cb8f",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Almosafer is seeking a Product Designer to join our team focusing on the Digital Consumer Travel experience. In this role, you will shape how customers book and manage a diverse range of travel products across web and mobile, collaborating with engineers, product managers, and other designers to turn problems into meaningful experiences.\n\nYou will base designs on customer needs and business goals, conduct research, create concepts and prototypes, and run experiments to validate ideas for elegant",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dg_wDbhJBaOW9g80vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "g_wDbhJBaOW9g80vAAAAAA=="
+      },
+      {
+        "job_id": "SjNhZUgtbUc0MnlWM1ZCSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0ptWVZkbVpGazVRalUwZFhBMFkxOW5TMDV6YjI1c1RHZEpXREJDVGxoaU9EQndZV00wWmxvNVozbE9jR05uV2pjdFFUbHJNa1Z3UjJZNFN6UnRaVjgwVlhJdFpGRmhUMU5zZFZOVVQwNUdXVXgzZFhoWE1FMU1OMmRFVUVkUlVHNDBjM1o1VUZjeE9GbGtkV2t4T0VwMWEyTkJPRkZLUmtwRWMxTnVkMHR1VW1GYU9WQVNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkRldFWklTMUpWYUdkV2VEVlNTbmhCYmt4a1dtdHRSbWxZYTNwQg",
+        "job_title": "Part-Time UX Designer — Riyadh, Creative & Impactful",
+        "employer_name": "Jing Hau",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/part-time-ux-designer-riyadh-creative-impactful--riyadh--e47a77ca179ba5dd81accfb3a48fa5e4d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/part-time-ux-designer-riyadh-creative-impactful--riyadh--e47a77ca179ba5dd81accfb3a48fa5e4d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Jing Hau in Riyadh is seeking a talented UX Designer to join our team. You will design and improve user experiences across our digital platforms, collaborating with product managers, developers, and UI designers.\n\nResponsibilities include user research, creating wireframes, prototypes, and mockups, conducting usability tests, and staying current with industry trends. A strong portfolio and proficiency with Sketch, Adobe XD or Figma are essential; knowledge of HTML/CSS is a plus.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DJ3aeH-mG42yV3VBJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "J3aeH-mG42yV3VBJAAAAAA=="
+      },
+      {
+        "job_id": "b3lsR1V1ZUlPVkpwMmlRQUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVzg0TlZsV2VWUlRlR0Z0TmxGVVZGTlJlR3BNWm5kRU0zUkhaVzFRWjA5ak5YTlRaRzFZV1ZWa1RrTXhlVVZOVTNKalQydFFZbEJtVWpWbk5rbEJUMFZUUjNOdFkyRjVSbXBrWjBkeFIxSlFSbk5uWm10b1VGb3pTa0pDVlV0M04yOXpUelZ4WDNWWExYSjFRM1pqWWs5c1RYUnVkVTk0YjBsVE0wWTBaM1o1V1cxdVVHVVNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkSVgwb3dXbm8yY0dac2VWcERjRjlYYTFJeFRIYzVTSFV5ZEVObg",
+        "job_title": "Principal Product Designer",
+        "employer_name": "Noon Academy",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noonacademy.com&size=128",
+        "employer_website": "https://www.noonacademy.com",
+        "job_publisher": "Noon Academy Career Site",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.learnatnoon.com/jobs/8527951-principal-product-designer",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.learnatnoon.com/jobs/8527951-principal-product-designer",
+            "is_direct": false,
+            "publisher": "Noon Academy Career Site"
+          }
+        ],
+        "job_description": "About Noon\nNoon is a Saudi EdTech company. Noon Track runs inside schools: a hybrid programme that prepares students for Qudrat (قدرات) and Tahsili (تحصيلي), the national university-admission exams. Our students are 15 to 17 years old. Noon is becoming an AI-native company, department by department, and the number of schools we serve is growing. We believe every student deserves world-class teachers. And to make it happen, we’re reimagining everything about education: from cutting-edge tech to peer learning and physical spaces that spark curiosity.\n• Hear about our vision directly from our CEO here.\n\n• Learn more about us [here]\n\nThe role\nYou will be the one designer who owns the student experience. Primarily that means the student app: where students study, work with an AI tutor, answer questions, and take part in activities, including games and head-to-head duels on a topic. You will also shape parts of the live classroom experience.\nThis is a Senior/Principal-level individual contributor Product Designer role. There is no design team underneath you and no manager drawing your roadmap. You take a problem from the first student conversation to the shipped screen, and you decide what to look at next.\nWhy this role\n• One owner of the whole student experience, with a direct line to leadership.\n\n• Speed: with AI in the workflow, ideas go from research to release in days, not quarters.\n\n• An experimentation practice being built from the ground up, with you shaping it.\n\n• A company expanding into more schools, with a long-term ambition to match.\n\nWhat you will do\n• Spend real time with students in Saudi schools. Interviews, focus groups, classroom observation. Turn what you hear into design decisions, and go back to check them.\n\n• Design for Saudi Arabia, not for the generic \"best practice\" app. Patterns that work in London or San Francisco often fail here. You know why, and you can show it in your work.\n\n• Own the student app end to end. Flows, information architecture, prototypes, final UI, and the handover to engineering.\n\n• Design activities students want to come back to, games and duels included, with learning as the gate: an activity that is more fun but teaches less is a regression.\n\n• Run experiments. State a hypothesis, build the variants, agree the metric, and read the result honestly. You will help build the experimentation practice, not just use it.\n\n• Work AI-native. Use AI tools for generation, prototyping and production so your time goes to research and judgement. We care about the quality of your decisions, not how many pixels you pushed by hand.\n\n• Work directly with the product manager and engineers. Short loops, fast releases, no layers.\n\nAbout you (To be successful in this role, you should have):\n• Roughly 5 years of experience in UX, product design experience. We care less about the number and more about how many people you have interviewed and what you did with it.\n\n• A research practice you can describe in detail: how you recruit, what you ask, how you synthesise, how it reached the product.\n\n• A portfolio of projects that demonstrate your creativity and delivery of results through great consumer-facing mobile-first experiences\n\n• Proficiency in using various tools and techniques to create and communicate your design ideas, such as sketches, wireframes, mockups, prototypes, etc.\n\n• Experience in conducting user research and testing in different contexts and cultures, using both qualitative and quantitative methods\n\n• A strong sense of empathy, curiosity, and creativity, and a willingness to learn and experiment\n\nNice to have:\n• Game design or gaming industry experience.\n\n• Large-scale B2C or e-commerce experience, where A/B tests and small-metric optimisation were the daily rhythm.\n\n• Enough front-end to prototype in code with AI assistance.\n\nWhy Noon?\n• Real impact — your work directly affects how thousands of students learn every day.\n\n• Speed and autonomy — small team, big problems, zero bureaucracy.\n\n• AI-native culture — we don't just talk about AI, we build with it daily.\n\n• Well-funded — Series B closed, substantial recurring revenue, and accelerating.\n\n• Mission that matters — every student deserves world-class teachers. We're making it happen.\n\nBenefits\nIn addition to a competitive base salary, we offer:\n• Performance-based bonus\n\n• 21 days of annual leave\n\n• Full premium Medical coverage, including Family Dependent",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٢ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Noon Academy Career Site",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoylGUueIOVJp2iQAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "oylGUueIOVJp2iQAAAAAAA=="
+      },
+      {
+        "job_id": "eTE0dnZlZE9uV1V0QVdrVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTlVUWpKRVRqWnhNVkk0V0hWM2JHRklhbUZRT1dWMVZUWXdXVVpzWm5CS1owVXRPVmsyVkdkRGFVeEVaMnBzTjBkYVgyZGhXR1JPUVMxUE4zaEhOMHRQTmtwTE5YQTVha2h4TlZKaVJ5MXpOVnA2VTIweFpWcHNTVGg0ZVhSNk5HVlZPRlJ2ZWw5M1lVZDFjbE10TFZOU2NISnBlVFZJU2s5bWFXdGhSbnBCT0RSbVVHMFNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkSE1FdFNXRXQ1YjFoTmRsZE9jRUZRVkVWeVQwOVdTVTl3UW1GQg",
+        "job_title": "Intermediate UX Designer",
+        "employer_name": "BTranz",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://btranz.com&size=128",
+        "employer_website": "https://www.btranz.com",
+        "job_publisher": "UI/UX Jobs Board",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://uiuxjobsboard.com/job/1644626-intermediate-ux-designer-riyadh-saudi-arabia",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://uiuxjobsboard.com/job/1644626-intermediate-ux-designer-riyadh-saudi-arabia",
+            "is_direct": false,
+            "publisher": "UI/UX Jobs Board"
+          }
+        ],
+        "job_description": "BTranz is hiring a Intermediate UX Designer in Riyadh Saudi Arabia (October 2026). Job DescriptionExperience Requirements:Senior Full Stack Developer: 8–10 Ye",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٣ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر UI/UX Jobs Board",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dy14vvedOnWUtAWkVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "y14vvedOnWUtAWkVAAAAAA=="
+      },
+      {
+        "job_id": "TmFrcEhvU2hVOEFfQWczdUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVVJyUmxCaE5IUTBWekpwVkdWc2NEQTBSVEU0T0hoVGFXeGhTWFJMVDJoSFJuUXlUSFJMZDFvMmFYRmxXamxYVFZoTmJsSklXVU0zZEdwRmJrbE1SMVYwTjJwUFZWbElUVGMyWlZwbVpGTkNSalpKVjBwR1ZFVktNV3hHWXpKbmFtaEhVamx3WkhCR1VIQmFRMDFWYVU5Q1JFNVRhSGhFYzJjMmFrMURha2h4ZUdwTFRrSVNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkRmJrdERaVEJRYVMxWE5WTndUemwyYW1SR1RrZEVSMnRoWDB0Ug",
+        "job_title": "Entry Level UX Designer - Contract Position in Medina, Saudi Arabia",
+        "employer_name": "Jing Hau",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/entry-level-ux-designer-contract-position-in-medina-saudi-arabia--medina--e82df0673bcb6480c5c7328778d37a35a",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/entry-level-ux-designer-contract-position-in-medina-saudi-arabia--medina--e82df0673bcb6480c5c7328778d37a35a",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "UX Designer vacancy in Medina Saudi Arabia\n\nEntry Level UX Designer - Contract Position in Medina, Saudi Arabia\n\nWe are currently seeking a talented and passionate UX Designer to join our team in Medina, Saudi Arabia. This is a contract position with a salary of 1600$ per month and includes accommodation.\n\nAs an entry level UX Designer, you will work closely with our design and development teams to create user-friendly and visually appealing digital products. Your main responsibility will be to design user interfaces and experiences that meet client needs and align with project goals. You will also have the opportunity to gain hands‑on experience in all stages of the design process, from research and ideation to prototyping and testing.\n\nTo excel in this role, you should have a strong understanding of user-centered design principles and be able to translate complex ideas into simple, intuitive designs. As this is an English‑speaking job, fluency in English is required. Preference will be given to Indian candidates who are looking for jobs in Medina or are willing to relocate.\nResponsibilities\n• Conduct user research and gather insights to inform design decisions\n• Create wireframes, prototypes, and mockups for digital products\n• Collaborate with cross‑functional teams to ensure designs meet project requirements\n• Test designs with users and gather feedback for iteration\n• Stay updated on industry trends and best practices in UX design\nRequirements\n• Bachelor's degree in Graphic Design or related field\n• Proven experience with Adobe Creative Suite or other design software\n• Strong portfolio showcasing previous UX design work\n• Excellent communication skills in English, both written and verbal\n• Ability to work independently as well as part of a team\n• Understanding of HTML/CSS is a plus\n\nThis contract position offers a great opportunity for freshers who are looking for an entry-level job in UX design. Our company provides a supportive learning environment where you can grow your skills while working on exciting projects. If you have a passion for creating user-friendly designs and are willing to embrace new challenges, we would love to have you join our team in Medina, Saudi Arabia.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DNakpHoShU8A_Ag3uAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "NakpHoShU8A_Ag3uAAAAAA=="
+      },
+      {
+        "job_id": "azVfVEMwVElDMW9sbDROZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEZYVjJsemVGTTNNelZhY204M2MwMTNkQzEzWWtaVU5WZHNNVmRFUlUwMVExYzVaMWR1U21oSWFWOHlReTF0WDBSb1RVMUZRV2xZUVVoaFNrSmZTMDQwU0U1T1drbFpXVWRXYkRsVloxUTBSSFY1V1dkNE1rWXhWbTVqVDFKWlMwaGxhMnBWWmpRM2FHRjZiRTUyY1ZsWVgzUjZjelZuVW1WalZERlZXVzh0Ym5OUk1uUVNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkSGVHcDZORXhJZDBZeWJIZGpiSEpDVDA4NWVGcHlRMU5mT1dOQg",
+        "job_title": "UI / UX Designer",
+        "employer_name": "Skatch",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sketch.com&size=128",
+        "employer_website": "https://www.sketch.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/6406239422966136832",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/6406239422966136832",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Job Description: Join our partner in Saudi Arabia, a visionary leader crafting innovative technology and AI solutions! We’re recruiting exceptional talent for their on‑site tech team to power transformative projects that redefine the future. If you’re driven by tech and AI, seize this opportunity to thrive in a vibrant, collaborative setting. This is a full‑time onsite opportunity in Saudi Arabia.\nResponsibilities\nConduct user interviews, surveys, and usability testing to understand user needs and preferences.\nAnalyze and interpret research data to inform design decisions.\nDesign the structure and organization of the AI solution, including navigation and information flow.\nCreate wireframes and prototypes to illustrate the user interface.\nDefine and design interactive elements and transitions.\nEnsure a seamless and intuitive user experience through thoughtful interaction design.\nPlan and conduct usability testing sessions to gather feedback on design prototypes.\nIteratively refine designs based on user testing results.\nWork closely with cross‑functional teams, including developers, product owners, and stakeholders.\nCollaborate on the implementation of designs and provide support during development.\nCreate visually appealing and consistent user interfaces based on UX specifications.\nDevelop style guides and design systems to maintain a cohesive look and feel.\nDesign icons, graphics, and other visual elements to enhance the aesthetic appeal of the AI solution.\nEnsure that the visual design aligns with the overall brand and user expectations.\nDesign UI elements that are adaptable to various screen sizes and devices.\nCollaborate with developers to implement responsive designs.\nDevelop high‑fidelity prototypes to communicate the visual aspects of the user interface.\nIterate on designs based on feedback and usability testing results.\nQualifications\nBachelor's or Master's degree in UX/UI design, graphic design, HCI, or a related field.\nExperience: 3+ years of professional experience in UX/UI design.\nSkills: Proficiency in design tools such as Sketch, Figma, or Adobe XD. Solid understanding of user research, information architecture, and interaction design principles.\nAdd your Portfolio: Showcase a portfolio of previous design projects, highlighting the design process, problem‑solving skills, and the impact of your designs on user experience.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dk5_TC0TIC1oll4NdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "k5_TC0TIC1oll4NdAAAAAA=="
+      },
+      {
+        "job_id": "Vk41YVRNLWZUZVJNUGR2NUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbHBNWWpkNlZtZHRSV3BUVldjNVEyWkZWREY2TFRKalEzRnpSMUZLYURKeFpGQTNiQzE1YVVSUldsazRWV3RtU3padmRUaFBSM0owWDJ4WGJsQjJhV1l5VUZoVmNXZFlkbGh4VUZWUU5EaHNhWGR5WlVwRFVFRm9RM04zZVRaMlQzTnVjVzg1T0dWVVJsUnpSVWR0V0U1emEwTnFOMHMwTUdGS1IyeFROVTVvWWpOcGFtSVNGM0ZzTTI5aGRuSjBTalY1VlhObFRWQnlObGRwTkZFd0dpSkJTRTR3UlRkR1dtOWFVM295WDNNMGNqVjFWV3cyYUV0NlRWUjVaM05MVkhwMw",
+        "job_title": "Senior UI/UX Designer — Hybrid, Brand & Marketing",
+        "employer_name": "Ispectra",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSCgH1IQeaWnbtDN6J8Tim3kSP8fvxbEq0Qc0W&s=0",
+        "employer_website": "https://ispectratechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-ui-ux-designer-hybrid-brand-marketing--saudi-arabia--e5cb9233bd15743f640400a8dfc4adb3d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-ui-ux-designer-hybrid-brand-marketing--saudi-arabia--e5cb9233bd15743f640400a8dfc4adb3d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Ispectra in Saudi Arabia seeks an Associate Design Director, Brand and Marketing to lead integrated campaigns and content across digital and physical touchpoints. You will mentor a multidisciplinary team and translate strategic concepts into compelling brand work.\n\nYou bring 3–5 years leading campaigns, production experience in photography, live action and animation, and a portfolio that demonstrates high design taste.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVN5aTM-fTeRMPdv5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VN5aTM-fTeRMPdv5AAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlWlFuTTEzNXpKbkVmRkRsX2w0T1ZjWWQ4bDk5VEx1RmFMQ0h3NkJvVmczTjZEbEVSNU01NGRvZk5BODBlbXZEWnZpNGdwZlYxR2lPMHo4c1ZZMXVhNWpCcnJtbzhyanB2ejZBSzNwU0N3cjBJZ0xMVXlhQVpabnNqWFlKZ3Z2dzF3NlA5LVhQcTQzZDlCb2ZpUjJyZktsRW9DT0lTRDF2WUd4QU9EdnlUWUZQdkdMRjF6aEZNc3hvSU1yZ2FVTUlrLU50eDNtdFNVS2xTU0ViNFlxQUZpR2U0Ti1xSFJxM2hIWFl0eUJ4Tk9vRkkwNjVpeC1HcXRMcllQSXRDazJfSWh1cFlaWkNuVWNJRXlGZ2RoN2pnQWFteGpFbWx4YjQtZkVJOVIzeFllUndqSFJFOGZ5OFF1aHF4SzJGR1FmZkVTUkVpb05yTlQtd1Y1VHp3YllHLU1tQ3RsYjdfOUJmTkJ3dG1DbHVLbjRqcTUwVVkyUXE0UFA0Q1ZMaW9QSmpyZldQUGp0cHZGM2VmZVBKS2h6N1BBdncyalZsc1R5VHNfeEVjYWl2djVLcGIwNHphLTFRbW5XNmw2akV3b3Q1QktxYVlFVmRsMVBtbk0tTmV1RS1nR1RjdmZCZEt0eHd1bzVIZ3NOUnpqeXAwcXVlcU5pRjJLSHBSekQtOWF1SWpJcDhFeFFYQmR6LTk3QXhPbFo2SDRyOFZ5S2xPR2M5cERPYV9FazFybTBKSTN5WjRNEhdxbDNvYXZydEo1eVVzZU1QcjZXaTRRMBoiQUhOMEU3SFJyR191dVJBZ1J4N3dMTFJEdVVnc0NRcG1qUQ"
+  }
+}

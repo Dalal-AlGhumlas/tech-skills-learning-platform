@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "qa_testing",
+    "query": "quality assurance engineer"
+  },
+  "status": "OK",
+  "request_id": "1fe8cb15-31c6-4ccd-8223-73e48f29a1a1",
+  "parameters": {
+    "query": "quality assurance engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "andVSWlpUXEzblZkYVptUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGhuTUdwd2VUTnZYMUEwVTFGSU5Fd3hhV2hIUzJSRFJWWmlaWFZPYWtNeWIyTm5PVXhMVUVFellVRmhZeTFDWXpCaFNFNXZUVFowYkV0eWJISkpPR1ZrYjBsbmFIa3plRmMyTUdaMmFWYzJRbXd6VkVVMGJGWkxXa1ZoYVZaSU1reElhVlZVZDNsT1dGbE1jR3RzUlZWNWRXWndSa3BLTkhoRU5EaG1WRTl0WmxVNGFHMFNGMlpHZW05aGRuWnhTM010U0doaVNWQnNZVVJLYVZGSkdpSkJTRTR3UlRkRldrNUxPVUZ2V25CclVVRnNhM0ZHVG5Gd1dUbEtSbXBUY2xGMw",
+        "job_title": "Quality Assurance Engineer (Saudi National Only)",
+        "employer_name": "Gathern",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.sa&size=128",
+        "employer_website": null,
+        "job_publisher": "Careers.sa",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.careers.sa/en/jobs/quality-assurance-engineer-saudi-national-only-gathern-80d9848e",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.careers.sa/en/jobs/quality-assurance-engineer-saudi-national-only-gathern-80d9848e",
+            "is_direct": false,
+            "publisher": "Careers.sa"
+          }
+        ],
+        "job_description": "Are you passionate about building high-quality software that users love? Gathern is looking for a Quality Assurance Engineer to support the delivery of reliable, high-performing products. In this role, you’ll collaborate closely with engineers, product managers, and designers to validate features, report issues, and ensure our apps and services meet the highest quality standards.\nYou’ll contribute to our QA activities across manual and automated testing, participate in Agile ceremonies, and help improve how we test and deliver features. If you're detail-oriented, curious, and eager to grow in a fast-paced environment, this role is for you.\nResponsibilities:\nCollaborate with product and engineering teams to test features and report issues clearly and efficiently.\nExecute manual test cases and support the development of automated tests across mobile and backend platforms.\nValidate features during sprints and contribute to regression and exploratory testing cycles.\nDocument bugs and test results in Jira with clarity and context.\nParticipate in sprint planning and backlog grooming to provide a QA perspective.\nSupport QA team initiatives to improve test coverage and reduce bug leakage.\nUse tools like Firebase, Datadog, and Postman to validate backend behavior, error rates, and app stability.\nFollow and contribute to QA processes across the product lifecycle.\n1 - 3 years of experience in software quality assurance or a similar role.\nFamiliarity with Agile software development and testing practices.\nExperience testing mobile applications (iOS and Android) and backend APIs.\nAbility to write clear and concise bug reports and test documentation.\nBasic understanding of test automation tools and CI/CD pipelines.\nStrong attention to detail, problem-solving skills, and a team-first mindset.\nComfortable working in a fast-paced, collaborative environment.\nFluency in Arabic and good command of English.\nNice-to-Have Skills:\nExposure to automation frameworks (e.g., Appium, Postman, Cypress).\nAI-Assisted Testing: Familiarity with AI tools (e.g., ChatGPT, Claude, GitHub Copilot) to support test case generation, exploratory testing, test data creation, and bug analysis.\nInterest in AI-driven QA, automation, and emerging tools that improve testing efficiency and software quality.\nKnowledge of QA metrics and reporting tools.\nFamiliarity with tools like Jira, GitHub, TestRail, or similar.\nWhy Join Gathern?\nBe part of a collaborative and innovative team driving quality excellence.\nWork on cutting-edge products with real-world impact.\nEnjoy opportunities for professional growth and career advancement.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Careers.sa",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DjwUIiiQq3nVdaZmPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "jwUIiiQq3nVdaZmPAAAAAA=="
+      },
+      {
+        "job_id": "dXZGODVWRVJKNklOZHlPc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkp6YTBkNmJtcEdlRTVTTmxoVGFqQklVbEZzYnpoS05qbGFNR013Um5veGQyRndiV1ZQUzFsU0xWRXhkRFZoVG1GdFJYbGpVMFpaVFZSTVJHbzRlWFJvYWtoclQyMUhUMkZvVm1adlpFTm1VMjV6VkRWU1prdE9YMWg0TFRsUWNISlllRkZwYTBsbFdUZHJhM0pvYVUxdFNYWXROV3MwY21ZMmVHZDBkMDF1UkVSSldXb1NGMlpHZW05aGRuWnhTM010U0doaVNWQnNZVVJLYVZGSkdpSkJTRTR3UlRkSFIzcE5ha2t0YWs1WlRWQlFXVVJFYkVkaWNFMVpia2t4Wmw5Qg",
+        "job_title": "Senior Quality Assurance Engineer",
+        "employer_name": "staff connect saudi",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/senior-quality-assurance-engineer-staff-connect-saudi-saudi-arabia-69628676",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/senior-quality-assurance-engineer-staff-connect-saudi-saudi-arabia-69628676",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "Job title: Senior QA Engineer – Manual Testing & Application Monitoring\n\nJob Location: Jeddah, Saudi Arabia\n\n1. Role Overview\n\nWe are seeking an experienced Senior Technical QA Analyst to ensure the functional quality, technical stability and reliability of our digital eCommerce platforms. The role combines hands-on manual testing, API and integration testing, production application monitoring and technical incident investigation.\n\nThe candidate will identify functional defects, monitor application errors using Sentry or equivalent observability tools, investigate customer-facing issues and coordinate with internal technology teams and external development vendors. This is not a purely functional manual testing position.\n\n2. Key Responsibilities\n\nA. Functional & Manual Testing\n• Develop and execute functional, regression, integration and end-to-end test cases.\n• Validate web customer journeys including registration, quotation, checkout, payment and post-purchase transactions.\n• Perform browser compatibility, responsive design and mobile web testing.\n• Review requirements, UX designs and acceptance criteria for test coverage.\n• Document, prioritize and track defects; conduct smoke testing, UAT support and release validation.\n\nB. Application Observability, Monitoring & Production Quality\n• Operate application monitoring and observability platforms; investigate production issues across browser, application, API and infrastructure signals.\n• Monitor frontend/backend exceptions, failed transactions, API availability, latency, slow page loads, user-impacting errors and performance regressions.\n• Correlate stack traces, logs, browser console/network evidence, distributed traces, session replay, release changes and service health to investigate incidents.\n• Analyze recurring issues, severity, frequency and customer-journey impact.\n• Maintain monitoring dashboards, alerts, thresholds, incident classifications and escalation playbooks; coordinate with IT/vendors on instrumentation gaps.\n• Monitor release health and verify resolution of production issues.\n\nC. API & Integration Testing\n• Test REST APIs with Postman or equivalent tools, including payloads, authentication and error handling.\n• Investigate HTTP errors, timeouts and integration defects.\n• Validate integrations among the eCommerce platform, payment gateways, core systems and third-party services.\n\nD. Technical Quality & Incident Management\n• Serve as a technical quality contact between business, IT and development vendors.\n• Reproduce incidents, provide evidence-backed defect reports and verify fixes.\n• Track defect recurrence and release quality; prioritize issues by customer and business impact.\n\nE. Reporting & Continuous Improvement\n• Maintain QA execution, defect and application stability reports.\n• Track error rates, failed transactions, critical defects, incident recurrence and resolution time.\n• Recommend improvements in monitoring coverage, test processes and release quality.\n\nMonitoring & Diagnostic Tool Landscape (examples, not an exhaustive checklist)\n• Application error tracking & APM: Sentry, Datadog APM/RUM, New Relic, Dynatrace, Cisco AppDynamics, Elastic Observability, Azure Application Insights, AWS CloudWatch / X-Ray.\n• Logs, metrics & infrastructure observability: Grafana, Prometheus, Loki, Elasticsearch / Kibana (ELK), Splunk, OpenSearch, CloudWatch Logs, Azure Monitor.\n• Real-user monitoring & session diagnostics: Datadog RUM, New Relic Browser, Dynatrace Digital Experience Monitoring, Sentry Session Replay, LogRocket, FullStory; browser DevTools.\n• Synthetic monitoring & availability: Checkly, Pingdom, UptimeRobot, Datadog Synthetic Monitoring, New Relic Synthetics, Grafana Synthetic Monitoring.\n• API, network & test diagnostics: Postman, Swagger/OpenAPI, Chrome DevTools, Charles Proxy or Fiddler; Jira/Azure DevOps for incident and defect tracking.\n• Candidates need not know every listed product. Require demonstrated depth in at least one observability/APM platform, strong web/API debugging and the ability to learn the organization's chosen stack.\n\n3. Required Qualifications & Experience\n\nMandatory Requirements\n• Bachelor's degree in Computer Science, Software Engineering, IT or related discipline.\n• 4–6+ years in software QA with strong manual web application testing.\n• Practical API testing experience using Postman or equivalent.\n• Strong knowledge of HTTP, JSON, REST APIs and client-server architecture.\n• Proficiency in browser DevTools (Console and Network), JavaScript error investigation and API troubleshooting.\n• Experience with Jira, Azure DevOps or equivalent defect/test management tools.\n• Experience with complex transactional web applications and engineering/vendor collaboration.\n\nHighly Preferred\n• Hands-on production use of at least one application observability/APM platform (e.g., Sentry, Datadog, New Relic, Dynatrace, Elastic Observability, Grafana stack, AppDynamics, Azure Application Insights or AWS CloudWatch).\n• Production application support and customer-facing incident investigation.\n• Experience interpreting application logs, metrics, traces, exception stack traces, API latency, release health and user-impacting performance signals.\n• eCommerce, fintech, banking or insurance platform experience.\n\nAdditional Advantages\n• Basic JavaScript or TypeScript; SQL; Playwright, Cypress or Selenium.\n• Familiarity with GA4, Hotjar, CI/CD and agile delivery; ISTQB certification.\n\n4. Expected Deliverables\n\nOutputs\n• Functional, regression and end-to-end test cases and execution reports.\n• Defect register with reproducible steps and technical evidence.\n• Application monitoring dashboards, alert configurations and stability reports across the selected observability platform(s).\n• Incident investigation reports and API/integration testing results.\n• Release readiness, post-deployment validation and quality improvement recommendations.\n\n5. Key Performance Indicators\n\nKPIs\n• Test coverage and execution completion; critical defects escaping into production.\n• Time to detect and escalate production issues; monitoring and alert coverage.\n• Defect investigation and validation turnaround; recurring defect rate.\n• Release validation effectiveness and incident documentation quality.\n\n6. Ideal Candidate Profile\n• Technically strong QA professional experienced in complex web applications and live production environments.\n• Comfortable interpreting errors and logs, troubleshooting independently and coordinating engineering fixes.\n• Experience beyond executing predefined manual test cases is essential.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DuvF85VERJ6INdyOsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "uvF85VERJ6INdyOsAAAAAA=="
+      },
+      {
+        "job_id": "UllWYklSTkFFQ2RRVVpGTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGgwU0VnNFFuVkJPRTk1VXpsUmJWZHZXQzFSVjNFMGRVUXdiWEUxT0c1emIxZHpjM3BZVEU1RllURkVWV0pOVWtVM09GRTBaV2N3U1UxWWVtUk9iV3RxTkdWQlJFTk9RMVE1TWpSa1QwdDNlbVl4WWxab1VGSnRObkpsZWxnM1p6RXlNRVF6Tm1SdVlXMW1TMUZGY0hVNFVFOU9RMFZrWlZOMFRtUnFRMUJZUjA1VFIwRVNGMlpHZW05aGRuWnhTM010U0doaVNWQnNZVVJLYVZGSkdpSkJTRTR3UlRkR09GTlFiMngyUm04Mk9EUmljVFpwWkRoaGFFWkZMVll0Y2pkUg",
+        "job_title": "Quality Assurance Engineer - Ar Rjum",
+        "employer_name": "Bechtel Corporation",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymCpMjDx_ot-imZVxc7gpUd0CxE5bMfKu8PKO&s=0",
+        "employer_website": "https://www.bechtel.com",
+        "job_publisher": "Bechtel Corporation Jobs",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://jobs.bechtel.com/us/en/job/BCFBCKUS298976EXTERNALENUS/Quality-Assurance-Engineer-Ar-Rjum",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://jobs.bechtel.com/us/en/job/BCFBCKUS298976EXTERNALENUS/Quality-Assurance-Engineer-Ar-Rjum",
+            "is_direct": false,
+            "publisher": "Bechtel Corporation Jobs"
+          }
+        ],
+        "job_description": "Requisition ID: 298976\n• Relocation Authorized: National - Camp\n• Telework Type: Full-Time Office/Project\n• Work Location: Dhalm\n​​​​​​​\nExtraordinary teams building inspiring projects:\n\r\nSince 1898, we have helped customers complete more than 25,000 projects in 160 countries on all seven continents that have created jobs, grown economies, improved the resiliency of the world's infrastructure, increased access to energy, resources, and vital services, and made the world a safer, cleaner place.\nDifferentiated by the quality of our people and our relentless drive to deliver the most successful outcomes, we align our capabilities to our customers' objectives to create a lasting positive impact. We serve the Infrastructure; Nuclear, Security & Environmental; Energy; Mining & Metals, and the Manufacturing and Technology markets. Our services span from initial planning and investment, through start-up and operations.\nCore to Bechtel is our Vision, Values and Commitments. They are what we believe, what customers can expect, and how we deliver. Learn more about our extraordinary teams building inspiring projects in our Impact Report.\n\nProject Overview:\n\r\nThe Ar Rjum Project comprises a green field gold project with three open pit mining operations with associated waste dumps and ore stockpile, a processing plant, tailings management facilities, and supporting infrastructure including water supply, power supply, maintenance facilities, offices, temporary and permanent accommodation village.\nThe Project is situated within the Central Arabian Gold Region, approximately 200 km north-east of Taif towards Riyadh and about 26 km South of Al Mouwayh, which is a small town situated on the Jeddah - Riyadh highway.\n\nJob Summary:\n\r\nQuality Assurance reports to the Project Quality Manager and verifies implementation of the quality program across one or more functions in engineering, procurement, construction, testing, and commissioning. This role ensures compliance with project and ISO 9001 requirements, supports the development of quality management system tools and metrics for monitoring quality performance, coordinates audits and inspections, manages corrective actions, and provides guidance to project teams on quality matters and improvement.\n\nMajor Responsibilities:\n\r\n• Assist the Quality Manager in implementing and communicating the project quality program/plan requirements to the project team.\n• Lead and support the implementation of People-Based Quality (PBQ), Lessons Learned, Closed Loop Corrective Actions, Continuous Improvement initiatives, and Best Practices, including the collection, evaluation, and documentation of lessons learned in the appropriate registers.\n• Prepare quality audit checklists and coordinate, lead, or support internal and external audits and surveillances of project quality programs, including vendor, contractor, and subcontractor assessments.\n• Maintain liaison with client quality representatives and support the Quality Manager during client or regulatory audits.\n• Support the development, maintenance, and execution of the Project Quality Audit & Surveillance Schedule, ensuring timely follow-up and closure of audit findings and corrective actions.\n• Monitor quality activities across engineering, procurement, and construction to ensure compliance with approved quality plans, procedures, and specifications, and review related documents for inclusion of quality requirements.\n• Review and determine applicable quality and regulatory requirements, report new or revised regulations, and support the development and revision of QA procedures and project-specific quality documentation.\n• Coordinate and perform inspections and surveillances at site and vendor locations, maintain accurate inspection records, and issue Non-Conformance Reports (NCRs) as required.\n• Assist in root cause analysis and closed-loop corrective action processes to ensure timely resolution and closure of findings.\n• Participate in the prequalification of subcontractors and suppliers by evaluating their quality systems, capabilities, and controls, and reviewing their submittals such as quality manuals, procedures, quality plans, ITPs, resumes for quality personnel, test reports, audit reports, and schedules.\n• Provide training and guidance to project personnel on quality requirements and procedures and conduct project QMS orientation and awareness sessions as applicable.\n• Report quality weekly/monthly progress to the project quality manager\n\nEducation and Experience Requirements:\n\r\n• Bachelor’s degree in Engineering (preferably in Electrical Engineering).\n• ISO 9001:2015 Certified Lead Auditor (IRCA approved) – required.\n• Additional certifications in Quality (e.g., Six Sigma, Lean) – preferred.\n• Minimum 10–12 years of relevant experience, including minimum 8 years in a supervisory role in quality.\n• Experience in QA/QC activities across engineering, procurement, and construction phases.\n• Previous experience with National Grid (NG) and Saudi Electricity Co (SEC) specifications and projects.\n\nRequired Knowledge and Skills:\n\r\n• Strong understanding of quality assurance principles and ISO standards.\n• Ability to interpret technical specifications, drawings, and quality plans.\n• Strong analytical skills with practical knowledge of how to identify key performance quality matrices, proficiency in root cause analysis and corrective action systems.\n• Proficiency in providing direction and on the job training to assigned personnel.\n• Proficiency in oral and written communications.\n• Excellent communication and stakeholder management and presentation skills.\n• Proven skills in Microsoft Office, Power BI (High Level Performance).\n• Ability to work collaboratively under the direction of the Quality Manager and lead quality activities effectively.\n• Experience with developing training materials, conducting training especially in soft skills, quality audits/ surveillances.\n\nTotal Rewards/Benefits:\n\r\nFor decades, Bechtel has worked to inspire the next generation of employees and beyond! Because our teams face some of the world's toughest challenges, we offer robust benefits to ensure our people thrive. Whether it is advancing careers, delivering programs to enhance our culture, or providing time to recharge, Bechtel has the benefits to build a legacy of sustainable growth. Learn more at Bechtel Total Rewards\n\nDiverse teams build the extraordinary:\n\r\nAs a global company, Bechtel has long been home to a vibrant multitude of nationalities, cultures, ethnicities, and life experiences. This diversity has made us a more trusted partner, more effective problem solvers and innovators, and a more attractive destination for leading talent.\nWe are committed to being a company where every colleague feels that they belong-where colleagues feel part of \"One Team,\" respected and rewarded for what they bring, supported in pursuing their goals, invested in our values and purpose, and treated equitably. Click here to learn more about the people who power our legacy.\n\nBechtel is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, age, national origin, disability, citizenship status (except as authorized by law), protected veteran status, genetic information, and any other characteristic protected by federal, state or local law. Applicants with a disability, who require a reasonable accommodation for any part of the application or hiring process, may e-mail their request to acesstmt@bechtel.com",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "ظلم     •  عبر Bechtel Corporation Jobs",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DRYVbIRNAECdQUZFNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "RYVbIRNAECdQUZFNAAAAAA=="
+      },
+      {
+        "job_id": "Y2N0RHA2MEJ0NUlMVE81c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUozWm1GdWRtWnNXbVZQWkZGUFNXdFZOekJOVkcxTldsSmZaR05YUlZaMGRFaDFiVTEyYlhNdE9HcEtiMEpqZW5CNVp6aHRRVlEyYUdKTGJUQm5VV2ROU0U5SGMwbzFkbUV3TjJsbmVHZGxlRXBUVkZOa1JFeDNaVlJVVUVKRU1VcDZkbHBSWVVoclpqWlJSazVpV2tKcFEweFVaRWs0ZVRSTU9GcERVMUF0V2tSRE5qQVNGMlpHZW05aGRuWnhTM010U0doaVNWQnNZVVJLYVZGSkdpSkJTRTR3UlRkR1FrVTVWRUUwY25aV1YzZHdVVXRNYTFsMVZGVXRaazUyZWpObg",
+        "job_title": "QA/QC - Civil Engineer",
+        "employer_name": "BEC Arabia",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4OAYV_szMiHkRdpHS0NGgfLg42KB_b2Ymr0C&s=0",
+        "employer_website": "https://www.becarabia.com",
+        "job_publisher": "BEC Arabia",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.becarabia.com/career/job-000114",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.becarabia.com/career/job-000114",
+            "is_direct": false,
+            "publisher": "BEC Arabia"
+          }
+        ],
+        "job_description": "## About the Role\nBEC Arabia is seeking a highly skilled **QA/QC - Civil Engineer** to join our dynamic team in Riyadh. This role is integral to ensuring the highest standards of quality and compliance across our civil engineering projects, which include government mega-projects, commercial developments, and infrastructure initiatives aligned with Saudi Vision 2030. As part of the QA & QC Department, you will collaborate with multidisciplinary teams to implement and monitor quality assurance and control processes that meet both client and regulatory expectations.\n\nIn this role, you will oversee quality inspections, ensure adherence to project specifications, and maintain compliance with the **Saudi Building Code (SBC)** and other relevant standards. You will also contribute to continuous improvement initiatives, leveraging cutting-edge tools and methodologies to enhance project outcomes. This position offers a unique opportunity to work on some of the Kingdom's most prestigious projects, including NEOM and Red Sea developments, while advancing your career in a supportive and innovative environment.\n\nYour day-to-day activities will include conducting site inspections, preparing quality documentation, coordinating with contractors and consultants, and ensuring compliance with **ISO 9001** standards. This is a career-defining opportunity to make a tangible impact on the quality and sustainability of Saudi Arabia's infrastructure landscape.\n\n## Key Responsibilities\n- **Develop** and implement project-specific QA/QC plans in alignment with client requirements and regulatory standards.\n- **Conduct** regular site inspections to ensure compliance with project specifications, drawings, and applicable codes.\n- **Monitor** construction activities to identify and address quality issues proactively.\n- **Ensure** adherence to the **Saudi Building Code (SBC)** and other relevant standards.\n- **Prepare** and maintain quality documentation, including inspection reports, test plans, and non-conformance reports.\n- **Coordinate** with contractors, consultants, and project stakeholders to resolve quality-related issues.\n- **Review** and approve material submittals, method statements, and shop drawings for compliance.\n- **Implement** and monitor **ISO 9001** quality management systems across assigned projects.\n- **Conduct** root cause analysis and recommend corrective actions for non-conformances.\n- **Train** project teams on quality standards, procedures, and best practices.\n- **Support** internal and external audits, ensuring timely closure of audit findings.\n- **Promote** a culture of quality and continuous improvement across all project phases.\n\n## Required Qualifications\n- **Bachelor of Science in Civil Engineering** or a related field.\n- Minimum of **5 years of experience** in QA/QC roles within the construction or civil engineering industry.\n- Registration with the **Saudi Council of Engineers (SCE)**.\n- In-depth knowledge of **Saudi Building Code (SBC)** and **ISO 9001** standards.\n- Proficiency in quality management tools and software, such as **Primavera P6**, **AutoCAD Civil 3D**, and **MS Office Suite**.\n- Strong understanding of construction materials, methods, and testing procedures.\n- Familiarity with **NEBOSH** or equivalent safety certifications.\n- Excellent communication and problem-solving skills.\n\n## Preferred Qualifications\n- **Master’s degree** in Civil Engineering, Construction Management, or a related field.\n- Certification as a **Certified Quality Engineer (CQE)** or equivalent.\n- Experience working on **Saudi Vision 2030** giga-projects.\n- Knowledge of **LEED**, **Mostadam**, or other green building standards.\n- Proficiency in advanced quality management tools such as **SAP Quality Management Module**.\n\n## Working Conditions\n- Based in **Riyadh**, with frequent site visits to construction locations.\n- Work environment includes both office settings and active construction sites.\n- Personal Protective Equipment (PPE) required during site visits.\n- Exposure to varying weather conditions typical of the Riyadh region.\n- Standard working hours with occasional extended hours to meet project deadlines.\n- Limited regional travel may be required for project coordination.\n\n## What We Offer\n- Competitive salary and benefits package, including health insurance and annual leave.\n- Opportunities for professional development and certification sponsorship.\n- A safety-first culture with a commitment to employee well-being.\n- Exposure to iconic projects that shape Saudi Arabia’s infrastructure landscape.\n- A multicultural and collaborative work environment.\n- Career advancement opportunities within a leading construction and engineering firm.\n- Access to state-of-the-art tools, technologies, and methodologies.\n\n## Suggested Required Skills\n- \"Primavera P6\"\n- \"AutoCAD Civil 3D\"\n- \"ISO 9001\"\n- \"Saudi Building Code (SBC)\"\n- \"Quality Management Systems\"\n- \"Root Cause Analysis\"\n- \"Construction Materials Testing\"\n- \"MS Office Suite\"\n\n## Suggested Preferred Skills\n- \"Certified Quality Engineer (CQE)\"\n- \"LEED or Mostadam Standards\"\n- \"SAP Quality Management Module\"\n- \"NEBOSH Certification\"\n- \"Advanced Quality Auditing Techniques\"\n\n## Suggested Education\n- \"Bachelor of Science in Civil Engineering\"\n\n## Suggested Min Years Experience\n- 5",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BEC Arabia",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DcctDp60Bt5ILTO5sAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "cctDp60Bt5ILTO5sAAAAAA=="
+      },
+      {
+        "job_id": "S3htZGxRakdXaFdraG9vbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbGhvTmxablNYRnpjbXg0WjI1VlRYazVVVUpCY2pWc1FUZE5hbEpSUXpobFpVTjVMV1ZuTUdGellYQk5aMkpaY1MweGJuaGpSREp3VUMxbWFHVk9WV3cwVVcxbFZURlFUbXRYWW1VNVdHcDNOV2xMTFcweVprUlJZWFU0Wm5CMlpVZHNabGt6TVV0VmFWUnRVMUF0Tm5SRldqVnlSMWRFT0VjMmJXZFNObkYyYUdkMGVISVNGMlpHZW05aGRuWnhTM010U0doaVNWQnNZVVJLYVZGSkdpSkJTRTR3UlRkSFpFTkRjRlUwZFdzMmVqTnZaV2N0VGkxclRIVlJXVlF5VjNsMw",
+        "job_title": "QA Engineer for Smart Devices & Web Apps (Riyadh)",
+        "employer_name": "Avensys Consulting Pte Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/qa-engineer-for-smart-devices-web-apps-riyadh--riyadh--ee62d2cc603512c3f5c01d42b00ab3479",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/qa-engineer-for-smart-devices-web-apps-riyadh--riyadh--ee62d2cc603512c3f5c01d42b00ab3479",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Avensys Consulting is seeking a Quality Assurance Engineer for smart devices and web applications, based in Riyadh, KSA. A Bachelor’s degree in Computer Science or equivalent and a minimum of 4 years of QA experience are required.\n\nThe role involves creating test-case scenarios, documenting defects, and executing manual and automated testing. You will analyze results, troubleshoot issues, and report UX/UI concerns for the systems and applications.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKxmdlQjGWhWkhoolAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "KxmdlQjGWhWkhoolAAAAAA=="
+      },
+      {
+        "job_id": "VUlNQ2ZoT0hJczFBNWNFTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkl0ZDAxWmVqaHpRMUZwU0V0d2RXSmhUM1ZoUlVRME9EZDVYek5ZVFhKMk4xTmZVSEZoZVZabVNUTktOVzV2ZEZVeVIwOUJVMFEyWkhwa1pWRktOMVpUZFVnMmNHSkdOVEpaZVZBMlowdzViMDEzYVVFelZERnFWRmRsTkVNdFMwWTNaMWxDVDBvdGNXWXpUbUpVYm10a1gxbExXa1JKUkV0UWNXOTJibFZ2WWxoWFZXb1NGMlpHZW05aGRuWnhTM010U0doaVNWQnNZVVJLYVZGSkdpSkJTRTR3UlRkSGJtVm9TSEppU25CNlFuRmhTazlQZUZaV2MyZGZhR0Z1UkhGbg",
+        "job_title": "Quality Assurance Engineer -Smart device & Web Application",
+        "employer_name": "Avensys Consulting",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://founditgulf.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/quality-assurance-engineer-smart-device-web-application-avensys-consulting-saudi-arabia-69644212",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/quality-assurance-engineer-smart-device-web-application-avensys-consulting-saudi-arabia-69644212",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "Company profile:\n\nAvensys Consulting is a leader in providing technology-enabling business solutions and services. Since its inception in 2007, Avensys has assisted clients in their IT transformation journey to use IT more efficiently improving their productivity and achieve business results such as increased agility, innovation and profitable growth.\n\nOur in-depth technical knowledge, coupled with industry expertise and use of unique methodologies, enabled us to be a trusted partner, meeting all our customers expectations. Areas of expertise include Analytics & BI, Robotic Process Automation (RPA), Cyber Security, ERP Services, Professional Services, and Executive Placements.\n\nWe have a job opening for Quality Assurance Engineer -Smart device & Web Application based out in Riyadh KSA\n\nEmail- [HIDDEN TEXT]\n\nJOB Details\n• Role -Quality Assurance Engineer -Smart device & Web Application\n• Work Location: Riyadh KSA\n• JOB DESCRIPTION\n\nBachelor's degree in Computer Science or equivalent. l At least 4 years of experience in quality assurance of services and systems for smart-device and web applications. l Specialist personnel are subject to acceptance based on passing an interview conducted by the technical affairs specialists. l Able to create test-case scenario documentation. l Document and report errors and issues related to systems and applications. l Prepare and execute manual and automated testing processes and continuously analyze the results. l Troubleshoot and investigate errors. l Create records/logs documenting testing stages and defects. l Report any issues related to the UX/UI of the systems and applications",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DUIMCfhOHIs1A5cELAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "UIMCfhOHIs1A5cELAAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlWWRjZlpVR0RkSlhpVi0tZnE5TzM3RlRzMGUzaW9BZGFIdXp0ZjAxMDVCRDBWeTdWQ0xvbGM4bUVLLWpINVlVWG54N3drUHk0Q1VmbnZST2VGRlc1RnBZcU02UHN1ejRSTE5XMTYzcC1ONGdfYVJDeXpwR0tkcS1tLUZUbmdQTGc5Qml1Z3J6UTZwWi1wOUVDLUIxWFY2U1hXTUJxUzRxRU1pVkQ1bi1DaXFpQml6aFRtYTBUcU5wX3JyTEZsWmRjRjRDdE1YaVo2aG5VandLdUN6clRYQjlpXzBzaVpFSnNCelhqMlY4aXE1cG96Z1NSWElrOU5BeEI2TXlfd1VDdDN5bHpqWGZoa3l3R0pfa2w4Q3BhVnhSd0FJT3VmbWFJNGkwWnZFbURVS0tCeWtxaFhJdllPZXhFZHF4VWwyYUVETUNFNzhHN0l6dzYydG5FbXRrNFJoNXZZMzJhZHdFcGpXSjgyWGp1R1JfNkRlNXRQRGl4VG9fdjItRDlEc2FtMlpOR0hudG4xajgwM0FOYk9fdURwN3dDQmhkcUJycEpkV2JKMC1Lb25QeHFKQnZJSzhfTWVpTHdIWTF3OVhNblBiQkFGOXJiRWxXdWJxRWhweWxyNThlaGF3aXBYbDNiRTFSNnBsM29HYkhkT1c5c0ZRTV9iUjNqclpIVkNkWTRvSkM0SGVYREIyYlkzRjZjSXdXMUNaZFVhekpnQmdDTlNhUC1PUm1ySjh3RHZJM0JjEhdmRnpvYXZ2cUtzLUhoYklQbGFESmlRSRoiQUhOMEU3SDRnRW5yakdVZ0k0alhVWVlvS2xOSWx5MXEyUQ"
+  }
+}

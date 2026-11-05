@@ -1,0 +1,429 @@
+{
+  "_meta": {
+    "specialization": "database_enterprise_systems",
+    "query": "database specialist",
+    "date_posted": "month"
+  },
+  "status": "OK",
+  "request_id": "29b7eacc-3c75-4da3-b113-6b9721a768ca",
+  "parameters": {
+    "query": "database specialist in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "YlE0TWZBRkdRaWhHNFE5SEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1JKVG1GUU9VUnpZaTFZUnpWUU9EbHJhRVprTFd4d1FTMWhSa3BWUkRoV1kzazNabWhtYTNOS2RrTjNaV1ZDYW5VM2RFUjNjWEV5YTBaRmRHNTRUVTlWU0hkbk5qSjZZemx0UjJkSFFVSnlaemhUVUU5b1NUZzBOakZWVjFWRFprNHlVa2syYldWTVJWUlRWVmRVYkVWTlMxbHNOWEpvVWtoZk5IZzJkVkpJY3pKMFN6TVNGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkSVJrbGxRVlU0Ymtkc1QyWlVZM3BIYlRSeGR6WjJhVFJXZEhCbg",
+        "job_title": "Database Administrator (DBA) | KSA Nationals Only",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRva_XnH5-CoMHZ5MhvMv67K_I64st13hAFZ2bn&s=0",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "إنديد",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.indeed.com/viewjob?jk=b723105c4e65a130",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.indeed.com/viewjob?jk=b723105c4e65a130",
+            "is_direct": false,
+            "publisher": "إنديد"
+          }
+        ],
+        "job_description": "Eligibility Requirement\n\n• Nationality: Saudi National (Mandatory)\n\n• Location: Saudi Arabia\n\n• Work Mode: Onsite\n\n• Experience: Minimum 5 Years\n\n• Employment Type: Full-Time\n\nImportant Note: This position is open only to Saudi Nationals (Saudi Citizenship is Mandatory). Applications from non-Saudi nationals will not be considered.\n\nJob Summary\n\nWe are seeking a skilled and motivated Database Administrator (DBA) with a minimum of 5 years of hands-on experience managing and supporting enterprise database environments. The ideal candidate will be responsible for database administration, monitoring, maintenance, performance optimization, backup and recovery, security management, high availability, disaster recovery, and database support activities.\n\nThe candidate should possess practical experience with PostgreSQL, Oracle, SQL Server, and/or MySQL in production environments and demonstrate the ability to ensure database performance, availability, reliability, and security.\n\nKey Responsibilities\n\n• Perform database administration, monitoring, maintenance, and troubleshooting activities.\n\n• Install, configure, upgrade, patch, and maintain database systems.\n\n• Manage database backup, recovery, replication, and disaster recovery processes.\n\n• Monitor database performance, capacity, availability, and overall health.\n\n• Perform SQL query optimization and database performance tuning.\n\n• Manage database security, users, roles, permissions, and access controls.\n\n• Troubleshoot and resolve database-related incidents and performance issues.\n\n• Support database migrations, upgrades, patching, and maintenance activities.\n\n• Ensure data integrity, reliability, and availability.\n\n• Maintain database documentation, procedures, and configurations.\n\n• Collaborate with development, infrastructure, and application teams on database-related initiatives.\n\n• Participate in failover testing, disaster recovery testing, and maintenance activities.\n\n• Support production, development, and testing database environments.\n\nMust-Have Skills\n\n• 5+ years of hands-on Database Administration experience.\n\n• Strong experience with one or more of the following database platforms:\n\n• PostgreSQL\n\n• Oracle Database\n\n• Microsoft SQL Server\n\n• MySQL\n\n• Database installation, configuration, administration, and maintenance.\n\n• Database backup and recovery management.\n\n• Database replication technologies and administration.\n\n• High Availability (HA) and Disaster Recovery (DR) implementation and support.\n\n• SQL query optimization and performance tuning.\n\n• Database monitoring, health checks, and capacity planning.\n\n• Database troubleshooting and incident resolution.\n\n• Database security administration and access management.\n\n• User, role, permission, and privilege management.\n\n• Database migration, upgrade, and patch management activities.\n\n• Experience supporting production database environments.\n\n• Strong analytical and problem-solving skills.\n\n• Good communication and documentation skills.\n\nGood-to-Have Skills\n\n• Oracle RAC Administration.\n\n• Oracle Data Guard.\n\n• SQL Server Always On Availability Groups.\n\n• SQL Server Failover Clustering.\n\n• PostgreSQL Streaming Replication.\n\n• PostgreSQL Patroni / PgPool.\n\n• MySQL Replication.\n\n• Oracle Enterprise Manager (OEM).\n\n• Grafana, Zabbix, Nagios, or similar monitoring tools.\n\n• Linux Administration.\n\n• Shell Scripting.\n\n• PowerShell Scripting.\n\n• Python Scripting.\n\n• Azure, AWS, OCI, or GCP Database Services.\n\n• DevOps and Automation experience.\n\n• Infrastructure as Code (IaC).\n\n• ITIL Knowledge.\n\n• Oracle, SQL Server, PostgreSQL, or MySQL Certifications.\n\nh95a7SCJ1d",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الدمام     •  عبر إنديد",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DbQ4MfAFGQihG4Q9HAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "bQ4MfAFGQihG4Q9HAAAAAA=="
+      },
+      {
+        "job_id": "X1JmTGNXZC0tcVN6MGJGc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXB0U21sbGFtbFpORGhQVTNkcVdEbHpjM2N0Ynpoc1FtTmtVbEZqVVdwR09HbGZUV2t4YWkxbldTMHpiM1p1TlhOd1dGVTBjVlJVTkRSdFRXTklWSHBWTVVSTGFXdFNjMFp0T0ZwSmRGWkJjWE56ZVV0d2RVNDVUVmhWZFdoMFgzWTNkVVY1VGtwZlVsVTBOME5IT1ZWYU4xUjBRVGt5YnpKbGNGRmlTamg1UVdoTFNHc1NGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkSFJEUjJTMnBUWTBaR1ZXdEdTV3hFVkdRMlEybDZWRUZCYWtsbg",
+        "job_title": "Database Administrator (Mid-Level DBA)",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRva_XnH5-CoMHZ5MhvMv67K_I64st13hAFZ2bn&s=0",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "إنديد",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.indeed.com/viewjob?jk=95a1e27cee1e8c8d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.indeed.com/viewjob?jk=95a1e27cee1e8c8d",
+            "is_direct": false,
+            "publisher": "إنديد"
+          }
+        ],
+        "job_description": "Location: Saudi Arabia\nNationality: Saudi National (Mandatory)\nExperience: 3-5 Years (Mid-Level)\nEmployment Type: Full-Time\nWork Mode: Onsite\n\nJob Summary\n\nWe are seeking a skilled and motivated Database Administrator (DBA) with 3-5 years of hands-on experience managing and supporting enterprise database environments. The ideal candidate will be responsible for database administration, monitoring, maintenance, performance optimization, backup and recovery, security management, high availability, disaster recovery, and database support activities.\n\nThe candidate should possess practical experience with PostgreSQL, Oracle, SQL Server, and/or MySQL in production environments and demonstrate the ability to ensure database performance, availability, reliability, and security.\n\nKey Responsibilities\n\n• Perform database administration, monitoring, maintenance, and troubleshooting activities.\n\n• Install, configure, upgrade, patch, and maintain database systems.\n\n• Manage database backup, recovery, replication, and disaster recovery processes.\n\n• Monitor database performance, capacity, availability, and overall health.\n\n• Perform SQL query optimization and database performance tuning.\n\n• Manage database security, users, roles, permissions, and access controls.\n\n• Troubleshoot and resolve database-related incidents and performance issues.\n\n• Support database migrations, upgrades, patching, and maintenance activities.\n\n• Ensure data integrity, reliability, and availability.\n\n• Maintain database documentation, procedures, and configurations.\n\n• Collaborate with development, infrastructure, and application teams on database-related initiatives.\n\n• Participate in failover testing, disaster recovery testing, and maintenance activities.\n\n• Support production, development, and testing database environments.\n\nMust-Have Skills\n\n• 3-5 years of hands-on Database Administration experience.\n\n• Strong experience with one or more of the following:\n\n• PostgreSQL\n\n• Oracle Database\n\n• Microsoft SQL Server\n\n• MySQL\n\n• Database Installation, Configuration, and Administration.\n\n• Database Backup and Recovery.\n\n• Database Replication.\n\n• High Availability (HA) and Disaster Recovery (DR).\n\n• SQL Query Optimization.\n\n• Database Performance Tuning.\n\n• Database Monitoring and Health Checks.\n\n• Database Troubleshooting and Incident Resolution.\n\n• Database Security Administration.\n\n• User, Role, Permission, and Access Management.\n\n• Database Migration and Upgrade Activities.\n\n• Patch Management and Maintenance.\n\n• Experience supporting Production Database Environments.\n\n• Strong analytical and problem-solving skills.\n\n• Good communication and documentation skills.\n\nGood-to-Have Skills\n\n• Oracle RAC Administration.\n\n• Oracle Data Guard.\n\n• SQL Server Always On Availability Groups.\n\n• SQL Server Failover Clustering.\n\n• PostgreSQL Streaming Replication.\n\n• PostgreSQL Patroni / PgPool.\n\n• MySQL Replication.\n\n• Oracle Enterprise Manager (OEM).\n\n• Grafana, Zabbix, Nagios, or similar monitoring tools.\n\n• Linux Administration.\n\n• Shell Scripting.\n\n• PowerShell Scripting.\n\n• Python Scripting.\n\n• Azure, AWS, OCI, or GCP Database Services.\n\n• DevOps and Automation Experience.\n\n• Infrastructure as Code (IaC).\n\n• ITIL Knowledge.\n\n• Oracle, SQL Server, PostgreSQL, or MySQL Certifications.\n\nsn87KIiZlX",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٠ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الدمام     •  عبر إنديد",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D_RfLcWd--qSz0bFsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "_RfLcWd--qSz0bFsAAAAAA=="
+      },
+      {
+        "job_id": "elNmWFAxX2pGdWVqeG9VYUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWgyYkdKalkyZDBaRlpVUVRac1dFdzVXVXBmTFZkMFRITTNWa3RYU1hVdGVUbDZRMWx2ZGtkS1JWSnVUVkZUYkVWaWRXZFhWVzlqTFZwNldWOHdWekpRZDJOQlJHaFJNMmRuWWpSQk0xSnFWRlZSZUhGaE9UUnRXSE10VDBSbVdWUTBibWR5Y21FdFNFTmpVMFZJVkdGS1VEaFdUVTkxVldGU1owUmpRMnhEWVd4V1dUUVNGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkSE4wOUdlVFpSTXpNd1RUQTRVMnRRTVVzeWVIY3lSbGxtUlcxMw",
+        "job_title": "Database Administrator (DBA) | KSA Nationals Only",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRva_XnH5-CoMHZ5MhvMv67K_I64st13hAFZ2bn&s=0",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "إنديد",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.indeed.com/viewjob?jk=f54a3dc0f286431d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.indeed.com/viewjob?jk=f54a3dc0f286431d",
+            "is_direct": false,
+            "publisher": "إنديد"
+          }
+        ],
+        "job_description": "Eligibility Requirement\n\n• Nationality: Saudi National (Mandatory)\n\n• Location: Saudi Arabia\n\n• Work Mode: Onsite\n\n• Experience: Minimum 5 Years\n\n• Employment Type: Full-Time\n\nImportant Note: This position is open only to Saudi Nationals (Saudi Citizenship is Mandatory). Applications from non-Saudi nationals will not be considered.\n\nJob Summary\n\nWe are seeking a skilled and motivated Database Administrator (DBA) with a minimum of 5 years of hands-on experience managing and supporting enterprise database environments. The ideal candidate will be responsible for database administration, monitoring, maintenance, performance optimization, backup and recovery, security management, high availability, disaster recovery, and database support activities.\n\nThe candidate should possess practical experience with PostgreSQL, Oracle, SQL Server, and/or MySQL in production environments and demonstrate the ability to ensure database performance, availability, reliability, and security.\n\nKey Responsibilities\n\n• Perform database administration, monitoring, maintenance, and troubleshooting activities.\n\n• Install, configure, upgrade, patch, and maintain database systems.\n\n• Manage database backup, recovery, replication, and disaster recovery processes.\n\n• Monitor database performance, capacity, availability, and overall health.\n\n• Perform SQL query optimization and database performance tuning.\n\n• Manage database security, users, roles, permissions, and access controls.\n\n• Troubleshoot and resolve database-related incidents and performance issues.\n\n• Support database migrations, upgrades, patching, and maintenance activities.\n\n• Ensure data integrity, reliability, and availability.\n\n• Maintain database documentation, procedures, and configurations.\n\n• Collaborate with development, infrastructure, and application teams on database-related initiatives.\n\n• Participate in failover testing, disaster recovery testing, and maintenance activities.\n\n• Support production, development, and testing database environments.\n\nMust-Have Skills\n\n• 5+ years of hands-on Database Administration experience.\n\n• Strong experience with one or more of the following database platforms:\n\n• PostgreSQL\n\n• Oracle Database\n\n• Microsoft SQL Server\n\n• MySQL\n\n• Database installation, configuration, administration, and maintenance.\n\n• Database backup and recovery management.\n\n• Database replication technologies and administration.\n\n• High Availability (HA) and Disaster Recovery (DR) implementation and support.\n\n• SQL query optimization and performance tuning.\n\n• Database monitoring, health checks, and capacity planning.\n\n• Database troubleshooting and incident resolution.\n\n• Database security administration and access management.\n\n• User, role, permission, and privilege management.\n\n• Database migration, upgrade, and patch management activities.\n\n• Experience supporting production database environments.\n\n• Strong analytical and problem-solving skills.\n\n• Good communication and documentation skills.\n\nGood-to-Have Skills\n\n• Oracle RAC Administration.\n\n• Oracle Data Guard.\n\n• SQL Server Always On Availability Groups.\n\n• SQL Server Failover Clustering.\n\n• PostgreSQL Streaming Replication.\n\n• PostgreSQL Patroni / PgPool.\n\n• MySQL Replication.\n\n• Oracle Enterprise Manager (OEM).\n\n• Grafana, Zabbix, Nagios, or similar monitoring tools.\n\n• Linux Administration.\n\n• Shell Scripting.\n\n• PowerShell Scripting.\n\n• Python Scripting.\n\n• Azure, AWS, OCI, or GCP Database Services.\n\n• DevOps and Automation experience.\n\n• Infrastructure as Code (IaC).\n\n• ITIL Knowledge.\n\n• Oracle, SQL Server, PostgreSQL, or MySQL Certifications.\n\ncRroflyq6s",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر إنديد",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DzSfXP1_jFuejxoUaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "zSfXP1_jFuejxoUaAAAAAA=="
+      },
+      {
+        "job_id": "dGE5TEU2V0Y2SHZ2NHJtU0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGx0UW5KZk1qTnlkMk5FWjJSdlNqUXdjM1p1YTJWd04yMXFTVlZMZEdKdFpYVndhWGcwUTJVdFZtdGFNMU4yWVZKTmNtVXdkRFpmVVhsSU4zaFdSbVJ0V0VwNFdtaFdhSEZ5ZWxCSFIxWTVWRzQyYWxaRFpYcENhbEJEVnpCZk16WktVbGN6Y0VGdGJYZEZaMHRhVFRrMWJ6a3pNWEJMV1dkM1YyNW5VVmQxVldGak5sOFNGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkRmRYTXlXSEpHYVhNeWVGcDVNWFZ3Y0hwUVFrRXpNRlF3Tkd0bg",
+        "job_title": "مسؤول قواعد البيانات (DBA متوسط الخبرة)",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCsQqWvtECcbLD8ivlL5-HycE3lroLq53TKtp&s=0",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "تنقيب",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/ar/jobs-in-middle-east/all/jobs/021308838.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/ar/jobs-in-middle-east/all/jobs/021308838.html",
+            "is_direct": false,
+            "publisher": "تنقيب"
+          }
+        ],
+        "job_description": "Job Title: Database Administrator (DBA)\n\nLocation: Saudi Arabia\nNationality: Saudi National (Mandatory)\nExperience: 3–5 Years (Mid -Level)\nJob Description\n\nWe are looking for an experienced Database Administrator (DBA) with 3–5 years of hands-on experience managing and supporting enterprise database environments. The ideal candidate should have strong experience with PostgreSQL, Oracle, SQL Server, and/or MySQL.\nKey Responsibilities\n• Perform standard DBA activities including database administration, monitoring, maintenance, and troubleshooting\n• Install, configure, upgrade, patch, and maintain database systems\n• Manage database backup, recovery, replication, and disaster recovery activities\n• Monitor database performance, availability, capacity, and health\n• Perform SQL and database performance tuning\n• Manage users, roles, permissions, and database security\n• Troubleshoot and resolve database-related incidents and performance issues\n• Support database migrations, upgrades, and maintenance activities\n• Ensure data integrity, availability, and reliability\n• Maintain database documentation, procedures, and configurations\n• Collaborate with application, infrastructure, and development teams on database-related requirements\nRequired Skills\n• 3–5 years of experience as a Database Administrator\n• Strong hands-on experience with PostgreSQL, Oracle, SQL Server, and/or MySQL\n• Good knowledge of SQL, performance tuning, backup/recovery, and troubleshooting\n• Experience with HA/DR and database replication\n• Knowledge of database security, access management, and monitoring tools\n• Strong analytical and problem-solving skills\n• Saudi National.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٠ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الهفوف‎     •  عبر تنقيب",
+        "job_city": "الهفوف‎",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 25.380025999999997,
+        "job_longitude": 49.5887652,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dta9LE6WF6Hvv4rmSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ta9LE6WF6Hvv4rmSAAAAAA=="
+      },
+      {
+        "job_id": "VlZpTnN6bW05UHhNQ3loSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa0Z5T0ZnNVluUTFkMmMxZWsxRVgwbE5RVFp4VW10dWMyVnhlVWxYTW14dVNFYzNhbkpTV2xoMVV6WnBiV0pEYkd0a2JWVlFXbXN5VldvNFdWVkxNMFJMTjB4V2NuTnRUR2MyY0VoRU5rZFROR0ZJVkhVME0yNUZSVVp0T0ZodGVrMTRRamMwTm5SMFozaGxVelZhUW5SbGVUZExXa1ZsWjFabGRUbElWVlpPY0hoaFoxZ1NGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkR1dFbDROblF5VjFScFpWZHdUM2hKVVVSeE1WbEdkV3RCZUdWMw",
+        "job_title": "Database Administrator (DBA)",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/database-administrator-dba--eastern-province--e8034cefbe8910385235f0c6c557125b5",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/database-administrator-dba--eastern-province--e8034cefbe8910385235f0c6c557125b5",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Job Title: Database Administrator (DBA)\n\nLocation: Saudi Arabia\nNationality: Saudi National\nExperience: 3–5 Years\n\nJob Description\n\nWe are looking for an experienced Database Administrator (DBA) with 3 –5 years of hands-on experience managing and supporting enterprise database environments. The ideal candidate should have strong experience with PostgreSQL, Oracle, SQL Server, and/or MySQL.\n\nKey Responsibilities\n\n• Perform standard DBA activities including database administration, monitoring, maintenance, and troubleshooting.\n\n• Install, configure, upgrade, patch, and maintain database systems.\n\n• Manage database backup, recovery, replication, and disaster recovery activities.\n\n• Monitor database performance, availability, capacity, and health.\n\n• Perform SQL and database performance tuning.\n\n• Manage users, roles, permissions, and database security.\n\n• Troubleshoot and resolve database-related incidents and performance issues.\n\n• Support database migrations, upgrades, and maintenance activities.\n\n• Ensure data integrity, availability, and reliability.\n\n• Maintain database documentation, procedures, and configurations.\n\n• Collaborate with application, infrastructure, and development teams on database-related requirements.\n\nRequired Skills\n\n• 3–5 years of experience as a Database Administrator.\n\n• Strong hands-on experience with PostgreSQL, Oracle, SQL Server, and/or MySQL.\n\n• Good knowledge of SQL, performance tuning, backup/recovery, and troubleshooting.\n\n• Experience with HA/DR and database replication.\n\n• Knowledge of database security, access management, and monitoring tools.\n\n• Strong analytical and problem-solving skills.\n\n• Saudi National.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المنطقة الشرقية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 23.568134699999998,
+        "job_longitude": 50.6793759,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVViNszmm9PxMCyhHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VViNszmm9PxMCyhHAAAAAA=="
+      },
+      {
+        "job_id": "Q1h3SV9VVGtzYXJPY1M5bkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGxYZFdkTGRGQjNYMjg1ZWtaQk4xVllabVpaYWpGZlpXUnBhRjlxVVdWYWIySkNTV050UVVwVmJHWkROVWh0WmxVMmQweFdiMDVvYnpsWE4yZFZkMUpQVmxWVFRXdDVjUzFHUVdnek1IUmlWemN3Y3pobVp6WmZRVlZXWWtGUk5tUmZOMDVXU0RKd1RsVXdWVmRsWjBGT2JWQkZRamh5TTA5U1NqVXdUekJVVTJNMlExUVNGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkR1RUVk1kVWh1TjJWS09EZ3lhMmhrVkd0QlpXdFRXRlZEVTFoUg",
+        "job_title": "Senior DBA for Enterprise Databases (PostgreSQL/SQL Server)",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-dba-for-enterprise-databases-postgresql-sql-server--eastern-province--e1af4cb3902c8bdba6dca26ebcb1e3a9f",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-dba-for-enterprise-databases-postgresql-sql-server--eastern-province--e1af4cb3902c8bdba6dca26ebcb1e3a9f",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Datamatics Technologies is seeking an experienced Database Administrator (DBA) in Saudi Arabia. The ideal candidate will handle database administration, monitoring, maintenance, and troubleshooting across PostgreSQL, Oracle, SQL Server, and MySQL. Strong SQL tuning, security, and disaster recovery skills are required.\n\n3–5 years of hands-on DBA experience and Saudi nationality are preferred. The role involves collaboration with cross-functional teams to ensure data integrity and high availability.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المنطقة الشرقية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 23.568134699999998,
+        "job_longitude": 50.6793759,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DCXwI_UTksarOcS9nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "CXwI_UTksarOcS9nAAAAAA=="
+      },
+      {
+        "job_id": "ZjBGZkkwOGZidW1kM3VCdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEpvWmxZeFRtZzJXbE52V0hsc1gyUnZWREZ1WkdnM1QzQjRPVlJtUm5CeU1sOU1kVXcyZDFGMWNFZzVWalZIVFdaSlkwWXlja0pJTkcwNVNqbHhiVFpTVTNSSVQwdFNSa0l5YkZwS2VtOW1jVTlZWjE4d2NXWnFVSEF5VERWa1JUbFZURVU1U2tkUVUxbHJWbDk1YVVKdk1rZGpSWFJtWDJoMFNGbG1SbkpMUVMxalkxY1NGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkSVpXTlZabkZNVTIxSVdsTldNMXBmUzBJeGVVSlJiV3czTTJsMw",
+        "job_title": "Database Administrator",
+        "employer_name": "ProspeX CRM",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROrKmwS68gvDxlxA1XEMZf0bsSWVbC6viLA5jt&s=0",
+        "employer_website": null,
+        "job_publisher": "Built In",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://builtin.com/job/database-administrator/9948894",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://builtin.com/job/database-administrator/9948894",
+            "is_direct": false,
+            "publisher": "Built In"
+          }
+        ],
+        "job_description": "Location: Saudi Arabia\nType: Full-time\nRole OverviewWe are seeking a highly experienced Database Administrator (DBA) to manage Microsoft SQL Server environments, ensuring high performance, security, and availability across critical systems.\nKey Responsibilities• Manage and maintain Microsoft SQL Server databases\n\n• Ensure High Availability & Disaster Recovery (HA/DR) configurations\n\n• Perform backups, restores, and recovery operations\n\n• Monitor, troubleshoot, and optimize database performance\n\n• Execute database upgrades, migrations, and patching\n\n• Implement database standards, security, and best practices\n\n• Collaborate with internal teams to support business applications\n\nRequirements• Bachelor’s degree in Computer Science or related field\n\n• 10+ years of experience in database administration\n\n• 5+ years of hands-on experience with Microsoft SQL Server\n\n• Strong experience in HA/DR and clustering\n\n• Proven expertise in performance tuning and troubleshooting\n\n• Microsoft certifications (MCSA, MCSE, Azure) are a plus\n\n• Oracle database knowledge is an advantage\n\n• Strong analytical and problem-solving skills\n\n• Good English communication skills\n\n• Saudi National\n\nKey Skills• MS SQL Server Administration\n\n• Performance Tuning & Optimization\n\n• HA/DR & Clustering\n\n• Backup & Recovery\n\n• Database Monitoring\n\n• Security & Governance\n\nCompensation & Benefits• 8-hour shifts (rotational)\n\n• Flight ticket provided by the company (including family: spouse + up to 2 members)\n\n• Medical insurance covered (employee + family up to 2 members)",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٠ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Built In",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Df0FfI08fbumd3uBvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "f0FfI08fbumd3uBvAAAAAA=="
+      },
+      {
+        "job_id": "WjdhM3hJMjU0TnJBYUlUNkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWHBFZUhNd05FZDRVVmxvYTE5U1FtZG9Sak55Y1VWUFoyMUVWVEZhUzFsTGQxcGZjbnBEYTJGTGFsZHpheTFRYkZsVFJUVkRRM3BMZVdaTFNqSk9ZakpKT1dFd1dHTm9VMmN5ZURsVE5WWkhhMVo1U21SU1pXaFVOM0J0UlhjMFNGRkphMjU2VEZscWVIQnpNR2wyVm1aR1NVMUhYMHAzTFRSU1RWTTNVMFJqU1dkek9YZ1NGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkSFltTnJaakZLY2psUlZISnROemt3U2pscU0xaGhhVGR4TkhwUg",
+        "job_title": "Database Administrator",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/database-administrator--eastern-province--ecb9036b2af4417b6fd62d8a0c0033eeb",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/database-administrator--eastern-province--ecb9036b2af4417b6fd62d8a0c0033eeb",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "We are looking for an experienced Database Administrator DBA with 3 5 years of hands-on experience managing and supporting enterprise database environments The ideal candidate should have strong experience with PostgreSQL Oracle SQL Server and or MySQL\nKey Responsibilities\n• Perform standard DBA activities including database administration monitoring maintenance and troubleshooting\n• Install configure upgrade patch and maintain database systems\n• Manage database backup recovery replication and disaster recovery activities\n• Monitor database performance availability capacity and health\n• Perform SQL and database performance tuning\n• Manage users roles permissions and database security\n• Troubleshoot and resolve database-related incidents and performance issues\n• Support database migrations upgrades and maintenance activities\n• Ensure data integrity availability and reliability\n• Maintain database documentation procedures and configurations\n• Collaborate with application infrastructure and development teams on database-related requirements\nRequired Skills\n• 3 5 years of experience as a Database Administrator\n• Strong hands-on experience with PostgreSQL Oracle SQL Server and or MySQL\n• Good knowledge of SQL performance tuning backup recovery and troubleshooting\n• Experience with HA DR and database replication\n• Knowledge of database security access management and monitoring tools\n• Strong analytical and problem-solving skills\n• Saudi National\nShare Required Skills\n• 3 5 years of experience as a Database Administrator.\n• Strong hands-on experience with PostgreSQL, Oracle, SQL Server, and/or MySQL .\n• Good knowledge of SQL, performance tuning, backup/recovery, and troubleshooting .\n• Experience with HA/DR and database replication .\n• Knowledge of database security, access management, and monitoring tools.\n• Strong analytical and problem-solving skills.\n• Saudi National .",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المنطقة الشرقية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 23.568134699999998,
+        "job_longitude": 50.6793759,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DZ7a3xI254NrAaIT6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Z7a3xI254NrAaIT6AAAAAA=="
+      },
+      {
+        "job_id": "N3VzVy1GTnF4bFVFdWZHQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV2xmVDFaWFlsUnplRkZGTldkdFFtdHdNalpJYWtoT2RUZzNVWFJ0VURGRVpVNDNXakpWYVdJMkxYWkRVekpDVGkxdE16Uk1PRXhPYm5CTE9HdFRjMWxYY1RaVmVUUnFhVWRRZUVrMFpFdGZSWGw1WjB4YWNtZGtYMVJRUTBKQk1rUkVVV056TlRseFQxbFdWa1o0Vmw5Q1ZsOTFNRmxIWjJvM2FUUllTRXRQWTBOUWRtZ1NGMVF5Ym05aGRWZFpUVFJUWjNObFRWQTJaREpUYlZGM0dpSkJTRTR3UlRkR2RIUkpTbk5VV1ZaeFVFVkNhRTFFVUVKMGMxcFlVRWQzZEdwMw",
+        "job_title": "Database Programmer",
+        "employer_name": "شركة حرف لتقنية المعلومات",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sabbar.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Sabbar.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sabbar.com/en/jobs/c-riyadh-r-database-programmer/id-74c547a1-6950-47ac-bc24-71fcb9727d62",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sabbar.com/en/jobs/c-riyadh-r-database-programmer/id-74c547a1-6950-47ac-bc24-71fcb9727d62",
+            "is_direct": false,
+            "publisher": "Sabbar.com"
+          }
+        ],
+        "job_description": "نبذة عن الدور\n\nتبحث شركة حرف لتقنية المعلومات عن مبرمج قاعدة بيانات للانضمام إلى فريقها في الرياض. يركز هذا الدور على تصميم وتطوير وصيانة هياكل البرمجيات والأنظمة وقواعد البيانات بطريقة منهجية وفعالة. يتطلب الدور خبرة تتراوح بين سنتين وخمس سنوات في مجال برمجة قواعد البيانات.\nالمهام والمسؤوليات الرئيسية\n• تصميم هيكل البرمجيات وتوضيح الرموز البرمجية.\n• تصميم وتطوير الأنظمة وقواعد البيانات بطريقة سهلة ومنهجية.\n• الحفاظ على الأنظمة وقواعد البيانات وتحديثها بانتظام.\n• فهم متطلبات الأعمال وكيفية عكسها على مستودع البيانات.\n• استخراج البيانات والتعامل مع المصادر المختلفة.\n• تحويل وتغيير أشكال وتنسيقات البيانات حسب الحاجة.\n• تنظيف البيانات والتعامل مع البيانات الناقصة والمكررة وغير الصحيحة.\n• تحميل البيانات إلى مستودع البيانات حسب التصميم المعتمد.\n• إجراء الاختبارات اللازمة قبل التعديل على مستودع البيانات.\nالمؤهلات والخبرات المطلوبة\n• خبرة عملية تتراوح بين سنتين وخمس سنوات في مجال برمجة قواعد البيانات.\n• خبرة في مجالات هندسة البيانات (Data Engineering).\n• خبرة في تطوير عمليات استخراج البيانات وتحويلها وتحميلها (ETL developer).\n• إتقان أدوات تكامل البيانات الشائعة الاستخدام، مثل Talend أو أدوات مماثلة.\nبيئة العمل\n\nهذه الوظيفة بدوام كامل ومقرها في مدينة الرياض، المملكة العربية السعودية. سيعمل المبرمج ضمن فريق متخصص في تقنية المعلومات، ويسهم في تطوير حلول برمجية مبتكرة.\nالتقديم\n\nللمهتمين بالانضمام إلى شركة حرف لتقنية المعلومات، يرجى تقديم طلباتكم للنظر فيها.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Sabbar.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D7usW-FNqxlUEufGBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "7usW-FNqxlUEufGBAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlYlhJTmJXVmZ4VlhmdTZwX2dzcWNwSU1Wcmh4MnFLY0MtLU0yS2NDdFlkOFY5cW5DUW4wVy1tZENfUWdVZUFIU3NkVlF4U1o4bFRpZEdaNjZMZWthekZPZWIxSkdKWmk3NVdMR3hiTW5YR2s1OEtpUW1oeUhIMkx3V2dmV2U3TWF5SE9Mek9QTHJkU3VwZkNyeHZ3S2NUbWlEZUtpNFB4b01jMTZQTXZBVU9RMTQwdVc5ZzlKbGVNak0zRGtDQnVuT0hBM0RUSDJGNWpMeC1DZDdRUGV5dEFrR3RjTnlCLWR3RlotSFpybjYzWEh3VHZRZUJGSjBseE5jR0VzZVFhLWZicWxtRW9ScXhaRF9KdTVTS3lNMkJlYXE2WUZ3ZmFsQ2I5TmlYa0h4dE1qWUs3eU9NZy01dXNVWmpBd19vdmNtSThZc0RaeHNQTGh3eUxNNktKdVNtVDFnMVQtYjltblp2LW5GampZSlJqbVc2NXM1ZlZvWHVHV014VVlhX1VyWGw1ZjJTSEpuSE9VeDVSR2ZZYUtHeFYycGN6N0xmMkVmYkR1UWY4X0E5bV9oV1F2WjhDaDM2YWFmVVZUOGw1WnNJeXpkMDFlQnZxM1VvUTlxamlwSUtJRldjT0JicmpZaWhaVkI0MkhjazNDN29iZlpPYl9IYldIcDVoY2d4VkhnRVk0TG5HV0l0ZkpjRTdSRkxvMXhHMlpRV1BREhdUMm5vYXVXWU00U2dzZU1QNmQyU21RdxoiQUhOMEU3R1pNRmhKVklSYTdYTkpuQ09XRTlvcWVuaUFZZw"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "_meta": {
+    "specialization": "software_development",
+    "query": ".net developer"
+  },
+  "status": "OK",
+  "request_id": "adaeee72-3dbe-4bab-afed-74ebfff37e56",
+  "parameters": {
+    "query": ".net developer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "ZFhlYzd0VlJxcUY0dE5zUUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzUxYzJaTk1FVkJlVlp4Vm5CZk1pMHRNbHBWV0ZCRlJqWkdjSGR6WlZaRlZEQjBlVmM0U21aT2IxRnlhWGhGV1ZOdmMxZzFWRkp1UnpCcGMwOVBaVkJHY1hCc1YzZHZSV3RxVG1Gdk1HVmxSRXhtY0ZWTlVtSkxjME5KUWs5NmVrOW5OM3BhVkRsUWNUaFdkRVpHWjJGUWRsOTNaR0pOT0VzNFpWb3hVR1U0WkZKV1prUVNGemt5Ukc5aGRETk1SRXBtYXpWT2IxQTVUbnBSY1ZGWkdpSkJTRTR3UlRkSGVHcG9VM0ZMVDNKRWRFeG5jVFpMT0d0SWFsZHpOR0pMZW1kQg",
+        "job_title": "Angular & .NET Developer",
+        "employer_name": "700apps",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://appian.com&size=128",
+        "employer_website": "https://appian.com",
+        "job_publisher": "Foundit",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.founditgulf.com/job/angular-net-developer-700apps-saudi-arabia-69669123",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.founditgulf.com/job/angular-net-developer-700apps-saudi-arabia-69669123",
+            "is_direct": false,
+            "publisher": "Foundit"
+          }
+        ],
+        "job_description": "Job Summary\n\nWe are looking for a skilled Angular & .NET Developer to join our development team and contribute to building secure, scalable, and high-performance enterprise applications. The ideal candidate will have strong experience in front-end development using Angular and back-end development using C# and ASP.NET Core, with a solid understanding of database design, RESTful APIs, and software development best practices.\n\nKey Responsibilities\n\n• Design, develop, and maintain responsive web applications using Angular and TypeScript.\n• Develop and maintain back-end services and RESTful APIs using C#, ASP.NET Core, and .NET.\n• Design, optimize, and maintain SQL Server databases, queries, and stored procedures.\n• Integrate front-end applications with back-end services and third-party systems.\n• Implement secure authentication and authorization mechanisms, including JWT and Single Sign-On (SSO).\n• Write clean, maintainable, and reusable code following SOLID principles and established design patterns.\n• Troubleshoot technical issues, resolve bugs, and optimize application performance.\n• Participate in code reviews, technical discussions, and solution design.\n• Collaborate with business analysts, UI/UX designers, QA engineers, and other developers.\n• Work within Agile/Scrum teams and contribute to sprint planning, estimation, and delivery.\n• Support CI/CD pipelines, deployments, and application maintenance.\n\nJob Requirements\n\n• Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field.\n• 4–7 years of professional experience in full-stack web development.\n• Strong proficiency in C#, ASP.NET Core, and .NET Web API.\n• Hands-on experience with Angular, TypeScript, JavaScript, HTML5, and CSS3.\n• Strong knowledge of SQL Server, database design, and query optimization.\n• Experience with Entity Framework / Entity Framework Core and LINQ.\n• Solid understanding of RESTful APIs and front-end/back-end integration.\n• Knowledge of authentication and authorization mechanisms, including JWT and SSO.\n• Good understanding of SOLID principles, design patterns, and clean code practices.\n• Experience with Git and version control tools.\n• Familiarity with Agile/Scrum methodologies and software testing practices.\n• Strong problem-solving, analytical, and communication skills.\n• Ability to work independently and collaboratively within a team.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Foundit",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DdXec7tVRqqF4tNsQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "dXec7tVRqqF4tNsQAAAAAA=="
+      },
+      {
+        "job_id": "MnJoUG1lSGFkMW5ndWFsbEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkpPU2tsTWMzbFFaR3h4UlZCQ05sQldWR2s1ZWtJd1JrMVFiMW95V25sMmVGcGpNVFpvWlhGR1RqQkJNMkZzU201clN6UkNZV1Z1ZUZsQ1FqVnZaMnBPUjFCeWFWOWxkMUZuV2toU1Zsb3ROMU5HYkdFdFVIY3dNWE5sWm01dmEyRk9VRzV4TlRCSFUweG9PVmxwTTJKZlZVVnliblZSYVVsbVFuUmZOSE16VkRGbVlVZ1NGemt5Ukc5aGRETk1SRXBtYXpWT2IxQTVUbnBSY1ZGWkdpSkJTRTR3UlRkRk1HUTFWbFEyTTFKWE0xWTBlbHBSV1c5Nk16STFNVXhPV1ZwUg",
+        "job_title": "Full Stack Developer (.NET & React) Saudi National",
+        "employer_name": "Astek Middle East",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZKCuvdlOHLyT0r3mCmGFvUsfyw08etBQbQWO&s=0",
+        "employer_website": "https://astek.net",
+        "job_publisher": "Saudi.tanqeeb.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021352294.html",
+            "is_direct": false,
+            "publisher": "Saudi.tanqeeb.com"
+          }
+        ],
+        "job_description": "About the Role\n\nAstek Middle East is seeking a Full Stack Developer with strong experience in .NET and React. This full-time role is based in Al Qassim, Saudi Arabia, and requires Saudi nationality. The successful candidate will be responsible for developing, maintaining, and enhancing scalable enterprise applications, working within Agile/Scrum methodologies.\nKey Responsibilities\n• Design, develop, test, and maintain web applications using .NET, **** Core, and React.\n• Build secure, scalable backend services, RESTful APIs, and system integrations.\n• Develop responsive frontend applications using React, JavaScript, and TypeScript.\n• Participate in technical discussions, solution design, and architectural decisions.\n• Write clean, reusable, maintainable, and testable code following software engineering best practices.\n• Collaborate with Product, Business Analysis, QA, DevOps, and other engineering teams.\n• Participate in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, refinement, reviews, and retrospectives.\n• Conduct code reviews and contribute to coding standards and overall software quality.\n• Troubleshoot application issues and support continuous improvement of existing systems.\n• Contribute to CI/CD pipelines, deployment processes, and collaboration with DevOps teams.\nQualifications and Requirements\n• Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field.\n• Typically 5+ years of professional software development experience; candidates with 3+ years may be considered based on technical strength and relevant experience.\n• Saudi nationality is mandatory.\n• Strong hands-on experience with C# and .NET / **** Core.\n• Strong experience with React, JavaScript, and TypeScript.\n• Experience designing and consuming RESTful APIs.\n• Good understanding of SQL and relational databases, preferably SQL Server.\n• Knowledge of software architecture, design patterns, SOLID principles, and clean coding practices.\n• Experience with Git and source-control workflows.\n• Understanding of authentication, authorization, and application security fundamentals.\n• Experience with unit testing and automated testing practices.\n• Practical understanding of Agile/Scrum development environments.\nPreferred Skills\n• Experience with Clean Architecture, microservices, or modular architectures.\n• Familiarity with Azure or AWS.\n• Exposure to Docker, CI/CD pipelines, and DevOps practices.\n• Experience with application monitoring, logging, and performance optimization.\n• Strong analytical, problem-solving, communication, and teamwork skills.\nWork Location\n\nThis position is based on-site in Al Qassim, Saudi Arabia. Preference will be given to candidates currently residing in Al Qassim. Candidates from other locations willing to relocate to Al Qassim are also encouraged to apply.\nApplication Process\n\nIf you possess strong hands-on experience with .NET, React, and Agile development, and are seeking your next opportunity, please submit your updated CV for consideration.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Saudi.tanqeeb.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2rhPmeHad1nguallAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2rhPmeHad1nguallAAAAAA=="
+      },
+      {
+        "job_id": "anMwNWpvZTRPaHN5MkZDdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEZ5YWpSVldYQmZaamxPZEVGUU9WZ3liSGhTU2xWaE1YaEhWalZITTJ0dVEySldTRFp3YzFoVFZuZElWV0paZUcwMFNIVTBUR0prUzFKa05rSnVNelZhUmpFd1FqWjJiWEoxVEdrNVluQlpTMVZwVkZjNFUwOXpVRzFJTFZGbU1tTlZORkJ1U1ZsalozWlJhMHhLU21wNFYzaFBPRGhDU1hkTmRGZ3pORmczUlRCaVVXMFNGemt5Ukc5aGRETk1SRXBtYXpWT2IxQTVUbnBSY1ZGWkdpSkJTRTR3UlRkSE9IaGljMUZUUldoVk1UQTBMV3BaTkc5U1gyY3pNVXBNTkhSbg",
+        "job_title": "Senior .NET Developer: AI, Automation & Enterprise Apps",
+        "employer_name": "KalSoft",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kalsoft.com&size=128",
+        "employer_website": "https://www.kalsoft.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-net-developer-ai-automation-enterprise-apps--riyadh--e8c598bf229cc44c0179d1e957a5af133",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-net-developer-ai-automation-enterprise-apps--riyadh--e8c598bf229cc44c0179d1e957a5af133",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "KalSoft is seeking an experienced Senior .NET Developer to join our enterprise application team in Riyadh. You will design, develop, and maintain applications using C#, .NET Framework/.NET Core, ASP.NET, and Web APIs, while driving automation and AI-driven initiatives.\n\nYou will provide L2/L3 support, optimize SQL Server databases, and build Python-based automation and Web Bots. Collaboration with business stakeholders on requirements, testing, deployment, and production support is essential to",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Djs05joe4Ohsy2FCvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "js05joe4Ohsy2FCvAAAAAA=="
+      },
+      {
+        "job_id": "SXF6RnNrZ2Vwa2d6dm5ac0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWcwY21wbVN6TlRUR2xqTFdkVmNXdGxhMWhRVWxoUlJGUXRkalI2Y2xKM2VXSldiVmRZUzNoR2VFdExOM1ZHUTJaeWRIUTFiV1pvV25CSFRtRnVMVzVSUXpsdVJrMXNabll5YWxOV1RYcHZha1p2YzJKU1dWOU5ZVWQzVm5OZk1IWnlRMjVSVFZsNmJtZEZkbWxDUlZNelQybG9hblYyYUhka1dXMVhSR3R2Tm1KT1lXOFNGemt5Ukc5aGRETk1SRXBtYXpWT2IxQTVUbnBSY1ZGWkdpSkJTRTR3UlRkSFQzWldZMU5GYW5CelozbHpjMFIxT1dRMGVtVnJlVGREWVVkUg",
+        "job_title": ".NET Developer",
+        "employer_name": "Intelligent Tamrah",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ubb3qajiA55Eh045EQwHCX7uWAvvyT6_zyfk&s=0",
+        "employer_website": "https://itamrah.sa",
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/net-developer-5492574/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/net-developer-5492574/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "Job Role:\n\nWe are seeking a senior full-stack .NET developer to drive end-to-end web application development, system architecture, and API delivery. In this role, you will design scalable database structures, construct secure REST APIs using .NET, and seamlessly integrate them with modern front-end frameworks (Angular/React) while ensuring high performance across the full SDLC. Experience in Python and LLM is an added advantage.\n\nKey Responsibilities:\n• Full-Stack Development: Build, test, and deploy responsive enterprise applications by integrating modern UI/UX front ends with custom ASP.NET Core RESTful APIs.\n• Architecture & Infrastructure: Lead database design (MS SQL / MySQL), architecture planning, and server infrastructure deployment.\n• Code Quality & SDLC: Write clean, well-documented C# code, conduct systems analysis, and troubleshoot production issues to meet quality and timeline targets.\n• Process & Mentorship: Collaborate with team leads to drive release management, maintain software documentation, and support junior developers.\n\nWorking hours: Sunday to Thursday, 9 am – 6 pm\n\nBenefits: Health insurance, leave, visa, flight, client on-site.\n\nSkills\n\nKey Requirements:\n• Bachelor’s degree in computer science, software engineering, information technology.\n• Strong expertise in C#, .NET Core/.NET Framework, ASP.NET MVC, Entity Framework, and RESTful Web Services.\n• Proficiency in MS SQL Server, MySQL, database normalization, and object-oriented design patterns.\n• Ability to work on assigned tasks with guidance and collaborate effectively with the development team.\n• Must be available at the Riyadh location with a valid Iqama.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DIqzFskgepkgzvnZsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "IqzFskgepkgzvnZsAAAAAA=="
+      },
+      {
+        "job_id": "dDVSMjVtSGppUTZ6SU02ckFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEJ1TVVSQlVHaG5iRWd5ZWkxUFZXUnROVWhKTVRscWQyNUNVazF4TTA1NlowSnhVVEJ3ZERKRWFYUkxhSFpGUm1OS1YzUjJjMk5RT0djMU9GbFVVMVl6Y1U5R1FVbFFNMDlqT1cxbFFYZHVYMDB0WjBsSFkyNW1ORTl5UVVWWGNuY3pUR1JRYURWeWVHNUVObGR6Y0dGTGFsVTJZWGt6UXpGTVJVZDJkM1JHYWpWdk9EWVNGemt5Ukc5aGRETk1SRXBtYXpWT2IxQTVUbnBSY1ZGWkdpSkJTRTR3UlRkSFZHWTNVWEJYZWt4TVpuUnFUR3RyY1dkMk0xcHpZWHBHVlZsQg",
+        "job_title": "NET Developer / Team Lead",
+        "employer_name": "KEIR International",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAdRkq9Q6ynfX8cGiCEsjGQ6aIvxteEbm6HQA&s=0",
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/net-developer-team-lead-keir-international-riyadh-region--t7xk-911776759",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/net-developer-team-lead-keir-international-riyadh-region--t7xk-911776759",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "وصف الوظيفة\n\n‏⁦For Saudi Nationals only\n\nJob Summary\n\nJob Title: .NET Developer / Team Lead\nLocation: Riyadh, Saudi Arabia\n\nType: Full-time\n\nAbout the Role\n\nWe are seeking a strong NET Developer Team Lead who can both code and lead. You will manage a small team of NET developers, design scalable solutions, and ensure delivery according to business requirements\nKey Responsibilities\n\n• Lead and mentor a team of .NET developers\n• Develop, enhance, and maintain applications using ASP.NET Core / .NET 6+\n• Review code, enforce coding standards, and ensure best practices\n• Translate business requirements into technical tasks and estimates\n• Work closely with QA, Product, and DevOps teams\n• Troubleshoot and resolve production issues\n• Prepare technical documentation\n\nRequirements\n\n• 5–8 years of experience in .NET / ASP.NET Core development\n• Solid experience with C#, Web API, Entity Framework Core, LINQ\n• Good knowledge of SQL Server and database design\n• Experience on the e-correspondence systems is preferred .\n• Experience with Git / Azure DevOps\n• Ability to lead, delegate, and follow up with the team\n• Good communication in Arabic & English\n• Only Saudi Candidates\n\nNice to Have\n\nKnowledge of front-end (Angular / React)\n• Experience with microservices, Clean Architecture, and unit testing\n• Cloud (Azure/AWS) exposure\n\nEmail: Careers@keir.com.sa\nRecruitment@keir.com.sa\n\n⁩\n\nالمجال المهني\n\n• اتصالات\n\nنوع التوظيف\nدوام كامل",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dt5R25mHjiQ6zIM6rAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "t5R25mHjiQ6zIM6rAAAAAA=="
+      },
+      {
+        "job_id": "eGJmN1FZY0NwVC1XcWpsY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZalZ2UjBOTVNWSlFRMDl1Tm5vNWJYQnRjVFpyV2s1Qk1FRjJjelJFWW0xd056ZDNkbDg1UkdaMVYweEhjRWxEYTJoTWExbDJaM1JQUTE5aFJXTlhielpUTUZOUFVqSlJaRTh3WjJKRVJGTmllVFpEVG5GSGJtRnhOR1paZUUxVFpYSlhkWFk1TWs0NVRtVXdMVjlpTlhWUWFXZ3lMVjlwZVZJNU5qQm9ZWGt0YkRoNFgyWVNGemt5Ukc5aGRETk1SRXBtYXpWT2IxQTVUbnBSY1ZGWkdpSkJTRTR3UlRkSUxXbFNVVzF3UVhOd01qQmxUR1JIUm5WdVp6UlZiV0V4U0Zsbg",
+        "job_title": "Full Stack Developer (.NET & Angular)- Saudi Arabia",
+        "employer_name": "Diyar United Company",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIzzjBbMS6Y24VQmJPGtI9X2w8Aj8N7Wv3qZc&s=0",
+        "employer_website": "https://www.diyarme.com",
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/full-stack-developer-net-angular-saudi-arabia-5497811/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/full-stack-developer-net-angular-saudi-arabia-5497811/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "Job Title: Full Stack Developer (.NET & Angular)\n\nNationality: Saudi National\n\nExperience: Minimum 1 Year\n\nTechnical Skills: .NET Core, Angular, SQL Server, Cloud Code\n\nRequired Technical Skills\n• Backend Development: Hands-on experience with C#, ASP.NET Core, .NET 6/8+, RESTful APIs, and Entity Framework Core.\n• Frontend Development: Experience with Angular, TypeScript, JavaScript, HTML5, CSS3, and Bootstrap.\n• Database: Good knowledge of Microsoft SQL Server, T-SQL, stored procedures, and database design.\n• Cloud Code: Practical experience using cloud-based development environments and AI-assisted coding tools, such as Claude Code.\n• API Integration: Experience developing and integrating RESTful APIs and third-party services.\n• Version Control: Familiarity with Git, GitHub, or GitLab.\n• Deployment: Basic knowledge of CI/CD pipelines, IIS, and cloud deployment\n\nSkills\n\nQualifications\n• Bachelor's degree in Computer Science, Software Engineering, IT, or a related field.\n• Minimum 1 year of hands-on experience in full-stack development using .NET and Angular.\n• Saudi nationality is mandatory.\n• Good communication, analytical, and problem-solving skills.\n• Ability to work independently and collaboratively within a development team.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٢ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dxbf7QYcCpT-WqjlcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "xbf7QYcCpT-WqjlcAAAAAA=="
+      },
+      {
+        "job_id": "ZVdrSEdZZVEwLVBEeHhOS0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamRuVW5CdlIzRXlRM2N0WTI1SVdHSXhTVmRqVlhneVpsVkhOMjgyY1Y5ak1VRjRZVkZDVDNCVWJpMDJjbmhtUlZBNVpIRk5UamRpUmxZNVpuaElUbEoxUldGQmFqbGlNbUpxTTJsaGVUSXphMFF0Ym1jeFQyRmZTV3hyTkVWeVlqbHNTM2RKTFZONFMxOXhUbWxUVVZSVVVFWmhVWFZCY2twWlUySnlSMk5sY1VGUVNtOFNGemt5Ukc5aGRETk1SRXBtYXpWT2IxQTVUbnBSY1ZGWkdpSkJTRTR3UlRkRlJrNVhSVUprV1RCeWVVZzJXWEJVV1d4eGFrZFJXVXBTVmxOUg",
+        "job_title": "NET Developer / Team Lead",
+        "employer_name": "KEIR International",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAdRkq9Q6ynfX8cGiCEsjGQ6aIvxteEbm6HQA&s=0",
+        "employer_website": null,
+        "job_publisher": "BeBee",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://bebee.com/sa/jobs/net-developer-team-lead-keir-international-riyadh--fj-2437500432",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://bebee.com/sa/jobs/net-developer-team-lead-keir-international-riyadh--fj-2437500432",
+            "is_direct": false,
+            "publisher": "BeBee"
+          }
+        ],
+        "job_description": "وصف الوظيفة\n\n‏⁦For Saudi Nationals only\n\nJob Summary\n\nJob Title: .NET Developer / Team Lead\n\nLocation: Riyadh, Saudi Arabia\n\nType: Full-time\n\nAbout the Role\n\nWe are seeking a strong NET Developer Team Lead who can both code and lead. You will manage a small team of NET developers, design scalable solutions, and ensure delivery according to business requirements\nKey Responsibilities\n• Lead and mentor a team of .NET developers\n• Develop, enhance, and maintain applications using ASP.NET Core / .NET 6+\n• Review code, enforce coding standards, and ensure best practices\n• Translate business requirements into technical tasks and estimates\n• Work closely with QA, Product, and DevOps teams\n• Troubleshoot and resolve production issues\n• Prepare technical documentation\n\nRequirements\n• 5–8 years of experience in .NET / ASP.NET Core development\n• Solid experience with C#, Web API, Entity Framework Core, LINQ\n• Good knowledge of SQL Server and database design\n• Experience on the e-correspondence systems is preferred .\n• Experience with Git / Azure DevOps\n• Ability to lead, delegate, and follow up with the team\n• Good communication in Arabic & English\n• Only Saudi Candidates\n\nNice to Have\n\nKnowledge of front-end (Angular / React)\n• Experience with microservices, Clean Architecture, and unit testing\n• Cloud (Azure/AWS) exposure\n\nEmail: Careers@keir.com.sa\n\nRecruitment@keir.com.sa\n\n⁩\n\nالمجال المهني\n• اتصالات\n\nنوع التوظيف\n\nدوام كامل",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر BeBee",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DeWkHGYeQ0-PDxxNKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "eWkHGYeQ0-PDxxNKAAAAAA=="
+      }
+    ],
+    "cursor": "EowFCswEQUREYldlYU5QdkpzLWV2X2ZKdzlXV24xRnMwNTljODlzTXAzNklsdnhyLV8xeXFZQ1R3eEVsYUNieUk3NG9CNjEzSzJuZ2VJSDNWM2F2R3ozZjlaYm9CX1kyUkZ5RlJab291Z1FuMXVsZUN3OFJuWlUyWXhydnRBMndqUVowMGVwRXdzYXRUUy1lUk1hcTZ6ZDI5eVNmb3U3ekNMV1RYaDJlYnllRjV1bkU1TUVFems2cXUxU0JvSjFPdURLaHBaalRCQnJmWk5LQXBLbkhuNjliamNQSnkxNnhrOVdOMGZHb21TaFgtbmJ3amM2ZHBodXZHeUNZRFpVaG1vRS1pVEpDU3Ftc0ItTWowZ3B6d0ltS1NQUFpwdVI4Y2Y2NkYyb0FsVmQwVzZNTkd2Vm1UNl90cEFhVlZTWFVYX01zejF5QV93YTVVdFMweXJVakk0RlBDc1B2ekhjT2NON2hYYlF0NEZ6V0RkdzhVQUpITDJ6bks0d1JITVBTNzZ0VHQxLWpSTkZFSUxTc0VlcEQtay04djVNTGlEQXVGVDNtYUJPNnc2UGNVRlFYdnhBbmtfZkQ5cFhYTlhTSGNEQ1pnQkVYdklOc2hFNFBJOXJwS3daR2RYUUFlLWtfUmo0OElJenZFR0xhR1RNNlFXNGxOUnd2NkQ4V1MzTEMzdHkwU1E3X1pjdHJuNFRJV1d3azdCaUhTR216c3gtS29EZ3U4U2Y3Tzh4THlqY2M5YU52SEQxXzdFa2Iydl9kUkhtTUFSQjNOV3ZCcVJxVjY5Ehc5MkRvYXQzTERKZms1Tm9QOU56UXFRWRoiQUhOMEU3SG44a1RCdTlabzdjMVZGQm9vM2JwS0M0Rk53dw"
+  }
+}

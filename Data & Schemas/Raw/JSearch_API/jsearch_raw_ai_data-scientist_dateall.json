@@ -1,0 +1,383 @@
+{
+  "_meta": {
+    "specialization": "ai",
+    "query": "data scientist"
+  },
+  "status": "OK",
+  "request_id": "2abcec74-620d-437e-a747-3bf9edbd9487",
+  "parameters": {
+    "query": "data scientist in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "all",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "ZS05b1JWTkRGd0t2ZHZESUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVEZpYUZCME5XTjNjMUZ4YjNwS1REbExMWFpaU0haaldtY3hSR0ZKZEhGVVdVbGFjMHBrYm1aT1NIWlpORGhvYzB4VVMzTlJNMlJGWTI1MmFtRnFhWGR4WXpkRmRWUnhhSFZRVUZBeGVtRlVYMlp3YkRjM0xWcFNUalZETjBRMlNHSjJRamxIZW1GQmIwTjFNMUpDU2kwNVJqaHRjamcyVldWTloweENUMk55ZURsMVptc1NGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBnMVYyaFlRamh6TkZoVlRHRllXSFJPUkVRd1RFTTVkRFJrT1dj",
+        "job_title": "Data Scientist - AI & Data Analytics (Fresh Graduate)",
+        "employer_name": "Alhugayetjob",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alhugayetjob.com&size=128",
+        "employer_website": "https://alhugayetjob.com",
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/-5078297142621437848",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/-5078297142621437848",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Al Hugayet Group in Dhahran is seeking a Data Science/AI aware graduate for SMP opportunities in Oil & Gas industry. The role requires a bachelor’s degree in Data Science, Computer Science or Information System and knowledge of data science and AI.\n\nThis is an employment/contract type in the oil & gas sector, located in Dhahran. Fresh graduates with GPA requirements apply; start falls between Oct 25 and Oct 28, 2026.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3De-9oRVNDFwKvdvDIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "e-9oRVNDFwKvdvDIAAAAAA=="
+      },
+      {
+        "job_id": "U3E4MURIcHlGYWVFRTlnRUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVmxaZWpSRlNqVkVhRFZQTUZwa1RrZGxRemhxYkZkcVNERktURUo2VW5oWlZGbDNZV04xVEZCZmRXOVZZVzlGVjJSdWQwNVBlSEo2TUVNeWFWZFJOekJrWnpabmFGVXdjME4wY0dvdE5IZ3dXbXBwYnpOdE0wZ3RkV1p5TlVGQlVXeDRSRlp3UnkxR01uSkplWEptT0ZCTFRWa3pkek5STkRWS2RFUk1jWG95V0dGaFNHNFNGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBWellrYzJRMWczWlZKdU9HZHRZbmh1UWxsTU1HNDFORnBmYjFF",
+        "job_title": "Senior Data Scientist",
+        "employer_name": "Aramco Trading",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aramcotrading.com&size=128",
+        "employer_website": "https://www.aramcotrading.com",
+        "job_publisher": "Aramco Trading Company",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.aramcotrading.com/job/Dahran-Senior-Data-Scientist-East-31311/857113423/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.aramcotrading.com/job/Dahran-Senior-Data-Scientist-East-31311/857113423/",
+            "is_direct": false,
+            "publisher": "Aramco Trading Company"
+          }
+        ],
+        "job_description": "Senior Data Scientist\n\nLocation: Saudi Arabia\n\nDepartment: IT / Data Science\n\nRole Overview\n\nWe are seeking a Senior Data Scientist to drive advanced analytics and machine learning initiatives across the organization. The role focuses on developing data-driven solutions, building scalable models, and generating insights to support business and digital transformation objectives.\n\nKey Responsibilities\n• Lead development and deployment of machine learning and advanced analytics models.\n• Identify, integrate, and analyze large structured and unstructured datasets.\n• Collaborate with engineering and business teams to deliver data-driven products and insights.\n• Apply statistical analysis and experimentation to solve complex business problems.\n• Present insights through data visualization and stakeholder communication.\n• Mentor junior data scientists and support best practices adoption.\n\nRequirements\n• Bachelor’s degree in Data Science, Computer Science, Statistics, or related field.\n• 7+ years of experience in data science or machine learning roles.\n• Strong programming skills (Python, R, or similar).\n• Experience with ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn).\n• Solid statistical analysis and data visualization expertise.\n• Experience working with large datasets and model deployment.\n\nPreferred\n• Experience with big data or cloud platforms (e.g., Spark, AWS, Azure, GCP).\n• NLP, time-series, or advanced analytics specialization.\n• Leadership or mentoring experience.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الظهران     •  عبر Aramco Trading Company",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DSq81DHpyFaeEE9gEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Sq81DHpyFaeEE9gEAAAAAA=="
+      },
+      {
+        "job_id": "bmNRckVrRHVjRGZTN0FLX0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXa2RqVDBaVmN6SnVkRlUzZVVOT1RrVlRRa1IwU2tWRGNEZGpOa2x5VXkwd1IwOHRhMFJwU2xocFNsUjNXVXAwVlVoTGIwMU5jVFIwTm14Nk1tMVpOMWN3WTJwYVRsVnRiMHRYUkRsR2RFMHhZVVZhY1U5V1VtWk5VMUJDYm5wTGJVSllYMVk1TFhFNFRrVlpNV0Z3V20xdVMydEVaMmRZWW5WUmREWkRTWGcxUlZWUlJFb1NGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBabWNHTjZhR2xrTmt4SGQyaFhRWEYzVGtOVlRIZDRNVEU1V0hj",
+        "job_title": "Hybrid AI Data Scientist – Entry Level",
+        "employer_name": "International Business Machines Corporation",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-YFFnD4wL58tYc9vho6eZP3jqKjWmGjhUbHM&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/hybrid-ai-data-scientist-entry-level--al-bahah--e0020e57829c2bd6e136134b2d9d0103c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/hybrid-ai-data-scientist-entry-level--al-bahah--e0020e57829c2bd6e136134b2d9d0103c",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "IBM in Al Baha, Saudi Arabia is seeking an entry-level Data Scientist specializing in Artificial Intelligence. You will support design, build, and deployment of AI/ML solutions under senior guidance across the project lifecycle.\n\nYou will collect and preprocess data, perform EDA, and help translate requirements into analytical problems. The role emphasizes collaboration with business stakeholders, cross-functional teams, and a focus on responsible AI, data privacy, and model monitoring in",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٨ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الباحة     •  عبر JobLeads",
+        "job_city": "الباحة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 20.012303,
+        "job_longitude": 41.468586599999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DncQrEkDucDfS7AK_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ncQrEkDucDfS7AK_AAAAAA=="
+      },
+      {
+        "job_id": "NS1fd1JJLUE2a0JFaFJaNUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVU5tZEc5R1RHbDBPRGRJY0dScFdVaHpWVE14VUhkTFNITlZkbmgwZGxWUFFYQlNhWEJSZGtVd2MxSmxUbmhMTmxWNlEwMVRWbmxwZVVVeWVHVnZVM2R5TWtwWFIxbEROakJLYTNKcFV6QnBWek5EVm1FemJYSndPVk5rWVRKRWFXbHdXRE5qYTFOd1owMW1VR3ROTVV0cVFrTmliRGcxVkhCbU4zbEZVV2hxUXpaek5Xc1NGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBkZmVraGphR2hOY1daNFdVWk9jVTFoVTJSQ2MzWXplWGhIWVdj",
+        "job_title": "Lead Specialist, Data Science & Artificial Intelligence",
+        "employer_name": "Ma'aden Legal Employer",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.maaden.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Maaden",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.maaden.com/gb/en/job/9279/Lead-Specialist-Data-Science-Artificial-Intelligence",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.maaden.com/gb/en/job/9279/Lead-Specialist-Data-Science-Artificial-Intelligence",
+            "is_direct": false,
+            "publisher": "Maaden"
+          }
+        ],
+        "job_description": "Maaden, established in 1997, is one of the fastest-growing mining companies in the world and the largest multi-commodity mining and metals company in the Middle East. We are leading the development of the mining industry to become the third pillar of Saudi Arabia’s economy by building a world-class, unique, and fully integrated mining value chain.\n\nWe are pleased to share an exciting opportunity for the below mentioned position. This role offers a chance to contribute to our ambitious growth and play a key part in shaping the future of mining in the Kingdom.\n\nWhy This Role Matters\n\nThis role leads advanced data science and analytics initiatives within the Agentic AI department, translating business problems into scalable analytical solutions, AI-enabled insights, predictive models, and decision intelligence products. It helps build enterprise capabilities that use trusted data, machine learning, automation, and agentic AI concepts to improve productivity, operational performance, and business decision-making.\n\nWhat You Will Deliver\n\nLead Data Science and Analytics Solutions\n\nTranslate business priorities, operational challenges, and use cases into clear data science problem statements, analytical approaches, and measurable outcomes.\n\nDesign and deliver predictive, prescriptive, diagnostic, and exploratory analytics solutions that support decision-making across business and operational domains.\n\nDevelop machine learning models, statistical analyses, simulations, optimization approaches, and advanced analytics products using enterprise data assets.\n\nEnsure analytical outputs are interpretable, actionable, repeatable, and aligned with business value, adoption needs, and governance requirements.\n\nEnable Agentic AI and Intelligent Analytics\n\nSupport the development of agentic AI use cases by defining data, model, workflow, evaluation, and decision-support requirements.\n\nCollaborate with AI engineers, platform teams, data engineers, and business stakeholders to embed analytics and machine learning into autonomous or semi-autonomous workflows.\n\nDefine evaluation approaches for AI-enabled insights, model performance, business impact, human oversight, and continuous improvement.\n\nPromote responsible use of agentic AI by ensuring transparency, explainability, control, auditability, and fit-for-purpose model deployment.\n\nAdvance Data Products and Decision Intelligence\n\nCreate reusable analytical assets, data science patterns, feature logic, model components, and decision intelligence products that can scale across business domains.\n\nPartner with data platform, governance, and architecture teams to ensure data products are trusted, well-documented, reusable, and operationally maintainable.\n\nIntegrate analytics into dashboards, workflows, applications, copilots, and AI agents where decision support can improve speed, quality, and productivity.\n\nMaintain clear documentation covering assumptions, data sources, model logic, limitations, controls, and expected business usage.\n\nEnsure Model Quality, Governance and Value Realization\n\nApply appropriate data science governance practices for model validation, performance monitoring, bias checks, versioning, deployment readiness, and lifecycle management.\n\nDefine success measures, impact metrics, adoption criteria, and benefit tracking approaches for analytics and AI-enabled solutions.\n\nMonitor solution performance after deployment and recommend improvements based on usage, feedback, model drift, data quality, and business impact.\n\nEnsure data science and analytics solutions remain compliant with data governance, cybersecurity, privacy, and responsible AI expectations.\n\nProvide Technical Leadership and Stakeholder Advisory\n\nProvide expert guidance to analysts, data scientists, engineers, and business teams on analytical methods, model design, evaluation, and adoption.\n\nAdvise stakeholders on what analytics or AI can realistically solve, required data readiness, implementation complexity, and expected value.\n\nReview analytical designs, model outputs, assumptions, and recommendations to ensure technical quality and business relevance.\n\nCommunicate insights, risks, limitations, and recommended actions clearly to technical, operational, and executive stakeholders.\n\nWhat Success Looks Like\n\nBusiness problems are translated into clear data science use cases, analytical approaches, and measurable value outcomes.\n\nPredictive, prescriptive, and decision intelligence solutions are delivered with strong technical quality and practical business relevance.\n\nAgentic AI use cases are supported with trusted data, robust models, evaluation methods, controls, and human oversight where required.\n\nAnalytics and AI products are reusable, documented, governed, monitored, and aligned with responsible AI expectations.\n\nStakeholders receive clear insights, recommendations, and decision support that improve productivity, performance, and adoption.\n\nMinimum Qualifications\n\nBachelor’s Degree in Data Science, Computer Science, Artificial Intelligence, Statistics, Mathematics, Engineering, Information Systems, or a related discipline. Master’s Degree is preferred.\n\nExperience\n\nMinimum 10 years of experience in data science, advanced analytics, machine learning, AI solution delivery, decision intelligence, or data product development.\n\nStrong experience translating business requirements into analytical solutions, developing models, evaluating performance, and deploying analytics into operational workflows.\n\nExperience with agentic AI, generative AI, MLOps, responsible AI, cloud data platforms, or enterprise analytics environments is preferred.\n\nSkills That Matter\n\nAdvanced data science, machine learning, statistical modeling, optimization, simulation, and predictive analytics\n\nAgentic AI concepts, generative AI, decision intelligence, AI workflow design, and model evaluation\n\nPython, SQL, analytics platforms, notebooks, visualization tools, cloud data platforms, and MLOps practices\n\nData preparation, feature engineering, model validation, performance monitoring, drift detection, and lifecycle management\n\nResponsible AI, explainability, transparency, bias awareness, human oversight, and governance controls\n\nData product thinking, reusable analytical assets, documentation, scalability, and operationalization\n\nBusiness problem framing, stakeholder advisory, insight storytelling, and value realization tracking\n\nAbility to coach teams, review analytical work, manage ambiguity, and communicate with technical and executive audiences\n\nBenefits\n\n1. Career Growth\n\n2. Competitive Salaries\n\n3. Comprehensive Package\n\n4. Inclusive Work Environment\n\n5. Work-Life Balance\n\n6. Employee wellness",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Maaden",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D5-_wRI-A6kBEhRZ5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "5-_wRI-A6kBEhRZ5AAAAAA=="
+      },
+      {
+        "job_id": "T0FmZmk4OUNCQ0RHZ3hYV0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVFpTV0ZCQ2JVWlVVWE5IV0RocWEyOTNkVUZPTm1SNWFqRktUMmMyV0dwNk1YaGxXRzAzYmtWWlpHdFpkbEpLVDB4cmMyWjFTV2RVUlVFdGRrVXRVVlpLWlV0V1ZtUkpSRTl2YVdWd2RIUkVabEJUYlRsMWJUWnJVMFpRVkhaTlJrcE9XRmgzUzFOcFZWQXRaVVZIYVVSRmFIcEhRbHBsTTNwQ1F6Sk5Yelp1VlRNeFoxTVNGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBaUGNXMXZMWGt6U0VFMFUySlBhME0xWkZoaVMyNW5kRWRYVlZF",
+        "job_title": "Data Engineering Specialist",
+        "employer_name": "Aramco",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://americas.aramco.com&size=128",
+        "employer_website": "https://americas.aramco.com",
+        "job_publisher": "Aramco | Careers",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.aramco.com/expat_us/job/Data-Engineering-Specialist/857087823/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.aramco.com/expat_us/job/Data-Engineering-Specialist/857087823/",
+            "is_direct": false,
+            "publisher": "Aramco | Careers"
+          }
+        ],
+        "job_description": "Aramco energizes the world economy.\n\nAramco occupies a special position in the global energy industry. We are one of the world’s largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.\n\nWith our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.\n\nHeadquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.\n\nWe are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.\n\nOverview\n\nWe are seeking a Data Engineering Specialist to join Downstream Global Optimizer (GO) team.\n\nThe Downstream Global Optimizer team drives commercial optimization across Saudi Aramco’s integrated downstream value chain, including domestic and international refining assets. The GO team identifies and captures optimization opportunities to enhance system netback and deliver shareholder value. By building robust data infrastructure, automating pipelines, and enabling real-time analytics, the team supports agile decision-making in dynamic market conditions.\n\nYour primary role is to design, develop, and maintain scalable data platforms that power the iGO (intelligent Global Optimizer) ecosystem. Your work will ensure seamless integration of structured/unstructured data, enable high-performance analytics, and provide reliable foundations for optimization models, machine learning pipelines, and enterprise reporting. You will focus on building and maintaining the data infrastructure that supports our data scientists. This role will involve designing and implementing scalable data pipelines, ensuring data quality, and managing data storage solutions. The specialist will work closely with data scientists and other teams to provide the necessary data infrastructure for advanced analytics and machine learning models.\n\nKey Responsibilities\n\nAs the successful candidate you will be required to perform the following:\n• Design and implement data architectures and efficient ETL (Extract, Transform, Load) processes to move and transform data from various sources into a format suitable for analysis.\n• Ensure the accuracy, completeness, and consistency of data by implementing data validation and cleansing processes.\n• Architect and manage data storage solutions, including data lakes and warehouses, to meet the needs of the organization.\n• Work with data scientists and other stakeholders to understand data requirements and provide appropriate data solutions.\n• Optimize data pipelines and architectures for scalability and performance, ensuring they can handle large volumes of data efficiently.\n• Maintain thorough documentation of data systems, pipelines, and processes for clarity and continuity.\n• Proficiency in languages such as Python, SQL, and Java or Scala.\n• Experience with big data technologies like Apache Spark, Hadoop, Kafka, and Airflow.\n• Knowledge of cloud services such as AWS, Azure, or GCP, including their data storage and processing services.\n• Understanding of data warehousing concepts and experience with tools like Databricks, Microsoft data fabric and Cloudera.\n• Familiarity with ETL tools and processes for data transformation and migration.\n• Experience with CI/CD pipelines and version control systems like Git.\n\nMinimum Requirements\n• You will hold a Bachelor’s degree in Computer Science, Data Engineering, Software Engineering, or a related field from a recognized institution. A Master’s or advanced degree is preferred.\n• You will have at least 10 years of experience in data engineering, data architecture, or enterprise data platform development, including 5+ years in designing and managing enterprise-grade data pipelines.\n• Strong technical expertise in programming languages: Python, SQL, Scala, and experience with data engineering frameworks (Apache Spark, Kafka, Airflow, Flink).\n• Proven experience building data lakes, data warehouses, and ETL/ELT pipelines for large-scale, heterogeneous datasets.\n• In-depth knowledge of cloud platforms (AWS, GCP, Azure) and distributed data processing tools (e.g., Databricks, Cloudera, Snowflake).\n• Hands-on experience with data governance, metadata management, and data quality frameworks.\n• Ability to work in complex, cross-functional environments, translating business needs into scalable data architectures.\n• Strong communication skills to articulate technical designs to stakeholders and mentor junior engineers.\n• Familiarity with industrial/energy sector data ecosystems (e.g., OT/IT systems, SCADA, ERP, market data) is preferred.\n• Certifications in cloud platforms (AWS/GCP/Azure), data engineering (e.g., Google Professional Data Engineer, AWS Big Data Specialty) are a plus.\n\nWork Location and Work Schedule\n\nWork Location: Within Saudi Arabia – To be specified in Job offer\n\nWork Schedule: Full Time - To be specified in Job offer\n\nJob Post Duration\n\nJob posting start date: 2/5/2026\n\nJob posting end date: 12/30/2026\n\nWorking environment\n\nOur high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.\n\nAt Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.\n\nWe have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Aramco | Careers",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DOAffi89CBCDGgxXWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "OAffi89CBCDGgxXWAAAAAA=="
+      },
+      {
+        "job_id": "ZWdsQjdqVU1Nb0E1aXFJTUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbkJuWjA1QkxVSndXbXMzV0RJNFNISjZiWFpqWkUxQ2NWaE1VazE1ZFZSeGNGRnRjazkxTlhWNWFYWlBhbnAxT0ZNMFNHODBjbXB6WDA1WE9YQklaRk5LYjJNMmFHdE5kRTlzZFVRdGEwTjZNMVpDTkV0V1dpMVJXRXRPVXpkWVRtb3paSGR5TWtjMU1URllTbHBHY0hZMVpVeDJTMVJaY21WUWFrTlFYeTF2TUhKV1pYTVNGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBkWlIxVkdiazVPTUdkVVQzWjJhME5LTkhSSk0xcGlhMFIwU1ZF",
+        "job_title": "Entry-level Ai Data Scientist: Build & Deploy Ml",
+        "employer_name": "International Business Machines Corporation",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/1850914370578546688",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/1850914370578546688",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "IBM Consulting in Saudi Arabia invites an entry-level Data Scientist to join a global team building AI solutions. You'll work under senior data scientists on end-to-end AI/ML projects, applying Python, statistics, and ML frameworks to solve real business problems.\nYou'll collaborate with engineers, architects, and business analysts, contribute to responsible AI practices, and communicate findings with clarity to non-technical stakeholders.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobrapido.com",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DeglB7jUMMoA5iqIMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "eglB7jUMMoA5iqIMAAAAAA=="
+      },
+      {
+        "job_id": "czZ0d21sRlo5bmZTemZpUUFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVWgwTWs1b2FrTktTRVpQWVVKNloyTm1lbXBTYTJvNVRWSnJXV042TnpCTmFIZHJUMGxGVEdabk0zQkpabXRuZW14bVdXMWZRM2xtYkRGSGNFSlZhRTVKY0dObFpUQm1lRlZTWDJsaGMwUmlaakkxVTBwQllrMUxiMlJ5T1haNWQyTlBjVWhHVGtrMVNGWlVORnBmYTNCSFdWcHNjVzl0TUZoVlQwOHlaMVpPY21KUllrTVNGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBVMlVqQTJNV3BoWWtSSWJGcENUbWRPYUVoeWJVdFFZMk50VjBF",
+        "job_title": "Data Scientist",
+        "employer_name": "Apptad",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apptad.com&size=128",
+        "employer_website": "https://apptad.com",
+        "job_publisher": "Saudi.tanqeeb.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021297503.html",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://saudi.tanqeeb.com/jobs-in-middle-east/all/jobs/021297503.html",
+            "is_direct": false,
+            "publisher": "Saudi.tanqeeb.com"
+          }
+        ],
+        "job_description": "Develop and deploy Machine Learning and Predictive Analytics models. Perform statistical analysis, regression, classification, clustering, and time-series forecasting . Build and manage scalable ETL/data pipelines . Work with large datasets using Python, SQL, PySpark, and Big Data technologies . Develop dashboards and analytical reports using Power BI or Tableau . Build and manage data pipelines using Azure Data Factory (ADF) . Perform data preprocessing, feature engineering, EDA, and model evaluation. Apply A/B testing and hypothesis testing for data-driven decision-making. Collaborate with business and technical teams to translate business requirements into analytical solutions.\n\nDesired Candidate Profile\n\nImmediate joiners preferred Candidates should be willing to relocate to Riyadh, Saudi Arabia Candidates from Pan India can apply.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٤ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر Saudi.tanqeeb.com",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Ds6twmlFZ9nfSzfiQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "s6twmlFZ9nfSzfiQAAAAAA=="
+      },
+      {
+        "job_id": "WUFWSFJsX2piSVlic3IwWkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZVk50V21WRVkxOVpTVWxrYkVaRlpVcDJNa05NT1ZjeVJVVjBXR3RuU2tKb2NXbzNaakZCVFZWallXeHFaamRMVVZWYWRtcElOa3BFZW1KMloyUlVha2h3Y0VaSkxYVklXRVZTYWtFNFRHdEJhbGh6TTFKeUxXZEpjMFZEYVVaNllqWkplVGhqWXpCWVJreHlPV2g2VEZSUGFsRkxkSHBKV0U1UmNHeFNjWGhNUmtwTFVIZ1NGbWN5VUc5aGRFOVhSSEp4ZEhGMGMxQm5UVU14VDBFYUlrRklUakJGTjBnMk9GOHdiM0J4Y1hocVlsbzRSelpyVEVSTVJrUTRhMEZXT0dj",
+        "job_title": "Data Scientist – Saudi Arabia (Retail & E-commerce)",
+        "employer_name": "Davidson Tech Recruitment",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://davidsontechrecruitment.com&size=128",
+        "employer_website": "https://www.davidsontechrecruitment.com",
+        "job_publisher": "Davidson Tech",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.davidsontechrecruitment.com/careers/data-scientist-saudi-arabia-retail-e-commerce/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.davidsontechrecruitment.com/careers/data-scientist-saudi-arabia-retail-e-commerce/",
+            "is_direct": false,
+            "publisher": "Davidson Tech"
+          }
+        ],
+        "job_description": "Davidson Tech Recruitment has been mandated to recruit a Data Scientist for their client in Saudi Arabia. We are seeking a Data Scientist with a minimum of 4 years of relevant experience. In this role, you will build predictive and prescriptive models to optimize pricing, promotions, assortment, and customer retention for a leading omni-channel retailer. Domain / Sub-domain: Retail, e-commerce, marketing analytics, supply chain analytics. Key responsibilities include experimentation design, churn prediction, recommendation systems, and demand forecasting. Strong proficiency in Python, SQL, Jupyter notebooks, and libraries such as pandas, scikit-learn, XGBoost, and Prophet is required. Experience with BI tools (Power BI, Tableau, or Looker) and cloud data warehouses (Snowflake, BigQuery, Redshift) is mandatory. You will collaborate with data engineering teams to define data models and enhance data quality. A solid foundation in statistics, A/B testing, and causal inference is expected. Experience working with both Arabic and English datasets will be an advantage. A degree in Statistics, Mathematics, Computer Science, or an equivalent field is required. Experience in retail or FMCG environments is preferred. Salary: AED 27,750 – 36,500 per month + benefits (The salary mentioned is indicative. The final offer will be determined by the client after the interview process.)",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Davidson Tech",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DYAVHRl_jbIYbsr0ZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "YAVHRl_jbIYbsr0ZAAAAAA=="
+      }
+    ],
+    "cursor": "EosDCswCQUREYldlYU1FM0ZsSGNtNmJqbmJMVlAwZzVnTS00OWpTOVo2SFM3R0xkX0ZiN0wzcjR6UXBsdHVzczBueEk5U215Si1EWFA5cHJsWGZfeUZlWFNrdk5kUGc0SDRzalhZWnFYVWwzZmh2eTFnRDBwR3cwQ1YyakhKN3RPR1pmMjAzcjR2czFWaEJScU9sSGtobEE4VzcyWnJJd21qWVFFcWV2clZvQkFSTVcwSlltc193c2trZnVKazUzanpZOTVVQW5uVlQ3Rzl0UHVjRkIyZngwTzlrYmJXLXlmeEpjUkEwU2t2WEFBRjZJaFpWVHhucXR0bTFxTkVzczhrVk5BQ0thNjFCa0JwTTlRLUNmTWVlTXItY2NldW15Z1pMT2ZFWDV0Y205X3U3aUdWdjJLSXlfbWdxYnlWRm1iNV9aY1JwU21QZEFqX2x6NGQSFmcyUG9hdE9XRHJxdHF0c1BnTUMxT0EaIkFITjBFN0dzNXVSS3FaaUt3NE5ac3BVSV9oUkNGSHQ1REE"
+  }
+}

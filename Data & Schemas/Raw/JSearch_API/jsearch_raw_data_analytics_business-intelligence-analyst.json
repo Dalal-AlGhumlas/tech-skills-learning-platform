@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "data_analytics",
+    "query": "business intelligence analyst"
+  },
+  "status": "OK",
+  "request_id": "5dd3584f-cfce-43f7-964f-23eb827a6f34",
+  "parameters": {
+    "query": "business intelligence analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "a3VGQVJlamNYLXBob01XTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1l3U0dFdGREa3lVbVJKUWtKeFJWVjVNV015V1c0eGRIbHJjVWxMYTJkM1ZXeHRSWFEyVUc1c1ZuQnVaMjlzU2t4UFJTMWhkVEZtUTFabVUyNUdhRVpmYlhoRFJGbE5WbE15VXpaSFVrTjZkVUZWWVVWc1ZrMUpOVzVWVEdOak5HSnNMVlYyYkhReU5qSnlaM0J2YTFWUGJFdGFjRGN6ZEZsU1lVRnFjMHR0U2tsWlJrWVNGeTFHY205aGIzSTBUbVpUTlcxTVVWQXpMUzFqWjBGUkdpSkJTRTR3UlRkSVRVc3dMV052VVVoV1lTMXdaakZaYld4MlJGZElVbVZuVXpOQg",
+        "job_title": "Business Intelligence Specialist",
+        "employer_name": "confidential",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://confidential.careers&size=128",
+        "employer_website": "https://confidential.careers",
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/%D8%A3%D8%AE%D8%B5%D8%A7%D8%A6%D9%8A-%D8%B0%D9%83%D8%A7%D8%A1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5503194/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/en/saudi-arabia/jobs/%D8%A3%D8%AE%D8%B5%D8%A7%D8%A6%D9%8A-%D8%B0%D9%83%D8%A7%D8%A1-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-5503194/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "• Gather and analyze data from various sources and transform it into actionable insights to support decision-making.\n• Prepare and develop interactive dashboards and reports using business intelligence tools.\n• Analyze key performance indicators (KPIs) and monitor operational and commercial results.\n• Design and develop periodic reports, analyzing trends and patterns.\n• Work with data analysis tools.\n• Coordinate with various departments to understand data needs and provide appropriate analytical solutions.\n• Improve data quality and the accuracy of reports, ensuring the reliability of results.\n\nSkills\n• Bachelor's degree in Information Systems, Computer Science, Data Analytics, or equivalent.\n• Minimum of two years of practical experience in business intelligence or data analysis.\n• Proficiency in using Power BI or Tableau.\n• Good knowledge of SQL and databases.\n• Strong analytical skills and the ability to interpret data and extract meaningful insights.\n• Experience in preparing reports and presentations.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يوم واحد",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DkuFARejcX-phoMWLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "kuFARejcX-phoMWLAAAAAA=="
+      },
+      {
+        "job_id": "NzB3Sm1uazBvRGhBdVBfd0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVUpvV21GYVMxTTJNMnR3TkRVMFFsSndNSE5NUWpSWk9YUklPRkk0Vmw5QmFGWjZOMDQxVVhCRVJ6UmpZVlpTT1MxU2RrTmhVRVUxUzJkUGVrOTZUVVZVU2tWa09VcDVjV2xCU3pGcE1HTlFXVXgwUzBGMGNteHRVRXc0VTFwcFltOVJkRkpUWjBsYVJGcEJVbkV5YlRNMmEyNWxaMWxrVFdkWWRYTlljMDVwVWpGVmNrd1NGeTFHY205aGIzSTBUbVpUTlcxTVVWQXpMUzFqWjBGUkdpSkJTRTR3UlRkRmRrVk1XSGMyT1d4TVpGVlNhV2RRV0RreGRrTnFabk5IVGtObg",
+        "job_title": "Junior Data Analyst - AI, Power BI & Data Pipelines",
+        "employer_name": "Arab Center for Engineering Studies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/junior-data-analyst-ai-power-bi-data-pipelines--al-khobar--e8168e2c26aea09b80dc84cd12f58217f",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/junior-data-analyst-ai-power-bi-data-pipelines--al-khobar--e8168e2c26aea09b80dc84cd12f58217f",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Arab Center for Engineering Studies (ACES) is seeking a Junior Data Analyst to assist in analyzing large datasets and building data-driven solutions. You will contribute to data modeling, data pipelines, visualization, and AI-related projects while supporting continuous improvement across the data and software lifecycle.\n\nYou will work with ACES teams to ensure data accuracy and provide clear findings through dashboards, reports, and documentation. Prior experience in data analytics is preferred.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الخبر     •  عبر JobLeads",
+        "job_city": "الخبر",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2171906,
+        "job_longitude": 50.1971381,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D70wJmnk0oDhAuP_wAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "70wJmnk0oDhAuP_wAAAAAA=="
+      },
+      {
+        "job_id": "a2lGM3p6ZG02VEVLbnN0NUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0pRYzI1UlRFb3dNMmxwWnpOQ1ZsbFdjRmR5WlVjeGRITmpaMGRFUjBveVZsRjBiR1ZvTjJKbUxYUnJWR1J5Vm5ZeGJ6ZFJXR3hpWXpWelpGOHRja2d0VVdwM05HVlhYMVZOWW1vNFluSlJVSEJGYlU1dlYwRm5TRTE2ZW5veE4wRTFTMHRXV0RoZmNFOVVSbDlJUVRoaFdUVTBZak5MUkROalluUklWbU5NUkdGTU5tVVNGeTFHY205aGIzSTBUbVpUTlcxTVVWQXpMUzFqWjBGUkdpSkJTRTR3UlRkSE1USmpVVGhoYVVkNmVXMUlVRlk1UkROT2RFaHlhbUoyVDFOMw",
+        "job_title": "Strategic BI & Reporting Architect",
+        "employer_name": "DS DeepSource",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/9190690156002838142",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/9190690156002838142",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "DS DeepSource seeks a BI & Reporting Expert to transform raw enterprise data into actionable dashboards, reports, and executive summaries. You will bridge IT and business leadership to drive data-informed decisions across the organization.\n\nResponsibilities include designing dashboards, building data models, maintaining ETL/ELT pipelines, and enforcing data governance across BI platforms. A Bachelor’s degree and expertise in Power BI/Tableau/Looker are required.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DkiF3zzdm6TEKnst5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "kiF3zzdm6TEKnst5AAAAAA=="
+      },
+      {
+        "job_id": "emN2TERCc3VLOUZRTUlnUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbXBETms4eGJFczNPSEpuWDFWNlZFdENhelpDYkZoTFl6WlBRVXBwYzFjMFdFTm9WMk41Tms5VFFqQlFVWFEwYVRGRmFFOTRWak5wV1Y5eFRFeFFTazVZVldneFFtMWFkbFpHV2pSTGFXTnZlWEJDTldwNlRWSTJlbU5uVEdKcVdVNXRabXBsWWxoMFNrOUNiRnBJTmtWM1VVWm1ha3RmVld4c1lVeEtkbWxPZEV4SVgwWVNGeTFHY205aGIzSTBUbVpUTlcxTVVWQXpMUzFqWjBGUkdpSkJTRTR3UlRkSFF6RkVOM3BqY2kxVU5rMUlabXRKU0dSNVZFNUhTbkZMYUcxQg",
+        "job_title": "BI Developer/Consultant",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "Naukrigulf",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.naukrigulf.com/bi-developer-consultant-jobs-in-dammam-khobar-eastern-province-saudi-arabia-in-datamatics-technologies-4-to-6-years-n-cd-40004121-jid-051026500886",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.naukrigulf.com/bi-developer-consultant-jobs-in-dammam-khobar-eastern-province-saudi-arabia-in-datamatics-technologies-4-to-6-years-n-cd-40004121-jid-051026500886",
+            "is_direct": false,
+            "publisher": "Naukrigulf"
+          }
+        ],
+        "job_description": "BI Developer/Consultant Location: KSA (On-site) Experience: 4-6 years ARABIC SPEAKING IS A MUST HAVE. MUST HAVE 4 6+ years building BI solutions end-to-end (data modeling visualization deployment) Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) expert-level in at least one Strong SQL (query optimization, stored procedures, complex joins) Data modeling experience (star schema, dimensional modeling) ETL/ELT experience building and troubleshooting data pipelines feeding BI layers Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the \"consultant\" half not just a report-builder) DAX or equivalent calculation-language proficiency (if Power BI-centric) GOOD TO HAVE Experience with Microsoft Fabric or similar unified analytics platforms Exposure to Python or R for advanced analytics feeding into BI layers Experience presenting to executive/C-level audiences Domain experience in operations/logistics/parking/municipal data Arabic language skills Familiarity with data governance/row-level security implementation Prior consulting background (used to client-facing engagements, scoping, and stakeholder management) Share ARABIC SPEAKING IS A MUST HAVE. MUST HAVE 4 6+ years building BI solutions end-to-end (data modeling visualization deployment) Strong hands-on skills in a major BI tool (Power BI, Tableau, or Qlik) expert-level in at least one Strong SQL (query optimization, stored procedures, complex joins) Data modeling experience (star schema, dimensional modeling) ETL/ELT experience building and troubleshooting data pipelines feeding BI layers Ability to gather requirements directly from business stakeholders and translate into dashboards/reports (this is the \"consultant\" half not just a report-builder) DAX or equivalent calculation-language proficiency (if Power BI-centric)",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Naukrigulf",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DzcvLDBsuK9FQMIgRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "zcvLDBsuK9FQMIgRAAAAAA=="
+      },
+      {
+        "job_id": "S3Qzc2ZrMUNZdzlZejVrX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVnBDZURscmJrSlNTREV3VFdKZlozVkZhRFIyY0RNeE9VRlhNMnB2YjBVMlVVODJlbnBaYUdaT1FYQkZSa3h5U1RoaFNuRmZWVjlIUW0xNmREUkZWRWxCUVMxelQwdHZWRXQxWWpGUlZtRjVYMFl3V0ZKSE5uVjBWMGxOZFdOemRWcHRTR3RhUzJGNWJESjFUREJ5VlVVdGNWSmFWRFpSV2t0MVZFNXBTV1paUm1ReWJrUVNGeTFHY205aGIzSTBUbVpUTlcxTVVWQXpMUzFqWjBGUkdpSkJTRTR3UlRkR2NUZExVWEJJUkdSSVlrRk1hMkZrY1hWV01sOHdTSG8yVDFKUg",
+        "job_title": "Strategic ERM & BI Reporting Specialist",
+        "employer_name": "Müller`s Solutions",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/strategic-erm-bi-reporting-specialist--makkah-region--ef86d2b26d97c2977f6ebfc0b9255341c",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/strategic-erm-bi-reporting-specialist--makkah-region--ef86d2b26d97c2977f6ebfc0b9255341c",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Müller’s Solutions is seeking an Enterprise Risk Management Specialist with 3-6 years of experience to strengthen risk governance, assessment, monitoring and reporting. The role emphasizes maintaining risk registers, reviewing controls, and delivering Power BI dashboards while engaging stakeholders across the organization.\n\nThis position suits proactive professionals aiming to advance enterprise risk maturity within a dynamic organization. Remote work options are not specified.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٨ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "مكة     •  عبر JobLeads",
+        "job_city": "مكة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.424096799999997,
+        "job_longitude": 39.817336399999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DKt3sfk1CYw9Yz5k_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Kt3sfk1CYw9Yz5k_AAAAAA=="
+      },
+      {
+        "job_id": "SnVLbTFZeTVCTzRSNWFHRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFZ3U2twQ2RsZHdkRWQzUjJsaVpHOHlNR0ZqV1VGalJHbHNabXRJV2t0dmVWZGlVa3BwZVVvd1psVjJkRmR4V1VRek1UbDZWbDh6VFVoT1luaGxXR0p3V0U1Q2NEZEtkbDlyT1ZveWRsVjVSa0pGVVRKTmJrbElTMjlqY1dRemNVVllhbU5pVUdkTk56SkViVUppTTNaNWFURlZURVYwUWpZMlp6RlZWblJaUWpWd1gyY1NGeTFHY205aGIzSTBUbVpUTlcxTVVWQXpMUzFqWjBGUkdpSkJTRTR3UlRkSWRIUnphMU5hUjJGQmNXMXlOSEJqVFUxUVlXdzJPRkF3VmkxMw",
+        "job_title": "Strategic Financial Analyst | Power BI & Forecasting",
+        "employer_name": "EXACT Technical Solutions Co.",
+        "employer_logo": null,
+        "employer_website": null,
+        "job_publisher": "Jobs In Saudi Arabia - Jooble",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jooble.org/jdp/4461810834597786004",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jooble.org/jdp/4461810834597786004",
+            "is_direct": false,
+            "publisher": "Jobs In Saudi Arabia - Jooble"
+          }
+        ],
+        "job_description": "Exact Technical Solutions Company in Saudi Arabia is seeking a highly analytical Financial Analyst specialized in Power BI, Power Query, and financial reporting tools. You will develop dynamic dashboards, support budgeting and forecasting, and analyze financial performance.\n\nResponsibilities include preparing KPIs and reports, building budgeting models, and ensuring data integrity across systems. Strong communication across departments and knowledge of ERP systems are required.\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Jobs In Saudi Arabia - Jooble",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DJuKm1Yy5BO4R5aGEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "JuKm1Yy5BO4R5aGEAAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlWWc5M1ZEczQ0TTZ1VHNQa0RadmlvTEJ1TW1sdXMyS1JqRUFTX3lwM2lyY3R2bWd4M3FnMjFXeTh6TFd5QU53OVVPakF2NjVKTVYtdndaQV8xRzBpWFhtSUZlQTZ4TVdEcEM1TnlYSHBFd3BIOVZHUXNZV2dYc2t5YU5tV2dLZE1hRmYtSXZ5TjhQUV9wVXVJdXpDUE80R1RsSGdSdVNtUUwtNDFmekwydUtlVUZvdVg4SUtwRGNyNFEyNGs5Zm9tOUpzeC14WTRISEpFcU9HU1d5SjB5TVVtTml6eUkwelNBUTI0dEhPNXdrS3ZnTi16TkRvbUtJXzVueEc0MG1CaXM0ZWRVVm5FMTZQS1BPSzFSa29fME51TkNPamI3ckJzbmozMUh2QnVHZUprR1ppNnBnSjZkdDZaTEtrbWp1UmVFOG5pb3hCYzlOY3FUc0lLZU5JVFh5cWEycTJGaVFfcjBrSlRsOF9MT0dlbUlJUnliZmIybEgwN1U1azF3UXN6dVZWcGJhZ2syYnpKMXZzSUpvQUZYYzZTOWQ1YjRsYkxuM0VsMDhZRmIxWC1uSjN2MUx6SEhLR3FoU2g0LVNobkVRaklxVDdPRG9Dcm1SRl9lMG9XWFBGWUN2QTVUWXIzdFR4N2tPYTdqTnVLN0QweWNPOUw5VHB2MU11cU5tSXg1eTd3SWJEUE04c1VnOGRtSDJBeURIc3F2VVdlOTN3dGhpblBfRXBpZjdHcGdnUWwwEhctRnJvYW9yNE5mUzVtTFFQMy0tY2dBURoiQUhOMEU3SDF6N3N5ZUhZVTBjSjV0NDY0VUpSRmZLdDBndw"
+  }
+}

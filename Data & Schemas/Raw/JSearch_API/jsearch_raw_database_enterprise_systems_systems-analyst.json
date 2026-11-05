@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "specialization": "database_enterprise_systems",
+    "query": "systems analyst"
+  },
+  "status": "OK",
+  "request_id": "908fc6a8-6dfc-4e23-8b9f-b13662ecf084",
+  "parameters": {
+    "query": "systems analyst in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "REV6MkJTX2lyWkR6aTctR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazFEYkhWTFZuQmtZMlJRZEZneVEzbHRWM1ZVZEdobWRVTkRiRWhEWVMxSGNtWktWVFZqVkZnMWQxTmpkMHBLVVZSamRURnhSbXBxVG1GM1l6QnpWMTlRWVhsNGVVbEZaa1pzWVRjNVFuUlZYMEpzUmt4U2NUZzVZblpPTm1jNVVUSXpUVkpLYjA5cU5VZFdiV2hsVm5OVkxYWk9SM1EzVlZneFYxWmFURXRtWTBSdmFtd1NGMWRzTTI5aGNHSm9UMHRRWVhKbVkxQXpjbWxXTkVFNEdpSkJTRTR3UlRkSFRsaGxhMjlPWVV0VldXUjFaWHB5Um5GRFVreGxXRmxGTURobg",
+        "job_title": "Business System Analyst",
+        "employer_name": "Jobskey Consultancy",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bayt.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/business-system-analyst-70243477/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/business-system-analyst-70243477/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "About the job Business System Analyst\n\nPosition Description:\nWe are seeking a Business System Analyst or Engineer to join Downstream Business Support (DBS) Department which reports directly to the Downstream Finance, Strategy & Planning General Manager. DBS is responsible for developing Downstream strategy for HSE, HR, digital transformation and workforce planning. DBS also coordinates senior VP office communication, handles Ministry of Energy correspondence and strategy and market analysis requests related to Downstream business and briefs for Management. The role is to provide high level technical expertise and professional assistance in the development and utilization of new and existing IR.4.0 technologies, as well as providing guidance on best practices, new digital trends, approaches, and impending digital technologies and its applications. The candidate shall identify downstream business challenges and originates digital solutions by engaging with DS admin areas, recommending or participating in digital studies, and proposing solutions for meeting the company digital transformation objectives and targets. The candidate should have a general understanding of all IR 4.0 solutions and digital tracks (i.e. RPA, AI, Cloud, UAV and robotics), as well as agile approach of use cases implementation.\nLocation: ﻿\nDhahran, Saudi Arabia (﻿must be willing to relocate)\nMinimum Requirements:\n\n• Bachelors degree in Computer science, computer information systems, software engineering or computer engineering.\n• Technical Certification in application development or project management are preferred.\n• The candidate must have at least 5 Years Experience with hands-on implementing digital technologies and application development.\n• Must be certified in one of application development platform.\n• Must have a strong knowledge in Low-Code, no Code App development / RPA / AI\n• Must have Digital Transformation experience.\n• The candidate should have worked as a developer for at least 2 of the following:\n\n• Business processes automation.\n• Robotic Process Automation.\n• Artificial Intelligence.\n\nDuties & Responsibilities:\n\n• Accelerate digitalization by working closely with key stakeholders (i.e. Refining, Chemicals, Power Systems, Supply planning and trading, fuels optimization, pipeline distribution and terminals) to develop the digital strategy, roadmaps and partner with implementation teams to ensure the successful delivery of the digital platforms.\n• Review and analyze user requirements, recommend and develop solution proposals to meet customers requirements and ensure the alignment with enterprise wide digital architecture strategy.\n• Develop necessary documentation as per established standards.\n• Understand how to calculate the value realization from digital use cases deployment.\n• Keep up to-date with the latest digital technology trends, performing PoCs and act as a Coach for the adoption of the latest digital technologies.\n• In conjunction with Downstream organizations and other stakeholders, provide progress reports to Downstream Digital Transformation and oversee periodic updates to Downstream executive management.\n• Conduct technical evaluation of solutions, platforms, and any new technologies.\n• Adhere to company's security standards regulations",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المنطقة الشرقية     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 23.568134699999998,
+        "job_longitude": 50.6793759,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DDEz2BS_irZDzi7-GAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "DEz2BS_irZDzi7-GAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

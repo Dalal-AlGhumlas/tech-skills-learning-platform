@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "specialization": "database_enterprise_systems",
+    "query": "enterprise systems engineer"
+  },
+  "status": "OK",
+  "request_id": "3cd2d548-6d9c-4696-9bbd-e40396bfe50c",
+  "parameters": {
+    "query": "enterprise systems engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "VTAzTVRMQmMyWW43akVwdUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFZ3ZVZWWmExUklMVzB0WjNsMFREazVaV3hEWlZRM1FWVnNUR3BZU1dGMVJWWmpUblJ0V2tsVlJXWjFTbkpJWTI1d1pVNHljVE5IWkRnM2JqRjJlRkEwVTFaVlkwUlZRVWxPUjBWb1NFbFdZblp5ZERobVpVbFZRVVpOZG5SVU5HNTZWRFJRZVRkU1JIcE1iemhPVUVGQ0xUWlJlVE01TUcxRFdrbExlVzR6YVd4NFMxa1NGMUJHTTI5aGRGTnZTelYxTjNGMGMxQnRjVzFPTUZGM0dpSkJTRTR3UlRkRmFFeFhhRU5yZWtsYU1XaERSekJtVFU1cU16UldNRXBSVldKMw",
+        "job_title": "Senior Infrastructure Engineer Saudi National - Riyadh, KSA",
+        "employer_name": "DeepSource Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Jobilize",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobilize.com/amp/job/sa-al-khobar-senior-infrastructure-engineer-saudi-national-riyadh",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobilize.com/amp/job/sa-al-khobar-senior-infrastructure-engineer-saudi-national-riyadh",
+            "is_direct": false,
+            "publisher": "Jobilize"
+          }
+        ],
+        "job_description": "Senior Infrastructure Engineer\nJob Summary\nWe are looking for an experienced Senior Infrastructure Engineer to design, implement, maintain, and optimize enterprise IT infrastructure environments.\nThe ideal candidate will have strong hands‑on experience across servers, virtualization, cloud platforms, storage, networking, backup, and infrastructure security , with the ability to troubleshoot complex technical issues and ensure high availability and performance of critical systems.\n\nKey Responsibilities\n• Design, deploy, configure, and maintain enterprise infrastructure environments.\n\n• Manage Windows Server and/or Linux systems, including patching, upgrades, performance tuning, and troubleshooting.\n\n• Administer virtualization platforms such as VMware vSphere/ESXi, Hyper-V, or equivalent technologies .\n\n• Support cloud and hybrid-cloud environments, particularly Microsoft Azure and/or AWS .\n\n• Manage Active Directory, Group Policy, DNS, DHCP, and related Microsoft infrastructure services .\n\n• Configure and maintain enterprise storage, backup, and disaster recovery solutions .\n\n• Support LAN/WAN infrastructure and coordinate with network and security teams when required.\n\n• Monitor infrastructure availability, capacity, and performance and proactively address potential issues.\n\n• Implement infrastructure security standards, access controls, system hardening, vulnerability remediation, and patch management.\n\n• Troubleshoot complex infrastructure incidents and perform root-cause analysis.\n\n• Participate in high-availability, disaster recovery, migration, upgrade, and infrastructure transformation projects .\n\n• Develop and maintain technical documentation, architecture diagrams, procedures, and operational standards.\n\n• Automate routine infrastructure activities using tools such as PowerShell, Bash, Python, or infrastructure automation platforms .\n\n• Provide technical guidance and mentoring to junior engineers.\n\n• Work closely with application, cybersecurity, network, database, and cloud teams to ensure reliable service delivery.Follow ITIL-based processes for incident, problem, change, and configuration management.\n\nRequirements\n• Bachelor's degree in Computer Science, Information Technology, Engineering , or a related field.\n\n• 3+ years of experience in IT infrastructure/system engineering, including significant experience in enterprise environments.Strong hands-on knowledge of Windows Server and/or Linux administration .\n\n• Strong experience with VMware, Hyper-V, or similar virtualization technologies .\n\n• Good knowledge of Active Directory, DNS, DHCP, Group Policy, and identity/access management .\n\n• Experience with Azure, AWS, or hybrid-cloud infrastructure .\n\n• Understanding of enterprise networking concepts including TCP/IP, VLANs, routing, firewalls, VPNs, and load balancing .\n\n• Experience with enterprise SAN/NAS storage, backup, replication, and disaster recovery solutions .\n\n• Knowledge of infrastructure monitoring and management tools.\n\n• Strong understanding of high availability, business continuity, security, and infrastructure best practices .\n\n• Strong troubleshooting, analytical, and root-cause-analysis skills.\n\n• Ability to manage multiple priorities and work effectively in business-critical environments.\n\n• Strong communication and stakeholder-management skills.\n\nPreferred Qualifications\n• Certifications such as Microsoft Azure, AWS, VMware VCP, Red Hat RHCE, Microsoft, Cisco, or ITIL .\n\n• Experience with infrastructure automation using PowerShell, Ansible, Terraform, Python, or Bash .\n\n• Experience supporting large-scale, highly available enterprise environments .\n\n• Knowledge of container technologies such as Docker and Kubernetes is an advantage.\n\n#",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الخبر     •  عبر Jobilize",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DU03MTLBc2Yn7jEpuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "U03MTLBc2Yn7jEpuAAAAAA=="
+      },
+      {
+        "job_id": "b1dUR3JWZWNXRXFqTC15bUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVkZHYTAxclEyeDRZMmhSYzNWRFYzRkZZM0p5ZGtSalZFeFRaWEZtYlRWTVpGWmFjMnRHUzNwMFZHcEpkVlJJU0hSUVZGUjJSbGx4U0RWMGNtUTBhV0pNVDFCTWQwaGxjMTlYTTBoUFRWUk9NbWxPUzJRNVNVTXpWMHhHWm5reFprTjFTRE5YZDJ0Q2FXWktNM05ETFROc1EwZzNaMVYxVEhKV1MwNTFPV2RKYkdvdGJUQVNGMUJHTTI5aGRGTnZTelYxTjNGMGMxQnRjVzFPTUZGM0dpSkJTRTR3UlRkR2VYcGlUVzlyVEhSdk0zWnFTV0kwVkRKR09VeGxiWEJPVUV4Qg",
+        "job_title": "Senior Linux RedHat Engineer - On-Site Riyadh (Arabic)",
+        "employer_name": "Tech Junction Ltd",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-linux-redhat-engineer-on-site-riyadh-arabic--riyadh--e97dc503b1a688baae9c4eae1c679ea27",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-linux-redhat-engineer-on-site-riyadh-arabic--riyadh--e97dc503b1a688baae9c4eae1c679ea27",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Tech Junction Ltd in Riyadh, Saudi Arabia, seeks an experienced Linux RedHat Engineer to own the administration, hardening, and optimization of enterprise Linux systems (RHEL 7/8/9), virtualization platforms, and cloud services on-site.\n\nIdeal candidates bring 5+ years in Linux, strong Bash/Python scripting, Ansible/Puppet, VMware vSphere, Nutanix AHV, and Azure. Arabic and English fluency is mandatory for government stakeholders, with transferable IQAMA and on-site availability.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoWTGrVecWEqjL-ymAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "oWTGrVecWEqjL-ymAAAAAA=="
+      },
+      {
+        "job_id": "WndUSlZGdFdGS3BaTFVKREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbEZVZVVVMGFsZEpMVFZ2YmtaNGJFUmtOVUUwYWpCUmFYVk1PV0ZOT0d4aVNFUmtXV1ExZDJoVll6UlJUazE1YzNVNUxYcDZia2RTZUd0UFFVWnBXa2RzTUZsWGJEWjNNbGRZTFcxcFJtcGZVRlJRTlVaa1RUUTRhR05mZDIxSk1YaE9YMkpGUWxKNWVqUkpRV2hEYWxGV1gzSnBNMmhNWTBwQ2IyeFJkV28wWmpsM09VOFNGMUJHTTI5aGRGTnZTelYxTjNGMGMxQnRjVzFPTUZGM0dpSkJTRTR3UlRkRlVFZHRTRFV6WDFsRVdYcEJiMm81T0dscmNsQldSRXhhTUhKUg",
+        "job_title": "Hybrid GenAI Engineer: Scalable AI & Innovation",
+        "employer_name": "Silver Edge Arabia",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/hybrid-genai-engineer-scalable-ai-innovation--al-khobar--e140c8d9230adc4abad6a4eb7e558b39b",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/hybrid-genai-engineer-scalable-ai-innovation--al-khobar--e140c8d9230adc4abad6a4eb7e558b39b",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "GenAI Specialist role in a global insights and data organization focuses on designing, building and deploying next-generation AI solutions. You will integrate LLMs and data strategies to drive business growth through scalable ML systems and robust production-grade code.\n\nJoin a hybrid work environment where collaboration with cross-functional teams and leadership is essential to translate complex data into actionable insights and to continuously improve model accuracy and efficiency.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الخبر     •  عبر JobLeads",
+        "job_city": "الخبر",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.2171906,
+        "job_longitude": 50.1971381,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DZwTJVFtWFKpZLUJDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ZwTJVFtWFKpZLUJDAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "specialization": "database_enterprise_systems",
+    "query": "erp consultant"
+  },
+  "status": "OK",
+  "request_id": "6dfec2c9-c1f0-4559-ba1f-1317e9606f5b",
+  "parameters": {
+    "query": "erp consultant in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "dUpCSHhsVDdQTkRzbEZpdUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFV5UkVkU2VrWnhUSEJyUzJGcWNGTk1Wbmc0Wm1vdFpXdG9OV3BEZDFoRFMzTldkMnd6ZFRkZlJsbFNPRXBvZFdabGRGWmlSVFZEWkZCRVIyVnJhVVJGTW1OelJHZHhXVFJvTkU1d1VUUmZia1JNZDJOVVdGVkNTVXRFYm5CVFJtTnpXVTR0ZG1nNVZIbFJjalJqY0ZsNE4wUllaa0oxVjFoc1ptVnVlVk5mUnprdFNVd1NGMUZXTTI5aGRqZE1TM1pxWjNaeU1GQTJZbE5GZFVGM0dpSkJTRTR3UlRkRmFVbHlhazAwUVhKeWFrOW9XRmN0YnkweFoyMXFjbmt5U0dGQg",
+        "job_title": "ERP Consultant | Engineering | Saudi Arabia",
+        "employer_name": "RAWAJ",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bayt.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/erp-consultant-engineering-saudi-arabia-74850489/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/erp-consultant-engineering-saudi-arabia-74850489/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "Leverage your abilities and join the dynamic team of a leading company specializing in Engineering at Saudi Arabia.\n\nThe ERP Consultant will be responsible for implementing, configuring, and supporting Oracle ERP solutions while collaborating with business stakeholders to optimize business processes and ensure successful ERP project delivery.\n\nKey Responsibilities:\n• Analyze business requirements and translate them into functional ERP solutions.\n• Implement, configure, and optimize Oracle ERP modules based on business needs.\n• Lead and support ERP implementation projects throughout the full project lifecycle.\n• Conduct system testing, support User Acceptance Testing (UAT), and ensure successful go-live.\n• Collaborate with business users and technical teams to resolve system issues and deliver enhancements.\n• Prepare functional documentation, process flows, and provide end-user training.\n• Identify opportunities for process improvement and recommend ERP best practices.\nRequirements:\n• Bachelor’s degree in Information Technology, Computer Science, Business Administration, Finance, or a related field.\n• 7–10 years of experience as an ERP Consultant with Oracle ERP.\n• Hands-on experience with Oracle ERP Cloud (Fusion) and/or Oracle E-Business Suite (EBS).\n• Strong knowledge of ERP implementation, configuration, and post-go-live support.\n• Experience with Oracle modules such as Financials, Supply Chain, Procurement, Projects, or HCM.\n• Excellent analytical, problem-solving, communication, and stakeholder management skills.\n• Oracle ERP certifications and strong English communication skills are an advantage.",
+        "job_is_remote": false,
+        "job_posted_at": null,
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DuJBHxlT7PNDslFiuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "uJBHxlT7PNDslFiuAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

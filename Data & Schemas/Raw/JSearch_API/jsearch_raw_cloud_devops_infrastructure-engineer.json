@@ -1,0 +1,338 @@
+{
+  "_meta": {
+    "specialization": "cloud_devops",
+    "query": "infrastructure engineer"
+  },
+  "status": "OK",
+  "request_id": "5af39b3a-32dd-47c3-9d2a-abab48655ae6",
+  "parameters": {
+    "query": "infrastructure engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "Vkl0R21zNm1lU3UyX3RrZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVTV5V1ROWWQybDNRblJTVmxSaU9VMDFaemcxZUdwM1NFMVBXRkZOVTFWUFRuVnRRbWR1WVhrdFJWRnhiMUJzZUVvdFh6WkZOVTVEUVZoSVQxaEVaWFozZFRGMGFuRkZXazh4VWtwQlEzUk9TelUwYkdaS2J6bDVVMk5qYmt3dGNtSkNNR0l3WlVSSmVtUTJTbmh6TjBSZk4wNTVWRkJrYTNOd2VYQXplVmxEVTJZeVZuVVNGMjVHZG05aGNXRjZSMkZxVlRWT2IxQjFkbWxPYVVGRkdpSkJTRTR3UlRkRlJFRkROVEZCY2xOSVZuWjBSWGhGWVdneE9YWmFhV2wzU2xObg",
+        "job_title": "Civil / Infrastructure Engineer – 100% (m/f)",
+        "employer_name": "ARX | smart minds",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/civil-infrastructure-engineer-100-m-f--riyadh--e11004adc2c8cda9882f7bfc083ea9fa0",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/civil-infrastructure-engineer-100-m-f--riyadh--e11004adc2c8cda9882f7bfc083ea9fa0",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "ARX is a global network of specialists in engineering, design, and architecture. Our team offers 360° consulting, project management, and technical services in:\n\ndigital innovation, environment, equipment,\n\nnuclear plants, oil & gas, pipelines, ports,\n\nrailways, river engineering, roads, traffic, tunnels, and water/wastewater treatment.\n\nWith offices across Europe, North and South America, Asia, Africa, and Oceania, our agile task force combines global expertise with local know-how. The result is our uniquely \"glocal\" approach, which allows us to meet the specific needs of each community while incorporating international best practices. At ARX, smart minds strive for a sustainable future, transforming communities one innovative project at a time.\n\nPeople are the heart and soul of ARX. We are a home for innovators, visionaries, and experts to develop talents, launch careers, and collaborate with fellow specialists. ARX values individuals. Believing their brilliance and determination will provide solutions to tomorrow's challenges, we welcome professionals who will both benefit from and enrich our team.\n\nARX, marks a significant expansion into the Middle East with our offices in UAE and KSA. This establishment underscores our dedication to innovation and engineering excellence, bolstering our position in the dynamic GCC market.\n\nFor our office in Riyadh, we are looking for\n\nThe ideal candidate will have the practical engineering judgement to assess site development as part of a coordinated campus. They will understand how levels, ground conditions and external networks affect buildings and access, and recognise constructability issues before they become delivery constraints. The candidate should work methodically through technical submissions and maintain clear communication with infrastructure specialists and package teams.\nResponsibilities:\n• Review site-wide civil and infrastructure designs, including grading, earthworks, pavements and external works.\n• Assess drawings and calculations against the design criteria, applicable codes and client standards.\n• Check site levels, tie-ins and interfaces between external works, buildings, utilities and the security perimeter.\n• Review earthworks and pavement proposals with reference to geotechnical inputs, subgrade assumptions and drainage requirements.\n• Coordinate infrastructure interfaces and corridor constraints with roads, utilities, landscape and building disciplines.\n• Review contractor submittals, method statements and calculations for consistency with the approved design and technical requirements.\n• Identify design gaps and constructability concerns and support resolution of RFIs and technical queries.\n• Participate in drawing and model reviews and verify that agreed interface actions are reflected in updated documentation.\n• Support the Technical Manager with review reports, comment close-out and escalation of outstanding technical risks.\nRequirements:\n• Bachelor's degree in Civil Engineering.\n• 10+ years in civil and infrastructure design or design review.\n• Experience on large campuses, government or institutional sites.\n• Proficient in Civil 3D or similar.\n• Eligible for SCE accreditation; must meet client security vetting requirements.\n• Sound knowledge of earthworks, grading, pavement construction and external utility and drainage interfaces.\n• Ability to interpret geotechnical inputs, coordinated levels and civil technical submissions and maintain traceable review records.\nWe Offer:\n• Opportunity to collaborate with a forward-thinking, synergistic, and innovative team.\n• Exposure to cutting-edge projects driving Middle East / North African regions development.\n• Personalized professional growth and developmental avenues tailored to your career aspirations.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DVItGms6meSu2_tkdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "VItGms6meSu2_tkdAAAAAA=="
+      },
+      {
+        "job_id": "Z3dlWlVrcnJrRU1XdzNyckFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmRxY0hWblZDMHpVek5uYURJNWVEbEpkRWRvVTFSb1praHJUMGRhV25jd1dHOHlRalI2VldzMmMyUlBkWGRoVkdabFUyRmlSakJVUTBkRVpHSnBhMmMwWVhsV01UaHlWRzR5T1RjdGJYcDJjR3hwZHpGNVQxZFVjbGMzUVUxSE0yNUdkR1U1VUZseFJHcGZWRGR3V0dveFRta3lOa293VFV4TVpVUTFiWFoxT0VwRE1sa1NGMjVHZG05aGNXRjZSMkZxVlRWT2IxQjFkbWxPYVVGRkdpSkJTRTR3UlRkR2FqWnBaSEJMY0ZjdFpEZGliV2x5VnpWc1ozbElRV0ZzZEMxUg",
+        "job_title": "Infrastructure Engineer",
+        "employer_name": "E-Solutions Inc",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://e-solutionsinc.com&size=128",
+        "employer_website": "https://www.e-solutionsinc.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/infrastructure-engineer--jeddah--e2ecafd749c81cdbcbbfdf732b470ef2d",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/infrastructure-engineer--jeddah--e2ecafd749c81cdbcbbfdf732b470ef2d",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "The role requires a combination of hands-on infrastructure engineering, Windows administration, network and firewall configuration, virtualization, hardware deployment, and operational troubleshooting. The engineer will participate in end-to-end implementation activities, from site readiness assessments and infrastructure installation through configuration, integration testing, commissioning, documentation, and operational handover.\nA. Infrastructure Implementation and Deployment\n• Support end-to-end implementation and deployment of airport eGate infrastructure across multiple cities and airport locations.\n• Install, configure, and commission physical servers, workstations, network equipment, and associated eGate infrastructure.\n• Coordinate hardware installation, operating system deployment, network configuration, application prerequisites, and infrastructure integration.\n• Perform infrastructure validation, connectivity checks, system testing, and operational readiness assessments before handover.\nB. Windows Server and Group Policy Administration\n• Install, configure, and maintain Windows Server and Windows Client operating systems in accordance with approved infrastructure standards.\n• Perform server and workstation configuration, domain joining, user administration, service management, and routine system maintenance.\n• Configure and troubleshoot Active Directory and Group Policy Objects (GPOs).\n• Understand how Group Policy is used to centrally enforce security settings, password policies, access restrictions, workstation configurations, and other domain policies.\nC. Network, DNS, Firewall and VPN Administration\n• Demonstrate working knowledge of TCP/IP, IPv4 addressing, subnetting, routing, switching, VLANs, gateways, and network connectivity troubleshooting.\n• Understand IPv4 address classes and private, public, loopback, and link-local addressing, including Automatic Private IP Addressing (APIPA).\n• Configure and troubleshoot DNS resolution, DNS records, DNS caching, static and dynamic DNS configurations, and name-resolution failures.\n• Understand DNS filtering/blocking mechanisms and support approved DNS-based access-control and security policies.\n• Configure, monitor, and troubleshoot site-to-site VPNs and remote-access/client VPN connectivity.\nD. VMware Virtualization and Server Infrastructure\n• Demonstrate practical knowledge of VMware virtualization technologies, including VMware ESXi and vSphere environments.\n• Understand the differences between Type 1 and Type 2 hypervisors and the operational use cases for each.\nE. Hardware Installation and Troubleshooting\n• Perform hands-on installation, configuration, and troubleshooting of physical servers, PCs, workstations, and infrastructure components.\n• Understand server hardware components, including motherboards, CPUs, RAM, storage devices, RAID controllers, power supplies, and network interface cards.\n• Support server rack installation, equipment mounting, cable management, power connectivity, and hardware commissioning as required.\nF. Candidate Selection Criteria\n\nCandidates should be assessed for practical capability in the following areas:\n• Windows Server administration and Group Policy.\n• DNS, IP addressing, switching, routing, VPN, and FortiGate firewall fundamentals.\n• VMware ESXi installation and basic virtualization administration.\n• Physical server and network infrastructure installation.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DgweZUkrrkEMWw3rrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "gweZUkrrkEMWw3rrAAAAAA=="
+      },
+      {
+        "job_id": "VXRmcHRXeTQ5VFNiMFZ0eEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakZVUXpNM1F6QmtORXhpWW5KUVR6WnhXV3RmTjBKNlRpMUdZbXg2YzJFeVRGUkpOakZSUmxVMlprNW1YMUV5Y0hsclExVm5TWE16VkhoeE1HMTJjbk5pYWpCWlNUVm5Va2RrVDB0elkxTlRZMnRPTFRCbGRWTlFVbEEwVEMxT09VbEJWVXhMWm5KM1RuWlhNbVpNU0c5bGMzUm9PRUZUTld4T2JraHpNVlpRUmpCblRUWVNGMjVHZG05aGNXRjZSMkZxVlRWT2IxQjFkbWxPYVVGRkdpSkJTRTR3UlRkSVp6RnFlRk5PVDFsMGJGaE5TVkJtUTFWbVRFRkRSeTFYTFdoUg",
+        "job_title": "Senior Mechanical Engineer - Infrastructure",
+        "employer_name": "WSP",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bayt.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Bayt.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/senior-mechanical-engineer-infrastructure-75268413/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.bayt.com/ar/saudi-arabia/jobs/senior-mechanical-engineer-infrastructure-75268413/",
+            "is_direct": false,
+            "publisher": "Bayt.com"
+          }
+        ],
+        "job_description": "WSP is seeking a Senior Mechanical Engineer - Infrastructure to join our Transport & Infrastructure team in Riyadh, Saudi Arabia. The role will support the design and delivery of multidisciplinary infrastructure and masterplan projects, with a particular focus on district cooling and chilled water networks, gas distribution systems, mechanical utilities, and pump station interfaces.\n\nThe successful candidate will produce engineering calculations, models, technical reports, specifications, tender documentation, and authority submission packages. Working under the direction of senior technical leaders, the Senior Mechanical Engineer will coordinate with clients, authorities, contractors, and internal disciplines to deliver safe, sustainable, buildable, and cost-effective engineering solutions.\n\nResponsibilities:\n\nMechanical Infrastructure Design\n• Develop mechanical infrastructure designs, calculations, specifications, schedules, reports, and drawings for district cooling, chilled water, gas distribution, and associated utility systems.\n• Undertake concept, feasibility, preliminary, and detailed design activities for infrastructure and masterplan developments.\n• Support cooling strategy studies, including district cooling and decentralised cooling options, considering technical, commercial, constructability, sustainability, and operational factors.\n• Support gas supply studies and option assessments, including LPG, SNG, and other suitable solutions based on project requirements.\n• Develop designs for gas farms, pressure regulating stations, distribution pipework, and associated mechanical infrastructure.\n• Contribute to mechanical design interfaces for pump stations and other infrastructure facilities.\n\nModelling & Technical Analysis\n• Undertake hydraulic modelling and engineering analysis for chilled water and gas networks using appropriate industry software.\n• Prepare design calculations, equipment selections, technical assessments, and option comparison reports.\n• Review modelling outputs and coordinate findings with civil, utilities, electrical, structural, and masterplanning teams.\n\nCodes, Standards & Approvals\n• Apply the Saudi Building Code, applicable Saudi authority requirements, Civil Defense requirements, NFPA, IGEM, ASHRAE, and relevant international standards.\n• Prepare authority submission documentation and support the resolution of technical comments through to approval.\n• Remain current with Saudi regulations, industry standards, emerging technologies, and good practice for mechanical infrastructure.\n\nProject Delivery & Coordination\n• Coordinate with multidisciplinary teams to deliver integrated infrastructure solutions.\n• Prepare and review technical reports, design packages, tender documents, performance specifications, and procurement information.\n• Review contractor shop drawings, material submittals, and technical queries during construction support stages.\n• Attend progress meetings and technical workshops with clients, consultants, contractors, and authorities.\n• Maintain accurate project records and technical documentation, and deliver assigned work to agreed programme, budget, and quality requirements.\n\nQuality, Safety & Sustainability\n• Follow project QA/QC procedures and undertake checking of calculations, drawings, reports, and specifications.\n• Identify technical risks and support the development of practical mitigation measures.\n• Develop solutions that consider safety, sustainability, cost, constructability, maintainability, and whole-life performance.\n\nTeam & Client Support\n• Provide clear technical updates to project managers, discipline leads, and clients.\n• Support and guide graduate and junior engineers, sharing technical knowledge and good practice.\n• Contribute to design schedules, resource planning, fee estimates, and technical inputs to bids where required.\n\nQualifications:\n• Bachelor's degree in Mechanical Engineering or a related engineering discipline.\n• Minimum 8+ years of post-graduate experience in mechanical engineering, preferably within an international engineering consultancy or infrastructure design environment.\n• Demonstrable experience designing mechanical infrastructure systems, particularly district cooling/chilled water and gas distribution networks.\n• Experience supporting infrastructure, utilities, land development, or masterplan projects in Saudi Arabia or the wider Middle East is highly desirable.\n• Knowledge of the Saudi Building Code, Saudi authority requirements, Civil Defense requirements, NFPA, IGEM, ASHRAE, and relevant international standards.\n• Experience with hydraulic modelling tools for chilled water and gas networks. Familiarity with Bentley WaterGEMS, SISHYD/GasWorks, FLUIDIT, or comparable software is advantageous.\n• Experience preparing design calculations, technical reports, specifications, tender documentation, and authority approval packages.\n• Ability to review shop drawings and material submittals and provide construction-stage technical support.\n• Strong written and verbal communication skills, with the ability to work effectively in multidisciplinary and multicultural teams.\n• Professional membership or progress toward chartership or equivalent registration is desirable.\n\nWhat if we can have work-life balance? What if we can be rewarded in ways that support our individual needs? What if we can be accepted for who we are? Here at WSP – we can!\n\nWSP recognizes that work is only one part of our lives and making time for the other things in our life is important – be that our families, our friends or ourselves. So, if working from home, working part-time or having flexible start and finish time will help with this let us know as part of your application.\n\nAs well as rewarding you with competitive pay, WSP offers standard benefits including first class medical cover, generous days annual leave, and paid professional subscriptions.\n\nImagine a better future for you and a better future for us all.\n\nJoin our close-knit community of talented individuals who share your passion for making a positive impact. Our global team includes more than 69,000 employees, working together to make a difference in communities both close to home and around the world.\n\nWith us, you can. Apply today",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٨ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Bayt.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DUtfptWy49TSb0VtxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "UtfptWy49TSb0VtxAAAAAA=="
+      },
+      {
+        "job_id": "M21FN21fSWZwemhDUDgtSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0V0Y21sd1ZHUlliMjFKY0V4eExXSndlVkYyT1RSbmJFWkhOMkpvU25kc2RGaFdSVE5TTTE5cVNuUlNaR0p2TFRsdGQwSndWVXg0TUhFeGFqWmtlazFxUVhKTmIyMUJSR0pLV0dkeFZXTkdkVkJHYTJKeGVWUkNaMDF1YUZaYU9WOUlMVkpNVDBrNWRHWlBOR2RHVlZoUFdEazNaSFZKUzBob2RITm1abW8wT1RkNGFrb1NGMjVHZG05aGNXRjZSMkZxVlRWT2IxQjFkbWxPYVVGRkdpSkJTRTR3UlRkR2MzUndVRTk0ZVd3M2RGSXlkMnhKUzBsVVkyVnpiamcyWmxaMw",
+        "job_title": "Infrastructure Engineer",
+        "employer_name": "غير محدد",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://job-ksa.com&size=128",
+        "employer_website": null,
+        "job_publisher": "Job-Ksa.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://job-ksa.com/en/jobs/27700",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://job-ksa.com/en/jobs/27700",
+            "is_direct": false,
+            "publisher": "Job-Ksa.com"
+          }
+        ],
+        "job_description": "🚨 شاغر وظيفي - مهندس بنية تحتية\n\n📍 المدينة: الرياض\n\nالشروط:\n\nسعودي\n\nخبرة لا تقل عن سنتين في صيانة أجهزة الخوادم ودعم البنية التحتية\n\nخبرة في صيانة واستكشاف أعطال أجهزة الخوادم\n\nإجراء فحوصات وتشخيص حالة الأجهزة\n\nاستبدال RAM والأقراص الصلبة وSSD\n\nتحديثات Firmware وBIOS\n\nخبرة في iLO وiDRAC وإدارة الخوادم عن بُعد\n\nمعرفة أساسية بإدارة واستكشاف أعطال Linux\n\n📌 للتقديم:\n\nإرسال السيرة الذاتية عبر الواتساب\n\n📱 0505396068",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٦ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر Job-Ksa.com",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D3mE7m_IfpzhCP8-JAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "3mE7m_IfpzhCP8-JAAAAAA=="
+      },
+      {
+        "job_id": "LTJtZERPRXZ0U3dFQUtLZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV0ZKVVZoVGRUVTViMUpEZERaWFJHSTNVazA0TW1FNVNHdHJTRVU0TlhsaGFXNHRVbFZrWXpZM1NFSjJOVkExTFZVNU56VjZkakV3VGxwVmFtUTRSV0U1U25wRVpFNUJjblZuVlZZMk1WRmxSMUUzVmtkMlQzZHdRVGxqTlhGemFUVXpXR1J3TVcxc1RsZGhhbU56Y0RoTlQwa3pZbXh2YUhsUVNHMDNSWEpIWW1OUGFqUVNGMjVHZG05aGNXRjZSMkZxVlRWT2IxQjFkbWxPYVVGRkdpSkJTRTR3UlRkR2JqbEJlV0pJYlRCaFJFNVphakpQTVdkRGFFOU9XVWhDY0hOUg",
+        "job_title": "AI Infrastructure Engineer: Orchestration & Reliability",
+        "employer_name": "e& (Etisalat)",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4E4Xl5LCo0jBU5uT1MI18zVulVqD2rh1lCFy&s=0",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/ai-infrastructure-engineer-orchestration-reliability--saudi-arabia--ecb9f07de4233659326562b1f9121d452",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/ai-infrastructure-engineer-orchestration-reliability--saudi-arabia--ecb9f07de4233659326562b1f9121d452",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Foodics in Saudi Arabia is seeking an engineer to build the infrastructure behind its AI agents. You will work on backend services, agent orchestration, and state handling to enable scalable AI features.\n\nYou will design tool integrations, add tracing and guardrails, and investigate failures to improve reliability and cost control. A strong CS foundation and experience with modern programming languages are expected.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D-2mdDOEvtSwEAKKdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "-2mdDOEvtSwEAKKdAAAAAA=="
+      },
+      {
+        "job_id": "bXM0Q0xud0FVdXU5V0dKX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVWRFZW13eGJHNWhSRTFtY2tRemJHZHFRbHBOZGxSb1owMUxVR3QyTTJKTloxaGtkR2hQUTJ4RFUxWTJkVk5FZFRnd09TMUhjMmQzTUhoM1QyeEVNSEE1ZVZKSmMzcEZjbWN5YUc5WFRHTm9NMGd5UVRobVRIZERNMFJ0V21oSmVYUldWMHAzVDNGc1F6Qk9Nak00WkZCVmFYYzRjM290U1VaUGNYWkVPQzB4YjJNeGRHOFNGMjVHZG05aGNXRjZSMkZxVlRWT2IxQjFkbWxPYVVGRkdpSkJTRTR3UlRkSFJHMU9NbWx3TlRnM2MxVk5hMVU1T0hOVGVFSk9SVzExYkRobg",
+        "job_title": "Senior IT Infrastructure Engineer",
+        "employer_name": "Discovered MENA",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-it-infrastructure-engineer--riyadh--ef3c5cb914e0cfa307a759d7d92063cd3",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-it-infrastructure-engineer--riyadh--ef3c5cb914e0cfa307a759d7d92063cd3",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Do you want to work for a high-performing IT team for a leading Financial Services organization?\n\nWe are seeking an ambitious Senior IT Infrastructure Engineer to co-lead the transformation, security, and scaling of our enterprise technology stack alongside the IT Infrastructure Manager.\n\nIn this role, you will hold key ownership over our mission-critical virtualized environments, financial-grade network architecture, and multi-cloud footprint across Azure, GCP, and AWS.\nKey Responsibilities\n• Administer and scale VMware / Hyper-V environments.\n• Manage firewalls, routing/switching, VPNs, and cybersecurity posture.\n• Configure and maintain services across Azure, GCP, and AWS.\n• Team Collaboration: Partner with the Infrastructure Manager on strategy, security, and DR planning.\n• Provide Tier 3 support, system patching, backups, and monitoring.\nKey Requirements\n• 8-10 years of experience in network engineering and infrastructure.\n• Strong background in cybersecurity and firewall management.\n• Direct experience with virtualization (VMware/Hyper-V) and multi-cloud (Azure, GCP, AWS).\n• Strong troubleshooting and communication skills.\n\nP.S: This role is open to candidates who are based in Saudi and have a transferable Iqama/work visa or someone open to working remotely who would then relocate to Riyadh once their visa is complete.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dms4CLnwAUuu9WGJ_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "ms4CLnwAUuu9WGJ_AAAAAA=="
+      },
+      {
+        "job_id": "aXVMQ2RhLW1WVk1sdFlFSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV0pYVkVaRVRrWlNkbTFwYm1saVdGUlhZMnR5ZFZrMlVrMUlNRlpoVmpCU1UydDVablJWU0MxWGVWUk5MWEpsVVMxZlZuSjBNRWhGZGtKNVFVdEVjRmhHY0c5S1RteGFRMkZsY0RGMVZFSlBiemREWlZWUFgyeENXalJvYzNKd2NFOVFWa0ZoWkRaV05rSmFibkZsY2twSmVrNDVka2h2WjJka2FsYzFZMDV5WDBWNVVYY1NGMjVHZG05aGNXRjZSMkZxVlRWT2IxQjFkbWxPYVVGRkdpSkJTRTR3UlRkR2JFSlphR1ZyUmpsbE5FeEhSekJFWkdkT2VUTnJhVk5XTVc5Ug",
+        "job_title": "Senior IT Infrastructure Engineer: Build & Optimize IT Ops",
+        "employer_name": "Amazon Inc.",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-it-infrastructure-engineer-build-optimize-it-ops--jeddah--e97f1b1a14d726447f1c86967c0057743",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-it-infrastructure-engineer-build-optimize-it-ops--jeddah--e97f1b1a14d726447f1c86967c0057743",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Amazon Inc. seeks an IT Infrastructure Engineer to implement and maintain critical IT infrastructure at the home site, reporting to the IT Manager.\n\nYou will collaborate with business teams, colleagues, and remote support to deliver day-to-day IT support and meet operational needs. You will build technical depth across networking, systems administration, and infrastructure management, executing projects with guidance and contributing to operational excellence through troubleshooting, proactive",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DiuLCda-mVVMltYEHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "iuLCda-mVVMltYEHAAAAAA=="
+      }
+    ],
+    "cursor": "EvcECrcEQUREYldlWU5kamR5aC1objdjSHY3SE13akNJbHVVRTQzUDl2Wm9xWllOSVVoVjRUbjlDbTh5YnpFMzhNSElSb2xoUWdYb2w5cFp6N2VTay04LUtPdC1XaVJDRHAyZ2REWHhPTTdqYlQtQUJHbHJUTnRvU1BPQUVsdG5mQjlCdDhPeGFtSGJhTUVoMzVrMkI0NG9xZnprU09zTlNxeHp4NTZqRDRPQVdYb1k1QWdxOFAwYjEwU0JMVXpuUEsxTDVqM19jaFMwT2NvSW14ZGZOZ2tZMi05Wmd5U01KU0paaklPOGVtelJKWVZ6bm9sWTZSS21GUVMxVWdaeWUzTGZKQnN0NEVaM2NxNEVob0ZONUUwbUdFUWRMalB5Q0xLdGtMeXgwNlFiSWtVbXpkZlRZcGhNVy13Q0E3dy16OWpLdGlSbkFoZmF3Q2NLWDlBT3F6WXl3enk2V0d1Z1Fjb281X21hZURuaE5jVDAyUU8yZTlrWHlhWnIxNVdVa0VLSThSa3ZEQ2drVW55a1BnY2hqaHloOU8xYnBENlhaZ3BORU10NG1xc2ZhNzZ5RkdBalZIZTNnMTZ2NFV3dVhMNU0yazZSXzh4VGVLM2JLcURTcU0wUE9HM19LRmFzdEdESDEweWx5YVI5Y0NVX3BjS3VCWlJDeHI2MVNRVUZjcDVzRzgyZ3YzUkFwNEhhejB3SkhjZWVnSno1R3pNRjBEQzRhamtlTU5GSUc3dmw2c0xHY3ZNaWV5M3IwEhduRnZvYXFhekdhalU1Tm9QdXZpTmlBRRoiQUhOMEU3RWc5QjJuVWJBWjdVZHU5MTBMVnI5eFJ4VExIUQ"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "_meta": {
+    "specialization": "database_enterprise_systems",
+    "query": "database engineer"
+  },
+  "status": "OK",
+  "request_id": "8ea28201-17dd-4f6a-b47f-a2551459cc3d",
+  "parameters": {
+    "query": "database engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "OGpqMWE5ZFBNNzhJZ0ZFc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmR1U2pKTGRYQnhTamhLV0VrMlozaFZkakJJUjI1VmVUVlpSMWxVVlVKSlVITmFhRWh3VEdWUFZWRjFNbXA2WnpKVlpsWnhSamRUZFRSRGMzUmpiVkpRWm5SR1IzUXlhVTFsYkVKd1RGbHdNR3BpWlhKQlJrSnlaMHd0ZW00dFFteFlkMXB1Wm5abFMwcEpVVzFZTTFCVk5HeGljWGhLVEVKSmJFMTBiVGRDVVhBd1ExTVNGM05HZW05aGMySXdTSEZNVFd0UVNWQnFXVjkzZVVFNEdpSkJTRTR3UlRkRlFqVmlNbEp6YlVad1VVSjRYMGw0YWxsM1V6UXhUbkZqYVdwbg",
+        "job_title": "Senior Data Engineer: BI, ETL & Data Warehousing",
+        "employer_name": "Master Works",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-engineer-bi-etl-data-warehousing--riyadh--e361ca7694d58241e68c606bcfd033080",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-engineer-bi-etl-data-warehousing--riyadh--e361ca7694d58241e68c606bcfd033080",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Master Works in Saudi Arabia is seeking a Data, Senior Engineer to design and maintain data integration solutions, data warehouses, and BI systems. You will work on ETL pipelines, database development, and reporting to support data-driven decisions.\n\nThe role requires MIS/CS background, at least 3 years in data engineering or BI, and strong SQL skills. Proficiency with Power BI, Tableau, or AWS QuickSight is preferred. English communication and collaboration with teams are essential.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D8jj1a9dPM78IgFEsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "8jj1a9dPM78IgFEsAAAAAA=="
+      },
+      {
+        "job_id": "T0FmZmk4OUNCQ0RHZ3hYV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0UzVlhsemFIVTNkV1JaVFdaUmVsRkpUV0ZvYVVWYVRIZFZUR1IwT0ZZNVprZE1RVlV3ZFcxRmJrc3RlbWRTVGxseE5VSTNVRGh6U25CaGNTMUlZVWRHVlVSNU1ubFZiekF0UjJNMWNuSk9Va1EyWTBORmNUbHljVzlQY0dWRFZXc3RZMjlQYjIxVWVrWk9jRE5xT0VoV1YzaEtTR2hGZUhwNU9YRnhlRzlFV1VSdk1XWVNGM05HZW05aGMySXdTSEZNVFd0UVNWQnFXVjkzZVVFNEdpSkJTRTR3UlRkSFZYVk5lVXR4VldSRlQybGxkbVZRYmxFM1RESlViVTVSTUZoUg",
+        "job_title": "Data Engineering Specialist",
+        "employer_name": "Aramco",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aramco.jobs&size=128",
+        "employer_website": "https://www.aramco.jobs",
+        "job_publisher": "Aramco | Careers",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://careers.aramco.com/expat_us/job/Data-Engineering-Specialist/857087823/",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://careers.aramco.com/expat_us/job/Data-Engineering-Specialist/857087823/",
+            "is_direct": false,
+            "publisher": "Aramco | Careers"
+          }
+        ],
+        "job_description": "Aramco energizes the world economy.\n\nAramco occupies a special position in the global energy industry. We are one of the world’s largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.\n\nWith our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco’s value to society.\n\nHeadquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations’ spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom’s vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.\n\nWe are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.\n\nOverview\n\nWe are seeking a Data Engineering Specialist to join Downstream Global Optimizer (GO) team.\n\nThe Downstream Global Optimizer team drives commercial optimization across Saudi Aramco’s integrated downstream value chain, including domestic and international refining assets. The GO team identifies and captures optimization opportunities to enhance system netback and deliver shareholder value. By building robust data infrastructure, automating pipelines, and enabling real-time analytics, the team supports agile decision-making in dynamic market conditions.\n\nYour primary role is to design, develop, and maintain scalable data platforms that power the iGO (intelligent Global Optimizer) ecosystem. Your work will ensure seamless integration of structured/unstructured data, enable high-performance analytics, and provide reliable foundations for optimization models, machine learning pipelines, and enterprise reporting. You will focus on building and maintaining the data infrastructure that supports our data scientists. This role will involve designing and implementing scalable data pipelines, ensuring data quality, and managing data storage solutions. The specialist will work closely with data scientists and other teams to provide the necessary data infrastructure for advanced analytics and machine learning models.\n\nKey Responsibilities\n\nAs the successful candidate you will be required to perform the following:\n• Design and implement data architectures and efficient ETL (Extract, Transform, Load) processes to move and transform data from various sources into a format suitable for analysis.\n• Ensure the accuracy, completeness, and consistency of data by implementing data validation and cleansing processes.\n• Architect and manage data storage solutions, including data lakes and warehouses, to meet the needs of the organization.\n• Work with data scientists and other stakeholders to understand data requirements and provide appropriate data solutions.\n• Optimize data pipelines and architectures for scalability and performance, ensuring they can handle large volumes of data efficiently.\n• Maintain thorough documentation of data systems, pipelines, and processes for clarity and continuity.\n• Proficiency in languages such as Python, SQL, and Java or Scala.\n• Experience with big data technologies like Apache Spark, Hadoop, Kafka, and Airflow.\n• Knowledge of cloud services such as AWS, Azure, or GCP, including their data storage and processing services.\n• Understanding of data warehousing concepts and experience with tools like Databricks, Microsoft data fabric and Cloudera.\n• Familiarity with ETL tools and processes for data transformation and migration.\n• Experience with CI/CD pipelines and version control systems like Git.\n\nMinimum Requirements\n• You will hold a Bachelor’s degree in Computer Science, Data Engineering, Software Engineering, or a related field from a recognized institution. A Master’s or advanced degree is preferred.\n• You will have at least 10 years of experience in data engineering, data architecture, or enterprise data platform development, including 5+ years in designing and managing enterprise-grade data pipelines.\n• Strong technical expertise in programming languages: Python, SQL, Scala, and experience with data engineering frameworks (Apache Spark, Kafka, Airflow, Flink).\n• Proven experience building data lakes, data warehouses, and ETL/ELT pipelines for large-scale, heterogeneous datasets.\n• In-depth knowledge of cloud platforms (AWS, GCP, Azure) and distributed data processing tools (e.g., Databricks, Cloudera, Snowflake).\n• Hands-on experience with data governance, metadata management, and data quality frameworks.\n• Ability to work in complex, cross-functional environments, translating business needs into scalable data architectures.\n• Strong communication skills to articulate technical designs to stakeholders and mentor junior engineers.\n• Familiarity with industrial/energy sector data ecosystems (e.g., OT/IT systems, SCADA, ERP, market data) is preferred.\n• Certifications in cloud platforms (AWS/GCP/Azure), data engineering (e.g., Google Professional Data Engineer, AWS Big Data Specialty) are a plus.\n\nWork Location and Work Schedule\n\nWork Location: Within Saudi Arabia – To be specified in Job offer\n\nWork Schedule: Full Time - To be specified in Job offer\n\nJob Post Duration\n\nJob posting start date: 2/5/2026\n\nJob posting end date: 12/30/2026\n\nWorking environment\n\nOur high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.\n\nAt Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world’s biggest technical, logistical and environmental challenges, we invest heavily in talent development.\n\nWe have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs – one of the largest in the world.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل يومين",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الجبيل     •  عبر Aramco | Careers",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DOAffi89CBCDGgxXWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "OAffi89CBCDGgxXWAAAAAA=="
+      },
+      {
+        "job_id": "bE9HUGNJTW9wcFVNTE1yWUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa0oxV0VGWFF6ZEtTbmQ0U1ZSTVNqSnpYMFF5V0VveVdGcFFPVzVYV1UxdE1XaFFkVVE0WDFGb1ZIZEZWMGhCVkZoelpVcENOV3BuTTFKb1ptUk9SbmRZU1VWamJtRlRTVEExTFRnMVdqSllkVzVVVTNnMGFGRnpkRkF3ZDBwQmFIaDFRVTVQWVhSU1RqRklXV3hoY1hZek9VbGpkbGRCTW0xelZteERRM3B0UVdzelZsY1NGM05HZW05aGMySXdTSEZNVFd0UVNWQnFXVjkzZVVFNEdpSkJTRTR3UlRkSVpXUkhlbFJ4UjA1dGNHdENNazFIVkRBeldtbDZaMTlUY0dsQg",
+        "job_title": "Senior Data Warehouse Engineer for ETL & Analytics",
+        "employer_name": "Confidential Government",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-warehouse-engineer-for-etl-analytics--riyadh--e00673cca23898869e8ddc29556090ac4",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-warehouse-engineer-for-etl-analytics--riyadh--e00673cca23898869e8ddc29556090ac4",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Confidential Government in Riyadh seeks an experienced Data Warehouse Engineer to design, develop, and maintain scalable data warehouse solutions that support enterprise analytics, reporting, and informed decision-making.\n\nYou will optimize ETL processes, enforce data modeling standards, monitor performance, and ensure data quality and security across warehouse systems. A minimum of four years in data warehousing and strong SQL skills are required.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DlOGPcIMoppUMLMrYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "lOGPcIMoppUMLMrYAAAAAA=="
+      },
+      {
+        "job_id": "d0RINGJBTnZvamR1MWsxUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVkUzWTJaVlNqZHhOMlUxU0ROdmNGZHhWMlp5Ym1OM1YzUjRZUzF2WVVoaWEyTlJTWGx2VG5KM1JVMVlZVFJaYjJoWE1qbE1lVVozU1U5YWFuYzBRM3BRT0UxUVVHZEJSMnBPVFZaUGRYVTRMVTFQYVZGYVdsUXdNMWRhZURNeVMyMU1TbEoxVUVKc2QwTnhZbkprWm5WR2MwWXliVVUyVEdkTE1URkRkV2RNUzJGeGRWb1NGM05HZW05aGMySXdTSEZNVFd0UVNWQnFXVjkzZVVFNEdpSkJTRTR3UlRkR1YwWkVaWG93YjJac1JWaGxjWHBaZDI1ZlYwazRaV014UTBGMw",
+        "job_title": "Junior Data Engineer",
+        "employer_name": "شركة درعه للتجاره",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.kss.sa&size=128",
+        "employer_website": null,
+        "job_publisher": "منصة وظائف",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://jobs.kss.sa/job/junior-data-engineer-6ace558dc7c60",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://jobs.kss.sa/job/junior-data-engineer-6ace558dc7c60",
+            "is_direct": false,
+            "publisher": "منصة وظائف"
+          }
+        ],
+        "job_description": "Junior Data Engineer – Data Platform (Urgent hire)Job code: DRH-DE-JDE-2026Deraah, a Saudi perfume and cosmetics retail group with about 900 branches, is hiring a Junior Data Engineer to work across the whole data platform, from ingestion to BI. The candidate must be a native Arabic speaker.Location: Riyadh, Saudi ArabiaExperience: 0–2 yearsPriority: Candidates already in Saudi Arabia. Iqama transfer is available for the right candidate.Start date: Urgent. Immediate joiners preferred, or two weeks' notice at most.Stack: Odoo, SQL Server, Airbyte, SSIS, Kafka, Airflow, n8n, dbt, Python, ClickHouse, Microsoft Fabric, Power BI.Requirements: a degree in CS, IS or Engineering; strong SQL; basic Python; data warehousing basics; Git; care for data accuracy. Nice to have: dbt, Airflow, ClickHouse or Kafka experience, Power BI or Fabric, Odoo, retail, DP-600 or DP-700.To apply: send your CV (and a GitHub link or any project, if available) to h.elbhrawy@deraah.com.sa, with the job code DRH-DE-JDE-2026 in the email subject.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٢٠ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر منصة وظائف",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DwDH4bANvojdu1k1PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "wDH4bANvojdu1k1PAAAAAA=="
+      },
+      {
+        "job_id": "bmVaRXBZYjB3NlpKQlgyREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbTV0WlU1SVRETmlhM0ZST1RSa1JGZGFkRk5hVmxGeFZUQm1jWGRVVkhaZmFURllNVXByVkhSVVFuSkdiV0ppVDFwWGJFVjVRbmRvVlhoRmNFdFliRmMxTURFNFNFZDRiblZTVFcxQlJYaGliWEkyVDFaa01sTTBkRjlyU1hacGJXeHpOR0ZMWW5abWRrRm1lRWsyYWxOa2FXNUtkV2hIZVdWNmQwWjRkMDk1TjJSRk4zTVNGM05HZW05aGMySXdTSEZNVFd0UVNWQnFXVjkzZVVFNEdpSkJTRTR3UlRkRlYxaEZTalJSWkVKeVdURnJVbDlCWHprelpGcE5jRVpOWVZCbg",
+        "job_title": "Senior Spark Data Engineer – Lakehouse & Informatica",
+        "employer_name": "Datamatics Technologies",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://datamaticstechnologies.com&size=128",
+        "employer_website": "https://datamaticstechnologies.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-spark-data-engineer-lakehouse-informatica--riyadh--e1f05b03ef7df3a5d1346004e2585f700",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-spark-data-engineer-lakehouse-informatica--riyadh--e1f05b03ef7df3a5d1346004e2585f700",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Datamatics Technologies is seeking a Data Engineer to build and optimize data ingestion, transformation, and consumption workloads on a modern on-prem lakehouse platform in KSA. Strong Spark, Iceberg, and Informatica expertise are required to implement scalable data pipelines.\n\nYou will work with Denodo, SQL, and data modeling to enable analytics and governance across enterprise standards, with emphasis on batch and near real-time processing.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DneZEpYb0w6ZJBX2DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "neZEpYb0w6ZJBX2DAAAAAA=="
+      },
+      {
+        "job_id": "bVcwWWFacm1QMm11ZXNyQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWR1UjFnNExWSmpObmhPY2tGcFNqWTBPVkpITFd0WFNGUTRMVmt0V1RaSU1saHhZVEV3YmxRM1IyUkVhWE00VkZkblgyTmxTRmQwV0RGcGVIcG9UMW90TVd0d04wTnFOMkpLTTBWelJFbFZZbDlXWjJGbk5WWk1SRVk0ZVRkaVVtTm5kMGhmVG1KamEyTnNhblkyYzNGWFJqbFJPR3M1YWpoUVVFaHZhakZCUzFWS1NYWVNGM05HZW05aGMySXdTSEZNVFd0UVNWQnFXVjkzZVVFNEdpSkJTRTR3UlRkR2FHOXZlQzFTWlMxdlgxaFJNVlJFYUhoQ2JEUkVVWGh4WWtsbg",
+        "job_title": "Lead Data Engineer: ETL, Quality & Governance",
+        "employer_name": "Maaden",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKcPZ50fbWBU57LdoB75QDWjkz9abKdvY35CA&s=0",
+        "employer_website": "https://maaden.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/lead-data-engineer-etl-quality-governance--saudi-arabia--ef9afdb679db875fedb24c21de462ef15",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/lead-data-engineer-etl-quality-governance--saudi-arabia--ef9afdb679db875fedb24c21de462ef15",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Maaden is seeking a Lead Specialist, Engineering and ETL II to design, build, and optimize scalable data pipelines that transform raw data into high-quality information assets. This role ensures governance, operational resilience, and performance standards to support business intelligence and analytics.\n\nThe position requires technical leadership to improve engineering consistency and platform sustainability while collaborating with governance, modelers, and stakeholders to enable data-driven",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٤ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DmW0YaZrmP2muesrBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "mW0YaZrmP2muesrBAAAAAA=="
+      },
+      {
+        "job_id": "RmdhODl0VlgycGI2azVIWUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZPYUdGaGNGbDBZekY1V21GU056RXpSMTloY0dacFNuRTBaMXBKZVU5TVVtb3piblJYVW5GdFkwRkJkbFpyWlZaMU1qRkZSM1F6YUVwRGQweGxOa2RSYlMxUmVITmpWRXBaTmtkRmJWRkhVMEZFUzBSNmJrbHlSVEJHZUVoa2NYWllaR2RVV0Zod1VVRjNkRzVDUjJ0Uk9WQmtRamhDUjJWaVIwSnNSSEl0V1hsaWJVZ1NGM05HZW05aGMySXdTSEZNVFd0UVNWQnFXVjkzZVVFNEdpSkJTRTR3UlRkR1FXNXFZMmhsYjBoR01VdFlVVmMyWms1UlRHaFFWV3BJYmxaQg",
+        "job_title": "Senior Data Engineer - BI",
+        "employer_name": "Systems Arabia",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-data-engineer-bi--riyadh-region--e46cc75d804c6b2403ef4d8e86e944889",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-data-engineer-bi--riyadh-region--e46cc75d804c6b2403ef4d8e86e944889",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "We are looking for an experienced BI Developer with strong hands‑on expertise in Power BI, Power BI Report Server (PBIRS), SSRS, SQL Server, and DAX to design, develop, and optimize business intelligence solutions within an on‑premise Microsoft BI environment. The role will collaborate closely with business stakeholders, data engineers, and data architects to deliver governed dashboards, paginated reports, semantic models, and data‑driven insights.\nResponsibilities:\n• Design, develop, and maintain interactive dashboards and paginated reports using Power BI Report Server (PBIRS) and SSRS.\n• Collaborate with business stakeholders to understand reporting requirements, define KPIs, and translate business needs into scalable BI and ETL solutions.\n• Build and maintain governed measures, calculations, KPI definitions, and semantic models.\n• Perform source‑to‑target and source‑to‑report reconciliation to validate data and reporting accuracy.\n• Implement and manage Row‑Level Security (RLS), access controls, versioning, and change management across reports, dashboards, and ETL artifacts.\n• Develop complex SQL queries, stored procedures, views, and data extraction processes.\n• Optimize reports, DAX calculations, SQL queries, semantic models, and ETL processes for improved performance.\n• Apply dimensional modelling concepts including star schema, fact and dimension tables, slowly changing dimensions, conformed dimensions, fact table grain, and surrogate keys.\n• Perform ad‑hoc data analysis to identify trends, anomalies, risks, and business opportunities.\n• Collaborate with data engineering and architecture teams to ensure BI solutions follow enterprise data standards and governance practices.\n• Train and support business users in self‑service analytics within governed boundaries.\n• Participate in peer reviews and ensure adherence to BI, reporting, ETL, and development standards.\n• Troubleshoot data, reporting, performance, and access‑related issues and coordinate with relevant teams for resolution.\nRequirements:\n• Bachelor’s degree in Computer Science, Information Systems, Data Analytics, Statistics, or a related field.\n• 6–8 years of experience in Business Intelligence, Data Integration, Data Analytics, or related roles.\n• Strong hands‑on experience with Power BI and publishing reports to Power BI Report Server (PBIRS).\n• Strong experience developing SSRS and paginated reports.\n• Proficiency in DAX, including measures, calculated columns, and KPI expressions.\n• Strong SQL Server skills, including complex joins, stored procedures, CTEs, views, and query tuning.\n• Strong understanding of dimensional modelling and data warehousing concepts.\n• Hands‑on experience implementing Row‑Level Security (RLS) in Power BI.\n• Experience with ETL and data integration concepts and processes.\n• Strong analytical, problem‑solving, and stakeholder management skills.\n• Excellent communication and presentation skills.\n• Experience in financial services, investment banking, banking, or fintech will be preferred.\n• Experience with Power BI Report Server administration, including scheduling, subscriptions, folder security, and access management, will be an advantage.\n• Experience working in regulated environments involving data classification, sensitivity labelling, and access governance will be preferred.\n• Experience with Talend or other enterprise ETL/data integration platforms will be an advantage.\n• Relevant certifications in Power BI, Microsoft BI, Data Analytics, or related technologies will be preferred.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٥ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DFga89tVX2pb6k5HYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "Fga89tVX2pb6k5HYAAAAAA=="
+      }
+    ],
+    "cursor": "EuIECqIEQUREYldlYXJ6QmZTWTlMWVZPdEl4NUFsb0l2eUtvckdaclpTSEVaVkhkOEJ3WTFzYWRuSkJxTC1scUxvRHFVWXdvZ1d1eHB3cnZ2V056Q0gwYWxiNWNJbHhiZmkxb2RLZTZ0Qi1ldFByTnNKTGVqR2s2cm5hZGtkT0NoMTY4aURINFNjOFZhb09PSjQ2eVhGaTd0cDRCNkxzZDFUTV9tWVpxemFnSDRZSUxHODJ3X2FKQl9USU5ackRXVFUyblV0aGpLcjRNaWdoaURlSFJXRy03eEZiQ1hTVmNWaThmWHNKc0dLNG52LXB4bWlLamNxalV2d01RVXlINUFKOGxTNjFyQUJTXzZHdTVoMzd2MkhuSW40OVRIdEd3SFJ2ekVSRjZncGllT1VMWHZpTTExeURabXZKbXMxRjg1WDF2MWkyek5qSVlQS0hVa29QbzJJX292MU8wQnBRYllVR1hKNEQ2djFhbjRSWmR1ZHdmZlBZeXdmeFI4WjFDQUN1M3dGZmxKNU1qN0UycVg5NXdDaTFZRE9CV3duUnJVRjhMTnp6Z2dvNXhsT055bTZadV9sSGlVblNZbzZKd2JyUmZYazFmYVFVLU0xOHRVbVpicTR0eGRXN2hxdTdJTTNUQ1hlLWNIanZKYmtQbzZ2NHUzcE5mV1VhbWlSVXlCX1k0aEZfZ1JIY0FPZEJodXFINlExNGhCUzd1RU43WXlTeEg0WWVBEhdzRnpvYXNiMEhxTE1rUElQallfd3lBOBoiQUhOMEU3R1FFekJMUmp6M19JVXh6a2Z1djhVVDdVVkY5Zw"
+  }
+}

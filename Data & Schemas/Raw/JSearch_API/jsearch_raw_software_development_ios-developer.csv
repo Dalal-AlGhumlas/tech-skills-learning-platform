@@ -1,0 +1,113 @@
+﻿job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
+bTRtUWU5YjdvcmxpVVpvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1JMWkdwWVNHbElNaTFJWWtSM00zbzJMWGhSTlhaUlJqVkhWRlpHU0Y5VVRUSmpUWFZuTFV3eU9FdHVkVFl6U0RCVlMzWTRWV3BQZFRndFJqaDFhVlo0Y1VNNE4yZDVZakprT1ZWd056bEdiRkpUZVZCVk9GOWtYekJJVTNZMWFUQkthVWxtTkZsMlZUSlpjRmROYXpKcVNtbFFhekJaUjNoallrdFRSMDh5U3pKTE1td1NGM1JIYW05aGNtcEJTeTFRWVhKbVkxQjRZbUZNYlVGWkdpSkJTRTR3UlRkRmNFeFZXSEU0YUVoNWRYZElaelZFTVVsQk0yOUlXV0pKVGtsbg,React Native Mobile Developer,Royal Cyber KSA,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGNm6j_qi9gtIyOlQPR3ylIoqcgEgLsu_RDuX&s=0,,Bayt.com,دوام كامل,FULLTIME,https://www.bayt.com/en/saudi-arabia/jobs/react-native-mobile-developer-5503315/,False,"[{""apply_link"": ""https://www.bayt.com/en/saudi-arabia/jobs/react-native-mobile-developer-5503315/"", ""is_direct"": false, ""publisher"": ""Bayt.com""}]","JOB DESCRIPTION
+
+React Native Mobile Developer (iOS & Android)
+
+Job Summary
+
+We are looking for an experienced React Native Mobile Developer to design, develop, test, and maintain high-quality cross-platform mobile applications for iOS and Android. The ideal candidate will have strong expertise in React Native, JavaScript/TypeScript, mobile application architecture, API integration, and performance optimization. The candidate will collaborate with product owners, business analysts, UI/UX designers, backend developers, and QA teams to deliver secure, scalable, and user-friendly mobile applications.
+
+Key Responsibilities
+
+· Design, develop, and maintain cross-platform mobile applications using React Native for iOS and Android.
+
+· Build reusable components and scalable mobile application architectures.
+
+· Translate UI/UX designs and wireframes into responsive, high-quality mobile interfaces.
+
+· Integrate RESTful APIs, backend services, and third-party SDKs.
+
+· Implement secure authentication, authorization, session management, and data storage.
+
+· Optimize application performance, responsiveness, and memory usage.
+
+· Troubleshoot and resolve application defects across iOS and Android platforms.
+
+· Implement push notifications, deep linking, and device-specific functionalities.
+
+· Collaborate with QA teams on unit testing, integration testing, and UAT defect resolution.
+
+· Manage application builds, signing, and deployment to the Apple App Store and Google Play Store.
+
+· Participate in code reviews, technical discussions, sprint planning, and Agile ceremonies.
+
+· Maintain technical documentation and follow coding standards and security best practices.
+
+Skills
+
+Required Skills and Qualifications
+
+· 6–9 years of mobile application development experience, including at least 3 years of hands-on React Native experience.
+
+· Strong proficiency in JavaScript (ES6+) and TypeScript.
+
+· Good understanding of React concepts, including hooks, state management, and component lifecycle.
+
+· Experience with state management libraries such as Redux Toolkit, Zustand, or Context API.
+
+· Strong experience integrating REST APIs, JSON, and asynchronous operations.
+
+· Familiarity with native iOS and Android development concepts.
+
+· Experience with native modules and third-party SDK integration.
+
+· Knowledge of mobile application security, secure storage, and authentication mechanisms.
+
+· Experience with Git, CI/CD pipelines, and mobile build tools.
+
+· Understanding of mobile application performance optimization and debugging.
+
+· Experience publishing applications to the Apple App Store and Google Play Store.
+
+Preferred Qualifications
+
+· Experience with React Native CLI and Expo.
+
+· Familiarity with Swift, Objective-C, Kotlin, or Java.
+
+· Experience with Firebase services, analytics, and push notifications.
+
+· Knowledge of biometric authentication, device security, and certificate pinning.
+
+· Experience in banking, fintech, or other regulated industries.
+
+· Familiarity with automated testing frameworks such as Jest, Detox, or Appium.
+
+· Experience with Agile/Scrum delivery and Jira.
+
+Education
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent practical experience.",False,قبل يوم واحد,,,الرياض     •  عبر Bayt.com,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dm4mQe9b7orliUZoXAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,m4mQe9b7orliUZoXAAAAAA==
+MHA0Zjd1cXNsS1dTWnNnVEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXUzFLVmpWNGFWTjZSa0U0UkVoM1ZXNXJjV00yVVRaTGRsVk9XbkJvV0VWeFUybFlSRk5OUlRKTGRXeHZjVTkwTUhnMFJsUXpia2MxTlZwZmNWZEdkMnRsYVZkRFl6WTFSVmRNYVU1VFNIQnZaM0pDTlZCV1lVVm9WR05EWjJKUk1WbFVSRVJMV2twTFdGaGZkVzVDV0ZWbVZESXhXREJ6YTNBeVNscENVbGt5V2xkWlkwb1NGM1JIYW05aGNtcEJTeTFRWVhKbVkxQjRZbUZNYlVGWkdpSkJTRTR3UlRkSGRqZHpNWGRCUlV0SldGb3dTRWcyVERCTWNFNWxhR0k0Ylc5Qg,Senior iOS Developer (Swift),Jobgether,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",https://jobgether.com,Jobs In Saudi Arabia - Jooble,دوام كامل,FULLTIME,https://sa.jooble.org/jdp/-4552440745356757174,False,"[{""apply_link"": ""https://sa.jooble.org/jdp/-4552440745356757174"", ""is_direct"": false, ""publisher"": ""Jobs In Saudi Arabia - Jooble""}]","This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior iOS Developer (Swift) based in Saudi Arabia. As a Senior iOS Developer, you will play a key role in building and enhancing a native mobile application with a strong focus on accessibility and inclusive design. You will leverage your expertise in Swift, SwiftUI, and UIKit to deliver reliable, high-performance features that meet the needs of a diverse user base. A central part of your work will involve implementing advanced iOS accessibility solutions, ensuring seamless VoiceOver support, and optimizing interfaces for users with different accessibility requirements. You will contribute to accessibility testing, identify usability barriers, and ensure alignment with recognized accessibility standards, including WCAG 2. 1 and 2. 2. Working in a fully remote, international environment, you will collaborate with technical teams to maintain high standards of code quality and application performance. This is an opportunity to combine advanced iOS engineering with meaningful work that makes digital experiences more inclusive and accessible to everyone. Accountabilities - Native iOS development: Develop, maintain, and enhance native iOS applications using Swift, delivering new features and improving existing functionality. - UI development: Build and optimize user interfaces using SwiftUI and/or UIKit, ensuring consistency, responsiveness, and a high-quality user experience. - Application performance and stability: Maintain robust application architecture, optimize performance, identify technical issues, and uphold high standards of code quality and reliability. - Accessibility implementation: Design, implement, and refine accessibility features across native iOS applications to support users with diverse needs and abilities. - VoiceOver integration: Ensure seamless compatibility with VoiceOver by optimizing screen-reader behavior, navigation, and the interpretation of interface elements.
+
+- iOS accessibility APIs: Apply iOS Accessibility APIs and SwiftUI Accessibility capabilities to improve accessibility throughout the application. - Dynamic Type and scalable interfaces: Implement Dynamic Type and scalable font sizes to ensure content remains readable and usable across different text-size preferences. - Accessibility attributes: Configure and optimize accessibility labels, traits, values, and actions so that assistive technologies can accurately interpret and interact with interface components. - Accessibility focus management: Implement and refine accessibility focus behavior to support intuitive navigation and predictable interactions for users relying on assistive technologies. - Accessibility testing and quality assurance: Conduct hands-on accessibility testing, particularly with VoiceOver, to identify, investigate, and resolve accessibility-related defects. - Standards compliance: Validate accessibility implementations against relevant guidelines, including WCAG 2. 1 and WCAG 2. 2, and contribute to continuous improvements in inclusive design. - Cross-functional collaboration: Work with relevant technical stakeholders to troubleshoot issues, share expertise, and deliver accessible, maintainable, and user-centered mobile solutions. Requirements - At least 5 years of professional experience in native iOS application development. - Strong practical expertise in Swift and a solid understanding of native iOS development principles. - Commercial experience developing and maintaining applications using SwiftUI and/or UIKit. - Extensive hands-on experience implementing accessibility features in native iOS applications. - Strong practical knowledge of VoiceOver, including testing and optimizing screen-reader navigation and interactions. - Experience working with iOS Accessibility APIs and SwiftUI Accessibility features.",False,قبل ١١ يومًا,,,السعودية     •  عبر Jobs In Saudi Arabia - Jooble,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D0p4f7uqslKWSZsgTAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,0p4f7uqslKWSZsgTAAAAAA==
+czJGYmlwQmdRT2J4RmJEbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakp0T0hKRFEzVkxOMVp2TlVndGFWRTFUalZJU0dWRFgzRTNRelprWVhORVFraE1ka010V1ZsWE1HNXdVMnh4WlhrMmVqZzRjbUpYV2swNVFUbENUblpMYUVObVVuWjRXRzlCYUc5cE9FWkJVMWhOTmpsV1RFUllZMmxHTm1kbmNUVnNha1UwVTNwNFQyaEhMVUpFZDA4MWJrRmljWFl5UVZKZmJtOXJWakZGT0VWbU9UZ1NGM1JIYW05aGNtcEJTeTFRWVhKbVkxQjRZbUZNYlVGWkdpSkJTRTR3UlRkRlNHVk1kbHBxVFdSbE5YQktOVVk1TlhkTFNWTXhhamx2ZW5KQg,Healthcare Mobile App Developer | Android/iOS,Black Pearl Consult,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://blackpearlconsult.com&size=128",https://www.blackpearlconsult.com,Jobs In Saudi Arabia - Jooble,دوام كامل,FULLTIME,https://sa.jooble.org/jdp/4722732077438938719,False,"[{""apply_link"": ""https://sa.jooble.org/jdp/4722732077438938719"", ""is_direct"": false, ""publisher"": ""Jobs In Saudi Arabia - Jooble""}]","Black Pearl Consult in Dammam is seeking an IT Business Specialist - Mobile Application Developer to design, build, and maintain mobile apps for healthcare solutions. You will work across Android and iOS platforms, integrating RESTful APIs and leveraging cross‑platform frameworks as needed.
+
+The role requires strong UI/UX sensibilities, experience with Android/iOS SDKs, and familiarity with SAP ABAP and SAP BAS.
+#J-18808-Ljbffr",False,قبل ١٠ أيام,,,الدمام     •  عبر Jobs In Saudi Arabia - Jooble,الدمام,,SA,26.420682799999998,50.088794299999996,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Ds2FbipBgQObxFbDmAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,s2FbipBgQObxFbDmAAAAAA==
+NTRxSG1ScGpKa09jUzhKeUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGs0TUdOcFNEaG1XRVJIZEVGb1lYSmZNWEpQVTJWMk5YQlZUMGRXWHpOeVVFeHVhRUprVWtWVmNHTm5RMnRhTjFGSVYzSjFjVm80VFVaV2FVWlhORlZLVURnelVrUm5jalZYYkZoUFYwRm9NRWxxUkVzd1YyeGxNMDVtZWtSRVZWOWllQzFRYTJkNGVsUkVWemh3WmtOak1IbExlRmRJWlRsSlIzRXlTbmQxVEVGWFlrTVNGM1JIYW05aGNtcEJTeTFRWVhKbVkxQjRZbUZNYlVGWkdpSkJTRTR3UlRkRlRtUmFSQzFDVERjd1IwTnJkMHhPTkZOQ1JFeHdRV3h2U0dwUg,Software Engineer – React Native,Mnzil,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://manzil.co&size=128",https://www.manzil.co,Mawahebna,دوام كامل,FULLTIME,https://mawahebna.com/job/software-engineer-react-native-mnzil-riyadh/,False,"[{""apply_link"": ""https://mawahebna.com/job/software-engineer-react-native-mnzil-riyadh/"", ""is_direct"": false, ""publisher"": ""Mawahebna""}]","Job Summary
+
+This role involves owning the complete development experience of Mnzil's React Native app on iOS and Android, delivering polished and reliable features that align with product and design goals.
+Responsibilities
+• Manage the development and upkeep of Mnzil's React Native mobile application for both iOS and Android platforms.
+• Translate product requirements and design specifications into high-quality, production-ready features.
+• Identify and resolve performance issues, UI inconsistencies, and crashes before deployment.
+• Collaborate closely with product managers, designers, and backend engineers to deliver end-to-end features.
+• Write clean, well-organized, and testable code.
+• Participate in code reviews to enhance engineering quality.
+• Proactively identify technical debt and suggest improvements.
+Must haves
+• Over 3 years of practical React Native development experience with apps published on the App Store and/or Google Play.
+• Strong skills in JavaScript and TypeScript, including knowledge of React Native's native bridging.
+• Experience with REST API integration and state management using Redux, Zustand, or React Query.
+• Ability to debug complex mobile issues such as rendering performance, memory usage, and device-specific behaviors.
+• Adaptability to fast-changing requirements.
+• Clear communication skills to explain technical trade-offs to non-engineers.
+Nice to haves
+• Experience with Expo and Firebase.
+• Familiarity with mobile CI/CD tools like Fastlane or Bitrise.
+• Knowledge of testing frameworks such as Jest and Detox.
+
+Apply HereBrowse Other Jobs
+
+We refresh listings regularly, but some roles close early on the source platform.",False,قبل ٦ أيام,,,الرياض     •  عبر Mawahebna,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D54qHmRpjJkOcS8JyAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,54qHmRpjJkOcS8JyAAAAAA==

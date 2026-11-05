@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "specialization": "cloud_devops",
+    "query": "azure engineer"
+  },
+  "status": "OK",
+  "request_id": "81bd8f07-41cf-45aa-b982-45b6b12b06bd",
+  "parameters": {
+    "query": "azure engineer in Saudi Arabia",
+    "num_pages": 1,
+    "date_posted": "month",
+    "exclude_job_publishers": [
+      "linkedin"
+    ],
+    "country": "sa",
+    "language": "ar"
+  },
+  "data": {
+    "jobs": [
+      {
+        "job_id": "MlJmSFZBWU5mS2FoLVJJRkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmhIVm5GZmJqbGlTRU5hUzBwamJGUkRVek50WkZSWk1VUkhXbU5OTUdaU2FtTnlUV1EyWDFkTVdGWlZOa0ZDVjBGTlVFNWhaRGwzYURnNVVHVklXUzFmZDNoSk1WTjJlbFp4T1MxSWJtNXhWbXRmWWpWd1lWSnFVa3RNVkhSVU4yWnpSbXBmYlRCSllYWjBhVzF4ZFRZelgxVXdiR1JmU0dWUk1WUkNNamhGYVVFNU1XZ1NGMHR0U0c5aGNHbHVRa3d5Y2pRdFJWQTRUV3BxYlVFMEdpSkJTRTR3UlRkRlkwTkpNRTlTYW1oMWNUTTVMVU5IVTNCalpHOVlaemhzUTJGUg",
+        "job_title": "Senior Cloud Infrastructure Admin: Azure & 365 Expert",
+        "employer_name": "Dallah Albaraka Company",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvAwDIKahspOk8i6N8-iVw2yiOuPEf4SpgbWsD&s=0",
+        "employer_website": "https://www.dallah.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-cloud-infrastructure-admin-azure-365-expert--jeddah--e5aa0607469e1edff1c7ed1469a5e4ec3",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-cloud-infrastructure-admin-azure-365-expert--jeddah--e5aa0607469e1edff1c7ed1469a5e4ec3",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Dallah Digital is seeking a Cloud Infrastructure Administrator to design, implement, and maintain Microsoft cloud infrastructure and productivity platforms. You will ensure availability, security, and performance while supporting migrations, IT projects, and cross-team collaboration.\n\nThe role requires expertise in Azure, M365, Entra ID, and security controls, with a focus on automation, documentation, and ongoing improvement of cloud services.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "جدة     •  عبر JobLeads",
+        "job_city": "جدة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.5291073,
+        "job_longitude": 39.1610619,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D2RfHVAYNfKah-RIFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "2RfHVAYNfKah-RIFAAAAAA=="
+      },
+      {
+        "job_id": "OGk0M1BMYlRqYVdURnpVN0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEZUVDNjemJ6ZDBWVUpXV214SlFuTmZkVEF6ZEVOeE9XdDVlRGgwVEd4RloyOUpaR3BxYW1ka1EyY3dVRlIwU2pkQ01XaE5ZbFZ2Vm1WTVlYRndTWE5LVUUxd00xTTVhSFJOWm10SlUxSmtTMFJTT0c5aU1IbGllR0pGUjNOblQxVnVOa3Q1WVU5NFlqUlhNRWhqVldrMlRTMW9iMXBXVjE5alNEaG5kekYyTjBkUmQyMFNGMHR0U0c5aGNHbHVRa3d5Y2pRdFJWQTRUV3BxYlVFMEdpSkJTRTR3UlRkSGFuaEpOM2hFVmtOV05qaElWMk5sZWxsV2RIVmtMVWhEUzJsUg",
+        "job_title": "Senior Cloud Platform Engineer - Azure & AI (Remote)",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/senior-cloud-platform-engineer-azure-ai-remote--saudi-arabia--e376619b5c9dcd8c3b4b07b7159d43ce6",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/senior-cloud-platform-engineer-azure-ai-remote--saudi-arabia--e376619b5c9dcd8c3b4b07b7159d43ce6",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Jobgether is seeking a Cloud Platform Engineer based in Saudi Arabia to design, build, and operate scalable cloud infrastructure supporting AI applications. The role focuses on Azure with exposure to AWS, creating IaC modules, CI/CD pipelines, and observability to accelerate production readiness across international teams.\n\nYou will collaborate with AI engineers, data specialists, and IT teams to automate provisioning, strengthen security, and optimize cloud costs in a remote, globally",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٧ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "السعودية     •  عبر JobLeads",
+        "job_city": null,
+        "job_state": null,
+        "job_country": null,
+        "job_latitude": null,
+        "job_longitude": null,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D8i43PLbTjaWTFzU7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "8i43PLbTjaWTFzU7AAAAAA=="
+      },
+      {
+        "job_id": "b0pici1KMDZSVWt6amJQNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXBNYTJOd1RHeENhMGxVTFdWU1YyNWZZbEpNWlRCRGFFbEdaR2RtVVZCT1QyRjFkV0pmUVU1R1kwSlRla1JuYVVsV1p5MTVNVTF6TUc5MVVtRm1XV2Q1WkZkaVpVUk5aVlJtZFZocFpIcEdRamgxYlhsbldYQTFSVE41YW5GTWVEWkVXakJwYUY5R1NrbEtWV052UWxkSFltdGtjRzgzTkVkTWFIZEdhVFpsZUVwNFVURVNGMHR0U0c5aGNHbHVRa3d5Y2pRdFJWQTRUV3BxYlVFMEdpSkJTRTR3UlRkSVgwTllUbFV0V1VORmFrbFhNa1UxTkhGM1JWcDBjR1pmV0V0Ug",
+        "job_title": "Azure Cloud & Infrastructure Lead",
+        "employer_name": "Albawani | البواني",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bawani-ksa.com&size=128",
+        "employer_website": "https://bawani-ksa.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/azure-cloud-infrastructure-lead--riyadh--e69a73567eb8de783df49ca3b3e3f3d29",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/azure-cloud-infrastructure-lead--riyadh--e69a73567eb8de783df49ca3b3e3f3d29",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Albawani invites an accomplished Cloud Infrastructure Lead to join our IT - Operations & Infrastructure team in Riyadh. You will design, implement, and run our Microsoft cloud ecosystem, including Azure infrastructure, Azure Landing Zones, and hybrid connectivity, while ensuring security, scalability, and cost efficiency across sites.\n\nLead a team of cloud engineers, govern Azure resources, and drive migration and modernization programs aligned with business needs.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٣ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الرياض     •  عبر JobLeads",
+        "job_city": "الرياض",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.7135517,
+        "job_longitude": 46.6752957,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DoJbr-J06RUkzjbP4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "oJbr-J06RUkzjbP4AAAAAA=="
+      },
+      {
+        "job_id": "RUM2S2tRczFqNWF0dkszcEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVmhEWmpWRlpsbDVTMm80VlZKUVJqUmpOMHBtTTJkR2JsQXdWa3h2VkhCcGMzQnlaRkU1TUdWYU1WOTZkSHBLVEdoelZtdHZXVGhYVDFWZlEwOVJaVE5sZFhsUFpERk5XbXczYUdNdFIxOWxYMFZ1TW5aRWF6UkVkbkJ0WWt4NllYUndNRU5CT0ZKT2JtdHlRblpmZHpGaVNIVmxRVGhhYlVkelQwOUlZMmwxTFhOTFJUSVNGMHR0U0c5aGNHbHVRa3d5Y2pRdFJWQTRUV3BxYlVFMEdpSkJTRTR3UlRkRmIwVnlkR1EwZUhKeWFEVlJPRzE2ZDNBME9GRnFhM05OZVd0Qg",
+        "job_title": "Cloud & IT Infrastructure Lead: Azure, Security & ERP",
+        "employer_name": "Alturki Holding",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alturkiholding.com&size=128",
+        "employer_website": "https://alturkiholding.com",
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/cloud-it-infrastructure-lead-azure-security-erp--dammam--e502df337cea906c0e1a95e9a2dbc6327",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/cloud-it-infrastructure-lead-azure-security-erp--dammam--e502df337cea906c0e1a95e9a2dbc6327",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Musanadah in Saudi Arabia is seeking an IT Team Lead to own the organisation's cloud architecture, endpoint, identity and IT infrastructure across all business entities, while directly leading the IT Support team. This role blends hands-on cloud engineering with people leadership to drive strategic IT initiatives that build capability and support business growth.\n\nCandidates should have a Bachelor's in IT/CS, 6+ years in IT infra or cloud engineering with at least 2 years in leadership, and",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١٦ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "الدمام     •  عبر JobLeads",
+        "job_city": "الدمام",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 26.420682799999998,
+        "job_longitude": 50.088794299999996,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DEC6KkQs1j5atvK3pAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "EC6KkQs1j5atvK3pAAAAAA=="
+      },
+      {
+        "job_id": "NGViTVVFNEt1OWFJZEFFa0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa1IzT1RCeFJrWXhiMFpWV0RCeWJXcEtVMDl4UlhsRFUyMXNkbUphVHpkZmNqbDBWbTV6Y25JelptVlFSbXROY1ZjelFXOUxkRFUxT0d4c2FXNVBUMnByUVVOcWIwWjFjRE5KYkhGTllrOWFTR2M0UVZVdGR6aHFkMUF3YUdKNWFta3dTbmx6ZG5KYVZYQXhkM2R3VmpSbmFVRlBSRjlVTjFjM2NuaHVYM0poTVVsd1JXSVNGMHR0U0c5aGNHbHVRa3d5Y2pRdFJWQTRUV3BxYlVFMEdpSkJTRTR3UlRkSWNHTlFVVWh5VFdSTVVEaFFTMmRZY3pFek0waHdXalprZFc5Mw",
+        "job_title": "Senior Cloud Platform Engineer - Azure & AI (Remote)",
+        "employer_name": "Jobgether",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",
+        "employer_website": "https://jobgether.com",
+        "job_publisher": "Jobrapido.com",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://sa.jobrapido.com/jobpreview/5120146787989979136",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://sa.jobrapido.com/jobpreview/5120146787989979136",
+            "is_direct": false,
+            "publisher": "Jobrapido.com"
+          }
+        ],
+        "job_description": "Jobgether is seeking a Cloud Platform Engineer based in Saudi Arabia to design, build, and operate scalable cloud infrastructure supporting AI applications. The role focuses on Azure with exposure to AWS, creating IaC modules, CI/CD pipelines, and observability to accelerate production readiness across international teams.\nYou will collaborate with AI engineers, data specialists, and IT teams to automate provisioning, strengthen security, and optimize cloud costs in a remote, globally\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ١١ يومًا",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "مكة     •  عبر Jobrapido.com",
+        "job_city": "مكة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 21.424096799999997,
+        "job_longitude": 39.817336399999995,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D4ebMUE4Ku9aIdAEkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "4ebMUE4Ku9aIdAEkAAAAAA=="
+      },
+      {
+        "job_id": "WEVBdGtSR1V0Zk1QV1pBb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV3hUWmtOQ2FGcEJTMnB2Y0dSc1ptMW5XbXhJVDBwcE5XTkxSWFY2ZHpKeVZIQlBObWRRTFdZd1MxVkRTVVV0VFU0M05rOXNVMDR5V25FeFRDMHhUMjkzVlVWQ05taElObmhHU0ZGelVWOHhlRWN0UkRSeE5reENZWE15ZUMxdmJYaE5RM0J3WDB4eE9Wa3daV1JTZDFOa1NWRm1XVUo1ZDBZMExYUmZSMlJFVEVSUWFqZ1NGMHR0U0c5aGNHbHVRa3d5Y2pRdFJWQTRUV3BxYlVFMEdpSkJTRTR3UlRkSFRGVlpaMXBtYmxFeU56TnhObGQ0YUZSbVVVZHhiMUExWkZabg",
+        "job_title": "Cloud Operations Engineer | AWS/Azure, DevOps & Security",
+        "employer_name": "Client of PENTABELL",
+        "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",
+        "employer_website": null,
+        "job_publisher": "JobLeads",
+        "job_employment_type": "دوام كامل",
+        "job_employment_types": [
+          "FULLTIME"
+        ],
+        "job_apply_link": "https://www.jobleads.com/sa/job/cloud-operations-engineer-aws-azure-devops-security--medina--e70b924bf75943c88c83a6a2579fe3da2",
+        "job_apply_is_direct": false,
+        "apply_options": [
+          {
+            "apply_link": "https://www.jobleads.com/sa/job/cloud-operations-engineer-aws-azure-devops-security--medina--e70b924bf75943c88c83a6a2579fe3da2",
+            "is_direct": false,
+            "publisher": "JobLeads"
+          }
+        ],
+        "job_description": "Client of PENTABELL is seeking a Cloud Operations Engineer to monitor cloud infrastructure, implement scalable cloud solutions, and collaborate with cross-functional teams to deploy new services in Medina.\n\nThe role requires a Bachelor’s or Master’s in CS/IT, at least 1 year of experience, and relevant certifications (AWS, Azure, Kubernetes). You will troubleshoot issues, document processes, and uphold cloud security best practices.",
+        "job_is_remote": false,
+        "job_posted_at": "قبل ٦ أيام",
+        "job_posted_at_timestamp": null,
+        "job_posted_at_datetime_utc": null,
+        "job_location": "المدينة المنورة     •  عبر JobLeads",
+        "job_city": "المدينة المنورة",
+        "job_state": null,
+        "job_country": "SA",
+        "job_latitude": 24.4672132,
+        "job_longitude": 39.6024496,
+        "job_benefits": null,
+        "job_benefits_strings": null,
+        "job_google_link": "https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DXEAtkRGUtfMPWZAoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+        "job_salary": null,
+        "job_salary_string": null,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_onet_soc": null,
+        "job_onet_job_zone": null,
+        "employer_reviews": null,
+        "job_uid": "XEAtkRGUtfMPWZAoAAAAAA=="
+      }
+    ],
+    "cursor": null
+  }
+}

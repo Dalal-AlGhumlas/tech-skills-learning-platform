@@ -1,0 +1,310 @@
+﻿job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
+aWo0dFoxWHFrUXhkTUFWTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGxKYVUxTWFXbFpVMlJrTUVGek9HTjFZVkkwWlRNelNVUjNhR2hZV0RsbWNqRldWbVpxZGxJdFlXc3dXbWxQYUVJMlZqTkVTRlZ0VjJsWGVHVkVabXRuTWtWR1oyUk5PVGswTW05aFNubzFTbkJCU0RjNGFrRnBORU41T0ZCc09WQXRVbkJQVVVNeGJUTnZZMWR5UVRKNFJVWkRVMjFEY0V0VGJXZzFkRFk0UVRsNE9FNFNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkSU9HcEVWbWxQZDB0c05ub3pTbUp1WDJKVVpsSXphMnRvYVUxQg,Senior Agentic AI & LLM Engineer,imkan.ai,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-agentic-ai-llm-engineer--riyadh--e9e67265507c13922736d1b650701f74b,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-agentic-ai-llm-engineer--riyadh--e9e67265507c13922736d1b650701f74b"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","imkan.ai is an international Data and AI consultancy headquartered in Saudi Arabia, specialising in engineering-led solutions across data infrastructure and agentic AI systems. We partner with global enterprises to move data and AI from concept to production, building things that actually run.
+
+ABOUT THE ROLE
+
+You will lead the design, development, and deployment of production-grade agentic AI and LLM systems for enterprise clients across Saudi Arabia. This is not a research role. You will own multi-agent architectures, RAG pipelines, and LLM integrations end-to-end, from architecture through to live deployment. You will work embedded with client teams and in close coordination with imkan.ai’s engineering leads.
+
+KEY RESPONSIBILITIES
+
+• Build and maintain production-grade data pipelines to support LLM ingestion, embedding generation, and retrieval workflows
+
+• Design vector store architectures and manage embedding pipelines across structured and unstructured enterprise data sources
+
+• Manage cloud AI infrastructure on Azure or AWS, including model hosting, API gateway management, and cost optimisation
+
+• Enforce data quality, lineage, and governance standards relevant to enterprise AI deployments in regulated environments
+
+• Define observability standards for AI systems including logging, tracing, drift detection, and cost monitoring in production
+
+Agentic AI & Generative AI
+
+• Build and maintain end-to-end AI orchestration pipelines covering data ingestion, model inference, and result delivery
+
+• Design and operate RAG pipelines with vector databases for enterprise knowledge retrieval
+
+• Engineer, version, and continuously refine prompts for production LLM applications
+
+• Integrate LLMs with external tools and APIs to build autonomous, multi-step agentic workflows
+
+• Implement model evaluation frameworks, guardrails, and safety checks for enterprise LLM deployments across client environments
+
+• Lead incident triage and root-cause analysis for AI-driven services in production
+
+• Collaborate with data scientists, product owners, and platform engineers across time zones
+
+REQUIRED SKILLS & EXPERIENCE
+
+Programming & Frameworks
+
+• AI/ML: PyTorch, Scikit-learn, Hugging Face Transformers, LangChain, LangGraph
+
+• Agentic frameworks: LangGraph, AutoGen, CrewAI, or similar multi-agent orchestration tools
+
+• Data tooling: dbt, PySpark, Airflow, Kafka or Flink
+
+• Cloud: Azure (preferred), AWS, or GCP
+
+Domain Experience
+
+• 6+ years of hands-on experience delivering production AI or data systems, not PoC or academic projects
+
+• Hands-on with LLMs: prompt engineering, fine-tuning, RAG, model compression
+
+• At least one agentic AI system taken from design through to production
+
+• Familiarity with AI model risk frameworks and audit trail requirements
+
+• Experience delivering AI solutions in Saudi Arabia or the wider GCC region is a strong advantage
+
+Ways of Working
+
+• Fluent English, written and spoken. This is the working language across all teams
+
+• Currently based in Saudi Arabia with a valid, transferable Iqama. This is a non-negotiable requirement
+
+• Agile/Scrum proficiency; able to self-manage against sprint commitments
+
+NICE TO HAVE
+
+• Familiarity with Saudi data and AI governance frameworks, NCA requirements, or PDPL compliance considerations
+
+• MLflow or equivalent for experiment tracking and model registry",False,قبل ٤ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dij4tZ1XqkQxdMAVNAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,ij4tZ1XqkQxdMAVNAAAAAA==
+UzA5R2xwQzBzTjBJTUNxTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa3hYWlRsdVZrZE1lVkp4ZVY4d1luaGlUM2hmU2psRGRrUnhla1JxVG14U1UyWkJZVGN6U2twWlNXUTNaR0o2ZEhodlNEUjJiVVJGWlZGdVFUbGtWV3R3VGtSSlpYSkpXRnBqT0dSMWFDMUdTRWRwY2xsM1owSmxNM3BYWW5kSlRFbHRTWHBGVWkxVVVWcHhaMjVSV1ZCclUwbGtVa2RWUjJWQk0wY3hlVXgzWVY5dFVVd1NGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkSExYZElOa1pUV0dVd05qWklPVzk1ZUdwSWIwMWZXalZ0VEhsUg,AI/LLM Engineer (Saudi Arabia),Eram Talent,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://eramtalent.com&size=128",https://eramtalent.com,Workable Jobs,دوام كامل,FULLTIME,https://apply.workable.com/eramtalent-1/j/03815EAEE0/,False,"[{""apply_link"": ""https://apply.workable.com/eramtalent-1/j/03815EAEE0/"", ""is_direct"": false, ""publisher"": ""Workable Jobs""}]","This position is for building, deploying and evaluating Client's Arabic AI tutor for mathematics and computer science: preparing Arabic training data, fine-tuning, aligning and evaluating LLMs on Shaheen III and Ibex, and integrating the tutor into the learning platform for a pilot in at least 10 Saudi schools.
+
+The position is part of the RDIA-funded project 5870, “An AI-Powered Arabic Tutoring Platform for STEM Education in the Kingdom.” Two engineers will be hired into this role.
+Key Responsibilities
+• Prepare Arabic training datasets from educational materials and consented platform interactions.
+• Fine-tune, align, and evaluate commercial and open-source LLMs using Shaheen III and Ibex computing platforms.
+• Develop Arabic STEM benchmarks, preference-training methods, and student-safety guardrails.
+• Integrate AI tutoring capabilities into the learning platform, including Arabic right-to-left interfaces.
+• Deploy and optimize models for reliable, low-latency real-time interactions.
+• Support school pilot implementation, evaluation, and teacher feedback collection.
+• Ensure student data privacy and compliance with Saudi data protection requirements.
+• Contribute to research publications, technical reports, and project deliverables.
+Qualifications & Experience
+• MSc in Computer Science, Artificial Intelligence, or a related field; alternatively, a BSc with at least one year of relevant experience.
+• Hands-on experience in LLM fine-tuning, evaluation, and AI application deployment.
+• Professional proficiency in Arabic and English.
+• Experience with RLHF/DPO, educational technology, or mathematics/programming education is preferred.
+Technical Skills
+• Advanced Python and PyTorch.
+• Hugging Face Transformers, PEFT, and TRL.
+• Distributed GPU training using DeepSpeed or FSDP.
+• LLM evaluation, reward modeling, and preference optimization.
+• Arabic NLP, data pipelines, and OCR.
+• Model serving and inference optimization using tools such as vLLM.
+• APIs, Docker, Git, CI/CD, and production deployment.",False,قبل ٢٠ يومًا,,,ثول     •  عبر Workable Jobs,ثول,,SA,22.2756562,39.113275699999996,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DS09GlpC0sN0IMCqLAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,S09GlpC0sN0IMCqLAAAAAA==
+WkZ6djBodUhBRjVJd1JBakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1ZvTlRWUWJubGljM1ZJUTFreVZteHlTbmQyUkhjdFkxa3lhRXhaT1MxNGRGaE9aVEZ0UlV0TFpUaGtZMGhwVDNCWmIzaFRSbXN4TWtVNWFHaFdMWFprWDNsNGRHbHVUa2R5UlZNeWF6ZDNUelU1U2pkVFVFRllVRzA0YnpkcWRVOWtORmRDVDBkUlRHTm1hMEo2TTNwVGRUaHZSa2g1VmxCUVNHUXhVMmxaWm0weFluRVNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkSFF6bEhPRGRxZDNSVlowSjRRelI2ZEZoeFNVNWFXbGREVWtoMw,AI Developer: LLM & Tooling | Riyadh On-site,APEX Operations,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/ai-developer-llm-tooling-riyadh-on-site--riyadh--e446c540cd9581cb98c7c6dac66ea4bf0,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/ai-developer-llm-tooling-riyadh-on-site--riyadh--e446c540cd9581cb98c7c6dac66ea4bf0"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","ARK47 Studio, by APEX Operations, is seeking a software engineer to build and improve the prompts, tools and model calls that turn a business owner’s description into a plan, screens and data in ARK47 Studio.
+
+You will also design automated evaluations to measure the quality of the plans and systems the AI produces, and compare large language models to choose the right model for each step. This is an on-site Riyadh role with full-time hours and Saudi labour law compliance.",False,قبل ٣ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DZFzv0huHAF5IwRAjAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,ZFzv0huHAF5IwRAjAAAAAA==
+UjVWU3l2cnZRZ2Jkc1JHc0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa3huVDBkWk1HMVlSWEYzY0d0eVNWQnFhMkZ2VDFnM1ZHRXlhbE5ZUm10blpqUjBhVkZQTkZCSU1XOTBiV0ZzVmtGaVRVVXhjSEppVDBScU9XbGxhRjlWTVV0Q1VGSk9WMVExTjJoaFVsWkpRMVZ0WDNCb1gxVkVXRTQzZW5OR1FucGlSalpZWm1KaVFWSkhRWE53VEVvMmEzaHFZbTgyVmtaT2VreEhRbTVoZWpoclJFMFNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkSVkzSkJWSEpwUzJ0WVEweEphbnBZYzFsbVdqZHlUWEZTUVc5Mw,AI/LLM Engineer (Saudi Arabia),Eram Talent,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://eramtalent.com&size=128",https://eramtalent.com,Jobs In Saudi Arabia - Jooble,دوام كامل,FULLTIME,https://sa.jooble.org/jdp/3272086723769621455,False,"[{""apply_link"": ""https://sa.jooble.org/jdp/3272086723769621455"", ""is_direct"": false, ""publisher"": ""Jobs In Saudi Arabia - Jooble""}]","This position is for building, deploying and evaluating Client's Arabic AI tutor for mathematics and computer science: preparing Arabic training data, fine-tuning, aligning and evaluating LLMs on Shaheen III and Ibex, and integrating the tutor into the learning platform for a pilot in at least 10 Saudi schools.
+
+The position is part of the RDIA-funded project 5870, “An AI-Powered Arabic Tutoring Platform for STEM Education in the Kingdom.” Two engineers will be hired into this role.
+Key Responsibilities
+• Prepare Arabic training datasets from educational materials and consented platform interactions.
+• Fine-tune, align, and evaluate commercial and open-source LLMs using Shaheen III and Ibex computing platforms.
+• Develop Arabic STEM benchmarks, preference-training methods, and student-safety guardrails.
+• Integrate AI tutoring capabilities into the learning platform, including Arabic right-to-left interfaces.
+• Deploy and optimize models for reliable, low-latency real-time interactions.
+• Support school pilot implementation, evaluation, and teacher feedback collection.
+• Ensure student data privacy and compliance with Saudi data protection requirements.
+• Contribute to research publications, technical reports, and project deliverables.
+Qualifications & Experience
+• MSc in Computer Science, Artificial Intelligence, or a related field; alternatively, a BSc with at least one year of relevant experience.
+• Hands-on experience in LLM fine-tuning, evaluation, and AI application deployment.
+• Professional proficiency in Arabic and English.
+• Experience with RLHF/DPO, educational technology, or mathematics/programming education is preferred.
+Technical Skills
+• Advanced Python and PyTorch.
+• Hugging Face Transformers, PEFT, and TRL.
+• Distributed GPU training using DeepSpeed or FSDP.
+• LLM evaluation, reward modeling, and preference optimization.
+• Arabic NLP, data pipelines, and OCR.
+• Model serving and inference optimization using tools such as vLLM.
+• APIs, Docker, Git, CI/CD, and production deployment.
+#J-18808-Ljbffr",False,قبل يومين,,,مكة     •  عبر Jobs In Saudi Arabia - Jooble,مكة,,SA,21.424096799999997,39.817336399999995,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DR5VSyvrvQgbdsRGsAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,R5VSyvrvQgbdsRGsAAAAAA==
+T1pDNlhkUC1CX0VMblZ5X0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1JTWW1KSlRIaEVNM0puUWpCR1dUTmtZMWh6Y0VReExWVk5SVXhvU25KdFFXUmtXSFpvU0VweFlXRkRWMUp5Yms1Nk5YRjJiSGxhY0ZoVGRISXpkQzEwYzJwbVVVRk5YMjEyYWxwcE1UazJSMjFTTW5kaWNGWnpkbXBUZFZsTU5GSlFURTlLTjJkbmMxRkZSMnRCZVU4d2FXWjNZVnBITWxWblRtMDFWMnBzVDJaVVYwWVNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkR1gxVnBNVVZVV2pkSU4zQTRkVkp3Tm5wa00yUnVaaTFvUWxwUg,Senior AI Engineer — Production LLMs for Banking,CoorB,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://coorb.io&size=128",https://coorb.io,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-ai-engineer-production-llms-for-banking--makkah-region--edba71ff4c93ed8a4309a0eeaa5ea93a3,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-ai-engineer-production-llms-for-banking--makkah-region--edba71ff4c93ed8a4309a0eeaa5ea93a3"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","CoorB is seeking a Senior AI Engineer to design, build and deploy AI solutions for digital banking in the GCC. You will deliver production-grade LLM applications, including retrieval-augmented systems, knowledge graphs and fine-tuned models that drive measurable business value for banking clients.
+
+Join a team building RAG pipelines, managing vector databases, and deploying LLMs in production with robust security and governance for regulated environments.",False,قبل ٤ أيام,,,مكة     •  عبر JobLeads,مكة,,SA,21.424096799999997,39.817336399999995,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DOZC6XdP-B_ELnVy_AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,OZC6XdP-B_ELnVy_AAAAAA==
+Wmx4c3lONDdGM1U5b2JaT0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXBOYUVsblpIRmpiRXhtWVRsNFQwbE1ObFk1YzJRNGVGY3dWbFJmUmxRNVkwcEhXRU5KZDFSRU1WOU1UVnBxWkZSNlVXdFJiVEpVYkVsQlIxOW5SMDR5ZFV0VE1UaFpNa3R1T1dkUU4zQnNWR2RUT1VOTlpWRjVXVkZXV0hneWJrNHpSVVU1UkRaa1ZXVlVUMTlRWVRFeFdqbHNURXB2TFVwYVZqRkxZazV0U0hkRGIyUVNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkR1YyWTBOMDl0UzNOUFl6SjNkSEZ1TURWU1gxQlZiRWh0UlhWUg,LLM Evaluation Dataset Engineer,Apex AI Arabia,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apexaiarabia.com&size=128",https://apexaiarabia.com,Apex AI Arabia,دوام كامل,FULLTIME,https://apexaiarabia.com/opportunities/HR-OPN-2026-0224,False,"[{""apply_link"": ""https://apexaiarabia.com/opportunities/HR-OPN-2026-0224"", ""is_direct"": false, ""publisher"": ""Apex AI Arabia""}]","LLM Evaluation Dataset Engineer supports the AI Evaluation & Benchmarking function at Apex AI Arabia. Responsibilities include scoping customer and internal requirements, producing documented deliverables, validating quality and measurable outcomes, and coordinating cross-functional handoffs. Work is remote and flexible on a contributor basis. Compensation, intellectual property, confidentiality, and other terms require a separate written agreement; no fixed salary or guaranteed income is implied.",False,قبل ٢٥ يومًا,,,السعودية     •  عبر Apex AI Arabia,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DZlxsyN47F3U9obZOAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,ZlxsyN47F3U9obZOAAAAAA==
+d1QyTGh6TG5MR1ZxRHNUeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbk4wV0hkeWMwZzBUM2xJUkd0elN6ZE1lVVU0U1ZkRE4yeHRWMDVFV1RWeWVrSTRNMmRYZVVwTlJuVlRWM2hQVEhWeVVVaE1XVGM1ZVdwVk1HWkhWbFZDVDJ0MFVrOHRTaTB3YTNoSFVraHFZeTFWZUdWQlFuQlZTa2cwYUhCd2JFeGtRbWRVUzNJM2RrSkVkVXRUVmpndFdrc3diVlZuVkU5MVNsSmlRbWQ2TWpWZlMxQVNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkR09IVjZURlpyTlVKcFFubE1Ua3RoU0RCQmJUTXlRa28xWTFabg,AI Solutions Engineer: Scalable ML & LLM Deployments,Confidential Government,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/ai-solutions-engineer-scalable-ml-llm-deployments--riyadh--e648012c0d7299221dd07b7510deb4652"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Confidential Government is seeking an AI/ML Engineer to design, deploy, and integrate scalable AI solutions in Riyadh. You will build models, APIs, and MLOps pipelines to automate business processes and support data-driven decisions.
+
+Responsibilities include data preparation, model monitoring, and collaboration with business teams to translate needs into technical solutions while ensuring governance and security standards are upheld.",False,قبل ٦ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3DwT2LhzLnLGVqDsTxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,wT2LhzLnLGVqDsTxAAAAAA==
+MG1ZczloOWhjVkFXem00R0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVEJwYkVwQ1dUVkhaemxvTkdNMmJUVkNVbkZuTkhvNU5uWlVkRlpTZGtwUGFVTm1ia0ZIU1Y4eFoxVnljVzQ0VTJ4ek4yVnplR3hGTVdOM1pGcHdWbEY1ZFdZd1dFVmZZa0k1Y2xWdmQyRnpkVUpsU1dWRVNUWmlkakExUW1salJtZFNRemN0ZGxsRFMzcDRaM1JrTVhSVWMwMXROVlpmYkdKRmNVaHROV05oVW14dVRrRVNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkRlZFdDJiMlJYV2xOT1lWRnZSblZPZFVwS2JqWXRVall0YzE5Ug,AI/ML/LLM Systems Engineer - Enterprise AI Platform Engineer,Aramco Overseas Company UK Ltd,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://europe.aramco.com&size=128",https://europe.aramco.com,Jobs In Saudi Arabia - Jooble,دوام كامل,FULLTIME,https://sa.jooble.org/jdp/-8919413583431650305,False,"[{""apply_link"": ""https://sa.jooble.org/jdp/-8919413583431650305"", ""is_direct"": false, ""publisher"": ""Jobs In Saudi Arabia - Jooble""}]","Aramco energizes the world economy.
+
+Aramco occupies a special position in the global energy industry. We are one of the world's largest producers of hydrocarbon energy and chemicals, with among the lowest Upstream carbon intensities of any major producer.
+
+With our significant investment in technology and infrastructure, we strive to maximize the value of the energy we produce for the world along with a commitment to enhance Aramco's value to society.
+
+Headquartered in the Kingdom of Saudi Arabia, and with offices around the world, we combine market discipline with a generations' spanning view of the future, born of our nine decades experience as responsible stewards of the Kingdom's vast hydrocarbon resources. This responsibility has driven us to deliver significant societal and economic benefits to not just the Kingdom, but also to a vast number of communities, economies, and countries that rely on the vital and reliable energy that we supply.
+
+We are one of the most profitable companies in the world, as well as amongst the top five global companies by market capitalization.
+
+Overview
+
+We are seeking an AI/ML/LLM Systems Engineer to join our Digital & AI Center of Excellence and contribute to the development of enterprise-scale AI platforms that support advanced machine learning and language model inference across Saudi Aramco's operations.
+
+The Digital & AI Center of Excellence is responsible for delivering scalable, secure, and high-performance AI/ML/LLM systems that drive innovation and operational efficiency.
+
+In this role, you will design and maintain infrastructure for deploying and optimizing large language models (LLMs) and vision models, hosted on NVIDIA SuperPods/ Cloud and containerized environments.
+
+Your primary role is to ensure the efficient and scalable operation of AI models within enterprise platforms. You will be responsible for deploying, monitoring, and optimizing inference workloads, integrating vector and relational databases, and implementing orchestration and DevOps pipelines to support continuous model improvement and delivery.
+
+Duties & Responsibilities
+
+As the successful candidate, you will be required to perform the following:
+• Deploy and manage LLMs and vision models on NVIDIA SuperPods, Cloud, ensuring high performance and efficient use of GPU resources.
+• Build and maintain scalable inference pipelines using Kubernetes (K8s), Docker, and OpenShift for enterprise AI platforms.
+• Optimize inference performance through multiple techniques.
+• Benchmark and evaluate LLMs for performance, accuracy, latency, and resource utilization across different hardware and software configurations.
+• Implement and support LLMOps frameworks with full observability, including logging, tracing, and model performance tracking.
+• Integrate and manage vector databases (Elasticsearch) and relational databases (PostgreSQL) for efficient data retrieval and user interaction history tracking.
+• Implement and maintain CI/CD (Continuous Integration/Continuous Delivery) pipelines for model and platform updates using Git, Bitbucket, Jenkins, and ArgoCD.
+• Ensure high availability and reliability of AI application workflows using frameworks like Haystack.
+• Collaborate with infrastructure teams on GPU provisioning and resource allocation for AI workloads.
+• Develop and maintain monitoring, alerting, and dashboarding systems for AI/ML workloads to ensure SLA/SLO compliance.
+Minimum Requirements
+
+As a successful candidate you will:
+• Hold a Master's degree in Computer Science, Software Engineering, or a related field
+• Have 8 years of experience in AI/ML systems or cloud-native infrastructure, including at least 4 years in LLM deployment and optimization.
+• Proficiency in Python and SQL is required, with experience in building and optimizing AI/ML applications.
+• Ability to work with Kubernetes (K8s), Docker, and OpenShift in production environments.
+• Experience deploying and optimizing LLMs and vision models on NVIDIA GPU clusters and high-performance computing (HPC) environments and Cloud environment.
+• Ability to demonstrate proficiency in inference scaling, distributed computing, and SLA/SLO planning for AI workloads.
+• Strong knowledge in Elasticsearch, PostgreSQL, and workflow frameworks like Haystack for AI application development.
+• Ability to implement CI/CD pipelines using tools like Git, Bitbucket, Jenkins, and ArgoCD.
+• Experience in benchmarking and evaluating LLMs for performance, accuracy, and efficiency is required.
+• Monitoring and dashboarding for AI/ML systems is also necessary.
+Work Location and Work Schedule
+
+Work Location: Within Saudi Arabia - To be specified in Job offer
+
+Work Schedule: Full Time - To be specified in Job offer
+
+Job Post Duration
+
+Job posting start date: 04/28/2026
+
+Job posting end date: 04/28/2027
+
+Working environment
+
+Our high-performing employees are drawn by the challenging and rewarding professional, technical and industrial opportunities we offer, and are remunerated accordingly.
+
+At Aramco, our people work on truly world-scale projects, supported by investment in capital and technology that is second to none. And because, as a global energy company, we are faced with addressing some of the world's biggest technical, logistical and environmental challenges, we invest heavily in talent development.
+
+We have a proud history of educating and training our workforce over many decades. Employees at all levels are encouraged to improve their sector-specific knowledge and competencies through our workforce development programs - one of the largest in the world.
+
+Country/Region: SA",False,قبل ٢٥ يومًا,,,الظهران     •  عبر Jobs In Saudi Arabia - Jooble,,,,,,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D0mYs9h9hcVAWzm4GAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,0mYs9h9hcVAWzm4GAAAAAA==
+cjBqQ1N5cy1FLTBhNkN2U0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1pIYjJWVVltRktNakp5ZDNkclVHWjZZbUpEVlV4SldEVXpiMkV6WjJkcFIzSjZTSE5zWmpaVGQxZE1PVzVXYVhFM04xVkZVVUV4Y1dvdFlrVnNVakJ4TTBwTmNWaFNibGxTY25Ccll5MTZSV3R1Y21aRlpVNVRWR2c1UmxKQlFrbHBNMU5KTm1GdFNXaEVPQzFMVVVFeVJVTjFiSHBTUzFScVdWWjRWMDVFU2xselNIWVNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkSE9ERmxZMmR0ZVRJMk1HazFWMGc1VWtORFEzSnhhVEZUVkhGMw,AI Platform Lead: LLMs & Production Systems,Lucidya | لوسيديا,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hAKCCs6KMUV-18RqLUC7ir3eL-zUZyFJDHYU&s=0,https://www.lucidya.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/ai-platform-lead-llms-production-systems--riyadh--efd5610be42bf1b685e435e15b77fc41e,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/ai-platform-lead-llms-production-systems--riyadh--efd5610be42bf1b685e435e15b77fc41e"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Lucidya | لوسيديا is hiring an AI Tech Lead to own the AI architecture of the Agentic Platform. You will write production code, lead a small team of AI engineers, and set technical direction while ensuring reliability and quality.
+
+You will mentor engineers, drive evaluation pipelines, and collaborate with Product on turning customer use cases into scalable AI features. The role blends hands-on delivery with leadership in a fast-growing environment.",False,قبل ٥ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3Dr0jCSys-E-0a6CvSAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,r0jCSys-E-0a6CvSAAAAAA==
+NUZDQl83V090R0RRYnFkNEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVkZvY0RKVWVrMDRSbTFSWWxCb01HcFlkVGxXWTNOclUzaFNjQzB4WkY5NFJXWmFiVmxyVW5Sc2FVRjJjRlJGYjAxdGRHbHRXRFJIU1hwRGNtTm5ORWx0VmxKS1NUZERhMjlWZUVSdWNucHJVa05EY1VvM2NsY3pjM0JUY21aM1RWOXZSbmMzYTJaTVlXTklhR0pTVEZkWldXNTViVk14UTJKalZFcHdXVE40VFMxQmVIRVNGMVpITTI5aGRtWmtRbDh6WW5BNE5GQXRaSGxJZFZFNEdpSkJTRTR3UlRkRmNrcEtSVTFpUVdsVVJYUTNiMHRWWVhvNFFrRlJVV3RHVlZSUg,AI Engineer,CoorB,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://coorb.io&size=128",https://coorb.io,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/ai-engineer--jeddah--eee39d34a486cfdb9cdd86c265033acf4,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/ai-engineer--jeddah--eee39d34a486cfdb9cdd86c265033acf4"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Jeddah, Saudi Arabia | Posted on 10/22/2026
+CoorB is all about digital finance. We build full-fledged innovative solutions with a focus on process automation, user experience enhancement, and advanced data analytics. With our extensive industry expertise, we help achieve operational excellence, future-proof your IT investments, and ensure a competitive edge in the ever-evolving finance industry.
+
+Job Description
+CoorB is looking for a Senior AI Engineer to design, build and deploy AI solutions for digital banking. You will build production-grade LLM applications, including retrieval-augmented systems, knowledge graphs and fine-tuned models, that deliver measurable business value to our banking clients across the GCC.
+
+Key Responsibilities
+• Design and build RAG pipelines: document ingestion, chunking, embeddings, hybrid search and re-ranking.
+
+• Build and maintain knowledge bases and knowledge graphs (for example Neo4j, or GraphRAG approaches).
+
+• Fine-tune LLMs (LoRA/QLoRA, PEFT) on domain-specific data, and evaluate them against base models.
+
+• Develop agentic AI workflows, including tool calling, multi-step orchestration and memory.
+
+• Set up LLM evaluation frameworks to measure accuracy, hallucination rate, latency and cost.
+
+• Deploy and operate models in production ( LLMOps/MLOps ), including monitoring, versioning and CI/CD.
+
+• Apply security, data privacy and responsible AI practices suited to regulated banking environments.
+
+• Work with architects, developers and client stakeholders to turn business needs into AI solutions.
+
+Requirements
+Mandatory Requirements
+All of the following are required:
+• 5–7 years in software, ML or AI engineer ing, with at least 2 years building LLM-based applications.
+• Strong Python; hands-on with LangChain, LlamaIndex or similar frameworks.
+• Proven experience building RAG systems in production.
+• Hands-on with vector databases (Pinecone, Weaviate, Milvus, pgvector, Azure AI Search or similar).
+• Experience with knowledge graphs and graph databases.
+• Proven experience fine-tuning open-source LLMs (Llama, Mistral, Qwen or similar) using Hugging Face tooling.
+• Experience with commercial LLM APIs (OpenAI/Azure OpenAI, Anthropic, Google Gemini).
+• Experience building agentic AI and multi-agent solutions, including MCP (Model Context Protocol).
+• On premises, Cloud experience on Azure, AWS or GCP , plus Docker and Kubernetes.
+• Solid grasp of prompt engineer ing, embeddings and LLM evaluation methods.
+• Arabic NLP or multilingual model experience.
+• Experience in banking, fintech or other regulated industries.
+• Familiarity with SAMA or other GCC regulatory and data-residency requirements.",False,قبل ٥ أيام,,,جدة     •  عبر JobLeads,جدة,,SA,21.5291073,39.1610619,,,https://www.google.com/search?q=jobs&gl=sa&hl=ar&udm=8#vhid=vt%3D20/docid%3D5FCB_7WOtGDQbqd4AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,5FCB_7WOtGDQbqd4AAAAAA==
+NmZGR2VvM1RpcE92WVJMVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbTg0TnpSZllXYzVPVXQ0ZVVnME16UjVVR3REWkhwSUxTMVJlWHB0UTNoZmIxTnVlRFkyY0d4dUxVaHhkRU5XVWtaUFZtVnVWV0ZNZEVSUlJtdHlhMGRqUlU1cFJGVmxlVmczUld0eldHNUNjMkZxV0VOYWFYTldaMDVNUkVSMlRXa3lOVVZwUjNKMVYwRnBXbWxtWWtScFltSTNUV3Q2VlVkUFJUVktlbmRIUlZweUxVY1NGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkSVlrRTBlVXhrU1RsSWRVRjNSVnByWW1aUmFEaE1NVlJ6YkdwQg,Senior AI Architect: Agentic & Enterprise LLMs,CodeNinja Inc.,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-ai-architect-agentic-enterprise-llms--riyadh--e20c3c4643062ed8548a675eb5d9484e1,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-ai-architect-agentic-enterprise-llms--riyadh--e20c3c4643062ed8548a675eb5d9484e1"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","CodeNinja Inc. is seeking an experienced Senior AI Engineer / Agentic AI Architect to design, build, and deploy enterprise-scale AI solutions for banking and financial services.
+
+You will work across LLMs, RAG, and Agentic AI, delivering production-grade AI applications with emphasis on scalability, security, observability, governance and performance. The role requires 8–12+ years in software engineering, including 5+ years in AI/ML and Generative AI, with strong Python backend skills and",False,قبل ٥ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=6fFGeo3TipOvYRLVAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-Pay8gVGZyal5lfpODoqeBYlJyRWZKaXGKl4JiemleSmaygpuCaV5JaVFCUWZyq4OPjW3yjR-HG8pstN1bcWHtjtcKNnTfbFG523NhxY_mNZTcbQfyWm50K7vn56TmpUtYZJSUFxVb6-sXFOXrpxSWJQBP1kvNz9fPzUpPyK_Sz8pOKQUR8cUZiUWpBTmJJaryRqUGFXkFeupbyo4bVzvkpqX6ZeVmJCp55yXoKNxtvdkFs33izC2jjNgAxPEiRwAAAAA&shmds=v1_Ac3VAowzuJfsjf9BkQoo2_WheX2sI7B2kb7z4UevBwuILZTohw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=6fFGeo3TipOvYRLVAAAAAA%3D%3D",,,,,,{},,,,6fFGeo3TipOvYRLVAAAAAA==
+WGhpdWFpV0RwYjRLUFFxRkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFV0VDBoWFpFb3dXWEpXZUhST1MwSTVObVpaTkVNd1FVUTJaamxEWlZaelZub3hSbkJWVVdOQ1FYUkZSMHBGYVZZMU56Wm5ZalZIUkhJMWFEbFNaRXBtTlRkdVZsSjRWMGx5WlRrMlFUWldNMjVZWVd0NFNXOTBYemxNVkV0NU5tcEpNRzF3Um0xYVJWTnFWazF1V1MxVGFFNUVXRjgzTjFSalIwcHJORU5CU0dwaUxWOFNGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkRlRuZFhkMFpYVDB4aGQxYzJSbWt4Y1ZGMk1tZFRSbmxNUkhsMw,AI Integrations Engineer Automation + LLM,Alrouf,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",,Jobilize,دوام كامل,FULLTIME,https://www.jobilize.com/job/sa-dammam-ai-integrations-engineer-automation-llm-alrouf-hiring-now,False,"[{""apply_link"": ""https://www.jobilize.com/job/sa-dammam-ai-integrations-engineer-automation-llm-alrouf-hiring-now"", ""is_direct"": false, ""publisher"": ""Jobilize""}]","AI Integrations Engineer (Automation + LLM)
+AI Integrations Engineer (Automation + LLM)
+
+Blend Python and API integrations with low‑code automation; ship production automations and build microservices and RAG KB.
+Department
+
+AI & Software
+Level
+
+Mid-Senior
+Type
+
+Full-time or Contractor
+Responsibilties
+
+Build automations (Zapier/Make) RFQ→CRM→notifications.
+Integrate Salesforce/Odoo/M365/GWS/WhatsApp; Python FastAPI microservices.
+Data Lake and ETL; bilingual RAG over internal docs; security and observability.
+Requirements
+
+3+ years delivering automations/integrations; Python, REST/JSON, Git, Docker.
+OpenAI API + LangChain/LlamaIndex; Zapier/Make; ERP/CRM integrations.
+#",False,قبل ٤ أيام,,,الدمام     •  عبر Jobilize,الدمام,,SA,26.420682799999998,50.088794299999996,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=XhiuaiWDpb4KPQqFAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-PawMgV4uip4JlXkppelFiSmZ9XrOCal56Zl5papOBYWpKfCxZU0Fbw8fG90aNwY_nNlhsrbqy9sVrhxs6bbQo3O27suLH8xrKbjSB-y81OBff8_PScVCnrjJKSgmIrff3i4hy99OISoDHJesn5ufr5ealJ-RX6WflJxSAivjgjsSi1ICexJDXeyNSgQq8gL11L-lHDasecovzSNIWbjTe7ILauv9kKpFsBWY5_h7MAAAA&shmds=v1_Ac3VAowDEopAm2XZj5PxstPHyZledIj71omE14VmqSUr7EhEMg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=XhiuaiWDpb4KPQqFAAAAAA%3D%3D",,,,,,{},,,,XhiuaiWDpb4KPQqFAAAAAA==
+eDNta3MtRUN1SUVlS01SR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWx3VjJoVmVXOURXamszVEhkdWFsSnFiVmg2Ukc1cFNFNHdkMnRNVVY5eFpEWk5SbGxHUnpKYVVYbFZaamhFYm5BMlNXWlFWWGR0TjBwelVVbzFabXRtUkVKQ1EwMTZjM1IxZWxsVlFqbEViMVJqUjNKUk9HZDJPSEJqVjBGVGFuQldURmt4VjJ3d1lqSnliVXhVUzBZeE1TMVhkelpTU3pBNFNWcFBOVFkwT0ZGTFVsRVNGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkR05WSlZlVkJNUkhsYVFtdG1ZMUZvUzBsdVVUZFVja2xZYXpKbg,Senior AI Engineer — Enterprise LLM & AI Infra Innovator,Devoteam,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://devoteam.com&size=128",https://www.devoteam.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-ai-engineer-enterprise-llm-ai-infra-innovator--riyadh--e4a755d70b095c96a4526b8bb949552f4,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-ai-engineer-enterprise-llm-ai-infra-innovator--riyadh--e4a755d70b095c96a4526b8bb949552f4"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Devoteam in Riyadh seeks an experienced AI Engineer to design and deploy enterprise AI solutions. You will build LLM applications using RAG, tool calling, structured generation, and agentic workflows, while optimizing inference, model serving, and GPU utilization.
+
+You will develop evaluation frameworks for accuracy, relevance, safety and cost, work with open‑source and commercial models, and create reusable components for knowledge retrieval and model orchestration, collaborating with GCC",False,قبل ٣ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=x3mks-ECuIEeKMRGAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBAAsfUJgrCVhUUigo1WgiJCrHyAXGSNkXgb7o5gaSCIBkvfoIJY2IjWfmKv9SUm2AwMDEz1U6niFGVICvpjGMoglIgKvttTIQZVrEKN4HkTaJTBWC6UKCgpEYYUH4EvNuMr3_kG_LY7sHt-8YXPNi09swcYEQUR1npLY2LddV2tIyfQRphw7sxp7ZJEnzbuinxdYqaXQmEcCYOzdqe1cWIZNOvf7W2ACRkUa7Cpzf_fh82L1_MHpUFkzMYAAAA&shmds=v1_Ac3VAowZ-aIYSn4yp5pELp-eGcQw5BE_vgl3EGUpl_XqaQt1LA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=x3mks-ECuIEeKMRGAAAAAA%3D%3D",,,,,,{},,,,x3mks-ECuIEeKMRGAAAAAA==
+N213cUU2Sk83Qjk3bHN0VEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWHAyVjBOV05GWnJNVVJYTUd0aVZDMWZXWHByYW1wU1dqaHVPR0p1TURSNE5XWnJiazgzZGpkSGVXVlZRbUV6YUdSM01GSmZOR052TW10SWVITlljVTAwYldKNE1UQTFkbUZTTVVWTFVHMHdOMk41ZWxOUFJUUnRhbkJNWVdkalEzRnlORTFUZFU5U0xWZFFNbFJ0T0hnMk9FbGxOVUYzTmt0V2IzbDFVRWxmVG1VMU1GSVNGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkSVIxSlRTVkoxY2tNeVN6UmhNak5VTURSRFdubGlOazlJZW5KUg,"AI/ML Engineer — RAG Apps, LangChain & Production-Ready",Fx31 Labs,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/ai-ml-engineer-rag-apps-langchain-production-ready--medina--ed35a6c0db0ded6f289197ff439941a26,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/ai-ml-engineer-rag-apps-langchain-production-ready--medina--ed35a6c0db0ded6f289197ff439941a26"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Fx31 Labs, an IT - Software Services company, is seeking an AI/ML developer with 5+ years of hands-on experience in Medina. The role focuses on building RAG-based applications, deploying production-grade AI solutions, and leveraging Python along with LangChain and LangGraph to deliver robust, scalable systems.
+
+Join the IT Software team to drive advanced AI initiatives, collaborate across disciplines, and help transform prototypes into deployable solutions in a fast-paced environment.",False,قبل ٨ أيام,,,المدينة المنورة     •  عبر JobLeads,المدينة المنورة,,SA,24.4672132,39.6024496,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=7mwqE6JO7B97lstTAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-O6wsiV4uip7-uj4JqXnpmXmlqk8KhhikKQo7uCY0FBsY6CT2JeunNGYmaegppCQFF-SmlySWZ-nm5QamJK5Y0ehRvLb7bcWHFj7Y3VCjd23mxTuNlxY8eN5TeW3WwE8Vtudiq45-en56RKWWeUlBQUW-nrFxfn6KUXlySWZCbrJefn6ufnpSblV-hn5ScVg4j44ozEotSCnMSS1HgjU4MKvYK8dC39Rw2r3SqMDYGuSSpWuNl4swts8c3WG-tvdt1su7ESyr3ZBrR_442VAA7gNVPXAAAA&shmds=v1_Ac3VAoz3iaTCPwEHC15ww85RoN21PeG85JX43o74ec0Cf4K3oA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=7mwqE6JO7B97lstTAAAAAA%3D%3D",,,,,,{},,,,7mwqE6JO7B97lstTAAAAAA==
+OWduZy1XSlpDZ2VVdXZzNUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbk5ZTWtOblozbzNWbFZzV1VrNGVHTldkMWxRTmxsUlFVUkpVWEYwWVRCTmRtWmZjbWhhU0doVFdEWnRZemc1T1c5ck5tVjVjRkIzVlhGSGFXY3pRVE52Y2xCVVFrNXRTMWRSWlVvMVh6QnFWMGg2WnpFNGNub3dXbDlTVXpaNVZGbEpUMU13TkhsTlduUXRRa1ZyT1VadExVUnJSV1p6UlV4U2RYaEpNakUwWkZaMU0wb1NGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkRlJXdFlZazFmVWtOTldsWXdRa0UxYzJaTGNGcE9RazFCUzJObg,Arabic STEM Tutor LLM Engineer,Eram Talent,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://eramtalent.com&size=128",https://eramtalent.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/arabic-stem-tutor-llm-engineer--thuwal--ee22d0d845e182bb9a6c3fc046545163c,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/arabic-stem-tutor-llm-engineer--thuwal--ee22d0d845e182bb9a6c3fc046545163c"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Eram Talent is seeking a qualified engineer to build, deploy, and evaluate an Arabic AI tutor for STEM education. The role involves preparing Arabic data, fine-tuning and evaluating LLMs on Shaheen III and Ibex, and integrating the tutor into the learning platform for a pilot in at least 10 Saudi schools.
+
+Applicants should hold an MSc in CS/AI or a related field, with hands-on LLM experience, strong Arabic and English skills, and a background in AI deployment and education tech.",False,قبل ٦ أيام,,,ثول     •  عبر JobLeads,ثول,,SA,22.2756562,39.113275699999996,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=9gng-WJZCgeUuvs5AAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXHsQqCQBgAYFp9BKd_btAIWmpqkAh0yl1OOU5D7-TuAscECYseIzKQ9nqT_197knD54HMeM2e_1SwtMjjEQQTxySoNYRhBIEUhOdd4Bxyowxe-cQT80gWoxw8O-KR2ekdX2CklSu5ucmtrs_Z9Y0pPGMtskXmZqnwleaoa_6hSM5GYnGlel8zyZLlaNF4txdz9ncdAswpiVnJpgVq6AY7UU_cHzE3GdqcAAAA&shmds=v1_Ac3VAozu4AuH9qL955o32Q2KVFgLCLfe3zx9Lz2EXdH8zWBk6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=9gng-WJZCgeUuvs5AAAAAA%3D%3D",,,,,,{},,,,9gng-WJZCgeUuvs5AAAAAA==
+NS1KMVczc25hQW5zcFN1dEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEZYTjBGMFZFSnlaVU5EU1hwT1EybGhhV2d5UVdaeVkxUXdTRFpVUVdsRVJYQm5aM2xpT0ZaNUxVcHJRbXhETlMxc1RISkZTbUZ4UjBnMFMyNURTR1ZMZWs1MFlUQTRTWGRyYTJKeVRUVlZVbGRITWpCUGJGbEJNSFZGYldWNmRISXhPRXgyTVdKUFVYQnVRV2hoU0daVVJ6QklTSEJvTnkxTWRHZzFhVVZ1TldKaGJFWVNGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkRlJtTmxZVFZHU0dKWWFXdFlOWE42U0VVd1FXWXdkVEZGTXpCQg,Senior AI Engineer - Video AI & Self-Hosted LLMs (Remote),jobr.pro,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobr.pro&size=128",https://jobr.pro,Ai-Search.io,دوام كامل,FULLTIME,https://ai-search.io/job-board/jobrpro-senior-ai-engineer---video-ai-self-hosted-llms-remote-20260305,False,"[{""apply_link"": ""https://ai-search.io/job-board/jobrpro-senior-ai-engineer---video-ai-self-hosted-llms-remote-20260305"", ""is_direct"": false, ""publisher"": ""Ai-Search.io""}]","Job description
+Salla is the leading commerce platform in the GCC, built in Saudi Arabia to support businesses and entrepreneurs across every stage of growth.
+
+We provide the tools, services, and ecosystem merchants need to build stores, run operations, and reach customers with confidence.
+
+Our AI department is building the intelligence layer that transforms how merchants create, manage, and grow their online busin esses — with AI products designed from the ground up.
+
+We’re looking for a founding Engineering Manager to build and lead a new team focused on AI-powered product innovation.
+
+This team exists to answer one question: what AI-powered products should Salla build to maximize values for our merchants?
+
+Responsibilities Product Discovery & Strategy • Identify, scope, and prioritize AI product opportunities that directly impact merchant revenue, retention, or operational efficiency • Develop a rolling roadmap of AI-powered experiences validated against merchant needs, market dynamics, and business impact • Define success metrics for each initiative and kill or scale projects based on data, not momentum Execution & Shipping • Ship your first product within the first quarter — we value velocity and learning over perfection • Build on top of existing AI infrastructure across the department — your job is to create products, not rebuild engines • Establish a rapid prototyping and validation cadence: concept → prototype → merchant pilot → scale or kill Team Building & Leadership • Build and develop a versatile team that blends data science, engineering, and product thinking • Operate as a peer to other technical leads across the AI department while maintaining a collaborative, non-competitive dynamic • Create a team culture of experimentation, merchant obsession, and fast iteration Cross-Functional Collaboration • Partner across the AI department to leverage generative AI capabilities, recommendation signals, and platform infrastructure for new product surfaces • Work closely with product, design, and business stakeholders to ensure AI experiences translate into merchant outcomes • Coordinate with ML platform and operations teams for infrastructure needs without building parallel systems Must Haves: 5+ years in engineering or ML roles, with at least 2 years managing a team that shipped AI/ML-powered products (not just models or infrastructure — products used by real customers) Track record of 0-to-1 product development: you’ve taken something from concept to production and measured its impact Strong product instinct — you can identify what to build, not just how to build it.
+
+You think in terms of merchant outcomes, not technical capabilities Hands-on technical depth in at least one of: LLM applications, recommendation systems, or ML-powered product features.
+
+You don’t need to write every line of code, but you need to make sound architectural calls and earn your team’s technical respect Comfort with ambiguity — you’ll define the roadmap, not inherit one Experience working in or building for e-commerce, marketplace, or merchant-facing Strong Preference: Experience with MENA markets, Arabic-language AI products, or regional commerce patterns (seasonal dynamics, WhatsApp commerce, social selling) Background at a high-growth technology company where you operated with startup speed and increasing scale Familiarity with multi-agent architectures or AI agent platforms Arabic language proficiency (business-level or native)
+Show full description
+Report this listing
+Loading",False,قبل ٦ أيام,,,جدة     •  عبر Ai-Search.io,جدة,,SA,21.5291073,39.1610619,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=5-J1W3snaAnspSutAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWJwQoBURRAs_UDyuquhDIjZcPKQqixoWw1zDVG493pvbeYJSUh32FoyJbyIfdtfQmzOXXOyX9yeW-MIiAJnQF0hR8IRAk1mAQeUtZKMMZwUeuT0uiB4wwVlEe4Jo0VPgMnZsdXfnAK_DZ7MAd-ccIXs818Z47QI_JDLLaXWkeqZdtKhZavtKuDuTWntU0CZxTbK5qpDFO1dCVGoatx2mjWYysSfrXw3aT_J61IEpitOQHf-cm3H-Ew0TC_AAAA&shmds=v1_Ac3VAoy02rqo_bXu8K2nw1q5WvwzWxeMLFRDmQRwCCTw4l7SCg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=5-J1W3snaAnspSutAAAAAA%3D%3D",,,,,,{},,,,5-J1W3snaAnspSutAAAAAA==
+V3VYLUZpNEhaVHNVRFVGQ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV296YVZSS1dYVmhUMncxTVhwV1VYQTNVVWh6VTBkU2FITlhPVVV3VFUxbWJYWXRjRUZpY201bFFtUkNSRUpyTnpWblR6aFVWMnhYU1ZWcGRVTk5hM040YTJNNWIwVTNObFk1ZUhsSlpuRlpXSG8xTUZZMlFuaHNaMEZoWXpJMlZtVm9YMnRTYVhGdlVubG9lRkF4U0VoNFkwNUZkRGMyZURGcGQxQjRabHB0T0dFNFJUZ1NGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkR1dqTnpkWGxUYTNaUFRYbFdOVzFzUVdkUmNWQjVTVFZtU0cxMw,"AI Tech Lead, Platform & LLM Apps",Lucidya,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hAKCCs6KMUV-18RqLUC7ir3eL-zUZyFJDHYU&s=0,https://www.lucidya.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/ai-tech-lead-platform-llm-apps--riyadh--ee03ce0255f4f629039f3ad80be1f6be0,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/ai-tech-lead-platform-llm-apps--riyadh--ee03ce0255f4f629039f3ad80be1f6be0"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Lucidya, based in Riyadh, is hiring an AI Tech Lead to champion the AI layer of its agentic platform. You will own architecture, push for production-grade reliability, and code hands-on while guiding a team.
+
+You will set technical direction, define evaluation pipelines, mentor engineers, and collaborate with product and infra to scale across languages and channels.
+
+Fluent English, 7+ years in software/ML, and strong Python experience are expected; Arabic experience is a plus.",False,قبل ٧ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=WuX-Fi4HZTsUDUFCAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-Naycjl4-ipEJKanKHgk5qYoqMQkJNYkpZflKugpuDj46vgWFBQfKNH4cbymy03VtxYe2O1wo2dN9sUbnbc2HFj-Y1lNxtB_JabnQru-fnpOalS1hklJQXFVvr6xcU5eunFJYklmcl6yfm5-vl5qUn5FfpZ-UnFICK-OCOxKLUAaFlqvJGpQYVeQV66lsyjhtU-pcmZKZWJCjcbb3ZBrN14swto1TYAcwxZQ6wAAAA&shmds=v1_Ac3VAowenDQWVDxzNp-39QgnDpVpUkWtlBVu3xT_ynVBmjmoEQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=WuX-Fi4HZTsUDUFCAAAAAA%3D%3D",,,,,,{},,,,WuX-Fi4HZTsUDUFCAAAAAA==
+X18yMDN3ZVBNWGxqd2pPTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamRFT0dWb2NUQkZRbkJaZUVGbVJYWk9abE15TFdVMWRsaFdhMlZ6V21KSGNsb3lNVGRuYldkMFdHSlJWM0p4YTNwMVFYTlJZMWRxZGkxeGQzQTJZekZZZUdOM2VWaDBTbGxKUVV0d2RISm9iSFZZUVRORGJqWm5NM1pHYzFoNWJHWlBablpUTlVGcE1GbEVWMmhzT0dadFUwUllMV1pRYzFORGJURmZOM1pRYVc1YVpITVNGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkSVRGaFJVRXBwWDNwck1GVkllR05uTUZaMmJHY3pjWFkxVW5oMw,Senior AI Engineer Consultant: Enterprise LLMs & AI Ops,Devoteam,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://devoteam.com&size=128",https://www.devoteam.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/senior-ai-engineer-consultant-enterprise-llms-ai-ops--riyad-al-khabra--e41df6508ffc7c8a92550de952d045529,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/senior-ai-engineer-consultant-enterprise-llms-ai-ops--riyad-al-khabra--e41df6508ffc7c8a92550de952d045529"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Devoteam in Riyadh is seeking an AI Engineer to build enterprise-grade LLM applications, optimize inference, and develop robust evaluation pipelines. You will work with open-source and commercial foundation models, designing reusable components for enterprise AI solutions.
+
+The role requires 7+ years in AI engineering and strong client-facing skills, with a focus on cloud/on-premise/hybrid deployments, Docker/Kubernetes, and scalable AI workloads. This is a full-time, on-site position in Riyadh.",False,قبل ٧ أيام,,,منطقة القصيم     •  عبر JobLeads,,,SA,26.207825999999997,43.483737999999995,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=__203wePMXljwjOLAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OsWoCURBFSesnpJoqhBS7ErAxVVAJASVFPkDeyrBuWN883kyCpYpKFL9DEyRlSPIN-YGZ1i_RtbnccznFrf1f1LJn9AVFuH-Ejs8LjxihRZ5fS3FemqdRMIZYMEK322O4qsynwLoB3dlcP_RL96B_tgR711_d6damFc9tBQ9EeYmXd0ORwM00ZS6TnMVJMUgGNErJY0bj9IUyrqLPQxcxlE6wf9uoj5Pg85vrw2TfxjcSdCOwqa3BFrbUH5vp5_nCqXzb2hZHrNCfrM4AAAA&shmds=v1_Ac3VAowKFRb4ksoPxt4-Grz_QBfWhWN9a34A-aGOeF1mlFkJrg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=__203wePMXljwjOLAAAAAA%3D%3D",,,,,,{},,,,__203wePMXljwjOLAAAAAA==
+N1FaNENYOGswYXZVX3MzM0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV05HUzNWT2NUQXphekp6V1cxdlRFTjVURVZCT0dkNFFtdzBha1Z5VkVSeUxURnpPSHBTYkhCRVNuZzFWa05QU3pGaFkycFFaWFZJV0ROallUWnBWR2hMVkZBMWFrRlpNa1JvUzNFeVNWRjZUMjlEWldkaGFtZExVWFpqTUd0MVIwMTJaREZHVEhwalRYb3lTRlJ5Y1VVd01GWldSalV4UjJ4b2NHVkhVRk5EV1ZaNlIwc1NGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkRk5tbFdXWGxuZDJ4NWVtTmhNVWhyYzIxc2QyVllObkpTTFRCUg,AI/ML Engineer — Enterprise Conversational AI & Validation,"Envision Employment Solutions, LLC","https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobleads.com&size=128",,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/ai-ml-engineer-enterprise-conversational-ai-validation--riyadh--e98498ee95d79b4a97831846351bb1ab7,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/ai-ml-engineer-enterprise-conversational-ai-validation--riyadh--e98498ee95d79b4a97831846351bb1ab7"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Envision Employment Solutions, LLC is seeking an AI/ML Engineer to design, develop and support enterprise AI across multiple use cases in a production environment. You will work on conversational assistants, retrieval and grounding, and validation controls to ensure accurate, trustworthy answers.
+
+Collaborate with Data Scientists, Data Engineers, architects and business SMEs while delivering production-ready AI components and reusable platform services.",False,قبل ٥ أيام,,,الرياض     •  عبر JobLeads,الرياض,,SA,24.7135517,46.6752957,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=7QZ4CX8k0avU_s33AAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOsUoDQRRFsc0nWL3KQmRHBBG0CmEJgbUSbMMkPiYjs_OGeWOIXQJBNFj6DUYIFjZi_uRNJeRL3DXNhXOLe0_n96BjugN1XUHpjfWIEXbztwYSxhAtI_TITzGyTpa8dtAdwBHcamfv_ht5BVnnpXzIp2xAtvkJ8rP8yFre86LlZX6BPpFxeHg1SSnwpVLMrjCcmoFxMaZakccRzdQ9jbiNIU90xOB0wuHZ-emsCN4cX-zmm9JPLTenUNbB0WONPsENuYdWhE-gqnqQF3m1N_rKq8bi-w_iGNLC4gAAAA&shmds=v1_Ac3VAozyLK6BeQ5xivQ_iQexlo2c2XZtC1ILqSd_SvaloLIvCg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=7QZ4CX8k0avU_s33AAAAAA%3D%3D",,,,,,{},,,,7QZ4CX8k0avU_s33AAAAAA==
+NzktVFhDMjkyakFkMFhFZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamRHY3pVM1lrTlVURlpaYlZSS01rWTFMV3hwYkVORWJURkRRekpCYkd3MVltZzNPV056TnpBeFEzTlRPWEZMTjBzdE1tSnNjVzA1UW5GdFZtUTVja0U0VFdJNE1qQnlkWEE0TTBKRlVXWkhaREIzY1cxbmN6RllaVVV6Y0ZrMWVXRmlMWFJwZEhVMFQxZDRWR2czVG1KemRHeG1kazF1TFhGRWJrOUJhRU4zVUdsMFJHb1NGMWRITTI5aGMySjNSVFZQVEdoaVNWQjZURWRvYjBGakdpSkJTRTR3UlRkSWEyWmlTVTUwVEdaR1ZHczBjM3BUT1UxMGJWazVMVEJoWldKUg,Remote AI/ML Engineer for Global Social Impact,Jobgether,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobgether.com&size=128",https://jobgether.com,JobLeads,دوام كامل,FULLTIME,https://www.jobleads.com/sa/job/remote-ai-ml-engineer-for-global-social-impact--saudi-arabia--e652f705c8696ba407ce3d07c5ab5dacc,False,"[{""apply_link"": ""https://www.jobleads.com/sa/job/remote-ai-ml-engineer-for-global-social-impact--saudi-arabia--e652f705c8696ba407ce3d07c5ab5dacc"", ""is_direct"": false, ""publisher"": ""JobLeads""}]","Jobgether is seeking an AI/ML Engineer for a fully remote role with partner organizations in Saudi Arabia and beyond. You will design, build, and deploy production AI systems for real-world challenges in healthcare, agriculture, education, and development, collaborating with researchers and embedded engineers.
+
+Responsibilities include evaluating AI systems, contributing to open‑source tools, and mentoring partner staff while delivering measurable improvements and responsible AI practices.",False,قبل ٧ أيام,,,السعودية     •  عبر JobLeads,,,,,,,,"https://www.google.com/search?ibp=htl;jobs&q&htidocid=79-TXC292jAd0XEdAAAAAA%3D%3D&hl=ar-SA&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-Paw8gVGZSam1-SquDoqe_ro-Cal56Zl5papJCWX6TgnpOflJijEJyfnAmkPHMLEpNLbvQo3Fh-s-XGihtrb6xWuLHzZpvCzY4bO24sv7HsZiOI33KzU8E9Pz89J1XKOqOkpKDYSl-_uDhHL724JLEkM1kvOT9XPz8vNSm_Qj8rP6kYRMQXZyQWpRbkJJakxhuZGlToFeSlayk9aljtlZ-UnlqSAXTOzcabXRCLNwPt6Lix_mbXjZUAlFzP078AAAA&shmds=v1_Ac3VAoxy_4iGjcdEvRM8-rQDDrV0xOSuqNIRtdgc5p4yEUCCog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq&htidocid=79-TXC292jAd0XEdAAAAAA%3D%3D",,,,,,{},,,,79-TXC292jAd0XEdAAAAAA==
