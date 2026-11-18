@@ -1,0 +1,91 @@
+﻿specialization,rank,skill,jobs_mentioning_skill,specialization_jobs,pct_of_specialization_jobs,method
+ai,1,Python,67,108,62.04,Keyword matching; requires validation
+ai,2,Large Language Models,61,108,56.48,Keyword matching; requires validation
+ai,3,Machine Learning,49,108,45.37,Keyword matching; requires validation
+ai,4,RAG,35,108,32.41,Keyword matching; requires validation
+ai,5,Google Cloud (GCP),31,108,28.70,Keyword matching; requires validation
+ai,6,MLOps,31,108,28.70,Keyword matching; requires validation
+ai,7,AWS,30,108,27.78,Keyword matching; requires validation
+ai,8,CI/CD,30,108,27.78,Keyword matching; requires validation
+ai,9,Microsoft Azure,30,108,27.78,Keyword matching; requires validation
+ai,10,Docker,29,108,26.85,Keyword matching; requires validation
+data_analytics,1,SQL,60,80,75.00,Keyword matching; requires validation
+data_analytics,2,Python,42,80,52.50,Keyword matching; requires validation
+data_analytics,3,ETL/ELT,38,80,47.50,Keyword matching; requires validation
+data_analytics,4,Data Governance,33,80,41.25,Keyword matching; requires validation
+data_analytics,5,Data Modeling,32,80,40.00,Keyword matching; requires validation
+data_analytics,6,Power BI,26,80,32.50,Keyword matching; requires validation
+data_analytics,7,Data Warehousing,20,80,25.00,Keyword matching; requires validation
+data_analytics,8,Microsoft Azure,18,80,22.50,Keyword matching; requires validation
+data_analytics,9,Google Cloud (GCP),16,80,20.00,Keyword matching; requires validation
+data_analytics,10,AWS,15,80,18.75,Keyword matching; requires validation
+software_development,1,CI/CD,47,140,33.57,Keyword matching; requires validation
+software_development,2,REST APIs,38,140,27.14,Keyword matching; requires validation
+software_development,3,JavaScript,36,140,25.71,Keyword matching; requires validation
+software_development,4,Git,33,140,23.57,Keyword matching; requires validation
+software_development,5,Java,33,140,23.57,Keyword matching; requires validation
+software_development,6,SQL,32,140,22.86,Keyword matching; requires validation
+software_development,7,React,27,140,19.29,Keyword matching; requires validation
+software_development,8,Python,25,140,17.86,Keyword matching; requires validation
+software_development,9,Microsoft Azure,22,140,15.71,Keyword matching; requires validation
+software_development,10,TypeScript,21,140,15.00,Keyword matching; requires validation
+cloud_devops,1,Kubernetes,54,132,40.91,Keyword matching; requires validation
+cloud_devops,2,CI/CD,49,132,37.12,Keyword matching; requires validation
+cloud_devops,3,AWS,45,132,34.09,Keyword matching; requires validation
+cloud_devops,4,Linux,44,132,33.33,Keyword matching; requires validation
+cloud_devops,5,Microsoft Azure,43,132,32.58,Keyword matching; requires validation
+cloud_devops,6,Google Cloud (GCP),39,132,29.55,Keyword matching; requires validation
+cloud_devops,7,Terraform,39,132,29.55,Keyword matching; requires validation
+cloud_devops,8,Docker,31,132,23.48,Keyword matching; requires validation
+cloud_devops,9,Python,31,132,23.48,Keyword matching; requires validation
+cloud_devops,10,Git,30,132,22.73,Keyword matching; requires validation
+cybersecurity,1,Firewalls,42,94,44.68,Keyword matching; requires validation
+cybersecurity,2,Incident Response,42,94,44.68,Keyword matching; requires validation
+cybersecurity,3,SIEM,39,94,41.49,Keyword matching; requires validation
+cybersecurity,4,Identity and Access Management,27,94,28.72,Keyword matching; requires validation
+cybersecurity,5,Vulnerability Management,24,94,25.53,Keyword matching; requires validation
+cybersecurity,6,Python,23,94,24.47,Keyword matching; requires validation
+cybersecurity,7,ISO 27001,22,94,23.40,Keyword matching; requires validation
+cybersecurity,8,NIST,17,94,18.09,Keyword matching; requires validation
+cybersecurity,9,Splunk,17,94,18.09,Keyword matching; requires validation
+cybersecurity,10,Fortinet,16,94,17.02,Keyword matching; requires validation
+infrastructure_networking,1,Firewalls,6,10,60.00,Keyword matching; requires validation
+infrastructure_networking,2,Cisco,4,10,40.00,Keyword matching; requires validation
+infrastructure_networking,3,TCP/IP,3,10,30.00,Keyword matching; requires validation
+infrastructure_networking,4,VPN,3,10,30.00,Keyword matching; requires validation
+infrastructure_networking,5,BGP,2,10,20.00,Keyword matching; requires validation
+infrastructure_networking,6,DNS,2,10,20.00,Keyword matching; requires validation
+infrastructure_networking,7,DHCP,1,10,10.00,Keyword matching; requires validation
+infrastructure_networking,8,Fortinet,1,10,10.00,Keyword matching; requires validation
+infrastructure_networking,9,OSPF,1,10,10.00,Keyword matching; requires validation
+infrastructure_networking,10,SIEM,1,10,10.00,Keyword matching; requires validation
+qa_testing,1,SQL,17,62,27.42,Keyword matching; requires validation
+qa_testing,2,Test Automation,17,62,27.42,Keyword matching; requires validation
+qa_testing,3,CI/CD,14,62,22.58,Keyword matching; requires validation
+qa_testing,4,Python,12,62,19.35,Keyword matching; requires validation
+qa_testing,5,Git,11,62,17.74,Keyword matching; requires validation
+qa_testing,6,API Testing,10,62,16.13,Keyword matching; requires validation
+qa_testing,7,Postman,10,62,16.13,Keyword matching; requires validation
+qa_testing,8,Performance Testing,9,62,14.52,Keyword matching; requires validation
+qa_testing,9,Selenium,8,62,12.90,Keyword matching; requires validation
+qa_testing,10,Java,6,62,9.68,Keyword matching; requires validation
+database_enterprise_systems,1,SAP,39,82,47.56,Keyword matching; requires validation
+database_enterprise_systems,2,SQL,25,82,30.49,Keyword matching; requires validation
+database_enterprise_systems,3,PostgreSQL,15,82,18.29,Keyword matching; requires validation
+database_enterprise_systems,4,MySQL,14,82,17.07,Keyword matching; requires validation
+database_enterprise_systems,5,Linux,12,82,14.63,Keyword matching; requires validation
+database_enterprise_systems,6,Oracle Database,11,82,13.41,Keyword matching; requires validation
+database_enterprise_systems,7,Microsoft Azure,9,82,10.98,Keyword matching; requires validation
+database_enterprise_systems,8,Python,9,82,10.98,Keyword matching; requires validation
+database_enterprise_systems,9,AWS,8,82,9.76,Keyword matching; requires validation
+database_enterprise_systems,10,Bash,8,82,9.76,Keyword matching; requires validation
+uiux_technical_products,1,Figma,10,10,100.00,Keyword matching; requires validation
+uiux_technical_products,2,Usability Testing,8,10,80.00,Keyword matching; requires validation
+uiux_technical_products,3,Prototyping,7,10,70.00,Keyword matching; requires validation
+uiux_technical_products,4,Accessibility (WCAG),6,10,60.00,Keyword matching; requires validation
+uiux_technical_products,5,Adobe XD,6,10,60.00,Keyword matching; requires validation
+uiux_technical_products,6,User Research,6,10,60.00,Keyword matching; requires validation
+uiux_technical_products,7,Wireframing,6,10,60.00,Keyword matching; requires validation
+uiux_technical_products,8,CSS,2,10,20.00,Keyword matching; requires validation
+uiux_technical_products,9,HTML,2,10,20.00,Keyword matching; requires validation
+uiux_technical_products,10,Angular,1,10,10.00,Keyword matching; requires validation

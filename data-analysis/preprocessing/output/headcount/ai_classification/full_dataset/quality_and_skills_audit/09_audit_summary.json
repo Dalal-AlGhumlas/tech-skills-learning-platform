@@ -1,0 +1,38 @@
+{
+  "source_file": "C:\\Users\\Dalal\\tech-skills-learning-platform\\data-analysis\\preprocessing\\output\\headcount\\ai_classification\\full_dataset\\classifications_all.csv",
+  "total_jobs": 8807,
+  "decisions": {
+    "in_scope": 718,
+    "out_of_scope": 8036,
+    "needs_review": 53
+  },
+  "specializations": {
+    "software_development": 140,
+    "database_enterprise_systems": 82,
+    "data_analytics": 80,
+    "qa_testing": 62,
+    "cloud_devops": 132,
+    "cybersecurity": 94,
+    "infrastructure_networking": 10,
+    "uiux_technical_products": 10,
+    "ai": 108
+  },
+  "review_queues": {
+    "needs_review_all": 53,
+    "out_of_scope_random": 150,
+    "out_of_scope_high_risk": 100,
+    "high_risk_candidates": 979
+  },
+  "random_seed": 42,
+  "missing_descriptions_in_scope": 0,
+  "in_scope_with_no_detected_skills": 86,
+  "skill_dictionary_size": 122,
+  "limitations": [
+    "No human review is performed automatically.",
+    "All review decisions are intentionally blank.",
+    "Qwen classifications require validation.",
+    "Keyword skill matches are provisional.",
+    "Skill mentions may not be job requirements.",
+    "Original classification files are not changed."
+  ]
+}
