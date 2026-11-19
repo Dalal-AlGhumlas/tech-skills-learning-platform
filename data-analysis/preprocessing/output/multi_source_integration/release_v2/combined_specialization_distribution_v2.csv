@@ -1,0 +1,11 @@
+﻿release,specialization,v2_in_scope_jobs,pct_of_v2_in_scope,v1_jobs,change_vs_v1,represented_by_headcount_labs,represented_by_teammate,specializations_corrected_into,specializations_corrected_out_of
+v2,ai,158,13.9,171,-13,97,61,0,0
+v2,data_analytics,128,11.26,134,-6,79,49,1,0
+v2,software_development,202,17.77,212,-10,133,69,2,1
+v2,cloud_devops,155,13.63,169,-14,112,43,0,7
+v2,cybersecurity,157,13.81,159,-2,97,60,0,1
+v2,infrastructure_networking,86,7.56,81,5,16,70,6,0
+v2,qa_testing,77,6.77,91,-14,45,32,0,1
+v2,database_enterprise_systems,129,11.35,131,-2,80,49,1,0
+v2,uiux_technical_products,45,3.96,46,-1,12,33,0,0
+v2,TOTAL,1137,100.0,1201,-64,671,466,10,10

@@ -1,0 +1,4 @@
+# generated local databases (rebuild with: python database/import_release.py)
+*.db
+*.db-wal
+*.db-shm
